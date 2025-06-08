@@ -1,4 +1,4 @@
-# TXST Course Companion – Group 21
+# TXST Course Companion 
 
 A web application that helps Texas State students explore courses based on their unofficial transcript.
 
