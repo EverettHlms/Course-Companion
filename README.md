@@ -4,7 +4,7 @@ A web application that helps Texas State students explore courses based on their
 
 ![Screenshot](./images/Screenshot.jpg)
 
-## 👥 Team Members
+## 👥 Project Contributors
 - Noah Sadeghi
 - Everett Holmes
 - Steven Conde
