@@ -1,0 +1,22 @@
+{
+    "name": "Educational Psychology",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/edp/",
+    "courses": [
+        {
+            "course_code": "EDP 1350",
+            "course_name": "Effective Learning",
+            "course_desc": "A study of the acquisition of procedural knowledge through the application of human learning theory, cognitive behavior modifications, and developmental psychology. Generalization and transfer of this knowledge will be emphasized. Repeatable for credit with different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDP 2150",
+            "course_name": "Strategic Learning",
+            "course_desc": "Theoretical models of strategic learning, cognition, and motivation serve as the conceptual basis for college-level academic strategies. Students use assessment instruments to help them identify their own strengths and weaknesses as strategic learners.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

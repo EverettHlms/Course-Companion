@@ -1,0 +1,22 @@
+{
+    "name": "Integrated Studies",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ints/",
+    "courses": [
+        {
+            "course_code": "INTS 4360",
+            "course_name": "Integrated Career Preparation",
+            "course_desc": "This course is the first in a two-course capstone sequence, culminating in a comprehensive digital portfolio. Students will engage in self-analysis, identify transferable skills, and conduct industry research leading to an occupational path. The portfolio will synthesize their knowledge, skills, and abilities, showcasing National Association of Colleges and Employers (NACE) competencies through career development activities that reflect continuous learning and skill development, essential for post-graduation employment. Prerequisite: A minimum of 2.0 Texas State GPA and departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "INTS 4361",
+            "course_name": "Integrated Career Portfolio",
+            "course_desc": "This course is the second in a two-part capstone sequence, completing a comprehensive digital career portfolio initiated in INTS 4360. Students will learn additional strategies to attain post-graduation employment, including researching job postings, creating a polished resume with a cover letter, updating their professional online profile, and honing their interview skills. A formal student presentation summarizes the work from both capstone courses leading to a Bachelor of General Studies degree. Prerequisite: A minimum of 2.0 Texas State GPA and INTS 4360 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

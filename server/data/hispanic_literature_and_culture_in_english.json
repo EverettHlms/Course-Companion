@@ -1,0 +1,14 @@
+{
+    "name": "Hispanic Literature and Culture in English",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/hspn/",
+    "courses": [
+        {
+            "course_code": "HSPN 2301",
+            "course_name": "Cultures and Literatures of the Hispanic World",
+            "course_desc": "In this course, taught in English, students survey writers and texts that reflect the diversity of cultural identities and literary traditions of the Hispanic world, broadly defined. Through study of primary and secondary texts (in English translation), students discover the complex interrelationships among artistic, historical, linguistic, and socio-political factors that inform and enrich writing produced in Latin America, the Caribbean, Europe, and the U.S. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

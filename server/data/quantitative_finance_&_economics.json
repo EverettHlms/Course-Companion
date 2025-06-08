@@ -1,0 +1,174 @@
+{
+    "name": "Quantitative Finance & Economics",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/qfe/",
+    "courses": [
+        {
+            "course_code": "QFE 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is completed. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n1 Credit Hour \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "QFE 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is completed. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n2 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "QFE 5310",
+            "course_name": "Microeconomic Theory and Applications",
+            "course_desc": "This course provides a rigorous introduction to the methods of microeconomic theory and quantitative applications. Topics covered include consumer and producer theory, decision-making under uncertainty, markets and competition, general equilibrium, and game theory. Along with each topic, applications to empirical work are conducted by discussing and re-producing quantitative results of journal articles.  Prerequisite: ECO 2314 and ECO 2315 and FIN 3312 and MATH 1329 and QMST 2333 all with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5315",
+            "course_name": "Macroeconomic Theory and Applications",
+            "course_desc": "This course explores macroeconomic policy arguments at an advanced level. Topics include traditional and modern theories of income, price, employment, long-run economic growth, business cycle models, role of monetary and fiscal policy in promoting economic stability, and empirical applications of macroeconomic theories.  Prerequisite: ECO 2314 and ECO 2315 and FIN 3312 and MATH 1329 and QMST 2333 all with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5320",
+            "course_name": "Econometrics",
+            "course_desc": "This course combines theoretical framework of regression models with empirical applications in economics, finance, and public policy. Topics include different modeling techniques, assessment tools, and application of computer-assisted regression analysis to business and economic problems.  Prerequisite: ECO 2314 and ECO 2315 and FIN 3312 and MATH 1329 and QMST 2333 all with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5330",
+            "course_name": "Financial Theory and Corporate Policy",
+            "course_desc": "This course provides an introduction to theories fundamental to the field of finance, with specific emphasis on corporate finance applications.  Topics covered include theories of utility, state-preference, mean-variance optimization, asset pricing, and capital structure, as well as introduction to option pricing theories applied to corporate finance. Prerequisite: ECO 2314 and ECO 2315 and FIN 3312 and MATH 1329 and QMST 2333 all with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5335",
+            "course_name": "Financial Analytics",
+            "course_desc": "This course explores open-source software in a Finance context. This is a hands-on practical programming course with step-by-step source code. Students learn major financial models related to investments and corporate finance and how to write their own code to implement models in real-world scenarios as well as visualize and analyze financial data.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5340",
+            "course_name": "Financial Econometrics",
+            "course_desc": "This course explores corporate finance and asset pricing models in application of economic and financial data.  Topics include estimation and inferences of financial models, principle component/factor analysis, capital asset pricing, volatility modeling, risk management, derivative pricing, portfolio allocation/optimizations, simulating financial systems, among others. Analytical software will be used to estimate models. Prerequisite: QFE 5320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5353",
+            "course_name": "Fixed Income Analysis",
+            "course_desc": "This course covers the valuation of a wide variety of fixed income securities and their derivatives, including money-market instruments, government bonds, repurchase agreements, interest-rate swaps, mortgage-backed securities, and corporate bonds. It focuses on analytic tools used in bond portfolio management and interest rate risk management.  Prerequisite: FIN 5322 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5369",
+            "course_name": "Internship",
+            "course_desc": "This course is based on experiential learning. Students will integrate both professional and academic experiences through an internship with an external employer. Prerequisite: Must have completed 12 graduate hours and other prerequisites may be specified by the employer with the consent of Program Director and department chair and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5390A",
+            "course_name": "International Economics",
+            "course_desc": "This course examines open economy macroeconomics and monetary issues of international economics. Topics include international financial markets, exchange rates, trade policies, international monetary systems,  international financial crises and contagions, and applications of theory with data on international macroeconomic & financial behavior.   Prerequisite: ECO 2314 and ECO 2315 and FIN 3312 and MATH 1329 and QMST 2333 all with grades of \"B\" or better or advisor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5390B",
+            "course_name": "Research Topics in Sports Economics",
+            "course_desc": "This course provides a statistically rigorous introduction to the field of sports economics at the graduate level. Students will be required to read recent literature in the field of sports economics, with a focus on empirical research using data from US professional baseball, US and English professional soccer, and US collegiate sports. Research topics will cover both theoretical background and empirical results, covering such topics as the demand for sport, the structure of the sports industry, and the labor markets of sport.  Prerequisite:  QFE 5310 and QFE 5320 both with grades of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5392A",
+            "course_name": "Financial Markets and Institutions",
+            "course_desc": "This course focuses on US financial markets and institutions, with a lesser focus on their international counterparts. Topics covered include the characteristics and roles of the various financial markets including money and capital markets, equity and debt markets; relationships between the financial markets and financial institutions; interest rate fundamentals; and the impact of regulators and central banking on financial markets and institutions.  Prerequisite: ECO 2314 and ECO 2315 and FIN 3312 and MATH 1329 and QMST 2333 all with grades of \"B\" or better or advisor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5392B",
+            "course_name": "Securities Law",
+            "course_desc": "This course explores the role of U.S. federal securities laws that enable market participants to make legal, ethical, and strategic business decisions. Topics covered include the Securities Act of 1933, the Securities Exchange Act of 1934, Sarbanes-Oxley, Dodd Frank, and other topical legislation, as well as global regulatory, judicial, and litigation trends.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5392C",
+            "course_name": "Active Portfolio Management",
+            "course_desc": "This course focuses on practical applications of the modern portfolio theory. It develops innovative processes to uncover raw signals of asset returns and convert them to superior return forecasts.  These forecasts are used to construct portfolios and control risk. This course also teaches how to use economics, econometrics, and operation research to solve complicated practical investment problems.  It additionally covers a comprehensive set of concepts for guiding the process of active investment management. Prerequisite: QFE 5330 and QFE 5320 both with grades of \"C\" or better or advisor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5392D",
+            "course_name": "Financial Derivatives with Python",
+            "course_desc": "This course covers financial derivatives, their pricing and their use for hedging. The types of derivatives studied are futures, forwards, vanilla and exotic options. Mathematical tools such as binomial trees, Monte Carlo methods, implied volatilities, replication portfolios, and calculation of the Greeks are introduced. Python programming language is used to implement the covered models. Prerequisite: QFE 5330 and QFE 5320 both with grades of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5395",
+            "course_name": "Independent Study",
+            "course_desc": "This course focuses on individual in-depth study. Students, in consultation with a faculty member, choose a selected area of study in Quantitative Finance or Economics on a specialized project.  Prerequisite: instructor and program director.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "QFE 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in Quantitative Finance & Economics. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "QFE 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is completed. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "QFE 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is completed. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "QFE 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is completed. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

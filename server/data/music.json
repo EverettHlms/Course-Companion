@@ -1,0 +1,1510 @@
+{
+    "name": "Music",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/mu/",
+    "courses": [
+        {
+            "course_code": "MU 1000",
+            "course_name": "Freshman Departmental Recital",
+            "course_desc": "Attendance and observation of weekly recitals. Concurrent enrollment in freshman-level applied lessons and the appropriate major ensemble are required. Corequisites: MUSP 1120 or MUSP 1130 or MUSP 1140 or MUSP 1150 or MUSP 1160 or MUSP 1170 or MUSP 1220 or MUSP 1230 or MUSP 1240 or MUSP 1250 or MUSP 1260 or MUSP 1270 or MUSP 1280.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MU 1112",
+            "course_name": "Basic Musicianship",
+            "course_desc": "A study of music fundamentals: reading rhythms, pitches in bass and treble clefs, spelling, notating, and identifying key signatures, intervals and chords. Prerequisite: Music major status.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 1115",
+            "course_name": "Aural Skills I",
+            "course_desc": "In this course students will cover sight singing, dictation, keyboard exercises, and improvisation of musical structures and styles studied in MU 1315.  Corequisite: MU 1315 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 1116",
+            "course_name": "Aural Skills II",
+            "course_desc": "This course covers sight singing, dictation, keyboard exercises, and improvisation of musical structures and styles studied in MU 1316. Prerequisite: MU 1115 and MU 1315 with a grade of C or higher. Corequisite: MU 1316.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 1125",
+            "course_name": "Life-Skills for Musicians",
+            "course_desc": "In this course students will develop essential life skills as they prepare for the transition from university student to professional musician. Course topics include study skills, professional communication, basic pedagogy, introduction to personal finance, healthcare, finding a job, job benefits, and independent living.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 1150",
+            "course_name": "Introduction to Music Technology",
+            "course_desc": "Introduction to current computer applications in music. Including MIDI and sequencing, notation, internet communication, and digital audio.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 1180",
+            "course_name": "Recording Practicum I",
+            "course_desc": "Independent study in sound recording. Students develop aural and practical skills necessary to produce high quality recordings. Full major status in SRT is required.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 1182",
+            "course_name": "Recording Practicum II",
+            "course_desc": "Development of aural skills associated with audio production and recording. This course is a continuation of MU 1180, Recording Practicum I. Full major status in SRT is required. Prerequisite: MU 1180 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 1312",
+            "course_name": "Essential Musicianship",
+            "course_desc": "Detailed instruction in fundamentals of music theory, including but not limited to notation, meters, scales, key signatures, intervals and chords.  This course is designed primarily for non-Music majors and Music minors.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 1315",
+            "course_name": "Music Theory I",
+            "course_desc": "In this course, students study basic counterpoint and analysis of diatonic music. Students learn four-part voice-leading principles via tonic-function and dominant-function harmonies.  Corequisite: MU 1115 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 1316",
+            "course_name": "Music Theory II",
+            "course_desc": "This course covers the analysis and model composition of diatonic music, including voice-leading with tonic, pre-dominant, and dominant-function triads and 7th-chords. Topics include phrase structures, small forms, and an introduction to applied chords. Prerequisite: MU 1115 and MU 1315 with a grade of \"C\" or higher. Corequisite: MU 1116.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2000",
+            "course_name": "Sophomore Departmental Recital",
+            "course_desc": "Attendance and observation of weekly recitals. Concurrent enrollment in sophomore-level applied lessons and appropriate major ensemble is required. Corequisites: MUSP 2120 or MUSP 2130 or MUSP 2140 or MUSP 2150 or MUSP 2160 or MUSP 2170 or MUSP 2220 or MUSP 2230 or MUSP 2240 or MUSP 2250 or MUSP 2260 or MUSP 2270 or MUSP 2280.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MU 2104",
+            "course_name": "Writing About Music",
+            "course_desc": "This course focuses on writing and research skills in music, including the use and documentation of sources. In addition to written exercises, assignments include studying professional writing samples about music, such as concert reviews, program notes, and research essays. Full major status in Performance required. (WI).",
+            "course_credits": "\n1 Credit Hour \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2115",
+            "course_name": "Aural Skills III",
+            "course_desc": "This course covers sight singing, dictation, keyboard exercises, and improvisation of musical structures and styles studied in MU 2315. Prerequisite: MU 1116 and MU 1316 with a grade of \"C\" or higher. Corequisite: MU 2315.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2116",
+            "course_name": "Aural Skills IV",
+            "course_desc": "This course covers sight singing, dictation, keyboard exercises, and improvisation of musical structures and styles studied in MU 2316. Prerequisite: MU 2115 and MU 2315 with a grade of C or higher. Corequisite: MU 2316.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2123",
+            "course_name": "Foundations of Music Education",
+            "course_desc": "This course introduces principles of aesthetics and philosophy, as well as their practical application in music education.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2153",
+            "course_name": "Problems in Music",
+            "course_desc": "This course is conducted as an independent study on one or more music topics not covered in another course and is open to students on an individual basis by approval of the Director of the School of Music. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2180",
+            "course_name": "Recording Practicum III",
+            "course_desc": "This course allows students to continue to develop aural and practical skills in sound recording to produce high-quality recordings. Full major status in SRT required. Prerequisites: MU 1182 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2182",
+            "course_name": "Recording Practicum IV",
+            "course_desc": "Students will develop the aural skills associated with audio production and recording. This is a continuation of MU 2180 Recording Practicum III. Full major status in SRT required. Prerequisite: MU 2180 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2215",
+            "course_name": "Contemporary Musicianship I",
+            "course_desc": "This course explores musical parameters (harmony, melody, tempo, rhythm, meter, form, and instrumentation) in contemporary rock and pop genres as analyzed through listening and created via performance and composition. Contemporary notation methods, lead sheet symbols, and the Nashville number system are used to create musical scores. Prerequisite: MU 1116 and MU 1316 both with grades of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2216",
+            "course_name": "Contemporary Musicianship II",
+            "course_desc": "This course explores musical parameters (harmony, melody, tempo, rhythm, meter, and instrumentation) in country and reggae genres as analyzed through listening and created via performance and composition. Contemporary notation methods, as well as lead sheet symbols and the Nashville number system, are used to create musical scores. Prerequisite: MU 2215 with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2241",
+            "course_name": "Fundamentals of Diction in Singing I",
+            "course_desc": "In this course students study the International Phonetic Alphabet (IPA) and its application to English and Italian lyric diction. Students will learn the basics of singers diction for these languages and demonstrate their knowledge through written examination, speaking, and singing.  Corequisite: MUSP 1120 or MUSP 1220 or MUSP 2120 or MUSP 2220 or MUSP 3120 or MUSP 3220 or MUSP 4220 any with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2242",
+            "course_name": "Fundamentals of Diction in Singing II",
+            "course_desc": "In this course students study the International Phonetic Alphabet (IPA) and its application in German and French lyric diction. Students will learn the basics of singers diction for these languages and demonstrate their knowledge through written examination, speaking, and singing.  Prerequisite: MU 2241 with a grade of \"C\" or better. Corequisite: MUSP 1120 or MUSP 1220 or MUSP 2120 or MUSP 2220 or MUSP 3120 or MUSP 3220 or MUSP 4220 any with the grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2253",
+            "course_name": "Problems in Music",
+            "course_desc": "The course is conducted as an independent study on one or more music topics and is open to students on an individual basis by approval of the Director of the School of Music. May be repeated for credit.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2303",
+            "course_name": "Survey of Music Literature",
+            "course_desc": "An introduction to western European art music from the Middle Ages into the 21st-century through listening examples, readings, and class lectures. The course covers representative works by major composers and introduces conventional musical forms/styles associated with various genres in each of the musical periods. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2310",
+            "course_name": "Guitar Class I",
+            "course_desc": "An introductory course primarily for the non-music major. This course offers the opportunity to study tuning, hand positions, chords, accompaniment patterns, strumming and introductory music reading.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2313",
+            "course_name": "Introduction to Fine Arts",
+            "course_desc": "An introductory course designed to give the student a fundamental understanding of the creation and appreciation of diverse modes of expression through the visual and performing arts. This course may not be repeated for credit by taking ART 2313, DAN 2313, or TH 2313.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Creative Arts Core 050",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2315",
+            "course_name": "Music Theory III",
+            "course_desc": "This course covers the analysis and model composition of chromatic music, with a focus on voice-leading principles. Topics include modulations and larger forms. Prerequisite: MU 1116 and MU 1316 with a grade of \"C\" or higher. Corequisite: MU 2115.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2316",
+            "course_name": "Music Theory IV",
+            "course_desc": "This course covers the analysis and model composition of music from the 20th- and 21st-centuries. Topics include, but are not limited to, impressionism, polytonality, parallelism, quartal/quintal harmonies, secundal harmonies, polyrhythms, octatonicism, minimalism, modes, serialism, and set theory. Prerequisite: MU 2115 and MU 2315 both with grades of \"C\" or better. Corequisite: MU 2116 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 2353",
+            "course_name": "Problems in Music",
+            "course_desc": "The course is conducted as an independent study on one or more music topics and is open to students on an individual basis by approval of the Director of the School of Music.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3000",
+            "course_name": "Junior Departmental Recital",
+            "course_desc": "This course requires attendance and observation of weekly recitals. Concurrent enrollment in junior-level applied lessons and the appropriate major ensemble are required. Corequisites: MUSP 3170; MUSP 3220; MUSP 3230; MUSP 3240; MUSP 3250; MUSP 3260; MUSP 3270; MUSP 3280.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MU 3050",
+            "course_name": "Junior Recital",
+            "course_desc": "Preparation and performance of the junior recital for music performance majors. Corequisites: Concurrent enrollment with applied lessons and major ensemble required for all Music Performance majors. Pre-requisite or Corequisite:  MUSP 3170 or MUSP 3220 or MUSP 3230 or MUSP 3250 or MUSP 3260 or MUSP 3270 or MUSP 3280.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3140",
+            "course_name": "Instrumental Performance Literature",
+            "course_desc": "In this course students will survey repertoire for wind bands/orchestras from all musical periods/styles, including music for beginning bands/orchestras to works for collegiate/professional ensembles. Activities include: listening, score study, instrument transpositions, programming, contest preparation and student-led wind band/orchestra reading sessions. Prerequisite: ART 2313 or DAN 2313 or MU 2313 or TH 2313 any with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3141",
+            "course_name": "Fundamentals of Diction in Singing I",
+            "course_desc": "This course, the first of a two semester Diction sequence, is designed to acquaint the student singer with the International Phonetic Alphabet (IPA), correct pronunciation of Italian and German consonants and vowels, and the diction rules of these languages. This course does not take the place of a language requirement. Corequisite: MUSP 1120 or MUSP 1220 or MUSP 2120 or MUSP 2220 or MUSP 3120 or MUSP 3220 or MUSP 4220; with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3142",
+            "course_name": "Fundamentals of Diction in Singing II",
+            "course_desc": "This course, the second of a two-semester Diction sequence, is designed to acquaint the student singer with the International Phonetic Alphabet (IPA), correct pronunciation of French and English consonants and vowels, and the diction rules of these languages. This course does not take the place of a language requirement.  Prerequisite: MU 3141 with a grade of \"C\" or better. Corequisite: MUSP 1120 or MUSP 1220 or MUSP 2120 or MUSP 2220 or MUSP 3120 or MUSP 3220 or MUSP 4220.",
+            "course_credits": "\n1 Credit Hour \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3155",
+            "course_name": "Mariachi Rehearsal Techniques & Literature",
+            "course_desc": "This course will explore mariachi ensemble literature for K-12 school mariachi programs and effective mariachi rehearsal techniques. Topics will include a review of age appropriate literature, conducting, lesson plan creation, ensemble setup, rehearsal pacing, error detection/correction, programming, and performance techniques for mariachi ensembles in the K-12 setting.   Prerequisite: MU 2115 and MU 2315 both with grades of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3180",
+            "course_name": "Recording Practicum V",
+            "course_desc": "This course allows students to continue to develop aural and practical skills necessary to produce high quality recordings. Full major status in SRT required. Prerequisites: MU 2182 with a grade of \"C\" or better. Corequisite: MU 3383.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3182",
+            "course_name": "Recording Practicum VI",
+            "course_desc": "Students will develop the aural skills associated with audio production and recording. This is a continuation of MU 3180, Recording Practicum V. Full major status in SRT required. Prerequisite: MU 3180 with a grade of \"C\" or better. Corequisite: MU 3384.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3207",
+            "course_name": "Instrumental Conducting I",
+            "course_desc": "This course covers instrumental conducting fundamentals such as beat pattern, baton techniques, score reading, cuing, subdivisions, fermatas, and releases. The class will function as an ensemble and each student will conduct assignments approximately once each week. Requires successful completion of the Upper Level Competency Review in Music Studies.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3208",
+            "course_name": "Choral Conducting I",
+            "course_desc": "This course covers choral conducting fundamentals such as beat pattern, baton technique, score reading, cuing, subdivisions, fermatas, and releases.  The class will function as an ensemble and each student will conduct assignments approximately once each week.  Requires successful completion of the Upper Level Competency Review to enroll.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3217",
+            "course_name": "Instrumental Conducting II",
+            "course_desc": "An application of the principles of conducting to instrumental music, including score reading and problems of interpretation. Some choral conducting experience will be included. Prerequisite: MU 3207 with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Time Conflicts Permitted",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3227",
+            "course_name": "Choral Conducting II",
+            "course_desc": "An application of the principles of conducting choral music, including score reading and problems in interpretation. Some instrumental conducting experience will be included. Prerequisite: MU 3208 with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3233",
+            "course_name": "Jazz Theory and Improvisation I",
+            "course_desc": "This course is a study of the musical theory basics used in jazz improvisation and composition, focusing on best practices in its practical application and pedagogy. In addition to a theoretical and applied approach, students will also examine historical and cultural considerations, as they relate to performance. (MULT) BM majors only. Prerequisites: MU 1316 with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3234",
+            "course_name": "Jazz Theory and Improvisation II",
+            "course_desc": "This course is a continuation of MU 3233, with particular attention to developing skills in the use of scales and modes (including major and minor pentatonic scales), modal playing, and jazz nomenclature. (MULT) BM majors only. Prerequisites: MU 3233 and MUSE 3127, all with a grade of \"C\" or better or permission of instructor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3241",
+            "course_name": "A Survey of Instrumental Performance Literature",
+            "course_desc": "This course is an overview of repertoire for wind bands/orchestras from all musical periods/styles, including music for beginning bands/orchestras to works for collegiate/professional ensembles. Activities include: listening, score study, instrument transpositions, programming, contest preparation and student-led wind band/orchestra reading sessions. Upper-level status is required. Prerequisite: ART 2313, DAN 2313, MU 2313, or TH 2313; with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3242",
+            "course_name": "Survey of Choral Performance Literature",
+            "course_desc": "The course covers detailed consideration of literature of all periods appropriate for choral ensembles and includes discussions on repertoire selection/performance problems peculiar to all ensemble sizes.  Assignments give students opportunity to develop their own approach to vocal challenges that face high school and junior high singers, including arranging choral music.  Prerequisites:  MU 3208 and MU 3254, all with a grade of \"C\" or better. Corequisite: MU 3227.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3253",
+            "course_name": "Band/Orchestra Methods",
+            "course_desc": "This course is designed to introduce fundamental principles of effective instrumental music instruction (such as assessment, planning, arranging, etc.), rehearsal techniques, and administration of secondary school music programs. This course will provide opportunities for students to conduct and rehearse instrumental ensembles, present teaching demonstrations, and conduct independent scholarship projects related to teaching. Prerequisites: [MU 2316 or MU 3207 or MUSP 3145 or MUSP 3147] and [MUSP 3155 or MUSP 3157] both with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3254",
+            "course_name": "Choral Methods",
+            "course_desc": "This course provides practical experience in developing, teaching and maintaining a successful choral program at the secondary level. Assignments are designed to give students the opportunity to develop approaches to the basic challenges that face high school/middle school choral directors. Students will share ideas and evaluate each other's work.  Prerequisite: MU 2316 with a grade of \"C\" or better. Corequisite: MU 3208.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3263",
+            "course_name": "Marching Band Techniques",
+            "course_desc": "An examination of the techniques required to program, design, and instruct a successful marching band show. The class will discuss different types of design concepts currently being employed throughout the country, but also to construct and chart those designs.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3269",
+            "course_name": "Current Trends in Music II",
+            "course_desc": "A study of melodic and harmonic techniques for keyboard percussion instruments, sight-reading techniques using Sol-Fa, and a survey of the folk music of Europe and the Americas. Prerequisite: MU 3340 with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3308",
+            "course_name": "History of Rock Music",
+            "course_desc": "A survey of the evolution of rock styles, contributions of important performers, and musical techniques involved in the creation and performance of rock music. The course focuses on the first three decades of rock history.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3310",
+            "course_name": "Guitar Class II",
+            "course_desc": "Primarily for the non-music major, the course includes the opportunity for development of more advanced techniques in accompaniment, music reading and solo guitar techniques. Prerequisite: MU 2310 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3315",
+            "course_name": "History and Analysis of Music from Antiquity through the Seventeenth Century",
+            "course_desc": "This course provides a comprehensive musicianship approach to the study of music from antiquity through the seventeenth century. Approaches include history, aesthetics, repertoire, performance practice, and conceptual frameworks specific to sacred and secular traditions, domestic music, and genres associated with popular song, dance, and drama. (MULT) (WI)  Prerequisite: MU 1316 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3316",
+            "course_name": "History and Analysis of Music in the Eighteenth and Nineteenth Centuries",
+            "course_desc": "This course provides a comprehensive musicianship approach to the study of music in the eighteenth and nineteenth centuries. Approaches include history, aesthetics, repertoire, performance practice, and conceptual frameworks specific to classical traditions, domestic music, and genres associated with popular song, dance, and the theater. (MC) (WI) Prerequisite: MU 1316 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3317",
+            "course_name": "History and Analysis of Music in the Twentieth and Twenty-First Centuries",
+            "course_desc": "This course provides a comprehensive musicianship approach to the study of music from the turn of the twentieth century to the present. Approaches include history, aesthetics, repertoire, performance practice, and conceptual frameworks specific to popular song, film music, jazz, rock, experimental trends, classical traditions, crossover genres, and influential technologies. (MC) (WI) Prerequisite: MU 1316 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3318",
+            "course_name": "World Music Cultures",
+            "course_desc": "In this course students will be equipped with practical and conceptual tools to enhance their enjoyment and understanding of indigenous, folk, classical and popular music traditions around the globe, in their historical, social, political, and spiritual contexts. This course engenders respect for a diversity of cultures through the lens of music. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3340",
+            "course_name": "Current Trends in Music I",
+            "course_desc": "A study of the components of music and their concepts. An emphasis on singing and rhythmic performance skills, and aesthetic awareness through listening. Prerequisite: MU 2123 with a grade of \"C\" or higher.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3355",
+            "course_name": "Mariachi Rehearsal Techniques & Literature",
+            "course_desc": "This course explores mariachi ensemble literature for K-12 school mariachi programs and effective mariachi rehearsal techniques. Topics include a review of age-appropriate literature, conducting, lesson plan creation, ensemble setup, rehearsal pacing, error detection/correction, programming, and performance techniques for mariachi ensembles in the K-12 setting. Students apply course concepts as they conduct lessons in the mariachi teaching lab. Prerequisite: MU 2115 and MU 2315 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3370",
+            "course_name": "Music for the Elementary Classroom",
+            "course_desc": "This course is an introduction to basic music skills for the elementary classroom teacher.  The course includes practical application and development of strategies and instructional techniques necessary for effective integration of music experiences in the elementary classroom curriculum.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3372",
+            "course_name": "Inclusive Excellence in the Music Classroom",
+            "course_desc": "In this course, students will develop skills for creating equitable and inclusive music classrooms. Topics will include culturally responsive music teaching, World Music Pedagogy (including ethnomusicological perspectives regarding transcription and arranging in the transmission of music cultures), history and repertoire of global musics, and universal design for learning.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3375",
+            "course_name": "History of Jazz",
+            "course_desc": "Jazz originated in America and has been of great importance in the development of the 20th Century music. Topics will include the structure and history of jazz, the contributions of jazz to contemporary music, and the chronological development of jazz experienced through recordings and live performances. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3380A",
+            "course_name": "Women in Jazz",
+            "course_desc": "Overview of jazz history from its New Orleans origins to the present focusing on the contributions of women. Major style periods researched include early jazz/swing, bebop, cool, hard bop, free jazz, jazz fusion, and contemporary trends. Emphasis will be placed on the development of critical listening skills. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3380B",
+            "course_name": "Music and Film",
+            "course_desc": "This course is an exploration of historical traditions and functions of Hollywood film music. Students will apply music theory and dictation skills to analyze scores and explain how film music's characteristics and associated cultural connotations combine with image to create new meaning. Prerequisite: MU 2116 and MU 2316, all with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3380C",
+            "course_name": "Rock Harmony",
+            "course_desc": "Theoretical analysis of popular and rock music incorporating extensive ear training components such as recognition of chords and progressions. Further analysis of the individual stylistic details in rock songs as well as comparison to traditional tonal harmony and form. Pre-requisite: MU 1312 with a \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3380D",
+            "course_name": "History of Blues",
+            "course_desc": "This course explores the role of the blues in American popular music, tracing the history of the genre from its origins to its influence on rock and other related styles, surveying important recording labels and related figures. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3380E",
+            "course_name": "Teaching World Music Cultures Through World Music Pedagogy",
+            "course_desc": "This course prepares prospective and practicing teachers to teach world music cultures in their music classroom at the K-12 level. Culturally relevant pedagogy, multicultural education, and ethnomusicology also serve as the underpinnings towards creating an inclusive and equitable classroom. Prerequisite: MU 3340; with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3381",
+            "course_name": "Recording Techniques I",
+            "course_desc": "Introduction to audio recording techniques. Topics include acoustics, electronics, microphones, microphone techniques, loudspeakers, and operating principles of common recording equipment. Full major in SRT required. Prerequisite: MU 1182 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3382",
+            "course_name": "Recording Techniques II",
+            "course_desc": "A continuation of MU 3381. Topics include: operating principles of common recording equipment, fundamentals of analog and digital recording, signal flow, equalization, and sound effects processors. Full major in SRT required.  Prerequisite: MU 3381 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3383",
+            "course_name": "Recording Techniques III",
+            "course_desc": "Principles and practices of microphone and mixing techniques. Full major in SRT required. Prerequisite: MU 3382 with a grade of \"C\" or better. Corequisite: MU 3180.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 3384",
+            "course_name": "Recording Techniques IV",
+            "course_desc": "Audio tape and disc recording and their applications in a variety of settings and genres. Full major in SRT required. Prerequisite: MU 3383 with a grade of \"C\" or better. Corequisite: MU 3182.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4000",
+            "course_name": "Senior Departmental Recital",
+            "course_desc": "This course requires attendance and observation of weekly recitals. Concurrent enrollment in senior-level applied lessons and the appropriate major ensemble may be required.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MU 4050",
+            "course_name": "Senior Recital",
+            "course_desc": "Preparation and performance of the senior recital. Prerequisite or Corequisites: MUSP 4170 or MUSP 4220 or MUSP 4230 or MUSP 4240 or MUSP 4250 or MUSP 4260 or MUSP 4270, or MUSP 4280, with a grade of \"C\" or better.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4152",
+            "course_name": "Problems in Music",
+            "course_desc": "The course is conducted as an independent study on one or more topics in music and is open to students on an individual basis by approval of the Director of the School of Music.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4156",
+            "course_name": "Mariachi Arranging Techniques",
+            "course_desc": "This course introduces analysis and arranging techniques for the mariachi ensemble.  Topics include instrument families and their ranges, basic manuscript techniques, and standard mariachi orchestration techniques for voicing and scoring within the different song styles. (MULT) Prerequisite: MU 2316 with a grade of  \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4157",
+            "course_name": "Mariachi Ensemble Teaching Lab",
+            "course_desc": "This course provides students with the knowledge to become effective directors of Mariachi ensembles within the public school/university systems.  Mariachi curriculum/repertoire/rehearsal techniques appropriate to middle school/high school/post-high school ensembles are discussed and applied within the setting of a performing ensemble.  This course is repeatable for credit three times. (MULT).",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4170",
+            "course_name": "Mariachi Arranging",
+            "course_desc": "This course will introduce analysis and arranging techniques for the mariachi ensemble. Topics will cover instrument families and ranges, basic manuscript techniques, standard mariachi orchestration techniques for voicing and scoring within the different song styles. Prerequisite: MU 2316 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4180",
+            "course_name": "Recording Practicum VII",
+            "course_desc": "This course allows students to continue to develop the aural and practical skills necessary to produce high quality recordings. Full major in SRT required. Prerequisite: MU 3182 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4182",
+            "course_name": "Recording Practicum VIII",
+            "course_desc": "Students will develop the aural skills associated with audio production and recording. This is a continuation of MU 4180, Recording Practicum VII. Full major status in SRT required. Prerequisite: MU 4180 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4185",
+            "course_name": "Senior Research Project",
+            "course_desc": "A study of the students senior recital literature resulting in a thorough research paper on the theoretical, historical, technical and stylistic aspects of the compositions. Concurrent enrollment in Senior Recital, senior level applied lessons, and appropriate major ensemble are required. Prerequisites or Corequisites:  MU 4050 and MUSP 4170 or MUSP 4220 or MUSP 4230 or MUSP 4240 or MUSP 4250 or MUSP 4260 or MUSP 4270 or MUSP 4280.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4234",
+            "course_name": "Arranging Techniques for School Music Ensembles",
+            "course_desc": "This class will introduce the many techniques involved in arranging for a wide variety of school music ensembles. Content will include an examination of the various instrument families, basic manuscript techniques (both manual and computer aided) and various orchestration techniques for voicing and scoring. Prerequisites: MU 2316; MU 3207; MUSP 3145 or 3147; MUSP 3155 or 3157; All with grades of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4244",
+            "course_name": "Jazz Theory and Improvisation III",
+            "course_desc": "This course is a continuation of MU 3234 and explores advanced concepts in jazz theory including symmetrical scales, chord substitutions, re-harmonization, pentatonic and exotic scale forms. Classes will focus on best practices in practical application and pedagogy and also examine historical and cultural considerations related to performance. (MULT) Prerequisite: MU 3234 and MUSE 3127, all with a grade of \"C\" or better or permission of instructor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4245",
+            "course_name": "Jazz Composition and Arranging",
+            "course_desc": "This course is an in-depth exploration of various commercial writing styles and instrumentations, focusing on Pop, Latin, and Jazz. Students will analyze the writing styles of prolific 20th-century Big Band Arrangers, and learn to write music for all types of commercial applications, and styles, for all levels of musicians. (MULT) Prerequisite: MU 4244 with a grade of \"C\" or better or permission of instructor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4253",
+            "course_name": "Problems in Music",
+            "course_desc": "The course is conducted as an independent study on one or more music topics and is open to students on an individual basis by approval of the Director of the School of Music.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4257",
+            "course_name": "Vocal Pedagogy I: Voice Science",
+            "course_desc": "This course explores the anatomy/physiology of the human voice, the acoustic properties that govern resonance, vocal health, and the philosophy of singing and teaching. It is designed for Bachelor of Music majors with a concentration in voice. Restricted to Music Studies or Music Performance majors, with a vocal concentration. Co-requisites: MUSP 3220 or MUSP 4220 with a grade of \"C\" or better, or by Instructor Permission.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4259",
+            "course_name": "Vocal Literature",
+            "course_desc": "This course is a detailed consideration of vocal literature from approximately 1600 through the 20th century, focusing on different cultures of the world. It covers major composers and developments in the genre. Repertoire selection and performance problems peculiar to the various styles will be discussed. Prerequisites: Bachelor of Music with vocal concentration and MU 2142. Corequisite: MUSP 3220 or MUSP 4220 with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4260",
+            "course_name": "Vocal Pedagogy II: Methods",
+            "course_desc": "This is a comparative study of various pedagogical methods and ideas that covers a wide range of historical and contemporary pedagogy treatises. Students will explore exercixes and vocalises for general voice development, peer teaching, and techniques to address/correct specific vocal problems. Prerequisite: MU 4257 with a grade of \"B\" or better.  Co-requisites: MUSP 3220 or MUSP 4220 with a grade of \"D\" or better, or by Instructor Permission.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4261",
+            "course_name": "Guitar Pedagogy",
+            "course_desc": "This course is an intensive study of instructional methodologies for guitar from beginning to advanced levels that includes both one-on-one teaching and group lessons.  Corequisite: MUSP 3260 or MUSP 4260.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4262",
+            "course_name": "Guitar Literature",
+            "course_desc": "This course is an intensive study of music repertoire for guitar, including solo, chamber, and orchestral music, as well as relevant music history and literature, performance practice, and rehearsal techniques.  Emphasis will be given to literature of the students primary instrument.  Corequisite: MUSP 3260 or MUSP 4260.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4263",
+            "course_name": "Keyboard Pedagogy",
+            "course_desc": "This course is an intensive study of instructional methodologies for keyboard from beginning to advanced levels that includes both one-on-one teaching and group lessons.  Corequisite: MUSP 3230 or MUSP 4230.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4264",
+            "course_name": "Keyboard Literature I",
+            "course_desc": "This course is an intensive study of music repertoire for keyboard from 1700 to 1850, including solo, chamber, and orchestral music, as well as relevant music history and literature, performance practice, and rehearsal techniques. Emphasis will be given to literature of the students primary instrument.  Corequisite: MUSP 3230 or MUSP 4230.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4265",
+            "course_name": "Keyboard Literature II",
+            "course_desc": "This course is an intensive study of music repertoire for keyboard from 1850 - today, including solo, chamber, and orchestral music, as well as relevant music history and literature, performance practice, and rehearsal techniques.  Emphasis will be given to literature of the students primary instrument.  Corequisite: MUSP 3230 or MUSP 4230.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4266",
+            "course_name": "Woodwind Pedagogy",
+            "course_desc": "This course is an intensive study of instructional methodologies for woodwinds from beginning to advanced levels that includes both one-on-one teaching and group lessons.  Corequisite: MUSP 3240 or MUSP 4240.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4267",
+            "course_name": "Woodwind Literature",
+            "course_desc": "This course is an intensive study of music repertoire for woodwinds, including\nsolo, chamber, and orchestral music, as well as relevant music history and literature, performance practice, and rehearsal techniques.  Emphasis will be given to literature of the students primary instrument. Corequisite: MUSP 3240 or MUSP 4240.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4268",
+            "course_name": "Brass Pedagogy",
+            "course_desc": "This course is an intensive study of instructional methodologies for brass from beginning to advanced levels that includes both one-on-one teaching and group lessons.  Corequisite: MUSP 3250 or MUSP 4250.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4269",
+            "course_name": "Brass Literature",
+            "course_desc": "This course is an intensive study of music repertoire for brass, including solo, chamber, and orchestral music, as well as relevant music history and literature, performance practice, and rehearsal techniques.  Emphasis will be given to literature of the students primary instrument.  Corequisite: MUSP 3250 or MUSP 4250.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4270",
+            "course_name": "Percussion Pedagogy",
+            "course_desc": "This course is an intensive study of instructional methodologies for percussion from beginning to advanced levels that includes both one-on-one teaching and group lessons.  Corequisite: MUSP 3170 or MUSP 3270 or MUSP 4170 or MUSP 4270.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4271",
+            "course_name": "Percussion Literature",
+            "course_desc": "This course is an intensive study of music repertoire for percussion, including solo, chamber, and orchestral music, as well as relevant music history and literature, performance practice, and rehearsal techniques.  Emphasis will be given to literature of the students primary instrument.  Corequisite: MUSP 3170 or MUSP 3270 or MUSP 4170 or MUSP 4270.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4272",
+            "course_name": "String Pedagogy",
+            "course_desc": "This course is an intensive study of instructional methodologies for strings from beginning to advanced levels that includes both one-on-one teaching and group lessons.  Corequisite: MUSP 3260 or MUSP 4260.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4273",
+            "course_name": "String Literature",
+            "course_desc": "This course is an intensive study of music repertoire for strings, including solo, chamber, and orchestral music, as well as relevant music history and literature, performance practice, and rehearsal techniques.  Emphasis will be given to literature of the students primary instrument.  Corequisite: MUSP 3260 or MUSP 4260.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4310",
+            "course_name": "Guitar Class III: Rock, Country, Blues",
+            "course_desc": "Designed primarily for the non-music major. Continued study of advanced techniques including scales, arpeggios, strumming patterns and advanced accompanying styles. Analysis and performance of musical styles including rock, country and blues.  Prerequisite: MU 3310 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4312",
+            "course_name": "Guitar Class IV: Rock, Country, Blues",
+            "course_desc": "Designed primarily for the non-music major. Continued study of advanced techniques including soloing techniques, accompaniment techniques. Detailed analysis of performance styles emphasizing the styles of contemporary performers. Prerequisite: MU 4310 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4330",
+            "course_name": "Form and Analysis",
+            "course_desc": "Principles of form and analysis developed through the in-depth application of analytical systems to the musical repertoire through the nineteenth century. Prerequisites: MU 2316 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4332",
+            "course_name": "Contemporary Analytic Techniques",
+            "course_desc": "Detailed study and analysis of selected compositions from the early twentieth century to the present; analytical projects. Prerequisite: MU 2316 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4334",
+            "course_name": "Orchestration",
+            "course_desc": "Study of the characteristics of individual instruments; writing for various combinations; study of scores of different periods; techniques of instrumentation, arranging, and orchestration; listening to recorded and live performances. Prerequisite: MU 2316 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4336",
+            "course_name": "18th-Century Counterpoint",
+            "course_desc": "A study of 18th-century contrapuntal techniques as found in choral preludes, inventions and fugues, among other forms.  Prerequisite: MU 2316 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4343",
+            "course_name": "Jazz Pedagogy",
+            "course_desc": "A study of repertoire selection and evaluation, phrasing and articulation, rhythm section techniques, methods of instruction, and review of current teaching styles in American jazz programs, including contest preparation and the teaching of basic improvisation. (MULT) Prerequisites: MU 2116 and MU 2316 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4351",
+            "course_name": "Problems in Music",
+            "course_desc": "The course is conducted as an independent study on one or more music topics and is open to students on an individual basis by approval of the Director of the School of Music.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4353",
+            "course_name": "Problems in Music",
+            "course_desc": "The course is conducted as an independent study on one or more music topics and are open to students on an individual basis by approval of the Director of the School of Music.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4354",
+            "course_name": "Business in Music",
+            "course_desc": "A preparation of students and future musicians for a career in music. The course will discuss the various career options available to aspiring musicians and the paths to take to pursue these options.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4355",
+            "course_name": "Mariachi Arranging Techniques",
+            "course_desc": "This course applies analysis to the arranging of music for the mariachi ensemble. Topics include instrument families and their ranges, basic manuscript techniques, and standard mariachi orchestration techniques for voicing and scoring within the different song styles. Prerequisite: MU 2316 with a grade of  \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4358",
+            "course_name": "Advanced Musicianship Skills",
+            "course_desc": "This course focuses on developing advanced musicianship skills, specifically highlighting sight singing, error detection, transcription, dictation, and improvisation. The repertoire for this course includes western and non-western music of various styles and modalities.   Prerequisite: MU 2116 and MU 2316 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4385",
+            "course_name": "Advanced Audio Recording Techniques",
+            "course_desc": "Application of theoretical skills in recording, mixing, and editing concert music. Full major in SRT required. Prerequisite: MU 3384 with a grade of \"C\" or higher. Corequisite: MU 4180.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 4386",
+            "course_name": "SRT Internship",
+            "course_desc": "Practical experience in audio recording under professional supervision. Provides the opportunity for students to demonstrate professional competencies, based on prior theoretical and laboratory experiences. Full major in SRT required.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5113",
+            "course_name": "Independent Study in Music",
+            "course_desc": "Study of special interest that offers professional improvement and growth in the field of music. May be repeated with different emphasis for additional credit. Prerequisite: Consent of the graduate advisor.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5130A",
+            "course_name": "Writing About Music",
+            "course_desc": "Focusing on basic writing skills, research, and the use and documentation of sources. Course centers on the process of writing about music. Besides written\nexercises, the assignments include the study of such professional writing samples as concert reviews, program abstracts, and research essays. This course does not earn graduate degree credit. Prerequisite: Consent of the graduate music advisor.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling|Topics",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MU 5130B",
+            "course_name": "Diction for Singers",
+            "course_desc": "An in-depth study of the pronunciation of singing in Italian, German, English, and French incorporating the International Phonetic Alphabet through the use of lecture and laboratory sessions for practical application. This course does not earn graduate degree credit. Prerequisite: Consent of the graduate music advisor.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling|Topics",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MU 5135",
+            "course_name": "Exploring 21st Century Music Education",
+            "course_desc": "This course provides music education graduate students a general overview of current issues and questions in music education, techniques for building a better understanding of core issues, and necessary instruction/investigation for thesis/capstone project. Students leave this class with a general knowledge of many current topics and tools to further investigate topics of interest.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5150",
+            "course_name": "Exploring Twenty-first Century Music Education",
+            "course_desc": "In this course, students will survey current issues and questions in music education while further developing a primary topic of interest for their thesis/capstone project. Topics will be driven by student interest and the discourse within the field but will be centered around: student-centered pedagogies (e.g., democratic education, culturally responsive pedagogy, popular music education, DEI, and social-emotional learning), performance/teacher anxiety (e.g., music performance anxiety, imposter phenomenon, and teacher self-efficacy), teacher experiences and burnout (e.g., early career teacher experiences, expert teacher tendencies, burnout in music education, finances, technology, administrative experiences, and competition), and writing specific content (e.g., refining APA style and.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5192",
+            "course_name": "Graduate Recital",
+            "course_desc": "A full-length, public recital in the appropriate applied music area. Should be taken simultaneously with a final semester of applied music instruction by those students in performance degree plans.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Cannot be taken unless a Thesis Proposal has been submitted. Students working toward the M.M. with thesis are expected to enroll in thesis each semester in which faculty supervision is received.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MU 5213",
+            "course_name": "Independent Study in Music",
+            "course_desc": "Study of special interest that offers professional improvement and growth in the field of music. May be repeated with different emphasis for additional credit. Prerequisite: Consent of the graduate advisor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5230A",
+            "course_name": "Music Theory",
+            "course_desc": "A study of the materials of counterpoint and harmony as evaluated through listening and analysis of literature, and application through composition. This course does not earn graduate degree credit. Prerequisite: Consent of the graduate music advisor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling|Topics",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MU 5230B",
+            "course_name": "Aural Learning",
+            "course_desc": "Development and application of theory concepts through singing, playing, and dictation. This course does not earn graduate degree credit. Prerequisite: Consent\nof the graduate music advisor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling|Topics",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MU 5235",
+            "course_name": "Music Education Capstone",
+            "course_desc": "This course allows for a wide overview of the field of music education, providing students with a broad scope to facilitate their thesis/capstone project.  The course also creates space in the degree for discussions and readings related to the most recent issues and concerns of the field.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5254",
+            "course_name": "Piano Pedagogy I",
+            "course_desc": "History, methods, and materials of piano pedagogy. Includes the application of technical and musical fundamentals to beginning levels of teaching. Prerequisites:\nPiano pedagogy or piano performance majors or instructors permission.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5255",
+            "course_name": "Piano Pedagogy II",
+            "course_desc": "Advanced methods and materials of piano pedagogy.  Includes the application of technical and musical fundamentals to intermediate and advanced levels of\nteaching. Prerequisites: Piano Pedagogy I or instructors permission.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Cannot be taken unless a Thesis Proposal has been submitted. Students working toward the M.M. with thesis are expected to enroll in thesis each semester in which faculty supervision is received.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MU 5301",
+            "course_name": "Musicology Seminar in Contemporary Issues",
+            "course_desc": "This course offers advanced immersion into current trends and literature in the field of musicology, centering a distinct issue and its related frameworks at each time of offering. Sample issues are Music, Gender, and Sexuality; Ecomusicology; Sound Studies; Methods, Methodologies and Frameworks; among others.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5302",
+            "course_name": "Music Software Development",
+            "course_desc": "This course will equip students with practical and conceptual tools and techniques to plan and design / create music software applications to create, store, manage, and share the project code. The course is intended for music students without any prior programming experience.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5310",
+            "course_name": "Music in the Baroque era",
+            "course_desc": "This course is a study of diverse genres and repertoires from the 1600s to the early 1700s, with a focus on the Western world. The course scope includes current historiographic and analytical research perspectives, as well as relevant musicological perspectives intersecting with disciplines such as sociology, gender studies, aesthetics, and criticism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5313",
+            "course_name": "Independent Study in Music",
+            "course_desc": "Study of special interest that offers professional improvement and growth in the field of music. May be repeated once with different emphasis for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5314",
+            "course_name": "Music in the Twentieth and Twenty-First Centuries",
+            "course_desc": "In this course the students will study diverse genres and repertoires of the twentieth and twenty-first centuries, with a focus on the Western world; course scope includes current historiographic and analytical research perspectives, as well as relevant musicological perspectives intersecting with disciplines such as sociology, gender studies, aesthetics, and criticism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5315",
+            "course_name": "Music in the Middle Ages and Renaissance",
+            "course_desc": "In this course students will study diverse genres and repertoires from the 450s to the 1600s, with a focus on the Western world; course scope includes current historiographic and analytical research perspectives, as well as relevant musicological perspectives intersecting with disciplines such as sociology, gender studies, aesthetics, and criticism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5316",
+            "course_name": "Music and the Dramatic Arts",
+            "course_desc": "This course covers diverse genres and repertoires in music and the dramatic arts, antiquities through the present, with a focus on the Western world.  The course scope includes current historiographic and analytical research perspectives, as well as relevant musicological perspectives intersecting with such disciplines as sociology, gender studies, aesthetics, and criticism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5317",
+            "course_name": "Independent Study in Music",
+            "course_desc": "Study of special interest that offers professional improvement and growth in the field of music. May be repeated once with different emphasis for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5318",
+            "course_name": "Song Literature",
+            "course_desc": "This course is an historical survey of the art song, emphasizing Western European and American repertories. Students will articulate stylistic differences within the art song repertory, use analytical methods appropriate for a variety of text settings, and develop greater proficiency at writing about music.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5320",
+            "course_name": "Music in the Eighteenth Century",
+            "course_desc": "In this course students will study diverse genres and repertoires in the eighteenth century, with a focus on the Western world; course scope includes current historiographic and analytical research perspectives, as well as relevant musicological perspectives intersecting with disciplines such as sociology, gender studies, aesthetics, and criticism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5322",
+            "course_name": "Advanced Instrumental Techniques",
+            "course_desc": "Evaluation of teaching methods, materials, and literature of wind/percussion or string instruments. Students must have taken instrumental conducting in their undergraduate degree program.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5323",
+            "course_name": "Vocal Music Education Methods",
+            "course_desc": "Study of the anatomy of the human voice and evaluation of the scientific data and historical beliefs concerning voice pedagogy with emphasis in teaching voice in the class, private studio, as well as within a variety of choral settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5325",
+            "course_name": "Research in Music Education I",
+            "course_desc": "Examination of methodologies, techniques, and procedures for interpreting and conducting research in music education. Relevant studies in music education will be critiqued, with an emphasis on preparation of a research proposal.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5326",
+            "course_name": "Research in Music Education II",
+            "course_desc": "A continuation and culmination of a research project in the field of music education as developed and proposed in MU 5325. Prerequisite: MU 5325 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5328",
+            "course_name": "Foundations of Music Education",
+            "course_desc": "The cognitive psychology, historical perspective, and philosophical issues that provide the basis for contemporary music education.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5329",
+            "course_name": "Psychology of Music",
+            "course_desc": "This course investigates the psychological foundations of music and examines interdisciplinary approaches to the study of music and the human experience.  Topics will include music perception, physiological responses to music, music and the brain, musical attributes, music learning, music therapy, and the measurement of musical behavior.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5330A",
+            "course_name": "History and Analysis of Music",
+            "course_desc": "A comprehensive musicianship approach to the study of music from the earliest times to the present using techniques of stylistic and structural analysis.  This course does not earn graduate degree credit. Prerequisite: Consent of the graduate music advisor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling|Topics",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MU 5330B",
+            "course_name": "Advanced Theory",
+            "course_desc": "Principles of form and analysis, counterpoint, orchestration, and contemporary analytic techniques developed through in-depth study of musical repertoire. This\ncourse does not earn graduate degree credit. Prerequisite: Consent of the graduate music advisor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling|Topics",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MU 5331",
+            "course_name": "Vocal Pedagogy I: Voice Science",
+            "course_desc": "This course explores the anatomy/physiology of the human voice, the acoustic properties that govern resonance, vocal health, and philosophy of singing and teaching.  Co-requisites: MUSP 5120 or MUSP 5220 or MUSP 5320 with a grade of \"C\" or better, or permission of the instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5332",
+            "course_name": "Vocal Pedagogy II: Methods",
+            "course_desc": "This is a comparative study of various pedagogical methods and ideas, including historical and contemporary treatises. Students will explore exercises and vocalizes for general voice development, address and correct specific vocal problems, and engage in peer teaching. Prerequisite: MU 5331 with a grade of \"B\" or better. Co-requisites: MUSP 5120, MUSP 5220, or MUSP 5320, or permission of the instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5333",
+            "course_name": "Teaching and Learning in the Music Classroom",
+            "course_desc": "In this course students will examine music content delivery, pedagogy (including lesson planning, instructional design, etc.), assessment, and other aspects of teaching and learning.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5334",
+            "course_name": "Introduction to Graduate Study in Music",
+            "course_desc": "Techniques and materials of research, emphasizing bibliography, library usage, collection, and interpretation of data.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Time Conflicts Permitted",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5337",
+            "course_name": "Techniques of Contemporary Music",
+            "course_desc": "This course surveys a cross-section of important technical innovations and developments in twentieth-century music, with special focus on music since 1945. Students will read documents outlining aesthetics, analyze music written in a variety of styles, write analytical papers, and using a variety of techniques, compose exercises. Enrollment requires a passing grade on the Graduate Music Theory Placement Exam or Instructor approval. Prerequisite: MU 5357 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5340",
+            "course_name": "Music in the Nineteenth Century",
+            "course_desc": "This course is a study of diverse genres and repertoires in the nineteenth century, with a focus on the Western world.  The course scope includes current historiographic and analytical research perspectives, as well as relevant musicological perspectives intersecting with disciplines such as sociology, gender studies, aesthetics, and criticism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5341",
+            "course_name": "Jazz Perspectives",
+            "course_desc": "In this course students will study diverse genres, repertoires, discographies, and stylistic trends associated with jazz, with a focus on the Americas.  The course scope includes current historiographic and analytical research perspectives, as well as relevant musicological perspectives intersecting with disciplines such as sociology, gender studies, aesthetics, and criticism.  (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5342",
+            "course_name": "Jazz Pedagogy",
+            "course_desc": "Jazz pedagogy is an in-depth study of the history, methodologies, resources, and techniques of jazz pedagogy and the development of jazz ensemble rehearsal skills.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5343",
+            "course_name": "Jazz Improvisation",
+            "course_desc": "This course is a detailed study of the evolution of melodic, harmonic, and rhythmic structures used by jazz improvisers and composers from the 1930s to present day.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5344",
+            "course_name": "Jazz Arranging",
+            "course_desc": "This course provides a comprehensive study of jazz composition, arranging, and improvisation theory, emphasizing writing for jazz ensembles using harmony, scales, and improvisation in a variety of styles, and providing necessary skills to be a successful jazz or commercial composer/arranger.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5345",
+            "course_name": "Piano Literature I",
+            "course_desc": "This course is designed to expand first-hand familiarity with the literature for the keyboard from the Baroque to Early Romantic era (Bach to Schumann).  It will be divided into five chronological segments, discussing the major composers and their contemporaries.  Ten composition genres will be discussed during the course.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5346",
+            "course_name": "Piano Literature II",
+            "course_desc": "This course is designed to expand first-hand familiarity with the literature for the piano, which will be divided into six chronological segments.  These segments will discuss the most significant composers and their contemporaries in the 19th and 20th centuries and their major piano compositions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5350",
+            "course_name": "Musical Styles",
+            "course_desc": "Developing a broader musical understanding through critical listening, technical analyses, and written assignments in various musical styles, including the late\nclassical, romantic, and present eras. Prerequisite: MU 5357 with a grade of \"B\" or better, or a passing grade on the Graduate Music Theory Placement Exam.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5351",
+            "course_name": "Schenkerian Analysis",
+            "course_desc": "An introduction to the techniques and methods of music analysis as developed by Heinrich Schenker (1868-1935). This course will cover reductive analysis, structural levels in tonal music, and graphing techniques. Prerequisite: MU 5357 with a grade of B or better, or passing grade on music theory entrance exam.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5352",
+            "course_name": "Foundations of Musicology",
+            "course_desc": "This course is an introduction to the concepts, methodologies, and scholarly trends central to the discipline of musicology. Prerequisite: MU 5334 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5353",
+            "course_name": "Ensemble Rehearsal Techniques",
+            "course_desc": "Course is designed for performance ensemble conductors. Includes supervision, administration, and rehearsal techniques.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5355",
+            "course_name": "Pedagogy of Music Theory",
+            "course_desc": "Developing teaching methods and broader understanding through critical study of materials, organization, techniques, and problems of music theory and comprehensive musicianship courses.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Time Conflicts Permitted",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5357",
+            "course_name": "Graduate Music Theory",
+            "course_desc": "Graduate-level studies in music theory and aural skills. The course covers melody, harmony, counterpoint, form, as well as sight-singing, performing, and dictation. This course does not earn graduate degree credit. Consent of the graduate studies coordinator is required.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MU 5358",
+            "course_name": "Advanced Musicianship",
+            "course_desc": "This course is designed to develop graduate-level skills in music sight reading, dictation, fundamental keyboard skills, and keyboard harmonization.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5359",
+            "course_name": "Post-Tonal Music Analysis",
+            "course_desc": "This course is the study and application of methodologies and terminology that are used to analyze post-tonal concert music of the 20th and 21st centuries. Prerequisite: MU 5357 with a grade of \"B\" or better, or permission of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5360",
+            "course_name": "Music in the United States",
+            "course_desc": "This course is a study of genres and repertoires of the United States of America from the 1600s to the present. The course scope includes current historiographic and analytical research perspectives, as well as relevant musicological perspectives intersecting with disciplines such as sociology, gender studies, aesthetics, and criticism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5361",
+            "course_name": "Methods and Methodologies of Music Analysis",
+            "course_desc": "This course will cover the examination of selected analytical techniques, methods and methodologies, critical approaches, or musical repertories, including semiotic analysis, computer-assisted music analysis, analysis of thematic processes, functional analysis, phrase structure analysis, as well as category and feature analysis. Prerequisite: MU 5357 with a grade of \"B\" or better, or permission of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5362",
+            "course_name": "Instrumental Pedagogy I",
+            "course_desc": "This course explores instrument-specific pedagogy from the beginner through the advanced levels. Students will peruse instrument-specific pedagogical works, solo literature, and articles, and will complete a teaching assignment requiring them to implement pedagogical techniques, diagnose common performance problems, and suggest solutions. Co-requisites: MUSP 5130 or MUSP 5140 or MUSP 5150 or MUSP 5160 or MUSP 5170 or MUSP 5230 or MUSP 5240 or MUSP 5250 or MUSP 5260 pr MUSP 5270 or MUSP 5330 or MUSP 5340 or MUSP 5350 or MUSP 5360 or MUSP 5370, or permission of the instructor.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5363",
+            "course_name": "Instrumental Pedagogy II: Teaching Internship",
+            "course_desc": "This class provides students with supervised teaching experience. In this capstone course, students will apply pedagogical principles for instruction on their primary instrument in the private lesson setting. Their teaching will be monitored and evaluated by an applied professor throughout the semester. Prerequisite: MU 5362 with a grade of \"B\" or better. Co-requisites: MUSP 5130 or MUSP 5140 or MUSP 5150 or MUSP 5160 or MUSP 5170 or MUSP 5230 or MUSP 5240 or MUSP 5250 or MUSP 5260 pr MUSP 5270 or MUSP 5330 or MUSP 5340 or MUSP 5350 or MUSP 5360 or MUSP 5370, or permission of the instructor.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5364",
+            "course_name": "Intelligent Music Teaching",
+            "course_desc": "This course focuses on fundamental philosophical principles of effective instrumental music instruction and includes application of those principles in teaching. Students will develop a realistic perspective of their strengths and weaknesses as a developing professional and will develop business skills necessary to create a successful private lesson studio.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5365",
+            "course_name": "Computing in Music",
+            "course_desc": "Development of concepts and skills related to current computer technology in music. Exploration and use of computer software, MIDI, and other productivity\ntools for application to music education, music administration, music research, and music composition.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5366",
+            "course_name": "Salsa Arranging",
+            "course_desc": "Analysis and arranging music for a Salsa ensemble. Topics will cover instrument ranges, orchestration techniques, and styles. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5367",
+            "course_name": "Music in the Caribbean",
+            "course_desc": "In this course students will study diverse genres and repertoires of the Caribbean from pre-colonization to the present, with a focus on the Hispanic Circum-Caribbean. The course scope includes current historiographic and analytical research perspectives, as well as relevant musicological perspectives intersecting with disciplines such as sociology, gender studies, aesthetics, and criticism. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5368",
+            "course_name": "Music in Mexico",
+            "course_desc": "In this course students will study diverse genres and repertoires of Mexico and Mexican-American communities of the United States from pre-colonization to the present. The course scope includes current historiographic and analytical research perspectives, as well as relevant musicological perspectives intersecting with disciplines such as sociology, gender studies, aesthetics, and criticism.(MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5369",
+            "course_name": "History of Music in Latin America",
+            "course_desc": "This course is a study of the musical panorama of Latin America; Pre-Columbian, colonial, folk, urban, academic, and transnational genres are introduced and discussed in historical, socio-political, and stylistic context. It also includes an introduction to the scope and methods of research in Latin American music studies. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5371",
+            "course_name": "Choral Literature I: Madrigal/Partsong",
+            "course_desc": "This course is a comprehensive study of madrigals and partsongs from the canon of Western choral music.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5372",
+            "course_name": "Choral Literature II: Oratorio and Other Secular Major Works",
+            "course_desc": "This course is a comprehensive study of oratorios and other secular major works from the Western canon of choral repertoire.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5373",
+            "course_name": "Choral Literature III: Liturgical Year - Motet, Anthem, Cantata",
+            "course_desc": "This course is a comprehensive study of motets, anthems, cantatas, and other genres associated with the liturgical calendar and the Revised Common Lectionary from the canon of Western choral music.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5374",
+            "course_name": "Choral Literature IV: Missa Brevis, Missa Solemnis, & Requiem",
+            "course_desc": "This course is a comprehensive study of the Roman Catholic Mass and Requiem Liturgies as they have been set to music by composers associated with the Western canon of choral music.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5375O",
+            "course_name": "Contemporary Discourse in Music Education",
+            "course_desc": "This course entails an examination of topics from contemporary music education research. Students examine contemporary research and the potential for application in their future/current classrooms.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5377",
+            "course_name": "Innovation in Music Performance: Sound Lab",
+            "course_desc": "This course is designed to engage students in listening and in sound creation/composition and to develop skills and the capacity for improvisation that will equip artists for readiness in evolving cultural and performance situations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5381",
+            "course_name": "Inclusive Excellence in the Music Classroom",
+            "course_desc": "This course prepares prospective and practicing music teachers to create an equitable, inclusive, and thriving classroom that meets the needs of all students by incorporating culturally responsive teaching, multicultural education, world music pedagogy, ethnomusicological perspectives, and by addressing the needs of students with exceptionalities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5382",
+            "course_name": "History of Music Education in the United States",
+            "course_desc": "This course entails an examination of music education in the United States. The major historical developments and contemporary trends are explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MU 5392",
+            "course_name": "Introduction to Music Instruction in Higher Education",
+            "course_desc": "This course provides techniques for Graduate Teaching/Instructional Assistants concerning selected problems in 1) the teaching of music in the classroom, private instruction and ensemble environments; and 2) the development of a career in field in higher education. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MU 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in Music 5399B. Students working toward the M.M. degree with a thesis are expected to enroll in thesis each semester in which faculty supervision is received.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MU 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Cannot be taken unless a Thesis Proposal has been submitted. Students working toward the M.M. with thesis are expected to enroll in thesis each semester in which faculty supervision is received.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MU 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Cannot be taken unless a Thesis Proposal has been submitted. Students working toward the M.M. with thesis are expected to enroll in thesis each semester in which faculty supervision is received.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MU 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Cannot be taken unless a Thesis Proposal has been submitted. Students working toward the M.M. with thesis are expected to enroll in thesis each semester in which faculty supervision is received.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

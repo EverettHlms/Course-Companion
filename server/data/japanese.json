@@ -1,0 +1,126 @@
+{
+    "name": "Japanese",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/japa/",
+    "courses": [
+        {
+            "course_code": "JAPA 1410",
+            "course_name": "Beginning Japanese I",
+            "course_desc": "This course is an introduction to listening, speaking, reading, and writing skills within a Japanese cultural framework. Students who take JAPA 1410 toward degree requirements must also complete JAPA 1420. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 1420",
+            "course_name": "Beginning Japanese II",
+            "course_desc": "This course provides continued practice in listening, speaking, reading, and writing skills within a Japanese cultural framework. Students who take JAPA 1410 toward degree requirements must also complete JAPA 1420. (MULT) Prerequisite: JAPA 1410 with a grade of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 2310",
+            "course_name": "Intermediate Japanese I",
+            "course_desc": "This course provides continued development and review of all language skills in a Japanese cultural framework. (MULT). Prerequisite: JAPA 1420 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 2320",
+            "course_name": "Intermediate Japanese II",
+            "course_desc": "This course provides advanced practice in all language skills in a Japanese cultural framework. (MULT). Prerequisite: JAPA 2310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 3304",
+            "course_name": "Advanced  Japanese Grammar I",
+            "course_desc": "Course designed to strengthen written command of the language through grammar instruction as well as  readings and reports in Japanese. (MULT). Prerequisite: JAPA 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 3306",
+            "course_name": "Modern Japanese Literature and Culture",
+            "course_desc": "Students analyze Japanese literature and culture while developing their proficiency in Japanese, increasing their vocabulary in the language, and extending their knowledge of critical kanji necessary for understanding the written language. (MULT) Prerequisite: JAPA 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 3307",
+            "course_name": "Advanced Japanese Writing and Grammar",
+            "course_desc": "This is a writing-intensive course designed to strengthen students knowledge of the structure of Japanese and written command of the language. Course may be repeated once with a different emphasis for additional credit. (WI) (MULT)  Prerequisite: JAPA 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 3308",
+            "course_name": "Advanced Japanese for Business",
+            "course_desc": "This is an advanced course designed to develop the skills needed to succeed in the complex business world of Japan. Course may be repeated once with a different emphasis for additional credit. (MULT). Prerequisite: JAPA 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 3309",
+            "course_name": "Japanese Language through Popular Culture",
+            "course_desc": "Students will improve Japanese reading comprehension through the study of popular Japanese media such as manga (graphic novels) or anime (film animation) or kayoo kyoku (Japanese popular song). The course will emphasize how language is used to tell stories for diverse audiences. Repeatable with different emphases.(MULT) Prerequisite: JAPA 2320 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 4301",
+            "course_name": "Japanese-English Translation: Theory and Practice",
+            "course_desc": "This course introduces the concepts of translation theory, methodology, and practice. The course focuses on Japanese-to-English translation of a variety of sources, including newspaper articles, short stories, essays, social media posts, J-pop lyrics, business documents, and scripts from anime and drama.(MULT) Prerequisite: JAPA 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 4304",
+            "course_name": "Advanced Japanese Grammar II",
+            "course_desc": "This course will build on skills learned in JAPA 3304 to further strengthen command of written Japanese through more advanced grammar topics, readings, and reports.(MULT)  Prerequisite: JAPA 3304 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 4310",
+            "course_name": "Postwar Japanese Literature and Film",
+            "course_desc": "This course focuses on literature and film from the period after World War II in Japan in the context of postwar social, political, and cultural changes.(MULT)  Prerequisite: JAPA 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 4320",
+            "course_name": "Japanese Science Fiction",
+            "course_desc": "The course focuses on Japanese science fiction and its cultural contexts.(MULT) Prerequisite: JAPA 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 4330",
+            "course_name": "Early Modern Japanese Literature & Culture",
+            "course_desc": "This course introduces students to literature, theater, visual arts, and other aspects of traditional culture of the Tokugawa era (1603-1867).  Prerequisite: JAPA 2320 with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "JAPA 4390",
+            "course_name": "Studies in Japanese Language and Culture",
+            "course_desc": "Students conduct an independent study project in Japanese language or culture. The course is recommended for students in their last year who have already completed at least one advanced course. (MULT) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "English, Language Arts & Reading",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/elar/",
+    "courses": [
+        {
+            "course_code": "ELAR 1300",
+            "course_name": "Integrated Reading and Writing",
+            "course_desc": "This course provides students with instruction in vocabulary, reading comprehension, critical reading, study skills, and test-taking skills based on their TSI-A scores. Concurrent enrollment in specific sections of general education courses is required. Credit earned for this course does not count toward degrees offered by the university.  Corequisite: ENG 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Developmental/Remedial|Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Developmental"
+        }
+    ]
+}

@@ -1,0 +1,286 @@
+{
+    "name": "Business Administration",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/b_a/",
+    "courses": [
+        {
+            "course_code": "B A 1310",
+            "course_name": "Introduction to Business",
+            "course_desc": "This course introduces freshmen to business and previews what students will experience in the McCoy College of Business. It surveys accounting, finance, economics, law, management, marketing, and information systems and analytics, both as individual components of an organization and collectively as part of an organizations strategy. Students learn about leadership, individual conduct, and the ethical and data-driven decision-making expected in college and the business and professional world.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 2310",
+            "course_name": "Introduction to Business in a Global Environment",
+            "course_desc": "The course introduces the modern business enterprise with an emphasis on the interdependence of the business functions in a global environment. Topics include the cross border impacts of culture, politics, and law on trade, investment, marketing, management, and accounting and financial systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 3110",
+            "course_name": "Professional Development I",
+            "course_desc": "This course prepares students for the professional rigor expected in the McCoy College of Business and gives them a start on career planning and the development process. This process involves a variety of career exploration and development experiences designed to help students identify their passion, prioritize and focus their job search efforts, and develop their leadership, communication, and personal marketability. Topics include self-assessment, career passion discovery, career exploration and development exercises, and resume and interview training to assist in finding rewarding internships and full-time jobs. Prerequisite: B A 1310 or B A 2310 with a \"C\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 3120",
+            "course_name": "Professional Development II",
+            "course_desc": "This course builds upon and expands students basic understanding of career planning and development. A portion of this course is major-focused so that students are prepared for specific business roles. This course applies networking skills, company (prospective employer) analysis, internship/job analysis and search strategy, interviewing skills, and negotiation techniques to maximize the students new-hire potential.   Prerequisite: B A 3110 with a \"C\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 4300",
+            "course_name": "Independent Study in Global Business",
+            "course_desc": "This study abroad course introduces students to the international business environment. Topics include cultural, political, social, and economic factors affecting international business, and the regulatory and ethical environment of global businesses.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 4312",
+            "course_name": "International Business Internship",
+            "course_desc": "Integration of professional and academic experience through internship in an international business related activity with an external employer.  Prerequisites: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 4315",
+            "course_name": "International Trade Operations",
+            "course_desc": "This course examines the basics of international trade operations, focusing on the procedures, documentation, and regulation pertaining to export and import operations from the prespectives of exporters, importers, and various intermediaries. Prerequisites: MGT 3375 and MKT 4310 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 5100",
+            "course_name": "Business Professional Development Seminar",
+            "course_desc": "This course is designed to contribute to the development of the business professional. Academic content is supplemented by training in soft skill topics to better prepare the students for a successful business career.  Repeatable for credit with different topic.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "B A 5351",
+            "course_name": "Organizational Performance and Competitive Advantage",
+            "course_desc": "This course is designed to provide an integrative understanding of the firm. A variety of organizational models and perspectives will be incorporated to facilitate understanding of the complexities of the firm, its environments, and its relationships with stakeholders. Includes focus on case analysis issues and communication skills.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 5353",
+            "course_name": "Understanding and Analyzing Organizational Problems",
+            "course_desc": "An introduction to the concepts of economic theory and optimization, with an emphasis on developing skills in data and economic analysis to solve business problems. Coverage includes prices, costs, market structures, macroeconomic policies, and optimization. Corequisite: B A 5351 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 5368A",
+            "course_name": "MBA Full Time Cohort International Experience",
+            "course_desc": "This course will focus on developing an understanding and analysis of issues related to business challenges in another country.  Students will gain first-hand experience with the business practices, culture and economy of another country.   Corequisite: MGT 5313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 5396",
+            "course_name": "Internship in Business Administration",
+            "course_desc": "This course is based on experiential learning while the student works in business administration. Students will integrate both professional and academic experiences through the internship with an external employer. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 5398",
+            "course_name": "Independent Study in Business Administration",
+            "course_desc": "This course focuses on individual in-depth research. Students, in consultation with a faculty member, choose a selected area of study in business administration and work independently on a specialized project. Course may be repeated with approval of associate dean for graduate programs. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7199",
+            "course_name": "Dissertation",
+            "course_desc": "This course consists of original research and writing in business administration to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "B A 7299",
+            "course_name": "Dissertation",
+            "course_desc": "This course consists of original research and writing in business administration to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "B A 7301",
+            "course_name": "Business Research Foundations",
+            "course_desc": "This course introduces students to research design theory, methodology, and its application in empirical business research. It focuses on both theoretical comprehension of research methods and practical skills for conducting research. The primary aim is to equip students with essential knowledge and skills for designing and evaluating research projects. Topics taught include positivism vs. interpretivism, quantitative and qualitative research distinctions, critical research literature evaluation, formulating research questions, study design, and effective findings communication. This course lays the groundwork for students to conduct rigorous and impactful research within business administration.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7302",
+            "course_name": "Business Research Methods I",
+            "course_desc": "This course provides a comprehensive introduction to quantitative research methodologies, focusing on the application of statistical tools for construct measurement, sampling techniques, regression analysis, multivariate statistics, and structural equation modeling. Through a systematic exploration of these key areas, students will develop the skills necessary to analyze and interpret quantitative data. The course equips participants with the knowledge to apply these methods in various academic and professional fields, emphasizing the critical role of quantitative analysis in informed decision-making. Corequisite: B A 7301 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7303",
+            "course_name": "Business Research Methods II",
+            "course_desc": "This course will introduce qualitative research methods (e.g. case study, action research, ethnography, grounded theory) to conduct applied qualitative research. The course will focus on understanding the practical application of the methods and tools and techniques to conduct applied qualitative research. Prerequisite: B A 7301 and B A 7302 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7304",
+            "course_name": "Business Analytics Research",
+            "course_desc": "This course will introduce data-driven, evidence-based approaches to decision making. Topics include use of data analytic tools for data manipulation and the development of diagnostic, predictive, descriptive, and prescriptive analytics models. Prerequisite: B A 7301 and B A 7302 and B A 7303 all with grades \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7305",
+            "course_name": "Applied Econometrics",
+            "course_desc": "This course provides middle- and upper-level business professionals with a diverse set of econometric, statistical, and forecasting tools, enabling them to adeptly handle complex business problems and make well-informed business decisions. We will apply a wide range of advanced statistical methods to explore the patterns of empirical data and make inferences and predictions about business decisions. Emphasis will be given to the proper use of different econometric methodologies and the interpretations of estimation results. Topics covered include simple and multiple linear regressions, hypothesis testing, model diagnosis, discrete outcome models, regressions with time series data, and panel data models.  Prerequisite: B A 7301 and B A7302 and B A 7303 and B A 7304 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7306",
+            "course_name": "Experimental Design and Survey Methods",
+            "course_desc": "This course will focus on the methods and applications of survey, quasi-experimental and experimental research methods. Topics will include construct development, hypotheses development, research design (e.g. factorial designs), instrument design (e.g. manipulations), statistical techniques for analyzing data, interpreting results and ethical considerations. Prerequisite: B A 7301 and B A 7302 and B A 7303 all with grades of a \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7310",
+            "course_name": "Organizational Behavior and Group Dynamics",
+            "course_desc": "This course will focus on the structure and behavioral dynamics of complex organizational systems, particularly as they relate to small groups. Students will review extant research that may include systems theory, change management, stages of group development, intragroup/intergroup behavior, sources of power and influence, effective group facilitation, optimization of group performance, and management of virtual groups.    Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7311",
+            "course_name": "Analysis of Corporate Policy",
+            "course_desc": "This course will focus on measurement and analysis of an integrated view of corporate operations within an organization. This course will also provide the tools to frame opportunities and challenges and gain actionable frameworks for defining and driving innovative corporate strategies for sustainable growth. Students will review extant research on corporate policy development and the behavioral effects of policy and innovation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7312",
+            "course_name": "Global Business Issues",
+            "course_desc": "This course provides a rigorous foundation for managing an enterprise that operates in a global economy. This course integrates global economic issues module and global strategic issues module to provide a comprehensive understanding of macroeconomic concepts and models for analyzing the global environment in which managers of the multi-national enterprises need to make business decisions and develop strategies for diversification, vertical integration, global expansions, etc. The role of technology, supply chain, and government policies in affecting the economic and business conditions will be assessed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7313",
+            "course_name": "Decision Making under Uncertainty",
+            "course_desc": "This course examines how decisions are made under conditions of uncertainty. It introduces methods used by policymakers, managers, and analysts to support decision-making, and discusses the concepts of decision making under uncertainty. Students will learn how to model complex business problems that involve uncertainty and risk using various methods. The course covers analytical models such as Inductive Judgment, Heuristics and Decision-making, Inferential Reasoning, Decision Tree, Stochastic Optimization, Simulation & Optimization, and Dynamic Optimization. Examples are drawn from a variety of industries (e.g., transportation, energy, health care, manufacturing, supply chain management) where decision making methods provide value. Prerequisite: B A 7301 and B A 7302 and B A 7303 and B A 7304 and B A 7305 and B A 7306 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7351",
+            "course_name": "Research Seminar in Analytics",
+            "course_desc": "This course provides students with the opportunity to learn about applied research in analytics by interacting directly with the leading scholars and practitioners in the field. Students will also read and discuss some of the founding works in analytics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7353",
+            "course_name": "Strategic Marketing Analysis and Applications",
+            "course_desc": "This course focuses on topics pertaining to marketing strategy, such as value creation, marketing capabilities, buyer-seller relationships, branding, marketing mix, sales force and channel relationships, market performance, and competitive advantage. Emphasis will be on evaluating and applying theory, frameworks, research methodologies, and analytical techniques to develop insights on complex marketing problems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7354",
+            "course_name": "Natural Language Processing in Business and Finance",
+            "course_desc": "This course will focus on large language models and their applications in financial markets. Students will review the algorithms most used in natural language processing and how they are impacting financial markets, from chatbots to investment advice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7355",
+            "course_name": "Accounting Analytics for Decision Making",
+            "course_desc": "This course will focus on concepts and issues for using data analytics in accounting-related decision making. Students will learn about the optimal strategies for using data in complex business judgments Particular emphasis will focus on judgments related to ensuring accurate financial reporting.  Students will leverage this understanding when using software packages to analyze business data.  Topics will include fraud detection techniques, process mining for internal control evaluation, spatial modeling, and decision-trees.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7356",
+            "course_name": "Human Resource Management Analytics",
+            "course_desc": "This course will provide the foundation for applied research in human resource analytics.  Students will apply statistical models to modern human resource issues and develop prescriptive plans for dealing with situations that generate such data.  Additionally, the course will cover conceptual issues of concern to human resource professionals and challenges pertaining to the management of human capital. Prerequisite: B A 7301 and B A 7302 and B A 7303 all with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7360",
+            "course_name": "Dissertation Design and Proposal",
+            "course_desc": "The purpose of this course is to prepare students for their dissertation proposal. Students identify an original, business-relevant research question, review the relevant literature, develop hypotheses, determine appropriate research methods to evaluate the research question, and learn how to manage the writing process. As a result, the framework of a dissertation proposal is developed. Additionally, a dissertation committee is formed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "B A 7399",
+            "course_name": "Dissertation",
+            "course_desc": "This course consists of original research and writing in business administration to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "B A 7599",
+            "course_name": "Dissertation",
+            "course_desc": "This course consists of original research and writing in business administration to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "B A 7699",
+            "course_name": "Dissertation",
+            "course_desc": "This course consists of original research and writing in business administration to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "B A 7999",
+            "course_name": "Dissertation",
+            "course_desc": "This course consists of original research and writing in business administration to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

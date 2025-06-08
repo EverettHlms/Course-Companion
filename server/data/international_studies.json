@@ -1,0 +1,70 @@
+{
+    "name": "International Studies",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/is/",
+    "courses": [
+        {
+            "course_code": "IS 4380",
+            "course_name": "International Studies Seminar",
+            "course_desc": "A senior-level seminar that explores international topics through reading, writing, research and group discussion. Students will be expected to produce a significant research paper. This course is required for all International Studies majors and should be taken in the senior year of undergraduate study. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IS 4387",
+            "course_name": "International Studies Internship",
+            "course_desc": "A semester-long work and study experience in a local, national, or foreign setting. Internships must be approved by the director of the Center for International Studies. May be repeated for credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IS 4388",
+            "course_name": "Diplomacy Seminar",
+            "course_desc": "This course is a senior-level seminar which explores overarching topics in Diplomacy, including intelligence, negotiation, speech and report writing, protocol, and media and risk management, through reading, writing, research and group discussion. This course is a required capstone for all Diplomacy minors and should be taken in the last semester of minor coursework. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IS 4390",
+            "course_name": "Problems in International Studies Research",
+            "course_desc": "The instructor and student create an in-depth research project on a topic of interest to both participants.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IS 4687",
+            "course_name": "International Studies Internship",
+            "course_desc": "A semester long work and study experience in a local, national, or foreign setting. Internships must be approved by the director of the Center for International Studies. Repeatable once for credit. Prerequisite: Minimum 3.0 Texas State GPA.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IS 5387",
+            "course_name": "International Studies Internship",
+            "course_desc": "A work/research experience in a government agency or company related to the students career interests. The internship will consist of a minimum of 150 hours in the workplace and will require a research paper. This course may be repeated once for additional internship credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "IS 5390",
+            "course_name": "Problems in International Studies Research",
+            "course_desc": "The instructor and student create an in-depth research project on a topic of interest to both participants.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IS 5398",
+            "course_name": "General Research Methods",
+            "course_desc": "The principal purpose of the General Research Methods seminar is to prepare students to successfully produce research papers and/or theses. Students in this course will produce a research paper using primary and secondary source materials.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

@@ -1,0 +1,510 @@
+{
+    "name": "Education",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ed/",
+    "courses": [
+        {
+            "course_code": "ED 7199A",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Education-Adult, Professional and Community Education, to be accomplished under direct supervision on the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ED 7199B",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Education-School improvement, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously\nenrolled.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ED 7299A",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Education-Adult, Professional and Community Education, to be accomplished under direct supervision on the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ED 7299B",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Education-School improvement, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously\nenrolled.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ED 7310",
+            "course_name": "Instructional Roles in Counseling, Leadership, Adult Education & School Psychology",
+            "course_desc": "This seminar is intended to prepare graduate teaching and instructional assistants in the CLAS Department to function effectively in various instructional and instructional support roles.  Required for first-year teaching assistants and GIAs. This course does not earn graduate degree credit.  Repeatable with different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ED 7311",
+            "course_name": "Educational Philosophy in a Social Context",
+            "course_desc": "This course examines the philosophical foundations of education from the time of Plato through current writings. It frames these foundations through the lens of educational challenges of today. Readings include classical and current writings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7312",
+            "course_name": "Leadership and Organizational Change",
+            "course_desc": "This course will familiarize students with different perspectives on organizations, different paradigms by which they might be viewed, and a survey of research done on organizations, organizational leadership and change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7313",
+            "course_name": "Advanced Studies in Adult Learning and Development",
+            "course_desc": "This advanced seminar will examine research and theoretical literature on a variety of topics including: characteristics of adult learners; models of adult cognitive and psychosocial development; adult cognition, memory, and intelligence; and principles for facilitating adult learning.  Restricted to Ph.D. in Education degree, Major in School Improvement.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7314",
+            "course_name": "Community Development for Educators",
+            "course_desc": "Examines models and methods of community development as relevant to the practice and scholarship of formal and non-formal education.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7315",
+            "course_name": "Models of Inquiry: Understanding Epistemologies",
+            "course_desc": "This course examines the philosophies informing different research epistemologies, and examples of how these can be actualized methodologically. Philosophies to be analyzed include feminism, and race-based theory.  This course will help students see the multiple possibilities for conducting research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7316",
+            "course_name": "Advanced Studies in Adult Development",
+            "course_desc": "This course examines current theories of adult development, fundamental developmental changes in adulthood, and the implications for practice in adult education.  Restricted to students admitted to the Education Ph.D. Program- APCE major or with permission of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7317",
+            "course_name": "Instructional Leadership for Organizational Change",
+            "course_desc": "This course will introduce students to the major stream of research on instructional leadership and organizational change in education while analyzing models of leadership and change from critical, systemic, and cross-cultural context lenses.  The relationship between instructional supervision, professional development, and curriculum development, with experiential applications will also be explored. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7318",
+            "course_name": "Advanced Studies in Adult Learning",
+            "course_desc": "This advanced seminar will examine research and theoretical literature on a variety of topics related to adult learning such as: characteristics and diversity of adult learners; key theories of adult learning; alternative perspectives on adult learning; intelligence, aging and wisdom; and learning in the digital age.  Restricted to students admitted to the Education Ph.D. Program  APCE major or with permission of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7319",
+            "course_name": "Foundations of Educational and Community Leadership",
+            "course_desc": "This course examines the philosophical, political, psychological, cultural, ethical, and technological foundations of educational and community leadership, with a focus on the purpose of education and history of educational and community leadership in American education and how leadership shapes teaching and learning. Some topics related to educational and community leadership to be explored include decision and policy making, school culture, schools as learning communities, the change process, action plans, and research-based school improvement models/networks.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7320",
+            "course_name": "Literature Review for Research Writing",
+            "course_desc": "In this seminar course, students conduct a careful examination of a body of literature related to a research topic in adult/professional/community/lifelong education. The literature review tests research questions in relation to what is published about a topic, discusses various positions, crafts coherent arguments and addresses knowledge gaps.  Prerequisites: ED 7352 or ED 7351, all with a grade of \"B\" or better.  Restriction: Doctoral standing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7321",
+            "course_name": "Historical and Philosophical Foundations and Contemporary Issues in Adult Education",
+            "course_desc": "Examines historical and philosophical foundations for the study and practice of adult professional, and community education in formal and non-formal settings; and contemporary issues in adult education in a learning society.    Prerequisites: Core courses or instructors permission.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7322",
+            "course_name": "Human Resource and Professional Development",
+            "course_desc": "Examines the methods, practices, and issues of facilitating learning related to occupational, professional, and volunteer roles.  Prerequisites: Core courses or instructors permission.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7324",
+            "course_name": "Problems and Strategies in Program Planning Seminar",
+            "course_desc": "Addresses principles and procedures, issues and trends, utilization of assessment, goal setting, and other effective strategies for developing learning opportunities and programs responsive to human, professional, and community needs. Prerequisites: Core courses or instructors permission.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7325",
+            "course_name": "Sociocultural Dynamics in Learning Communities",
+            "course_desc": "This course draws on interdisciplinary literature to explore social, cultural, historical, and political dynamics and its implications on education for people, organizations, and communities. This will involve an exploration of the sociocultural dynamics in learning communities through a personal lived perspective and through the ecologies of knowing framework (Guajardo et al., 2013; Guajardo et al., 2016): self, organization, and community.  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7326",
+            "course_name": "Policy and Politics as Practice",
+            "course_desc": "This course examines the historical and theoretical underpinnings informing educational policy, politics, and social justice. It addresses both the micro and macro levels of the context, values, and cultural norms guiding policy and politics as practice in a democratic society. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7327",
+            "course_name": "Education Policy Development",
+            "course_desc": "This course equips students with the skills needed to analyze the origins and consequences of existing policy and to play active roles in policy development for educational equity and social justice. Prerequisite: ED 7326 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7328",
+            "course_name": "Research and Analysis in Education Policy",
+            "course_desc": "This course engages students in a field-based educational policy research project using quantitative and qualitative techniques. Students will develop their skills to identify policy issues, gather and analyze data, and draw conclusions, and\ndisseminate findings. Prerequisites: ED 7326 and ED 7327 and ED 7351 and ED 7352, all with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7329",
+            "course_name": "Field-Based Experience in Educational Policy",
+            "course_desc": "This course provides fieldbased practice in policy analysis and development from a democratic and social justice perspective.  With guidance from a university faculty supervisor and site mentor, the student will develop and implement a policy project related to democracy and social justice. Prerequisite: ED 7328 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7331",
+            "course_name": "Foundations of School Improvement",
+            "course_desc": "Examines school improvement efforts from philosophical, political, psychological, cultural, ethical, and technological foundations.  Prerequisites: Core courses or instructors permission.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7332",
+            "course_name": "Facilitating School Improvement",
+            "course_desc": "Examines school culture, schools as learning communities, the change process, and research-based school improvement models, with experiential applications. Prerequisites: Core courses or instructors permission.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7333",
+            "course_name": "Curriculum and Instructional Leadership",
+            "course_desc": "Examines the relationship between curriculum, instructional improvement, and teacher development, with experiential applications. Prerequisites: Core courses or instructors permission.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7334",
+            "course_name": "Processes for Educational Evaluation and Analysis",
+            "course_desc": "This course focuses on the development of the requisite knowledge and skills to facilitate the evaluation and analysis of educational programs and initiatives in complex community and school settings to inform pedagogy, leadership and community development. The course includes the assessment, evaluation, and analysis of student learning at the individual, classroom, school, and system level; teacher assessment; and program assessment. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7341",
+            "course_name": "Dissertation Proposal Development",
+            "course_desc": "In this course students approaching dissertation stage meet in a seminar designed to help them clarify their research problem and develop a preliminary proposal for the dissertation. Core and concentration courses must be completed with minimum grades of \"B\" in each course prior to taking ED 7341. Prerequisites: ED 7351 and ED 7352, and ED 7353 or ED 7354, all with a grade of \"B\" or better.  Departmental approval required.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7345",
+            "course_name": "Human Resources and Instructional Management",
+            "course_desc": "This course focuses on the twin areas of human resource administration and instructional improvement. Topics addressed include legal requirements for personnel management, staff supervision, appraisal, and development,\ncurriculum planning and alignment and student assessment. Students taking the course will complete an original research project under the instructors direction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7347",
+            "course_name": "The Superintendency",
+            "course_desc": "This course addressed issues critical to superintendents in Texas. These include leadership, leadership assessment, school board relations, and other governance issues, management strategies, the role of public education in a democratic society, and professional ethics. Students taking the course will complete an original research project under the instructors direction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7349",
+            "course_name": "School Finance and Business Management",
+            "course_desc": "This course focuses on the financing of public schools. Students will examine the school budgeting process, sources of school revenues, principals of taxation, methods of school fund accounting, and techniques of business management. Students taking the course will complete an original research project under the\ninstructors direction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7351",
+            "course_name": "Beginning Quantitative Research Design and Analysis",
+            "course_desc": "Includes descriptive statistics; sampling techniques; statistical inference including the null hypothesis, significance tests, and confidence intervals; and causal-comparative analyses, including t-test and ANOVA.  Prerequisites: Core and Concentration courses or instructors permission.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7352",
+            "course_name": "Beginning Qualitative Design and Analysis",
+            "course_desc": "Introduces the qualitative paradigm. Includes distinctive features, alternative qualitative traditions, purposeful sampling, common data collection methods, inductive analysis, the role of the researcher, and evaluating qualitative\nresearch. Prerequisites: Core and Concentration courses or instructors permission.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7353",
+            "course_name": "Intermediate Quantitative Research Design and Analysis",
+            "course_desc": "This course focuses on issues in the design and implementation of quantitative research. Topics include ANOVA, ANCOVA, and MANOVA, correlation analysis, regression analysis, nonparametric tests, and relationships between experimental designs and statistical analysis techniques. Prerequisite: ED 7351 with a grade of \"B\" or better, or instructors permission.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7354",
+            "course_name": "Intermediate Qualitative Design and Analysis",
+            "course_desc": "Focuses on issues in design and implementation of qualitative research. Topics include influence of alternative traditions, literature in qualitative research, access to the field and ethical issues, researcher-participant relationships, purposeful sampling strategies, inductive analysis procedures, developing theory, and reporting research.  Prerequisite: ED 7352 with a minimum grade of \"B\", or instructors permission.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7357",
+            "course_name": "Advanced Study in Action Research",
+            "course_desc": "This course examines underlying theory, practice, skills, and issues in action research. Conducting research in the area of action research is also addressed. This course is an appropriate elective for majors in School Improvement or Adult, \nProfessional and Community Education.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7359",
+            "course_name": "Seminar in Quantitative Research",
+            "course_desc": "This course is a small group seminar that focuses on analytic strategies specific to the doctoral students dissertation topic. Examples include structural equation modeling, hierarchical linear modeling, log linear modeling, non-parametric\nanalyses, factor analysis, factorial analysis of variance, and other multivariate statistical methods.  Prerequisites: ED 7351 and ED 7353, all with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7364",
+            "course_name": "Personal, Team, and Professional Development in Education",
+            "course_desc": "This course focuses on the interconnectivity and development of individuals and teams to acquire the knowledge, skills, and dispositions needed in professional education contexts to improve educational organizations, teaching, and learning. Because of its focus on education, it is recommended only for doctoral students preparing for careers in educational settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7371",
+            "course_name": "Anthropology and Education",
+            "course_desc": "This course introduces the student to the basic concepts in anthropology and education and sketches the application of these concepts. It explores the\nresearch in anthropology and education with relevance to both K-12 schools and other, more general educational settings. The course is an appropriate elective for Education Ph.D. majors.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7378",
+            "course_name": "Problems in Education",
+            "course_desc": "Individual problems or topics will be designed and completed to emphasize selected areas of study. May be repeated for additional credit at the discretion of the program coordinator.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dual Enrollment Permitted",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7379",
+            "course_name": "Independent Study",
+            "course_desc": "Individual problems or topics will be designed and completed to emphasize selected areas of study in the Counseling, Leadership, Adult Education & School Psychology Department.  May be repeated for additional credit at the discretion of the program coordinator.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389B",
+            "course_name": "Seminar in International Educational Research: Chile",
+            "course_desc": "This course develops theoretical knowledge, methodological skills, and scholarly capacity for international educational research. It focuses on research within the complex educational environment of Chile, involving seminar components held at the university and research fieldwork in Chile. International research is framed as a form of service learning. Restricted to students in the PhD in Education program.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389C",
+            "course_name": "Advanced Theory in Qualitative Research",
+            "course_desc": "This course features advanced study in qualitative research methods.  The course studies such methods as ethnography, case study, phenomenology, narrative analysis, post-qualitative research, grounded theory, or more advanced qualitative research in general and their constitutive field techniques.  Prerequisites: Introduction to Qualitative Research and Intermediate Qualitative Research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389D",
+            "course_name": "Advanced Theory in Qualitative Research: Narrative Research",
+            "course_desc": "The purpose of this course is to explore the possibilities of narrative research.  The course will provide an overview of narrative inquiry, look at various theories and corresponding examples of research, and explore, analyze, and interpret data using narrative methods.  Prerequisites: Introduction to Qualitative Research and Intermediate Qualitative Research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389E",
+            "course_name": "Mexican Perspectives on Mexico - US Immigration",
+            "course_desc": "The course gives U.S. educators an understanding of Mexican to U.S. immigration from Mexican womens perspectives.  Students will read background information and visit Mexico where through lectures, field interviews, and field visits, they will view immigration from the other side.  They will analyze and write up data when they return. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389H",
+            "course_name": "Oracy and Language Expression for Educators",
+            "course_desc": "This course focuses on the theory and practice of language expression. It emphasizes the relationship between audience analysis, speaker goals, organized outlines, delivery and development of personal style of presentation skills. The course offers direct experience writing, delivering, and constructively evaluating public speeches in a variety of educational contexts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389I",
+            "course_name": "Comparative Studies in International Adult Education",
+            "course_desc": "This course compares a model of adult learning, communities of practice (CoP) today with its practice in pre-historical times. It will involve international travel and working with scholars to contrast theory and practice in the United States with the new setting. Students from both contexts will be encouraged to present their work in a conference format.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389L",
+            "course_name": "Writing for Publication",
+            "course_desc": "Students will hone their writing skills.  Students will work individually and in groups, getting feedback from other students and the instructor.  Topics include APA style, getting started, first drafts, polishing and tightening, re-writing, submitting a manuscript, responding to feedback/reviews and more.  Restricted to masters' and doctoral students.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389M",
+            "course_name": "Shifting Demographics in Texas: Exploring Education, Democracy and Healthy Communities",
+            "course_desc": "Students will explore the shifting population in Texas through multiple frames including historical, sociological, anthropological and political. Class will canvas the literature and emerging community conditions as a vehicle for imagining possible theoretical, policy and local responses to the conditions we see in schools and local communities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389O",
+            "course_name": "Educational Privatization: Policies, Actors, and Effects",
+            "course_desc": "This course interrogates the origins and outcomes of educational privatization. In this course, students will review the foundations of education as a public good, study frameworks and theories of privatization, trace public policies promoting privatization, delineate types of educational privatization over time, and examine the actors involved in educational privatization.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389P",
+            "course_name": "International Comparative Adult, Community, and Higher Education Research and Study: Italy",
+            "course_desc": "This course develops theoretical knowledge, methodological skills, and scholarly capacity for educational research. It focuses on comparative adult, higher, and socio-cultural education within the complex educational environment of Italy, involving seminar components held at the university and research fieldwork and presentation in Italy.  Prerequisite: Should the student not be able to participate in the international component of the course, a domestic alternative can be discussed prior to enrollment.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389Q",
+            "course_name": "Schools, Communities and Race in a Democratic Society",
+            "course_desc": "The class explores race through a personal lived perspective. This class will view race as a social construct. Students will interrogate the phenomena of race through multiple lens and frames, including but not limited to, an ontological perspective, its use in organizations, and its use in re-segregating society.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389R",
+            "course_name": "Understanding the Self:  Anatomy of Engaged Scholarship",
+            "course_desc": "Successful leadership in school settings requires an understanding of human behavior. This understanding begins with knowledge of self and leads to the understanding of others at the micro and macro levels. The focus of this course is on you, the learner, and your surroundings. The goal is to enhance the students self-awareness of values, beliefs, attitudes and the ecological context informing and impacting their school leadership experience. This understanding will inform the past, but also begin to inform your future as you matriculate through your course work. We will employ interdisciplinary literature to inform this work.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389S",
+            "course_name": "Feminist and Critical Thought in Education",
+            "course_desc": "Feminist and Critical thought provides a means to examine and understand how issues of power shape and impact cultures, societies, and their associated policies and practices. In this seminar, students will engage with varying feminist and critical perspectives, frameworks, theories, epistemologies and methodologies to consider their application in examining their own educational journeys as well as current and systemic issues in education. Course readings and materials will primarily draw from the work of seminal and minoritized feminist and critical scholars, while providing students an opportunity to identify and explore course readings and materials of their choice as well.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7389T",
+            "course_name": "LGBTQIA+ Issues in Educational Leadership",
+            "course_desc": "This course examines the intersectionality of gender identity, sexual orientation, and other identities within the educational context, offering a nuanced exploration of the social, legal, and psychological aspects that influence LGBTQIA+ experiences in schools. Participants will engage in critical discussions on policy development, cultural competence, and leadership strategies that promote diversity, equity, and inclusion. The course is designed to address the unique challenges and opportunities facing educational leaders in fostering inclusive and affirming environments for LGBTQIA+ individuals.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ED 7399A",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Adult, Professional, and Community Education, to be accomplished under direct supervision of the dissertation advisor. While\nconducting dissertation research and writing, students must be continuously enrolled each semester (including summer) for at least three dissertation hours.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dual Enrollment Permitted",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ED 7399B",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in School Improvement, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation\nresearch and writing, students must be continuously enrolled each semester (including summer) for at least three dissertation hours.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dual Enrollment Permitted",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ED 7599A",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Education-Adult, Professional and Community Education, to be accomplished under direct supervision on the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ED 7599B",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Education-School improvement, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously\nenrolled.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ED 7699A",
+            "course_name": "Dissertation",
+            "course_desc": "The student conducts original research and writing in Adult, Professional, and Community Education, guided by the direct supervision of the dissertation chair.\nWhile conducting dissertation research and writing, students must be continuously enrolled.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ED 7699B",
+            "course_name": "Dissertation",
+            "course_desc": "Students produce a dissertation under direct supervision of dissertation advisor. While conducting dissertation research and writing, students must be continuously\nenrolled.  Prerequisites: Core, Concentration, and Methodology courses or instructors permission.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ED 7999A",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Education-Adult, Professional and Community Education, to be accomplished under direct supervision on the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ED 7999B",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Education-School Improvement, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously\nenrolled.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

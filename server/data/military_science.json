@@ -1,0 +1,94 @@
+{
+    "name": "Military Science",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ms/",
+    "courses": [
+        {
+            "course_code": "MS 1000",
+            "course_name": "Leadership Laboratory",
+            "course_desc": "This course concentrates on practical leadership training. Must be taken concurrently with all other MS courses. Repeatable for credit with different emphasis.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MS 1211",
+            "course_name": "Foundations of Officership",
+            "course_desc": "This course introduces the Army profession and the role of the commissioned officer. It focuses on leadership, ethics and military customs as well as practical skills like physical fitness and stress management. Corequisite: MS 1000 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MS 1212",
+            "course_name": "Basic Leadership",
+            "course_desc": "This course is designed to broaden the introduction to the Army and the skills needed to be a successful Army officer. It focuses on leadership, communication and problem solving as well as nutrition and personal development. Corequisite: MS 1000 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MS 2211",
+            "course_name": "Individual Leadership Studies",
+            "course_desc": "This course is designed to develop the students self-confidence, leadership skills and problem solving abilities. It focuses on critical thinking, communication and conflict resolution skills.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MS 2212",
+            "course_name": "Leadership and Teamwork",
+            "course_desc": "This course focuses on self-development guided by group processes. Experiential learning activities are designed to challenge current beliefs, knowledge and skills. This course also provides equivalent preparation for the ROTC Advanced Course and the Leaders Training Course.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MS 2313",
+            "course_name": "American Military Studies and Battle Analysis",
+            "course_desc": "This course is designed to study Military History as it applies to the principles of war and current military doctrine. Students will analyze historical battles and lessons learned and apply them to the modern battlefield. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MS 3311",
+            "course_name": "Leadership and Problem Solving I",
+            "course_desc": "This course is designed to enable a student without prior military experience to rapidly integrate into the cadet battalion and perform successfully. Key elements are introduction to physical fitness, how to plan and conduct training, basic tactical skills and military reasoning.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MS 3312",
+            "course_name": "Leadership and Problem Solving II",
+            "course_desc": "This course is designed to enable a student without prior military experience to rapidly integrate into the cadet battalion and perform successfully. Key elements are introduction to physical fitness, how to plan and conduct training, basic tactical skills and military reasoning.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MS 4311",
+            "course_name": "Leadership and Management",
+            "course_desc": "This course is designed to help cadets make informed career decisions and it continues their education in Army operation, training management, communications and leadership. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MS 4312",
+            "course_name": "Officership",
+            "course_desc": "This course focuses on completing the transition from cadet to lieutenant. It includes a basic foundation of military law, skills and information on leadership and military science, application and demonstration of knowledge and mastery of military skills reasoning. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MS 4313",
+            "course_name": "Independent Study in Military Science",
+            "course_desc": "This course will be designed to meet the needs of the individual student. It will be a directed and closely monitored program targeted at the students weaknesses/interests. The course will primarily deal with topics pertinent to the military profession; such areas as leadership, management, ethics, law and their application. Course will require week/bi-weekly progress review with instructor. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

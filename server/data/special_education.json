@@ -1,0 +1,366 @@
+{
+    "name": "Special Education",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/sped/",
+    "courses": [
+        {
+            "course_code": "SPED 2360",
+            "course_name": "Survey of Exceptionalities",
+            "course_desc": "Course provides for the examination of types, characteristics, and causes of various exceptionalities; identifies federal laws as they relate to various populations; and serves as an introduction to the education of exceptional students in the home, school, and community. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 3338",
+            "course_name": "Educating Students with Emotional/Behavioral Disorders",
+            "course_desc": "This course addresses topics associated with teaching students with emotional/behavioral disorders. Content includes an overview of definitions and characteristics, etiological factors, assessment for diagnosis and intervention planning, treatment options, including methods and materials for effective instruction, collaborative interagency services, and current issues. (MULT) Prerequisites: If SPED 2360 is taken prior to this course, students must have earned a \"C\" or better. Corequisites: SPED 2360.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 3390",
+            "course_name": "Assessing Students with Disabilities",
+            "course_desc": "The course provides information about formal and informal assessment for the identification of cognitive aptitude; academic achievement; social, emotional, and motor development; and includes implications of these results for instruction or remediation. (MULT) Prerequisites: SPED 4345 with grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 4310",
+            "course_name": "Independent Study in Special Education",
+            "course_desc": "This course is an-depth study of selected topics of current interest in special education. Coursework is completed on an independent study basis with a faculty member and available only with permission of program. (MULT) Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 4340",
+            "course_name": "Evidence-Based Instructional Practices for Students with Mild or Moderate Disabilities",
+            "course_desc": "This course delineates evidence-based instructional theories and practices for students with mild or moderate disabilities and targets curricular and instructional design for students who need specialized methods for successful learning.  Topics include curriculum-based measurement and progress monitoring, evidence-based strategies matched to presenting characteristics, and evidence-based inclusion models. (MULT) Prerequisite: SPED 2360 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 4344",
+            "course_name": "Educating Students with Mild Disabilities",
+            "course_desc": "Course provides information about modifications for students with mild disabilities. Characteristics of special education categories discussed with primary emphasis on learning disabilities. Role of classroom management and classroom teachers role with students with mild disabilities addressed. Methods for individualizing instruction under a variety of classroom conditions presented. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 4345",
+            "course_name": "Teaching Language Arts to Students with Disabilities",
+            "course_desc": "Course provides effective, research-based instruction for struggling readers, including basic literacy and adaptations to facilitate students access to the general education curriculum. Basic literacy content will be presented, including information about phonological awareness, word study and spelling, fluency, comprehension, and writing across content areas. (MULT) Prerequisites: SPED 2360 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 4374",
+            "course_name": "Classroom and Behavior Management Strategies for Students with Disabilities",
+            "course_desc": "Effective strategies for classroom management. Topics include: common management problems, evaluation of classroom management approaches, strategies for preventing behavior problems, teaching new behaviors, increasing desired group and individual behaviors, and positive strategies for reducing inappropriate group and individual behaviors. (MULT) Prerequisites: SPED 2360 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 4381",
+            "course_name": "Educating Students with Intellectual and Developmental Disabilities",
+            "course_desc": "This course provides an overview of student characteristics and appropriate instructional techniques pertaining to individuals with intellectual and developmental disabilities.  Techniques include specialized assessment and instructional strategies, functional curriculum development, transition planning, positive behavior supports, and assistive technologies. (MULT) Prerequisites: Must be declared as seeking All-Level Special Education teacher certification or with a Special Education minor; if SPED 2360 is taken prior to this course, students must have earned a \"C\" or better. Corequisite: SPED 2360.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 4389",
+            "course_name": "Special Education Practicum",
+            "course_desc": "This course provides opportunities for students to design and apply assessment, planning, and instructional strategies. Students may be required to instruct in one or more content areas including academic, life, social, prevocational or vocational and/or communication skills. Prerequisites: SPED 3338 and SPED 3390 and SPED 4340 and SPED 4374 and SPED 4381 all with grades of \"C\" or better and a minimum 2.75 overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n5 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5310",
+            "course_name": "Independent Study in Special Education",
+            "course_desc": "This course is an-depth study of selected topics of current interest in special education. Coursework is completed on an independent study basis with a faculty member and available only with permission of instructor. May be repeated for credit. (MULT) Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5311",
+            "course_name": "Teaching Language Arts to Students with Disabilities",
+            "course_desc": "Course provides effective, research-based instruction for struggling readers, including basic literacy and adaptations to facilitate students access to the general education curriculum. Basic literacy content will be presented, including information about phonological awareness, word study and spelling, fluency, comprehension, and writing across content areas. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5313",
+            "course_name": "Education Students with Emotional/Behavioral Disorders",
+            "course_desc": "Specific strategies and issues associated with effective instruction of students with emotional/behavioral disorders. Content includes an overview of definitions and characteristics, etiological factors, assessment for diagnosis and intervention planning, treatment options, including methods and materials for effective instruction, collaborative interagency services, and current issues. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5314",
+            "course_name": "Advanced Educational Strategies for Students with Autism",
+            "course_desc": "This course examines theories and specialized instructional strategies pertaining to the education of children and youth with Autism Spectrum Disorders. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5316",
+            "course_name": "Basic Concepts & Principles in Applied Behavior Analysis",
+            "course_desc": "This course covers the basic concepts and principles of applied behavior analysis. Topics include behavior and response class, stimulus and stimulus class, respondent and operant conditioning, reinforcement and punishment, automatic and socially mediated contingencies, extinction, stimulus control, generalization and maintenance, rule governed and contingency shaped behavior, and the verbal operants. This course is most applicable to students in the Autism/Applied Behavior Analysis concentration; those students will be given priority for enrollment. Corequisite: SPED 5333 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5317",
+            "course_name": "Introduction to Intervention in Early Childhood",
+            "course_desc": "This course provides an introduction to Early Intervention/Early Childhood Special Education. This course focuses on content related to best intervention practice for children with developmental delay and disability. Topics will include infant, toddler, and early childhood development; naturalistic developmental interventions; family-centered practices; routine-based intervention; activity-based instruction; and transdisciplinary assessment and intervention. Coverage spans core intervention areas in early intervention, such as social emotional development, language and pre-literacy, motor skills in a variety of settings for service delivery, including home, community, and center-based contexts. Issues of racial, cultural, and linguistic diversity will be emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5319",
+            "course_name": "Advanced Specially Designed Instruction for Students with Disabilities",
+            "course_desc": "This course covers advanced methods for providing specially designed instruction for students with disabilities, including dyslexia. The course presents advanced approaches on how to plan, present, and evaluate instructional sequences for students with disabilities, with a focus on how to modify lessons based on individual student needs. Prerequisite: SPED 5318 and SPED 5340 both with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5321",
+            "course_name": "Teaching Mathematics to Students with Disabilities",
+            "course_desc": "This course identifies evidence-based practices for teaching mathematics skills and concepts to students with disabilities. This course covers empirically validated instructional procedures addressing teaching mathematics to students with exceptional learning needs, emphasizing curriculum-based measurement and assessment, error analysis, selecting instructional strategies, and implementing differentiated mathematics instruction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5322",
+            "course_name": "Applied Behavior Analysis Professional Seminar",
+            "course_desc": "This course describes three primary career options for professional behavior analysts (i.e., school-based, clinical therapy, and research/PhD program) and highlights strategies for finding employment and initiating a successful first year in the field.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5324",
+            "course_name": "Ethics, Trends & Issues in Treatment of Students with Autism/Developmental Disabilities",
+            "course_desc": "This course prepares special education teachers, behavior analysts, and other professionals associated with the education and treatment of students with autism for the ethical issues encountered in schools, homes, and clinics. This course emphasizes the ethical guidelines for responsible conduct established by the Behavior Analyst Certification Board. This course is most applicable to students in the Autism/Applied Behavior Analysis concentration; those students will be given priority for enrollment. (MULT) Prerequisite: SPED 5316 and SPED 5333 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5326",
+            "course_name": "Educating Students with Mild Disabilities",
+            "course_desc": "Course provides information about modifications for students with mild disabilities. Characteristics of special education categories discussed with primary emphasis on learning disabilities. Role of classroom management and classroom teachers role with students with mild disabilities addressed. Methods for individualizing instruction under a variety of classroom conditions presented. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5327",
+            "course_name": "Educating Students with Autism and Other Developmental Disabilities",
+            "course_desc": "This course provides an overview of student characteristics and appropriate instructional techniques for individuals with developmental disabilities. Topics include specialized assessment and evidence-based practices, functional curriculum development, transition planning, medical and physical management, and assistive technologies. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5328",
+            "course_name": "Philosophy of Behaviorism",
+            "course_desc": "This course covers the philosophical assumptions that underlie the science of behavior analysis. Course topics include pragmatism, selectionism, determinism, empiricism, and parsimony as well as the history and dimensions of behavior analysis. This course is most applicable to students in the Autism/Applied Behavior Analysis concentration; those students will be given priority for enrollment. Prerequisite: SPED 5316 and SPED 5333 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5329",
+            "course_name": "Language Development and Intervention for Special Populations",
+            "course_desc": "This course covers typical and atypical language development and intervention programming for individuals with significant language delays or disorders. Topics include assessment of language and social communication, individualized program development, and specialized language interventions across settings. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5333",
+            "course_name": "Measurement and Experimental Design in Applied Behavior Analysis",
+            "course_desc": "This course covers content that allows for systematic progress monitoring and experimental analysis of data by professional behavior analysts and teachers. Topics include operational definitions of behavior, direct and indirect measurement of behavior, design and implementation of experimental designs, graphing and interpretation of data, dependent and independent variables, internal and external validity, and types and uses of various single subject research designs. This course is most applicable to students in the Autism/Applied Behavior Analysis concentration; those students will be given priority for enrollment. Corequisite: SPED 5316 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5334",
+            "course_name": "Assessment and Evaluation of Students with Disabilities",
+            "course_desc": "The course provides information about formal and informal assessment for the identification of cognitive aptitude, academic achievement, social, emotional, and motor development, as well as the implications of these results for instruction and remediation. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5336",
+            "course_name": "Behavior Assessment in Applied Behavior Analysis",
+            "course_desc": "This course is designed for individuals who will be responsible for assessment of behavior from a behavior analytic perspective. Topics will include reviewing records, documenting the need for behavior analytic services, conducting preference assessments, identifying functions of problem behavior, conducting functional assessment/analyses, and interpreting functional assessment data. This course is most applicable to students in the Autism/Applied Behavior Analysis concentration; those students will be given priority for enrollment. Prerequisite: SPED 5316 and SPED 5333 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5340",
+            "course_name": "Principles and Practices of Effective Instruction",
+            "course_desc": "This course provides study of research-based instructional theory and practices for students with disabilities.  Focus is on instructional methods and curriculum for students with disabilities in special education settings.  Topics include curricular planning, curriculum-based measurement, evidence-based strategies for facilitating student learning, and unique curricular needs of students with disabilities. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5350",
+            "course_name": "Special Education Law",
+            "course_desc": "This course will provide students with a history of special education litigation and legislation. Specifically, students will gain a deep understanding of the Individuals with Disabilities Education Improvement Act, along with other major legislation and policy governing the provision of special education services. Students will become familiar with federal statutes and regulations concerning assessment and evaluation procedures, due process and mediation, discipline, individual education plans (IEPs), free appropriate education (FAPE), and least restrictive environment (LRE).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5354",
+            "course_name": "Advanced Studies in School Discipline, Order, and Safety",
+            "course_desc": "This course provides advanced study of issues related to school discipline, order, and safety.  Topics include historical perspectives, studies of school discipline and safety, effects of school disorder, policies and practices in school discipline, disproportionality in school discipline, school-wide positive behavior supports, and trans-disciplinary and comprehensive approaches to school discipline. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5355",
+            "course_name": "Characteristics of Students with Learning Disabilities",
+            "course_desc": "This course reviews the latest research on learning disabilities in each developmental area. The focus is on identification and eligibility issues. Topics include changing definitions, medical aspects, cognition and language characteristics, personality and social characteristics, generic instructional approaches, technology, and issues in the future of learning disabilities. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5356",
+            "course_name": "Advanced Practices in Learning Disabilities/Inclusion",
+            "course_desc": "This course reviews research-based instructional strategies for students with learning disabilities, focusing on proven practices and on improving instructional decision-making across content areas and grade levels. Topics include: understanding learning disabilities, response to intervention, individualized educational plans, differentiating instruction, assessment, collaborative partnerships, and facilitating content-area instruction and study skills. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5360",
+            "course_name": "Survey of Exceptionality",
+            "course_desc": "Course provides for the examination of types, characteristics, and etiologies of various exceptionalities; identification of federal laws as they relate to\nvarious populations; and serves as an introduction to the education of exceptional students in the home, school, and community. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5375",
+            "course_name": "Behavior Management: School Application of Applied Behavior Analysis",
+            "course_desc": "Course topics include planning and utilizing behavioral techniques such as functional assessment, behavioral recording, differential reinforcement, antecedent manipulation, generalization training, and self-management. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5376",
+            "course_name": "Advanced Intervention Practices for Challenging Behavior",
+            "course_desc": "This course prepares behavior analysts, school psychologists, teachers, and other professionals responsible for the education and treatment of individuals with developmental disability and/or behavior disorders to use applied behavior analysis to treat severe problem behavior. The focus is on severe behaviors not ameliorated by typical classroom management and intervention. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5378",
+            "course_name": "Personnel & Program Supervision Management for Behavior Analysts",
+            "course_desc": "This course provides an in depth examination of best practices relative to supervision and management of both individual client programs and personnel within the field of applied behavior analysis. The course covers monitoring client progress, making data-based decisions, and collaborating with other professionals and families. Students will also learn effective staff training techniques, methods of reinforcing staff behavior and increasing staff motivation, designing group contingencies and self-management, collecting and analyzing data on staff performance, addressing challenging issues/behaviors among staff, and ethical and supervisory requirements of the Behavior Analyst Certification Board. This course is most applicable to students in Autism/ABA. Prerequisite: SPED 5316 and SPED 5333 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5380",
+            "course_name": "Positive Behavior Interventions and Supports in Schools",
+            "course_desc": "This course covers theory, issues, and applications of Positive Behavior Interventions and Supports (PBIS) in school settings. Topics include history and foundations of PBIS; PBIS assessment and evaluation; and best practices in behavior and academic interventions in PBIS programs. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5382",
+            "course_name": "Advanced Practices in Educating Students with Emotional/Behavioral Disorders",
+            "course_desc": "This course covers advanced principles, concepts, and practices related to educating students with Emotional/Behavioral Disorders. Emphasis will be on school-based services, including advanced, evidence-based instructional and behavioral interventions for improving academic, social, and behavioral outcomes. (MULT) Prerequisite: SPED 5313 and SPED 5375 both with grades of \"C\" or better. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5384",
+            "course_name": "Behavior Change Procedures & Implementing Interventions",
+            "course_desc": "This advanced course will focus on instructional strategies designed to increase appropriate behaviors as well as decrease challenging behaviors. Reinforcement strategies, extinction, group contingencies, and token systems will be covered. This course is most applicable to students in the Autism/Applied Behavior Analysis concentration; those students will be given priority for enrollment. Prerequisite: SPED 5316 and SPED 5333 with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5386",
+            "course_name": "Advanced Techniques in Applied Behavioral Analysis",
+            "course_desc": "Course covers advanced principles of Applied Behavior Analysis, including assessment and development of interventions.  Topics include foundations and ethics of ABA, the analysis of verbal behavior, functional behavior analysis, single subject design, and program development and evaluation.(MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5389",
+            "course_name": "Special Education Practicum",
+            "course_desc": "This supervised practicum focuses on design and implementation of educational programs for students with disabilities including assessment, planning, instruction, progress reporting, and development of annual goals and objectives. A student may take two of the prerequisites concurrently with SPED 5389. (MULT) Prerequisite: SPED 5311 and SPED 5313 and SPED 5314 and SPED 5340 and SPED 5355 and 5360 and SPED 5375 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n5 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5391",
+            "course_name": "Clinical Practicum in Autism Spectrum Disorders",
+            "course_desc": "This course provides intensive field experience working with students with autism. Skills to be practiced include interventions based on applied behavior analysis, assessment of learning needs, behavior function, application of instructional and behavioral interventions, and evaluation of student progress. Repeatable for credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5392",
+            "course_name": "Field Based Practicum in Behavior Disorders/Positive Behavior Supports",
+            "course_desc": "This course provides intensive field experience working with students with behavior disorders in school settings to include practices based in positive behavior supports, applied behavior analysis, assessment of learning needs and behavior function, application of instructional and behavioral interventions, and evaluation of student progress. Repeatable for credit. Prerequisite: SPED 5313 and SPED 5375 and SPED 5380 all with grades of \"C\" or better. Corequisite: SPED 5382 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5394",
+            "course_name": "Field Based Practicum in Learning Disabilities",
+            "course_desc": "This course provides intensive field experience working with students who are at-risk of or who have learning disabilities. Skills to be practiced include assessment of learning needs, instruction planning and implementation, and evaluation of student progress.  Repeatable for credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPED 5395",
+            "course_name": "Registered Behavior Technician Practicum",
+            "course_desc": "This course covers the basic concepts and principles of Applied Behavior Analysis. Topics include behavior and response class, stimulus and stimulus class, respondent and operant conditioning, reinforcement and punishment, automatic and socially mediated contingencies, extinction, stimulus control, generalization and maintenance, rule governed and contingency shaped behavior, and the verbal operants. This course includes a practicum which concludes with a Competency Assessment to become a Registered Behavior Technician.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n5 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

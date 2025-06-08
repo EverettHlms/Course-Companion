@@ -1,0 +1,238 @@
+{
+    "name": "Fashion Merchandising",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/fm/",
+    "courses": [
+        {
+            "course_code": "FM 1330",
+            "course_name": "Introduction to Fashion Merchandising",
+            "course_desc": "Survey of the fashion industry including an overview of the development, production and distribution of fashion goods and services.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 1332",
+            "course_name": "Textiles",
+            "course_desc": "A consumer-oriented study of the relationship of fibers, fabrics, and textile product end-uses.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 2330",
+            "course_name": "Aesthetics and Branding",
+            "course_desc": "The study of promotional strategies unique to the fashion industry. Emphasis is placed on techniques used at the retail level. Prerequisite: FM 1330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 2334",
+            "course_name": "Fashion Product Analysis",
+            "course_desc": "This course focuses on the study of fashion product manufacturing, including textile product quality control issues important to manufacturers, retailers, and consumers. Emphasis is placed on specifying quality based on appearance, cost, durability, and end-use of textile products. Prerequisite: FM 1330 and FM 1332 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 2337",
+            "course_name": "Global Manufacturing and Logistics",
+            "course_desc": "This course is an introduction to the global supply chain in the fashion industry with an overview of the impact of cultural, political, and economic systems on the manufacturing and logistics of fashion products. Prerequisites: FM 1330 and FM 1332 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 2338",
+            "course_name": "Fashion in Society",
+            "course_desc": "This course explores the meanings embedded in everyday appearance perceptions and management that result from environmental, socio-psychological, and cultural influences.  Course topics reflect about fashions role in the construction of the self and how appearances shape one's experience in society. Also included is a critical examination of how these meanings influence clothing consumption practices (e.g., buying, using, disposing), which have implications for sustainability concerns associated with the fashion system. An opportunity is provided to connect the theoretical underpinnings of dress to consumption phenomena, from consumerism to minimalism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 3320",
+            "course_name": "Special Events Planning",
+            "course_desc": "This course is an in-depth study of selected topics and emerging issues related to the planning of special events. Course emphasis will be on planning, organizing, implementing and evaluating special events. Prerequisite: FM 2330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 3330",
+            "course_name": "Fashion Buying Principles I",
+            "course_desc": "Quantitative concepts used in merchandising fashion goods with an emphasis on profitability. Prerequisite: FM 2337 and [MATH 1315 or MATH 1316 or MATH 1319] both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 3332",
+            "course_name": "Fashion Promotional Strategies II",
+            "course_desc": "The study of promotional strategies unique to the fashion industry. Emphasis is placed on techniques initiated by manufacturers and wholesalers of fashion products. Prerequisites: FM 2330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 3333",
+            "course_name": "Merchandise Presentation and Planning",
+            "course_desc": "This course is designed to apply critical thinking skills within the context of retail store space planning and presentation, product category management, and merchandise allocation for a variety of retail business types. Prerequisite: FM 2330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 3334",
+            "course_name": "Fashion Merchandising Administration",
+            "course_desc": "The study of human resource management in the fashion industry including recruitment, development, assessment, and compensation. Prerequisite: FM 1330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 3335",
+            "course_name": "History of Fashion",
+            "course_desc": "This course is a survey of textiles, dress and adornment from pre-history through the ancient Eastern and Middle Eastern cultures to the development of Western civilization ending with the Industrial Revolution.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 3336",
+            "course_name": "Modern Fashion Trends",
+            "course_desc": "This course is a chronological study of fashion, dress and adornment from the Industrial Revolution through modern times.  Emphasis in the course is on the socio-economic, political, and technological factors contributing to the evolution of fashion.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 3337",
+            "course_name": "Fashion Social Media",
+            "course_desc": "This course focuses on the management of social media to communicate and sell fashion products. Students measure and evaluate the influence of social media decisions on fashion consumers in order to design fashion-based social media campaigns that meet the needs of social media producers and consumers. Prerequisite: FM 2330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4101",
+            "course_name": "Special Problems in Fashion Merchandising",
+            "course_desc": "A study of selected areas of Fashion Merchandising. Repeatable for credit with different emphasis.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4301",
+            "course_name": "Internship in Fashion Merchandising",
+            "course_desc": "This course is an Internship in Fashion Merchandising-related professions focused on production, distribution, or retailing of fashion goods, or auxiliary services. Repeatable for credit once. Prerequisite: FM 3334 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4302B",
+            "course_name": "Specialty Fashion Markets",
+            "course_desc": "An in-depth study of specialty fashion markets including historic background; significance of the market; terminology; product assortment, development, production and distribution; and trend analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4302G",
+            "course_name": "Creative Problem Solving",
+            "course_desc": "An in-depth study of selected topics or emerging issues of particular relevance to Fashion Merchandising professionals. Course may be repeated for credit with a different emphasis. Prerequisite: [FM 1332 or ID 2325 or NUTR 1362] with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4302H",
+            "course_name": "Digital Fashion Marketing",
+            "course_desc": "This course introduces students to the marketing strategies used to sell fashion products in the digital environment. It examines the analytical tools and strategies used in e-commerce, including online advertising, search marketing, email marketing, website optimization, and web analytics for online stores.  Prerequisite: FM 1330 and FM 2330 and FM 3330 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4320",
+            "course_name": "Fashion Merchandising in Domestic Markets",
+            "course_desc": "An on-site study of domestic fashion market centers. Course examines the design, production, and distribution of fashion products and services at various market levels. Repeatable for credit with different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4331",
+            "course_name": "Fashion Buying Principles II",
+            "course_desc": "This course is a study of the fashion merchandise buyer, planner, and allocator roles emphasizing retail merchandising functions. These include developing merchandise plans, selecting products, and negotiating terms. Using best-practice industry software, students will analyze merchandising data to manage inventory levels, and evaluate performance of sales and profit. Prerequisite: FM 3330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4333",
+            "course_name": "Advanced Merchandise Planning and Presentation",
+            "course_desc": "This course is an advanced study of category management strategies with an emphasis on recognizing and evaluating performance date in space planning. This capstone course focuses on creating visual displays based on product selection and projected profit and sales.  Prerequisite: FM 3333 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4334",
+            "course_name": "Fashion Product Development",
+            "course_desc": "The course focuses on fashion product development for target markets.  Emphasis of the course is placed on line development, product specification, color and textile selection, sizing, product costing and the use of industry product life-cycle management software. Prerequisite: FM 1332 and FM 2330 and FM 2334 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4335",
+            "course_name": "Principles of Fashion Consumption",
+            "course_desc": "This course focuses on the analysis of variables, concepts and theories related to the role of the consumer in fashion and fashion product consumption. Prerequisite: FM 2335 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4337",
+            "course_name": "Fashion Merchandising",
+            "course_desc": "The study of managerial decisions in fashion retailing with an emphasis on operational issues. Prerequisite: FM 1330 and FM 2330 and FM 3330 and FM 3334 all with grades of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4338",
+            "course_name": "Enterprise Development",
+            "course_desc": "Principles and procedures used in creating successful enterprises to meet consumer demand, including consumer research, logistical issues, and strategic planning. Examines various product and service offerings in traditional and non-traditional outlets.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4339",
+            "course_name": "Fashion Economics",
+            "course_desc": "Economic perspective of textile products, production and global sourcing with emphasis on U.S. fashion industries. (WI) Prerequisite: [FM 1330 and FM 1332 both with grades of \"C\" or better] and [ECO 2301 or ECO 2314 or ECO 2315 with a grade of \"D\" or better].",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4340",
+            "course_name": "Fashion Merchandising in International Markets",
+            "course_desc": "Study of Fashion Merchandising topics in international settings. Emphasis will be placed on market differences and cultural awareness, and the implications within Fashion Merchandising professions. Repeatable for credit with different emphasis. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FM 4391",
+            "course_name": "Independent Study in Fashion Merchandising",
+            "course_desc": "Independent reading and/or research on a specific topic related to students primary area of interest. Work may consist of research, reviews, and integration of existing literature or other appropriate independent work. May be repeated once for credit with approval of instructor. (WI) Prerequisite: FM 1330 with a grade of \"D\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

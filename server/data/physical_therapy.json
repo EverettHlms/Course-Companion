@@ -1,0 +1,318 @@
+{
+    "name": "Physical Therapy",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/pt/",
+    "courses": [
+        {
+            "course_code": "PT 7114",
+            "course_name": "Professional Issues",
+            "course_desc": "This course serves as an introduction to the historical, current, and future issues faced by the physical therapy profession and to the need for lifelong professional development.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7116",
+            "course_name": "Health Promotion and Wellness in Physical Therapy I",
+            "course_desc": "This course will include an in-depth investigation of the concepts of health promotion and wellness and, based on evidence, their relationship to each other and to health and wellness outcomes.  The role of, theories of, and interventions for behavior change will be explored as tools to promote health and well-being.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7125",
+            "course_name": "Clinical Decision Making I",
+            "course_desc": "This course introduces students to a systematic method of clinical decision making for patient management in physical therapist practice, including examination, evaluation, intervention, communication, and documentation in a patient-centered context. Students will consider physical, psychosocial, cultural, environmental, and ethical factors in making decisions for patient case studies including the clinical application of pain neuroscience education.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7130",
+            "course_name": "Clinical Education Orientation",
+            "course_desc": "This course provides an orientation to the requirements of the clinical education course sequence including patient education as well as the legal, ethical and professional requirements of physical therapy practice.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7135",
+            "course_name": "Clinical Decision Making II",
+            "course_desc": "In this course, students apply a systematic method of clinical decision making to adult and pediatric patients with a variety of diagnoses using case studies. Students apply a systematic approach to ethical decision-making and gain insight into the physical therapist and physical therapist assistant team. This course includes application of pain science and an introduction to motor behavior.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7150",
+            "course_name": "Directed Clinical Experience",
+            "course_desc": "This course is a structured clinical experience in which the student will demonstrate the application of knowledge and clinical skills acquired during didactic coursework in the clinical environment. This course is completed in the Texas State Physical Therapy Clinic. This course is repeatable for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n15 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7155",
+            "course_name": "Clinical Decision Making III",
+            "course_desc": "This course prepares students to apply a systematic method of clinical decision making to the geriatric patient. Students will consider physical, psychosocial, cultural, environmental, and ethical factors in making decisions for geriatric patient based on case studies. The course includes application of pain science for chronic pain and discussion of patient-centered end-of-life decisions.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7157",
+            "course_name": "Research in Physical Therapy III",
+            "course_desc": "This course is a continuation of the DPT research sequence that culminates in a supervised project to analyze outcomes in a defined area of clinical practice.  Prerequisite: PT 7327 and PT 7347 and instructor approval.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7165",
+            "course_name": "Clinical Decision Making IV",
+            "course_desc": "This course uses a body systems approach for students to apply previously learned knowledge and skills for differential diagnosis in the context of clinical decisions about when and how a referral to a physician or other healthcare provider is necessary. Students will identify warning signs (red flags) and urgent or life-threatening situations which require a referral to a medical specialist.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7176",
+            "course_name": "Health Promotion and Wellness in Physical Therapy II",
+            "course_desc": "The role of the physical therapist in health promotion, wellness, and prevention at the community and population levels will be explored.  Using the framework of a social ecological model, strategies for community assessment and prevention of disease and disability related to movement will be performed through service learning activities.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7190",
+            "course_name": "Independent Study in Physical Therapy",
+            "course_desc": "An in-depth independent study of a singular problem or related problem in the dynamic field of physical therapy and health care. Emphasis will be on the relevance of the problem and the value to the participant. May be repeated twice for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PT 7197",
+            "course_name": "Research in Physical Therapy IV",
+            "course_desc": "This course is a continuation of the DPT research sequence that culminates in a supervised project to analyze outcomes in a defined area of clinical practice. The course includes completion of data collection and analysis for an oral presentation and final paper. Completion of this last course is required for graduation.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7211",
+            "course_name": "Anatomy I: Structural Anatomy",
+            "course_desc": "This course is an introduction to the structure and function of the human body with emphasis on the skeletal, muscular, nervous, and integumentary systems. Content includes basic neurological screening and an introduction to palpation of the human body, embryology, and vasculature.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7231",
+            "course_name": "Anatomy II  Spine",
+            "course_desc": "Study of static and dynamic aspects of the vertebral column and skull including bony landmarks, muscular, ligamentous attachments, and blood and nerve supply\nwill be studied through lecture, lab, dissection of human cadavers, and independent study.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7241",
+            "course_name": "Anatomy III - Lower Extremity",
+            "course_desc": "This course is an in-depth study of the static and dynamic aspects of the lower extremity including bony landmarks, muscular/ligamentous attachments, and blood/nerve supply.  These topics will be studied through lecture, lab, dissection of human cadavers, and independent study.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7251",
+            "course_name": "Anatomy IV - Upper Extremity",
+            "course_desc": "Study of static and dynamic aspects of the upper extremity including bony landmarks, muscular, ligamentous attachments and blood and nerve supply studied through lecture, lab, dissection of human cadavers, and independent study.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7263",
+            "course_name": "Body Systems III  Diagnostics",
+            "course_desc": "This course presents pharmacology and diagnostic imaging  as related to physical therapist practice. Content emphasizes expected and adverse effects of selected medications and documentation of results of medical imaging procedures.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7268",
+            "course_name": "Advanced Therapeutic Interventions",
+            "course_desc": "This course provides expansion of clinical reasoning and intervention skills for neuromusculoskeletal impairments. Advanced clinical cases, including pediatric, adult neurological and orthopaedic impairments, afford students the opportunity to hone manual and handling skills, utilize advanced forms of exercise and incorporate pain science in comprehensive patient treatment.  Prerequisite: PT 7428 with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7274",
+            "course_name": "Current Issues in Physical Therapy",
+            "course_desc": "Current issues that are not required by accreditation and/or that are not included in other courses are presented in this course to ensure students are prepared for success in full-time clinical education experiences.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7312",
+            "course_name": "Patient Care Skills I",
+            "course_desc": "This course introduces students to basic patient care skills in physical therapist practice. Topics include body mechanics, patient positioning, mobility, transfers, patient communication and instruction skills, patient rights, and documentation format.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7313",
+            "course_name": "Body Systems I  Pathology",
+            "course_desc": "This course presents normal and abnormal organ system function as related to physical therapist practice with emphasis on the musculoskeletal, neuromuscular, cardiovascular/pulmonary, and integumentary systems. Content includes tissue inflammation and repair, infection, degenerative processes, and changes related to processes of aging.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7326",
+            "course_name": "Neuroscience I: Functional Neuroanatomy",
+            "course_desc": "This course addresses the structure and function of the central, peripheral, and autonomic nervous systems in the context of lifespan human development.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7327",
+            "course_name": "Research in Physical Therapy I",
+            "course_desc": "Three-course sequence introducing the physical therapy student to research and statistical methodologies. This initial course emphasizes the application of basic principles of the scientific method for: 1) critically reviewing physical therapy literature; 2) developing research proposals; and 3) identifying the tools necessary for analysis and assessment of clinical practice patterns.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7328",
+            "course_name": "Examination Techniques",
+            "course_desc": "This course introduces foundational physical therapist examination and screening techniques for patients across the lifespan. Students will perform basic orthopedic, neurologic, cardiopulmonary, and integumentary exam and screening techniques, identify and correct or adapt to substitutions, and interpret results. An emphasis will be placed on anatomical structures, body mechanics, handling skills, professional communication, and positioning.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7333",
+            "course_name": "Body Systems II  Cardiopulmonary Systems",
+            "course_desc": "This course addresses the concepts of fitness, health, wellness, and normal and abnormal function of the cardiovascular, pulmonary, and metabolic systems in physical therapist practice. Content emphasizes basic principles of care in electrocardiography, exercise testing, exercise prescription, cardiac rehabilitation, and pulmonary rehabilitation.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7336",
+            "course_name": "Neuroscience II",
+            "course_desc": "This course covers examination and evaluation techniques and rehabilitation interventions for individuals with neurologic diseases, disorders, and dysfunction across the lifespan. Content emphasizes motor development, motor control, motor learning, postural control, and recovery of function in the context of relevant models of practice, models of disablement, hypothesis-oriented clinical practice, and theories of motor control.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7346",
+            "course_name": "Neuroscience III",
+            "course_desc": "This course continues to cover examination and evaluation techniques and rehabilitation interventions for individuals with neurologic diseases, disorders, and dysfunction across the lifespan. Content builds on topics covered in PT 7326 and PT 7336 including motor development, motor control, motor learning, postural control, and recovery of function in the context of relevant models of practice, models of disablement, hypothesis-oriented clinical practice, and theories of motor control.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7347",
+            "course_name": "Research in Physical Therapy II",
+            "course_desc": "This course is part of a 3-course sequence introducing the physical therapy student to research and statistical methodologies. This second course emphasizes the proposal writing aspect of research, building on knowledge of research methods and statistics gained in PT 7327. Includes introduction to statistical software packages used for data-analysis and generating bibliographic material.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7356",
+            "course_name": "Neuroscience IV",
+            "course_desc": "This course covers the physical therapy management of individuals with neurologic diseases, disorders, and dysfunction affecting postural control across the lifespan. Content emphasizes the application of relevant neuroanatomy and physiology concepts to specialized populations in rehabilitation.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7364",
+            "course_name": "Management Issues",
+            "course_desc": "This course is the study of basic management theories, principles, and practices as they relate to the delivery of physical therapist practice, reimbursement resources and issues, and internal and external forces that impact physical therapist practice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7370",
+            "course_name": "Clinical Education I",
+            "course_desc": "This course is a full-time clinical education experience in which the student will apply the theory and clinical skills acquired during previous didactic coursework in the clinical setting.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PT 7428",
+            "course_name": "Therapeutic Interventions",
+            "course_desc": "This course provides an introduction to therapeutic interventions and their role in preventing loss of, restoring, and improving movement. Students will learn how to identify the diseased/injured tissue and/or body system, and how to use targeted movement-related interventions (physical agents, soft tissue mobilization, therapeutic exercise) to enhance movement.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7462",
+            "course_name": "Patient Care Skills II",
+            "course_desc": "This course covers physical therapist care of medically complex patients with multi-system involvement. Content focuses on integumentary care/wound management, acute care/ICU, orthotics, and prosthetics. Complicating factors such as age, malnutrition, pain, obesity, diabetes, and other comorbidities are included.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7480",
+            "course_name": "Clinical Education II",
+            "course_desc": "This course is a full-time clinical education experience in which the student will apply the theory and clinical skills acquired during previous didactic coursework in the clinical setting.",
+            "course_credits": "\n4 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PT 7481",
+            "course_name": "Clinical Education III",
+            "course_desc": "This course is a full-time clinical education experience in which the student will apply the theory and clinical skills acquired during previous didactic coursework in the clinical setting.",
+            "course_credits": "\n4 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PT 7539",
+            "course_name": "Musculoskeletal I  Spine",
+            "course_desc": "Study of static and dynamic aspects of the vertebral column and skull studied through lecture, lab, literature review, and independent study. Knowledge and\nskill will be integrated to identify problems, prognosis, functional goals, and to develop comprehensive intervention programs related to the spine, including preventative health planning.",
+            "course_credits": "\n5 Credit Hours \n3 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7549",
+            "course_name": "Musculoskeletal II - Lower Extremity",
+            "course_desc": "Study of static structural and dynamic aspects of the lower extremity. Emphasizes the effects and affects of forces on function. Clinical decision-making involving the integration of knowledge and skill to identify problems, establish goals,\nand develop comprehensive physical therapy programs related to the region of study.",
+            "course_credits": "\n5 Credit Hours \n3 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7559",
+            "course_name": "Musculoskeletal III - Upper Extremity",
+            "course_desc": "Study of static structural and dynamic aspects of the upper extremity. Emphasizes the effects and affects of forces on function. Clinical\ndecision-making involving the integration of knowledge and skill to identify problems, establish goals, and develop comprehensive physical therapy programs related to the region of study.",
+            "course_credits": "\n5 Credit Hours \n3 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PT 7690",
+            "course_name": "Clinical Education IV",
+            "course_desc": "This course is a full-time clinical education experience in which the student will apply the theory and clinical skills acquired during previous didactic coursework in the clinical setting.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

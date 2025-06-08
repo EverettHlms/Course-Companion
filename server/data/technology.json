@@ -1,0 +1,486 @@
+{
+    "name": "Technology",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/tech/",
+    "courses": [
+        {
+            "course_code": "TECH 1311",
+            "course_name": "Engineering Design Graphics",
+            "course_desc": "This course provides an introduction to the fundamentals of technical drawing and the related graphical tools used to communicate engineering design concepts. The topics include two dimensional graphics, orthographic projections, geometric dimensioning and tolerancing, computer-aided graphics, parametric solid modeling, and introduction to three dimensional graphics.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 1363",
+            "course_name": "Manufacturing Processes I",
+            "course_desc": "The course will provide an overview of the manufacturing processes.  Major emphasis is placed on machining theory, setup and tooling.  Metal forming and fabrication procedures are introduced.  Joining and assembly includes welding, mechanical fastening, adhesive bonding and surface finishing concepts.  Laboratory demonstrations and tutorials involve machining, joining and forming techniques.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 1393",
+            "course_name": "Manufacturing Processes II",
+            "course_desc": "The course involves the fundamentals of casting and molding processes.  Emphasis is placed on casting terminology, molding sand, molding processes, pattern making, coremaking and quality control.  Ferrous and non-ferrous alloy composition and casting geometry are explored.  Plastic and composite forming concepts are included.  Microelectonic manufacturing principles and processes are introduced.  Prerequisite: TECH 1363 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 2190",
+            "course_name": "Industrial Internship",
+            "course_desc": "This is a supervised experiential learning course in various technical disciplines as appropriate to a students degree program.  This work-integrated learning course helps the student link theory with practice.  Prerequisites: Instructor approval and a minimum 2.25 major GPA.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "TECH 2310",
+            "course_name": "Computer-Aided Design",
+            "course_desc": "In this course, principles of 3D modeling are introduced in the preparation of drawings for manufacturing processes. Emphasis includes the parametric solid modeling of machine elements, geometric dimensioning, and tolerancing. The laboratory component involves production of engineering drawings and simulations connecting this course to computer-aided engineering.  Prerequisite: ENGR 1304 or TECH 1311 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 2340",
+            "course_name": "Environmental Technology I",
+            "course_desc": "This course emphasizes the fundamental chemical, biological, ecological and hydrological principles, and mass and energy balances involved in solving environmental problems. Specific environmental areas covered include water, water quality and wastewater treatment. Environmental regulations and testing as pertinent to water will be covered. Prerequisite: CHEM 1335 and [PHYS 2325 or PHYS 1315] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 2344",
+            "course_name": "Power Technology",
+            "course_desc": "This class deals with understanding the basic laws of thermodynamics. It probes efficiency and examines energy-converting devices from the inputs, processes, outputs model. Internal combustion engines, electric motors, hydraulic, pneumatic, and gearing systems, and fuel analysis are reviewed from a practical and theoretical perspective. Prerequisites: [MATH 1315 or MATH 1317 or MATH 2417 or MATH 2471] and [(PHYS 1115 and PHYS 1315) or (PHYS  2325 and PHYS 2125)] all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 2351",
+            "course_name": "Statics and Strength of Materials",
+            "course_desc": "This course covers principles of statics and strength of materials to include forces, equilibrium, friction, centroids, and stress/strain relationships, axial stress and deformation, thermal stress and deformation, stress concentrations, factor of safety, torsional stress, beam stresses and combined stress. Prerequisite: [CSM 2342 or ENGR 2300 or CIM 3420] and [(PHYS 1115 and PHYS 1315) or (PHYS 2325 and PHYS 2125)] all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 2370",
+            "course_name": "Electricity/Electronics Fundamentals",
+            "course_desc": "This course covers fundamentals of safety, Ohms Law, series, parallel, and series/parallel circuits, meters, relays, DC/AC circuit analysis and basic semiconductors.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 3322",
+            "course_name": "Development of Technology",
+            "course_desc": "The role of technology in the development of Western World culture is studied\nfrom a technical perspective. Social repercussions resulting from the introduction of foundational technical developments are reviewed. Examples of technical areas examined are agriculture, transportation, manufacturing, engineering, defense, and communications. Readings focus discussions and papers on specific topics and encourage synthesis level understanding. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 3340",
+            "course_name": "Environmental Technology II",
+            "course_desc": "This course covers air pollution, solid waste and hazardous waste management, sustainability and risk management. Environmental regulations and testing as pertinent to soils, sediments, residual and air will be covered. Prerequisite: TECH 2340 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 3344",
+            "course_name": "Applied Thermofluids",
+            "course_desc": "This course covers basic concepts, first and second laws of thermodynamics, and thermodynamic properties. Heat transfer by conduction, convection, and radiation, as well as fluid statics and fluid dynamics will also be discussed. Prerequisite: PHYS 2325 and PHYS 2125 and TECH 2344 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 3345",
+            "course_name": "Principles of Lean Systems",
+            "course_desc": "The course provides an in-depth understanding of the lean principles as they apply to manufacturing and service organizations with emphasis on lean tools and concepts such as Value Stream Mapping, 5S, kaizen, waste, takt/cycle time, visual control, six-sigma, mistake proofing, single piece flow, cell design and pull systems. (WI) Prerequisite: TECH 3364 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 3354",
+            "course_name": "Applied Dynamics",
+            "course_desc": "This course provides the fundamentals of modeling dynamics of mechanical systems, including both particles and rigid bodies, mathematically. Topics covered include basic theory of engineering mechanics, mechanics of rigid bodies, Newton's Laws, work and energy relationships, principles of impulse and momentum, and the application of kinetics and kinematics to solve engineering problems. Prerequisite: TECH 2351 and  MATH 2472 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 3357",
+            "course_name": "Facilities Planning and Design",
+            "course_desc": "This project-based course provides students with a practical knowledge of designing efficient facility layout and material handling system.  Systematic layout planning (SLP) based on a product and process information is studied in depth.  Simulation tools are used for flow analysis. Prerequisities:  TECH 2310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 3364",
+            "course_name": "Quality Assurance",
+            "course_desc": "This course covers the principles of quality management and control to include basic probability and statistics concepts, control charts for attributes and variables, statistical process control,  sampling plans and methods, quality audits, and quality costs.  Prerequisite: IE 3320 or MATH 2328 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 3370",
+            "course_name": "Electronics",
+            "course_desc": "This course is a study of the characteristics of basic electronic circuits and their component parts. Course content includes the use of electronic test equipment, inductance, capacitance, reactance, impedance, rectification, switching, amplification, and electronic circuitfabrication. Prerequisite: EE 2400 or TECH 2370 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 3373",
+            "course_name": "Communication Systems",
+            "course_desc": "This course deals with basic principles of communication systems.  Specific topics include analysis of signals and systems, modulation techniques (digital and analog), analysis of transmitters and receivers, networking, and wireless communication systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4330",
+            "course_name": "Foundry & Heat Treatment",
+            "course_desc": "The technical aspects of foundry and heat treatment of ferrous and non-ferrous metals are reviewed. Students gain proficiency with interpretation of binary phase diagrams, mathematical modeling of gate and runner systems, micro-structural analysis, process cost evaluation, sand casting, and investment casting. The course includes writing technical reports and conducting experiments. Prerequisites: ENGR 2300 and [ENGR 1313 or ENGR 1304 or TECH 1311] and [MFGE 2332 or TECH 1393 or ME 3361] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4340",
+            "course_name": "Design for Environment",
+            "course_desc": "This course covers the basic principles of design for environment. Topics covered include: industrial ecology, resource depletion, product design, process design, material selection, energy efficiency, product delivery, use, end of life and life cycle analysis. Prerequisite: TECH 3340 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4362",
+            "course_name": "Manufacturing Process Engineering",
+            "course_desc": "This course will provide students with fundamentals of manufacturing processes planning and engineering. Major emphasis will be placed on make-buy analysis, tolerance analysis and dimensional control, tool and fixture design, process and material selection, design for manufacturing, design for assembly, and process planning.  Prerequisites: TECH 1393 and TECH 2310 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4365",
+            "course_name": "Machine Elements: Dynamics and Design",
+            "course_desc": "Principles of the design of mechanical components; theories of failure; material selection; design of shafts, gears, cams, fasteners, springs and brakes; dynamics; balancing of machinery and vibration control are studied. Prerequisite: TECH 2310 and TECH 2351 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4372",
+            "course_name": "Electronic Devices and Circuits",
+            "course_desc": "This course covers transistor configurations, field effect transistors and circuits, voltage regulation, amplifier feedback principles, operational amplifiers and circuitry, and unijunction transistors and applications.  Prerequisites: EE 2400 or TECH 2370 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4373",
+            "course_name": "Control Systems and Instrumentation",
+            "course_desc": "This course is an introduction to modern control systems and instrumentation.  Topics covered include transducers, sensors, actuators, instrumentation, open and closed loop control systems, PID controllers, programmable logic controllers and ladder logic, and computer interface software and hardware.  Prerequisites: EE 2400 or TECH 2370 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4374",
+            "course_name": "Digital Systems",
+            "course_desc": "This course covers solid state digital electronics from basic concepts to current industrial needs in terms of logic gates, number systems counters, registers, sequential control circuits, and shift register generator. Prerequisite: [PHYS 2326 and PHYS 2126] or TECH 2370 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4380",
+            "course_name": "Industrial Safety",
+            "course_desc": "This course introduces the field of industrial safety with emphasis on compliance with Federal and State regulations. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4381",
+            "course_name": "Senior Design I",
+            "course_desc": "This course is the first of a two-course sequence involving the application of technical and non-technical skills and knowledge, using a multidisciplinary team-based approach, for solving real-world problems related to product and process development. The topics include systematic product design, requirements analysis, material and process selection,  project management, cost estimation, design documentation and presentation, prototyping, fabrication,  and design test and verification.  Prerequisite: EE 3400 or TECH 3340 or TECH 3370  or TECH 3345 any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4382",
+            "course_name": "Senior Design II",
+            "course_desc": "This course is the second of a two-course sequence involving the application of technical and non-technical skills and knowledge, using a multidisciplinary team-based approach, for solving real-world problems related to product and process development. The topics include systematic product design, requirements analysis, material and process selection, project management, cost estimation, design documentation and presentation, prototyping, fabrication, and design test and verification. Prerequisite: TECH 4381 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4390",
+            "course_name": "Internship",
+            "course_desc": "Supervised on-the-job professional learning experience in construction, manufacturing, electronics, and other technical areas. This course provides practical work experience in their particular field of interest. Repeatable for credit. (WI) Prerequisites: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Dual Enrollment Permitted|Time Conflicts Permitted|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4392",
+            "course_name": "Micro and Nano Manufacturing",
+            "course_desc": "This course covers the basic principles of micro and nano manufacturing. Emphasis is placed on the process descriptions, terminology, equipment requirements, and processes for micro and nano systems. Basic physics and process chemistry is combined with control schemes to arrive at overall systems descriptions. Prerequisite: [CHEM 1335 or CHEM 1341] and [PHYS 1325 or (PHYS 2326 and PHYS 2126)] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4395",
+            "course_name": "Automated Manufacturing Systems I",
+            "course_desc": "This course primarily deals with automation in industrial systems.  In particular, this course focuses on automation and control technologies in manufacturing systems at machine and device levels.  Included in its structure are areas such as fundamentals of industrial automation, sensors and actuators, numerical control, robotics, and PLC.  Prerequisites: TECH 2310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4396",
+            "course_name": "Automated Manufacturing Systems II",
+            "course_desc": "This course primarily deals with automation, simulation, and digitization in industrial systems. Course topics include discrete-event simulation of manufacturing systems , automated quality control and inspection, automated identification, industrial Internet of Things, automated material handling, automated data acquisition systems, and applied finite element analysis. Prerequisites: TECH 4395 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4397",
+            "course_name": "Special Problems",
+            "course_desc": "The investigation of a special topic by developing the problem, researching the topic, and presenting the findings as they apply to industry/technology. This course will be applicable to all areas of technology, and must be done only with the approval of the cooperating faculty member and Department Chair. Repeatable for credit with different emphasis. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 4398",
+            "course_name": "Senior Design",
+            "course_desc": "This course deals with application of technical and non-technical skills and knowledge using a multidisciplinary team-based approach for solving real-world problems related to product and process development.  The topics include systematic product design, requirements analysis, project management, cost estimation, documentation and presentation, prototyping, fabrication and concurrent engineering. (WI) Prerequisites: EE 3400 or TECH 3340 or TECH 3370 or TECH 4372 or TECH 4395 any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5100",
+            "course_name": "Academic Instruction for Technology",
+            "course_desc": "The course is seminar based and covers topics related to teaching and employment responsibilities. Completion of this course is required as a condition of employment for graduate assistants. This course does not earn graduate degree credit. Repeatable with different emphasis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "TECH 5195",
+            "course_name": "Industrial Internship",
+            "course_desc": "This course is a supervised experiential learning course in Technology Management.  This work integrated learning course helps the student link theory with practice.  Repeatable for credit.  Prerequisites: Instructor approval.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "TECH 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "TECH 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "TECH 5300",
+            "course_name": "Academic Instruction for Graduate Instructional Assistants",
+            "course_desc": "This course is designed to develop and enhance the professional and technical skills of graduate instructional assistants. Topics covered may include, but are not limited to, teaching skills, technical skills, ethical and legal issues, safety, and laboratory management. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "TECH 5310",
+            "course_name": "Product Design and Development",
+            "course_desc": "This course provides an overview of the new product realization process, focusing on systematic product design, including problem identification, product planning, conceptual design, and embodiment design. Standard CAD tools are employed for product modeling.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5311",
+            "course_name": "Computer-Aided Engineering",
+            "course_desc": "This course teaches the application of computer hardware and software to the design of products and of systems. Specific topics include geometric modeling, the development of computational methods, and an overview of engineering analysis software. Additional topics may include  finite element analysis, manufacturing simulation, solidification modeling, and rapid prototyping.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5315",
+            "course_name": "Engineering Economic Analysis",
+            "course_desc": "This course covers economic analytical techniques used in engineering decision-making. Topics include time-value of money, comparing alternatives, depreciation, replacement, and income tax considerations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5325",
+            "course_name": "Quality & Process Improvement",
+            "course_desc": "This course provides an understanding of quality management, covering basic quality concepts, theories, and standards. A concise description of main quality tools used in manufacturing and service environments and a review of basic statistics are included. Topics include total quality management topics and quality tools, quality and global competitiveness, and strategic management. In addition, quality tools such as ISO 9000, total quality tools, quality function deployment, statistical process control and Six Sigma are included.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5364",
+            "course_name": "Robust Product and Process Design",
+            "course_desc": "Provides the student with in-depth knowledge of inferential statistics as applied to design of robust processes and products. Topics covered include probability distributions, ANOVA, fractional factorial design, response surface method, orthogonal arrays, and Taguchi method. Prior experience with introductory-level statistics is assumed. Prerequisite: TECH 5394 with a grade \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5365",
+            "course_name": "Industrial Project Management and Scheduling",
+            "course_desc": "This course introduces students to industrial management system concepts and applications relating to management operations, system design, implementation and management, case studies of practices, and application of theory to practical problems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5380",
+            "course_name": "Principles of Information and Communication Technology Management",
+            "course_desc": "This course, in a case-based learning environment, integrates concepts and principles of information and communication technology (ICT) including mobile communication and Internet of Things (IoT). Analysis and evaluation of advanced ICT management examples demonstrate issues and strategies of modern ICT management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5382",
+            "course_name": "Industrial Ecology and Sustainability Engineering",
+            "course_desc": "This course covers the principles of life cycle analysis (LCA) of engineered products and processes. Topics include industrial ecology, resource depletion, product design, process design, material selection, energy efficiency, product delivery, use, and end-of-life considerations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5384",
+            "course_name": "Problems in Technology",
+            "course_desc": "In this course graduate students investigate a particular topic by developing a technical problem, researching the topic, and presenting the findings. Plans will be developed on an individual basis with strict faculty supervision. It may be repeated for credit with the permission of the department chair. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5385",
+            "course_name": "Readings in Technology",
+            "course_desc": "A study of the ethical and moral viewpoints typically associated with American society as related to the development and introduction of new technology and\nengineering. Past, present, and future issues will be studied with selected readings focusing on industrial related problems and issues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5387",
+            "course_name": "Advanced Facilities Planning",
+            "course_desc": "This course is an in-depth study of technical problems encountered in designing, equipping, arranging, and specifying facility requirements for industrial and technical training facilities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5390",
+            "course_name": "Research in Technology",
+            "course_desc": "This course examines the scientific method, including theory formulation, deductive reasoning, hypothesis generation, observation, inductive reasoning, and theory revision. Categories of research are compared and contrasted as regards methodology. Experimental research relating to significant industrial problems, including design considerations, internal and external validity, and appropriate analytical techniques, is studied in-depth. The course includes an introduction to data analysis and its proper interpretation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5391",
+            "course_name": "Advanced Manufacturing Systems",
+            "course_desc": "This course introduces various advanced tools, technologies, and strategies in modern manufacturing. Topic coverage emphasizes state-of-the-art in factory automation, as well as global and smart manufacturing enterprises. Specific topics include process automation and control, advanced manufacturing processes, intelligent manufacturing control, and information and communication technology (ICT) in manufacturing.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5392",
+            "course_name": "Fundamentals of Microelectronics Manufacturing",
+            "course_desc": "This course is an introduction to integrated circuit fabrication. Topics include crystal growth, wafer preparation, epitaxial growth, oxidation, diffusion, ion implantation, thin film deposition, lithography, etching, device and circuit formation, packaging, and testing. A significant part of the course is a project focusing on circuit design and simulation or on process design. Laboratory component involves the actual production and testing of a functional semiconductor device.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5394",
+            "course_name": "Design of Experiments",
+            "course_desc": "This course covers fundamentals of designing industrial experiments.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5395A",
+            "course_name": "Structure and Properties of Alloys",
+            "course_desc": "This course is an advanced exploration of the structure and properties of engineering alloys. Strengthening mechanisms of alloys are explored with specific applications to the alloys studied. The processing, properties, and structure of ferrous and nonferrous alloys are explored including new and emerging alloys. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TECH 5398",
+            "course_name": "Directed Project",
+            "course_desc": "This course is a formal investigation into a business or industry problem.  The directed project is an applied research project that is more extensive than an independent study and less extensive than a thesis.  The course culminates in a detailed project report and oral presentation. Prerequisite: TECH 5394 with a grade of \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "TECH 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in Technology 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "TECH 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "TECH 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "TECH 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

@@ -1,0 +1,318 @@
+{
+    "name": "Art History",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/arth/",
+    "courses": [
+        {
+            "course_code": "ARTH 2301",
+            "course_name": "Ancient to Medieval Art",
+            "course_desc": "A survey of the history of painting, sculpture, and architecture from pre-historic through medieval periods. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 2302",
+            "course_name": "Renaissance to Modern Art",
+            "course_desc": "A survey of art history from the fourteenth century through the twenty-first century. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 3300",
+            "course_name": "Art Criticism and Writing",
+            "course_desc": "This course introduces students to the history and practice of art criticism and provides them with relevant tools and experiences to craft their own body of art criticism. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 3301",
+            "course_name": "History of Modern Art",
+            "course_desc": "In this course students survey the stylistic trends, aesthetic issues, and evolving philosophies of modern art in Europe and the Americas from 1850 to 1965, emphasizing modern arts transcultural characteristics and its connections to its social and historical contexts. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 3306",
+            "course_name": "History of Photography",
+            "course_desc": "This course surveys the history of photography from its earliest manifestations until the present.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 3307",
+            "course_name": "Issues in Contemporary Art",
+            "course_desc": "An issue-oriented survey of the diverse forms and concepts in contemporary art making practices, mostly from the United States, from 1965 to the present.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 3316",
+            "course_name": "History of Design",
+            "course_desc": "This course surveys movements in the history of design from the nineteenth to the twenty-first centuries. Graphic design is situated within the contexts of architecture, media, and other design disciplines. The course is organized chronologically and examines stylistic, national, and international trends. A main focus is the impact of ideology on design and the way design generates or reinforces social, political, and cultural values in particular places and times. Topics include the significance of the European avant-garde; the development of the New Typography; the rise of mass-market magazines; propaganda, war, and revolution; Olympic design; postmodernism; and more.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4300",
+            "course_name": "History of American Art",
+            "course_desc": "This course provides an introduction to American art and visual culture from ancient times to the 1950s. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4302",
+            "course_name": "Latin American Art",
+            "course_desc": "This course surveys the rich and varied visual art of Latin American and Caribbean countries from the wars of independence to the present day with a focus on recurring themes that have resonated in art throughout the region, such as modernism, internationalism, nationalism, race, identity, and political activism. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4303",
+            "course_name": "Pre-Columbian Art",
+            "course_desc": "A survey of the art of Pre-Columbian sites and cultures in Mesoamerica and the Central Andes, from pre-history to the European conquest. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4304",
+            "course_name": "Global History of Cinema",
+            "course_desc": "This course is a transnational survey of the evolution of cinematic form, production and reception. Students will analyze the regional and global context of selected major film styles, philosophies and industries. Movement across geographical and cultural borders will be a narrative theme that unites the films discussed. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4306",
+            "course_name": "Renaissance Art",
+            "course_desc": "An in-depth survey of the history of Italian Renaissance art, including key works of art representative of the Northern Renaissance. Course emphasizes the study of iconography and stylistic change, in conjunction with larger cultural developments. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4308",
+            "course_name": "Asian Art",
+            "course_desc": "A broad survey of the art of Asian cultures including India, Japan, and China from pre-history to the present. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4309",
+            "course_name": "Gender and Visual Representation",
+            "course_desc": "This course provides an introduction to art, theory, and visual culture concerned with issues of sexuality, gender experience and difference. It explores, questions and looks beyond the power dynamics involved in traditional categories of femininity and masculinity through their symbolic expression. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4310",
+            "course_name": "Race and Representation",
+            "course_desc": "This course explores the variegated ways that race, and, by implication, identity and difference, is figured and represented in a range of cultural productions, including art, film and visual culture. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4311",
+            "course_name": "History of Italian Art",
+            "course_desc": "Taught on-site and centered in Florence, Italy, this course represents a targeted immersion into Renaissance art and culture and includes the study of pivotal works of art and architecture across the Italian peninsula.  May be substituted for ARTH 2301 or ARTH 2302. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4312",
+            "course_name": "The Arts in Popular Culture",
+            "course_desc": "This course examines popular culture, including the emergence of mass culture, and its complex intersection with the fine arts from the nineteenth century onwards. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4313",
+            "course_name": "Hellenistic Art and Culture",
+            "course_desc": "This course focuses on the Greek aesthetic tradition from the fourth century BCE to the end of the first century C.E., with a cross-disciplinary emphasis on the interaction of Greek and non-Greek cultures from Northern India to the Italian peninsula. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4314",
+            "course_name": "Art and Politics",
+            "course_desc": "This course explores various ways in which artists and patrons have worked to change or endorse political policy, exploring art both as a tool for social cohesion in support of a particular political party or ideal and as a means of political protest. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4315",
+            "course_name": "History of Experimental Film",
+            "course_desc": "This course provides an overview of experiments in avant-garde and artists' films from 1920 until the present. Students will learn how to analyze the meaning in moving images that exhibit unconventional narratives and will examine reactions these films have provoked in audiences past and present.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4316",
+            "course_name": "Islamic Art",
+            "course_desc": "This course will survey the art, architecture, and urban formations associated with the religion of Islam across Asia, Africa, and Europe. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4317",
+            "course_name": "Spanish Colonial Art of the Americas",
+            "course_desc": "From a critical postcolonial perspective, this course surveys art and architecture created in the Spanish viceroyalties of the Americas between 1521 and 1821. The roles that art and architecture played in religion, government, social structuring, and identity formation are examined, with attention to unique styles and approaches that emerged as the cultures of indigenous Americans, Europeans, and Africans converged. The period is considered with attention not just to European culture, as it was imposed through colonialism, but also to the perspectives and cultural contributions of colonized people, both indigenous American and African. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4318",
+            "course_name": "Postmodernism and Design",
+            "course_desc": "This course explores postmodern design as it emerged in the late 20th-century. Students study iconic examples of postmodern architecture, graphic design, furniture and interiors, as well as the political, social, and cultural contexts that impacted their production and reception. Students also study the representation of architecture and design in films and other forms of visual culture. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4320A",
+            "course_name": "Documentary Photography",
+            "course_desc": "This course explores key issues in the theory, history, and practice of documentary photography. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4320C",
+            "course_name": "Art and Activism",
+            "course_desc": "In this course, students learn about contemporary art activism, including its historical antecedents, theorization, and global trajectories.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4320D",
+            "course_name": "Art and the Environment",
+            "course_desc": "This course examines the intersections of art and the environment. A range of interdisciplinary theories and concepts are considered as frameworks for understanding complex relationships between creative production and ecologies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4321P",
+            "course_name": "Artists Writing",
+            "course_desc": "This course explores ways in which visual artists have engaged with the written word in relationship to their art work. Readings will be taken from diaries, manifestos, critical and experimental essays, and works of fiction.  Students will create their own writings and/or art work in response to weekly readings. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4321U",
+            "course_name": "Contemporary Art in Italy",
+            "course_desc": "Taught on-site and centered in Florence, Italy, students consider a number of contemporary art and exhibition practices, with emphasis on discursive formations of the global.  May be substituted for ARTH 3307. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4321W",
+            "course_name": "Contemporary Art in Mexico",
+            "course_desc": "This course explores contemporary art practices in Mexico through site visits, studio visits, readings and writing. Capitalizing on the city's dynamic artists, project spaces and museums, students will interact with some of the leading professionals in the arts. (MULT).",
+            "course_credits": "\n3 Credit Hours \n12 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4321Y",
+            "course_name": "Modernism and Design",
+            "course_desc": "This seminar explores movements in modern design in the early and mid 20th-century. Topics include: graphic designs relation to art, architecture, and film; the rise of the avant-garde and the impact of ideology on design; synergies between design and commerce; and international developments in the post-WWII period. This course is conducted online; we will meet in person as a group approximately 4-5 times during the semester.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4321Z",
+            "course_name": "US Latinx Art Histories",
+            "course_desc": "In this course, students will examine art created by Latinx diaspora communities across the United States and its histories.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4322",
+            "course_name": "Special Problems",
+            "course_desc": "An advanced level, independent study in art history, aesthetics, and criticism. The emphasis of the course is on scholarship, research, and writing. May be repeated with different emphasis for additional credit. (WI) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4323",
+            "course_name": "Art History Theories and Methods",
+            "course_desc": "This course introduces students to major theories and methods involved in the study of art and visual culture. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4325",
+            "course_name": "Art History Internship",
+            "course_desc": "This course offers students the opportunity to experience and receive academic credit for professional activities related to the field of art history. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4326",
+            "course_name": "Art History Thesis",
+            "course_desc": "This course is designed for students to pursue a thesis project through independent research on art history or visual culture. The student will work closely with the faculty member to develop a rigorous academic project that may take the form of a research paper, art exhibition, or other scholarly endeavor. Prerequisite: ARTH 4323 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4327",
+            "course_name": "Video Art",
+            "course_desc": "This course follows the evolution of video art from the analog to the digital era. Video art that explores and critiques technologies of spectacle (cinema, television, the internet and virtual reality) is a special focus among the artworks that students view, discuss, research and interpret. Students learn how to identify and theorize liveness, closed circuit transmission, compositing and playback as medium-specific characteristics of video art. The course provides a nuanced examination of video art's existence between the contemporary art world and popular culture at large. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4328",
+            "course_name": "Curatorial Practices",
+            "course_desc": "This course considers the history and cultural significance of the practice of curating and exhibition making, examines the role that exhibitions play in communicating knowledge, and explores the variety of display methods within the language of exhibits.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 4329",
+            "course_name": "Baroque Art",
+            "course_desc": "This course explores developments in the art of the seventeenth and eighteenth centuries that are typically brought under the heading Baroque. Students investigate the reasons for the global spread of Baroque style and study its manifestations in particular regions and locales.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTH 5302",
+            "course_name": "Special Problems Advanced",
+            "course_desc": "An independent study course involved with art history, aesthetics, and criticism. The emphasis of the course in on scholarship, research, and writing.  May be repeated with different emphasis for additional credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

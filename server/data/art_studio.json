@@ -1,0 +1,510 @@
+{
+    "name": "Art Studio",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/arts/",
+    "courses": [
+        {
+            "course_code": "ARTS 1301",
+            "course_name": "Studio Art Foundations I",
+            "course_desc": "This course emphasizes a hands-on experience with drawing and two-dimensional design. Students engage in a series of short exercises and longer projects that incorporate contemporary art-making methods such as collage, photography, sculptural exercises, digital technologies, collaborative processes and interdisciplinary activities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 1302",
+            "course_name": "Studio Art Foundations II",
+            "course_desc": "This course emphasizes a hands-on experience with three- and four-dimensional artmaking. Students engage in a series of short exercises and longer projects that incorporate contemporary art-making methods such as collage, video, drawing, sculpture, installation, performance, digital technologies, collaborative processes and interdisciplinary activities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 1303",
+            "course_name": "Photography Foundations I",
+            "course_desc": "This is an introductory photography foundations course that introduces basic concepts in photography. The class focuses on creating photographs and interpreting their meanings. While this course introduces the technical aspects of shooting, editing, and printing photographs, the courses primary concern is the exploration of ideas. Assignments incorporate a large degree of self-direction as well as opportunities for collaborative reflection with their peers. Students form questions about the world and experiment with photographic form and technique in order to best express individual conceptual explorations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 1304",
+            "course_name": "Photography Foundations II",
+            "course_desc": "This course introduces students to photographys significant role in the construction of social and political narratives through the use of book making and relying on the marriage of digital and traditional methods and skills.  Prerequisite: ARTS 1303 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 2301",
+            "course_name": "Beginning Expanded Media",
+            "course_desc": "In this course, students explore video as an interdisciplinary vehicle for creative expression, developing a technical and conceptual foundation in the medium. Topics include the fundamentals of moving image and sound production, screen culture, and video as a vehicle for artistic expression and social inquiry.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 2311",
+            "course_name": "Beginning Ceramics",
+            "course_desc": "In this course, students explore clay as a vehicle for creative expression, developing a technical and conceptual foundation in the medium. Topics include an introduction to hand building, surface design, and the kiln-firing process.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 2321",
+            "course_name": "Beginning Drawing",
+            "course_desc": "In this course, students explore drawing as a vehicle for creative expression, developing a technical and conceptual foundation in the medium. Topics include perceptual drawing from life, drawing from the human form, and descriptive and expressive drawing explored through a range of subject matters and material approaches.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 2332",
+            "course_name": "Queer Art and Visual Culture",
+            "course_desc": "This course explores the contributions to visual culture by queer (LGBTQIA+) artists and designers, highlighting the history of queer art through the twentieth century and examining the diverse, often cross-disciplinary manifestations of queer art and design. Students apply various artistic strategies and conceptual viewpoints of queer artists to their own works in a series of hands-on creative projects.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 2341",
+            "course_name": "Beginning Metals",
+            "course_desc": "In this course, students explore metals as a vehicle for creative expression, developing a technical and conceptual foundation in the medium. Topics include design and fabrication, and using basic metalsmithing techniques with emphasis on sculptural forms and personal adornment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 2351",
+            "course_name": "Beginning Painting",
+            "course_desc": "In this course, students explore paint as a vehicle for creative expression, developing a technical and conceptual foundation in the medium. Topics include color, composition, and paint application.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 2371",
+            "course_name": "Beginning Printmaking",
+            "course_desc": "In this course, students explore screen and relief printing as vehicles for creative expression, developing a technical and conceptual foundation in the medium. Topics include color, layer registration, and the formal elements of image making.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 2381",
+            "course_name": "Beginning Sculpture",
+            "course_desc": "In this course, students explore sculptural materials and processes as vehicles for creative expression, developing a technical and conceptual foundation in the medium. Topics include reductive and additive processes, welding, wood-working, and introduction to other materials including plaster and paper mache to develop ideas.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3302",
+            "course_name": "Intermediate Expanded Media",
+            "course_desc": "In this course, students continue exploring formal, critical and technical approaches to video as an interdisciplinary medium. Topics include sound-image relationships and audio post-production techniques. Prerequisite: ARTS 2301 and ART 1301 and ART 1303 and [ARTC 1301 or ARTS 1301 or ARTS 1303] and [ARTC 1302 or ARTS 1302 or ARTS 1304 or ARTT 2372] all with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3304",
+            "course_name": "Advanced Expanded Media",
+            "course_desc": "In this course, students engage with and pursue a personal direction for their work. Emphasis is placed on research, experimentation, advanced processes and conceptual approaches in time-based media with an additional focus on historical and contemporary forms. Prerequisite: ARTS 3302 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3312",
+            "course_name": "Intermediate Ceramics",
+            "course_desc": "In this course, students continue exploring formal, critical and technical approaches to the ceramic medium. Topics include wheel throwing, glaze calculation, and developing a studio practice. Prerequisite: ARTS 2311 and ART 1301 and ART 1303 and [ARTC 1301 or ARTS 1301 or ARTS 1303] and [ARTC 1302 or ARTS 1302 or ARTS 1304 or ARTT 2372] all with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3314",
+            "course_name": "Advanced Ceramics",
+            "course_desc": "In this course, students engage with and pursue a personal direction for their work. Emphasis is placed on research, experimentation, advanced processes and conceptual approaches in ceramic art practices, with an additional focus on historical and contemporary forms. Prerequisite: ARTS 3312 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3322",
+            "course_name": "Intermediate Drawing",
+            "course_desc": "In this course, students continue exploring formal, critical and technical approaches to drawing. Topics include narrative, process, and experimentation within the practice of contemporary drawing. Prerequisite: ARTS 2321 and ART 1301 and ART 1303 and [ARTC 1301 or ARTS 1301 or ARTS 1303] and [ARTC 1302 or ARTS 1302 or ARTS 1304 or ARTT 2372] all with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3324",
+            "course_name": "Advanced Drawing",
+            "course_desc": "In this course, students engage with and pursue a personal direction for their work. Emphasis is placed on research, experimentation, advanced processes and conceptual approaches in drawing with an additional focus on historical and contemporary forms. Prerequisite: ARTS 3322 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3342",
+            "course_name": "Intermediate Metals",
+            "course_desc": "In this course, students continue exploring formal, critical, and technical approaches to develop personal conceptual direction related to metalsmithing and jewelry. Topics include exploration of materials and methods with an emphasis on industrial technology. Prerequisites: ARTS 2341 and ART 1301 and ART 1303 and [ARTC 1301 or ARTS 1301 or ARTS 1303] and [ARTC 1302 or ARTS 1302 or ARTS 1304 or ARTT 2372] all with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3344",
+            "course_name": "Advanced Metals",
+            "course_desc": "In this course, students engage with and pursue a personal, comprehensive body of work. Emphasis is placed on research, experimentation, advanced processes, and conceptual approaches related to the discipline of metalsmithing with an additional focus on historical and contemporary forms. Prerequisite: ARTS 3342 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3352",
+            "course_name": "Intermediate Painting",
+            "course_desc": "In this course, students continue exploring formal, critical and technical approaches to painting. Topics include advanced exercises in color theory, personal imagery building, and the history and context of painting. Prerequisites: ARTS 2351 and ART 1301 and ART 1303 and [ARTC 1301 or ARTS 1301 or ARTS 1303] and [ARTC 1302 or ARTS 1302 or ARTS 1304 or ARTT 2372] all with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3354",
+            "course_name": "Advanced Painting",
+            "course_desc": "In this course, students engage with and pursue a personal direction for their work. Emphasis is placed on research, experimentation, advanced processes and conceptual approaches in painting with an additional focus on historical and contemporary forms. Prerequisite: ARTS 3352 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3361",
+            "course_name": "Darkroom",
+            "course_desc": "This course introduces black and white aesthetics and techniques within a traditional and digital context.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3364",
+            "course_name": "Introduction to Digital Photography",
+            "course_desc": "This course introduces students to the aesthetics of current digital imaging technology, including new digital cameras, scanning equipment, Macintosh computers, image-manipulation programs and printing devices. Prerequisite: ARTS 1303 with grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3365",
+            "course_name": "Lighting",
+            "course_desc": "This course uses diverse environments to explore issues in controlled lighting in photography. Prerequisite: ARTS 1304 and ARTS 3364 both with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3367",
+            "course_name": "Large Format Photography",
+            "course_desc": "This course introduces the basic materials, processes, techniques, and aesthetics of large format photography. Prerequisite: ARTS 3364 and ARTS 1304 and ARTS 3361 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3372",
+            "course_name": "Intermediate Printmaking",
+            "course_desc": "In this course, students explore intaglio and lithographic printing as vehicles for creative expression, developing a technical and conceptual foundation in the medium. Topics include etching, stone and plate lithography, and the formal elements of image making.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3374",
+            "course_name": "Advanced Printmaking",
+            "course_desc": "In this course, students engage with and pursue a personal direction for their work. Emphasis is placed on research, experimentation, advanced processes and conceptual approaches in any of the print mediums which the student has already been introduced to (screen, relief, intaglio, lithography) with an additional focus on historical and contemporary forms. Prerequisite: ARTS 2371 or ARTS 3372 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3382",
+            "course_name": "Intermediate Sculpture",
+            "course_desc": "In this course, students continue exploring formal, critical and technical approaches to sculptural materials and processes. Topics include refining and expanding sculptural techniques with wood, metal, and casting with a focus on strategies for installation and display. Prerequisite: ARTS 2381 and ART 1301 and ART 1303 and [ARTC 1301 or ARTS 1301 or ARTS 1303] and [ARTC 1302 or ARTS 1302 or ARTS 1304 or ARTT 2372] all with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3384",
+            "course_name": "Advanced Sculpture",
+            "course_desc": "In this course, students engage with and pursue a personal direction for their work. Emphasis is placed on research, experimentation, advanced processes and conceptual approaches in the field of sculpture with an additional focus on historical and contemporary forms. Prerequisite: ARTS 3382 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 3392",
+            "course_name": "Experimental Wet Media",
+            "course_desc": "In this course, students explore water-based media as a vehicle for creative expression, developing a technical and conceptual foundation in the medium. Prerequisite: ART 1301 and ART 1303 and [ARTC 1301 or ARTS 1301 or ARTS 1303] and [ARTC 1302 or ARTS 1302 or ARTS 1304 or ARTT 2372] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4000",
+            "course_name": "Senior/Thesis Art Exhibition",
+            "course_desc": "A senior level course in which all graduating students majoring in Studio Art with a studio specialization, Studio Art leading to All Level Certification, or in Photography, must participate during their last academic year. In consultation with thesis faculty, studio art and photography students will select work to exhibit from their Thesis I and Thesis II courses. Students earning teaching certification will select work to exhibit in consultation with art education faculty advisors.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4100",
+            "course_name": "Special Problems in Studio Art",
+            "course_desc": "This course provides the skills to prepare, package, and present written and professional documents and documentation of the creative work. The course also covers additional topics required for pursuing a professional career in the arts, building community, and preparing for post-BFA opportunities.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4200",
+            "course_name": "Professional Practice and Portfolio",
+            "course_desc": "This course covers professional topics required for pursuing a career in the arts, building community, and preparing for post-BFA opportunities. It is taken in conjunction with Thesis I-level classes; students develop written and professional documents and documentation of creative work.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4305",
+            "course_name": "Issues in Expanded Media",
+            "course_desc": "In this course, students investigate contemporary issues in the discipline of expanded media. Potential course topics include but are not limited to animation, multimedia installation, and performance. Prerequisite: ARTS 3302 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4308D",
+            "course_name": "Natural and Human Environment of Italy",
+            "course_desc": "This courses uses Italy as the backdrop to enhance aesthetic understanding of both color (slide transparency) and black and white photography. A strong emphasis is placed on developing visual, conceptual and technical aspects of photography using advanced camera knowledge, chemistry, and sensitivity to local visual stimuli.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4308Z",
+            "course_name": "Casting as Copy, Effigy, and Replacement in Art",
+            "course_desc": "This course, students practice lost wax casting, direct method casting, and mold making techniques across a variety of disciplines and 3D mediums. Students use cast forms as a language to explore concepts of verisimilitude in art, the use of multiples, and the relationship between constructed forms and found objects. This class is a blend of contemporary ideas, cutting edge technologies and historic, time-honored hand-working traditions.   Prerequisite: ART 1301 and ART 1303 and [ARTC 1301 or ARTS 1301 or ARTS 1303] and [ARTC 1302 or ARTS 1302 or ARTS 1304 or ARTT 2372] all with grades of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4309A",
+            "course_name": "Chinese Culture and Calligraphy",
+            "course_desc": "This course explores Chinese art, culture, and language through calligraphy. By learning the Chinese language through calligraphy, students will identify the influence different written language systems can have on culture.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4309B",
+            "course_name": "The Unsettlements: Place, History, & Ancestry in Creative Work",
+            "course_desc": "This course introduces students to the creative and critical framework of the exhibition, The Unsettlements: Moms at the Texas State Galleries. The course will allow students to develop their own creative and critical abilities to imagine large-scale projects and long-term explorations through a sustained attention to issues of place, history, ancestry, relation, site-specificity, object ontology, and more.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4309C",
+            "course_name": "Illustration and Graphic Styles",
+            "course_desc": "In this course, students will explore the creation of illustrations and respond to diverse prompts across various media. Emphasis will be placed on research, idea generation and the development of a cohesive style, voice, and portfolio. Various analog and digital techniques will be demonstrated and practiced.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4309D",
+            "course_name": "Graphic Novels and 'Zines II",
+            "course_desc": "In this course, students will explore the development and creation of a sequential art short story that will be fully realized as a physically printed book. Emphasis will be placed on outlining story arcs, writing scripts, creating and editing page layouts for a visual narrative, and developing and following production timelines. The creation of a multi-page graphic art story through sketching, inking, and coloring will be demonstrated and practiced, as well as the printing of high resolution artworks and various bookbinding techniques. Prerequisite: ARTS 4321 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4309E",
+            "course_name": "Casting II",
+            "course_desc": "This course introduces the intermediate and advanced skills of lost wax casting, direct method casting, and mold making techniques as students develop a mature and marketable body of work. Cast forms will be utilized as a language to explore concepts of verisimilitude in art, the use of multiples, and the relationship between constructed forms and found objects. This class is a blend of contemporary ideas, cutting edge technologies and historic, time-honored hand-working.  There is an emphasis on a continued and deeper exploration of casting concepts and processes as student incorporating advanced casting outcomes into the development of their own work.  Prerequisite: ARTS 4308Z with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4312",
+            "course_name": "Studio Art Internship",
+            "course_desc": "A course designed to offer students the opportunity to experience and receive academic credit for professional related activities in the field of the studio arts. Requires consent of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4315",
+            "course_name": "Issues in Ceramics",
+            "course_desc": "In this course, students investigate contemporary issues in the discipline of ceramics. Potential course topics include but are not limited to figurative sculpture, mold making, printing on ceramic, and digital designing for the ceramic artist. Prerequisite: ARTS 3312 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4321",
+            "course_name": "Graphic Novels and 'Zines",
+            "course_desc": "This class explores comics, sequential art, and graphic storytelling as contemporary media. Students are introduced to historical and contemporary examples of narrative art, including cinema, comic books and graphic novels. Students explore the theory and practice of sequential art, while creating original comics concerned with historical, personal, and literary subject matter.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4322",
+            "course_name": "Disegno a Firenze: Drawing in Florence",
+            "course_desc": "This course focuses on drawing from various subjects in and around the city of Florence. Through daily hands-on practice, students address not only the fundamentals of monochromatic drawing, but also the increased perception that the act of observational drawing engenders. The subjects of students drawings include: a variety of Renaissance artworks, historical architectural spaces, as well as city and landscape views. Corequisite: ARTH 4311 with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4325",
+            "course_name": "Issues in Drawing",
+            "course_desc": "In this course, students investigate contemporary issues in the discipline of drawing. Potential course topics include but are not limited to drawing in space and time, collage, and drawing in plein air. Prerequisite: ARTS 3322 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4341",
+            "course_name": "Digital Fabrication",
+            "course_desc": "This class provides the fundamental skills for integrating digital fabrication technologies with other art and design processes. Students are introduced to digital design and fabrication using 3D modeling software, 3D printers, and computer controlled machines. A variety of materials are taught through conceptual, technical, and creative problem solving. Prerequisite: [ART 1301 or ART 1303] with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4345",
+            "course_name": "Issues in Metals",
+            "course_desc": "In this course, students investigate contemporary issues in the discipline of metals. Potential course topics include but are not limited to casting, forming and forging, enameling, mechanisms, and stone setting processes. Prerequisite: ARTS 3342 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4355",
+            "course_name": "Issues in Painting",
+            "course_desc": "In this course, students investigate contemporary issues in the discipline of painting. Potential course topics include but are not limited to color theory, abstraction, and writing about painting. Prerequisite: ARTS 3352 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4360",
+            "course_name": "Readings in Photography",
+            "course_desc": "In this course, students read, write, and create studio projects in reaction to historical and contemporary written accounts of the history, practice, and interpretation of photography. (WI) Prerequisite: ARTH 3306 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4361",
+            "course_name": "The Photographic Project",
+            "course_desc": "In this course, students define, research, and create two extended photographic projects focused on a single theme. Students explore various methodologies to conceptualize, execute, and evaluate a series of related photographs, based on a broad theme suggested by the instructor, such as identity, politics, place, or social media. In addition, students choose a field of inquiry within that theme to create works to be installed in a professional setting.  Prerequisite: ARTS 3367 and ARTS 4360 both with grades of \"D\" or better. Corequisite: ARTS 4200 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4364",
+            "course_name": "Advanced Digital Photography",
+            "course_desc": "This course explores advanced concepts and techniques in digital photography. Prerequisite: ARTS 3364 and ARTS 1304 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4367",
+            "course_name": "Photography Thesis",
+            "course_desc": "This course is the Senior Thesis for photography majors, requiring a series of lens-based works and a written creative statement. It culminates in a senior thesis exhibition in the gallery. Prerequisite: ARTS 3367 and ARTS 4360 both with grades of \"D\" or better. Corequisite: ARTS 4000 with a grade of \"CR\".",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4368",
+            "course_name": "Fine Art Photography Special Problems",
+            "course_desc": "An advanced level, independent study in photography which requires students to pursue a personal conceptual direction and to develop the appropriate technical and critical skills necessary for creating a cohesive body of artwork. May be repeated with different emphasis for additional credit. Must be an Art major or minor to enroll. Prerequisites: ARTS 2361; ARTF 1301, ARTF 1302.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4371",
+            "course_name": "Risograph 101",
+            "course_desc": "This course introduces the operation of a Risograph Duplicator. Students learn how to create multi-color prints and small publications. The course approaches image creation and editing through a number of digital and analogue techniques. Technical understanding of the machine and traditional and experimental approaches to print is covered in this course.  Prerequisite: ART 1301 and ART 1303 and [ARTC 1301 or ARTS 1301 or ARTS 1303] and [ARTC 1302 or \nARTS 1302 or ARTS 1304 or ARTT 2372] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4375",
+            "course_name": "Issues in Printmaking",
+            "course_desc": "In this course, students investigate contemporary issues in the discipline of print. Potential course topics include but are not limited to conceptual aspects of print, new technologies including laser engraving, book-binding techniques, and experimental forms. Prerequisite: ARTS 2371 or ARTS 3372 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4381",
+            "course_name": "Soft Sculpture",
+            "course_desc": "This course emphasizes aesthetic direction in sculpture through the study of numerous materials that are fiber based with a focus on contemporary practices in papermaking, surface design, and material manipulation. Prerequisite: ARTS 2381 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4385",
+            "course_name": "Issues in Sculpture",
+            "course_desc": "In this course, students investigate contemporary issues in the discipline of sculpture. Potential course topics include but are not limited to advanced casting, installation and working with found objects and readymades. Prerequisite: ARTS 3382 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4387",
+            "course_name": "Thesis",
+            "course_desc": "In this course, students will create an original body of artwork and supporting material, including a written statement of intent, outlining the scope and objectives of the proposed thesis project. Selections from the thesis project will be presented to the public. Prerequisite: ARTS 4200 and [ARTS 3304 or ARTS 3314 or ARTS 3324 or ARTS 3344 or ARTS 3354 or ARTS 3374 or ARTS 3384] both with a grade of \"D\" or better. Corequisite: ARTS 4000 with a grade of \"CR\".",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 4388",
+            "course_name": "Special Problems in Studio Art",
+            "course_desc": "In this independent study course, students in studio art pursue a personal conceptual direction and develop the appropriate technical and critical skills necessary for creating a cohesive body of artwork. Prerequisite: ARTS 3304 or ARTS 3314 or ARTS 3324 or ARTS 3344 or ARTS 3354 or ARTS 3374 or ARTS 3384 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 5301",
+            "course_name": "2-D Advanced Special Problems",
+            "course_desc": "An independent study in 2-D studio art, which requires a student to pursue a personal conceptual direction and to develop the technical and critical skills necessary for creating a cohesive body of artwork. May be repeated with different emphasis for additional credit. Permission of instructor required to enroll.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTS 5302",
+            "course_name": "3-D Advanced Special Problems",
+            "course_desc": "An independent study in studio art, which requires a student to pursue a personal conceptual direction and to develop the technical and critical skills necessary for creating a cohesive body of artwork. May be repeated with different emphasis for\nadditional credit. Permission of instructor required to enroll.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

@@ -1,0 +1,318 @@
+{
+    "name": "Counseling",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/coun/",
+    "courses": [
+        {
+            "course_code": "COUN 3320",
+            "course_name": "Introduction to Counseling and Psychotherapy",
+            "course_desc": "The course is designed for upper-division undergraduates considering a helping profession or who wish to know more about counseling before entering into graduate study. The course offers introduction to counseling, counseling theories, and interpersonal communication skills that facilitate counseling relationships. Repeatable for credit with different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5178",
+            "course_name": "Independent Study",
+            "course_desc": "Individual problems or research topics designed to place emphasis on selected areas of study. May be repeated twice for additional credit at the discretion of the\ndepartment chair.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COUN 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COUN 5301",
+            "course_name": "Professional Counseling Orientation",
+            "course_desc": "This course is presented as a basis for future counselors to understand community counseling agencies, standards of preparation, and the role identity of persons providing direct counseling treatment interventions. This course includes information on the licensure process, professional organizations, ethical and legal aspects of practice, advocacy processes, and theoretical/applied information.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5305",
+            "course_name": "Assessment in Counseling",
+            "course_desc": "This course will include problems and principles of administration, scoring and interpreting group and individually administered tests; utilization of test data for diagnostic, placement, predictive, and evaluative purposes; elementary statistical procedures; laboratory activities in test administration, scoring, and interpretation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5307",
+            "course_name": "Theories of Counseling and Personality",
+            "course_desc": "This course surveys systematically derived theories of counseling and personality from their origins in social discourse, philosophy, and psychology to the present time. Each theorist is presented biographically and the theory considered with regard to its clinical, cultural, and ethical relevance and application to diverse populations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5316",
+            "course_name": "Counseling Diverse Populations",
+            "course_desc": "This seminar is designed to sensitize students to the roles societal power disparities, counselors racial identity and awareness, and client racial/cultural identity play in counseling persons of diverse backgrounds. The dynamics of counseling clients who are African-American, Asian-American, female, gay/lesbian, Latino/a, Native-American, and persons with disabilities, will be examined. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5328",
+            "course_name": "Professional Orientation in School Counseling: Leadership, Advocacy, and Accountability",
+            "course_desc": "This course provides an orientation to identity and role of professional school counselors, and introduction to the study of comprehensive developmental guidance programs. Course reflects the Texas and ASCA Models with related standards. Topics include: program planning, implementation, and evaluation; use of data and accountability; leadership role; and ethical and legal practices in schools.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5338",
+            "course_name": "Advanced Issues in School Counseling: Counseling, Consultation, and Coordination of Services",
+            "course_desc": "This course includes advanced topics in counseling children and adolescents in schools. Emphasis will be placed on developmentally appropriate preventative and responsive counseling services. Consultation and collaboration with parents, school personnel, community partners and contextual issues in school counseling will be addressed. Prerequisites: COUN 5316 and COUN 5328 and COUN 5368 all with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5344",
+            "course_name": "Introduction to Addictions Counseling",
+            "course_desc": "This course provides an introduction to best practices in counseling clients dealing with substance and process addictions. Students gain a historical context and current understanding of the etiology, course, and progression of addictive disorders. Students learn to conceptualize addiction from contextual, systemic, relational, and holistic perspectives, with an emphasis on theory and research-driven counseling practice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5346",
+            "course_name": "Filial Therapy",
+            "course_desc": "Theoretical and practical application of the filial model will be addressed as well as techniques in training parents in the overall principles and methodology of child-centered play therapy. Prerequisite: COUN 5358 and COUN 5373 both with grades of \"B\" or better. Corequisite: COUN 5389 or COUN 5689 either with a grade of \"B\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COUN 5350",
+            "course_name": "Advanced Counselor Ethics",
+            "course_desc": "This course focuses on ethical standards of professional counseling organizations and credentialing bodies, and applications of ethical and legal considerations in professional counseling settings. Emphasis is placed on national and current state board rules, records management, strategies for personal and professional self-evaluation, implications for practice, and client and professional advocacy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5351",
+            "course_name": "Current Issues in Marriage, Couple and Family Therapy",
+            "course_desc": "This course provides students with information regarding special issues in marital, couple and family counseling, including: grief and loss; domestic violence; substance abuse in the family; lesbian, gay, bisexual, and transgender issues; divorce; and re-parenting. Prerequisite: COUN 5316 and COUN 5367 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5354",
+            "course_name": "Basic Counseling Skills and Abnormal Behavior",
+            "course_desc": "This course is designed to introduce the student to basic counseling skills via role-play and practice session recording. The course also provides a general model for assessing abnormal behavior of clients and effective skills to elicit identifying behavior. Prerequisites: COUN 5307 and COUN 5350 both with grades of \"B\" or better. Corequisite: COUN 5301 or COUN 5328 either with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5355",
+            "course_name": "Career Counseling",
+            "course_desc": "This course considers career choice and development as critical aspects of persons in material cultures where occupation is a major component of ones identity. Career concerns often addressed in counseling are presented and discussed along with the area of vocational guidance, occupational information, and preference inventories.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5358",
+            "course_name": "Dynamics & Processes in Group Counseling",
+            "course_desc": "In this course, students will develop knowledge and skills in the basic principles of the dynamics that are characteristic of therapeutic groups.  This course is an academic and clinical experience requiring highly active student participation in the form of honest, direct, and open communication combined with authentic self-exploration within the group setting. Corequisite: COUN 5354 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5359",
+            "course_name": "Psychopathology in Clinical Mental Health Counseling",
+            "course_desc": "This course explores the principles of dysfunction in human behavior and systemic organization. This course includes diagnostic, preventive, and remedial methods and interventions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5360",
+            "course_name": "Intermediate Methods in Marital, Couple and Family Counseling",
+            "course_desc": "Marital, couple, and family theory and techniques are discussed, selected, applied, and refined through lecture and supervised clinical practice. Specific skills include joining, diagnosis, goal formulation, treatment planning, termination, referral, and record keeping. Graded on a credit (CR), no credit (F) basis. Prerequisite:  COUN 5316 and COUN 5354 and COUN 5367 all with grades of \"B\" or better. Corequisite: COUN 5359 and COUN 5369 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COUN 5362",
+            "course_name": "Practicum in Professional Supervision: Theories and Applications",
+            "course_desc": "Provides experience in supervising practicum or intern students and integrating the theoretical foundations and current issues of professional supervision. Emphasis includes ethical, multicultural, gender, age, and lifestyle concerns in supervisory relationships, and academic requirements for supervisory status for Texas Licensed Professional Counselor and Licensed Specialist in School Psychology credentials.  Course can be repeated once for credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COUN 5366",
+            "course_name": "Intermediate Methods in Adult Counseling",
+            "course_desc": "Counseling theories and techniques are discussed, selected, applied and refined through lecture and supervised practice. Specific skills include initiating the helping relationship process, diagnosis, goal formulation, treatment planning, termination, referral, and record keeping. Prerequisite: COUN 5316 and COUN 5354 both with grades of \"B\" or better. Corequisite: COUN 5359 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COUN 5367",
+            "course_name": "Marital and Family Counseling: Current Theories",
+            "course_desc": "This course is designed to examine the principles of communication and the goals of marital, couple and family counseling. Selected theories, approaches and techniques used in marital, couple and family counseling will be examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5368",
+            "course_name": "Developmental Issues in Counseling Children, Adolescents, and Adults",
+            "course_desc": "Emphasis will be on understanding the interactions between the developmental needs of each of these age groups and counseling techniques and procedures used to deliver mental health services to each of these groups.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5369",
+            "course_name": "Child and Adolescent Counseling Methods",
+            "course_desc": "This course focus is an overview of counseling interventions with children and adolescents in agency, school, and private practice. Group, individual, and systems techniques will be covered. Assessment of child psychopathology and techniques for consulting with parents will be included. Prerequisites: COUN 5368 with a grade of \"B\" or better. Corequisites: COUN 5354 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5370",
+            "course_name": "Intermediate Methods in Counseling Adolescents",
+            "course_desc": "This course will provide an overview of the physical, social, psychological, and behavioral characteristics of the adolescent. This course has a supervised practice experience. Emphasis will be placed on counseling interventions utilizing current research. Prerequisites: COUN 5316 and COUN 5369 both with grades of \"B\" or better. Corequisites: COUN 5359 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COUN 5372",
+            "course_name": "Assessment in Individual, Couples, and Family Counseling",
+            "course_desc": "This course addresses the assessment of individual, couple, and family functioning and the planning and implementation of marital, couple and family treatment methods.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5373",
+            "course_name": "Intermediate Methods in Play Therapy",
+            "course_desc": "This course explores the philosophical basis for play therapy, the history of play therapy, theoretical applications, techniques, stages, ethical issues, and application to a variety of populations and diagnostic categories. This course has a supervised practice experience. Prerequisite: COUN 5316 and COUN 5369 both with grades of \"B\" or better. Corequisite: COUN 5359 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COUN 5378",
+            "course_name": "Problems in Counseling",
+            "course_desc": "Individual problems not related to thesis. Designed to place emphasis on selected areas of study. May be repeated once for additional credit at the discretion of the department chair.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5380",
+            "course_name": "Introduction to Animal-Assisted Counseling",
+            "course_desc": "Animal-assisted counseling (AAC) is a goal-directed process in which a trained therapy animal works in partnership with a counselor to help clients resolve psychosocial challenges and achieve growth. This course will provide an introduction to the AAC field, the human-animal bond, evidence-based research in AAC, and positive training approaches.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5381",
+            "course_name": "Sandtray Therapy Methods",
+            "course_desc": "This course provides students with the philosophical basis for sandtray therapy as a therapeutic intervention for children and families, including a review of its history, applications, techniques, stages, and ethical issues. Didactic and experiential methods are used. Prerequisite: COUN 5369 with a grade of \"B\" or better. Corequisite: COUN 5389 or COUN 5689 either with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5389",
+            "course_name": "Site-Based Internship",
+            "course_desc": "This course is an on-site practicum-internship occurring in a school or agency setting with supervision by on-site and university supervisors. It may be repeated based on the recommendation of the counseling faculty. Prerequisites: COUN 5689 with a grade of \"CR\" and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COUN 5391",
+            "course_name": "Research Methods",
+            "course_desc": "This course provides an understanding of research methods and design, statistical analysis, needs assessment, and program evaluation relevant to the field of professional counseling.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5394",
+            "course_name": "Counseling Women",
+            "course_desc": "This elective course involves student exploration of gender in historical, social, and global contexts with emphasis on counseling approaches and interventions specific to the concerns of women and girls. Topics include gender development, gender socialization, sexuality, career and family, violence against women, body image concerns, and overall women's mental health. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5395",
+            "course_name": "Foundations of Trauma and Crisis Counseling",
+            "course_desc": "The course offers an introduction to principles of trauma counseling and crisis interventions. Topics include the neurobiology of trauma, diagnosis of trauma-related mental health concerns, and best practices related to trauma-informed counseling and crisis intervention addressing symptomatology of individuals, families, and communities directly or secondarily affected by crisis and trauma.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COUN 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in COUN 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COUN 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COUN 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COUN 5689",
+            "course_name": "Clinical Practicum",
+            "course_desc": "This practicum involves providing supervised counseling services to clients in university-affiliated counseling clinics and a staffing seminar. It may be taken up to three times (18 credit hours) based on the recommendation of the counseling faculty. Prerequisites: COUN 5358 and COUN 5369 and [COUN 5360 or COUN 5366 or COUN 5370 or COUN 5373] all with grades of \"B\" or better and instructor approval.",
+            "course_credits": "\n6 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COUN 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

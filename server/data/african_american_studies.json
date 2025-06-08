@@ -1,0 +1,62 @@
+{
+    "name": "African American Studies",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/aas/",
+    "courses": [
+        {
+            "course_code": "AAS 2310",
+            "course_name": "Introduction to African American Studies",
+            "course_desc": "Course provides an overview of black culture in America from an interdisciplinary approach, employing scholarship from history, literature, music, visual and performing arts, folklore, religion, sociology, psychology, philosophy, economics, and political science.  It introduces epistemological considerations, theories, and methods that form the field of African American and African Diaspora Studies. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AAS 3310A",
+            "course_name": "Blacks, Film, and Society",
+            "course_desc": "This course examines Black American cinema between 1919 and the present and how film can help society better understand black history, black culture, and the black experience in America. The course also explores what each film teaches Blacks about Blacks and what film teaches Whites and other groups about Blacks.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AAS 3350",
+            "course_name": "Black Queer Experience",
+            "course_desc": "This course will introduce students to the historical study of Black LGBTQ peoples. We will use primary sources such as letters, diaries, newspaper articles, and blues songs, along with historical and interdisciplinary scholarship and films, to learn about the experiences of same-sex loving and gender-transgressing Black people. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AAS 3399",
+            "course_name": "Negotiating the Color Line",
+            "course_desc": "This course examines how Black Americans have negotiated the Black-White color line from the 1800s to the present day.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AAS 4320",
+            "course_name": "Global Perspectives on the African Diaspora",
+            "course_desc": "Course connects the transatlantic slave trade, contemporary migrations, their legacies, and speaks to the broader issues of the African diaspora in relation to previous and ongoing struggles of black people for rebirth, progress, justice, and racial uplift.  Examines African Diasporic womens definition of feminism while suggesting no universal black feminism. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AAS 4377",
+            "course_name": "Intersections of Race, Class, Gender, and Sexualities",
+            "course_desc": "This course critically examines how race, class, gender, and sexuality intersect to shape the lived experiences of a wide array of communities in the United States. Students cannot receive credit for both WS 4377 and AAS 4377. (WI) Prerequisite: AAS 2310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AAS 4388",
+            "course_name": "Independent Research in African American Studies",
+            "course_desc": "Independent study course open to advanced students on an individual or small group basis. The research area in African American Studies, bibliography, and study paper outline are to be approved by the instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

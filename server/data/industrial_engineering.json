@@ -1,0 +1,270 @@
+{
+    "name": "Industrial Engineering",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ie/",
+    "courses": [
+        {
+            "course_code": "IE 1310",
+            "course_name": "Introduction to Industrial Engineering",
+            "course_desc": "This course gives an overview of what industrial engineering is, how this field of study has evolved, what contributions of individuals have been key to its development, what are some of the methods and techniques that industrial engineers use to solve company's problems and what job opportunities exist after earning a degree in industrial engineering. Prerequisite: [MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2417 or MATH 2471 any with a grade of \"C\" or better] or [ACT Mathematics score of 24 or better] or [SAT Mathematics score of 520 or better] or [SAT Math Section score of 550 or better] or [Accuplacer College Mathematics score of 86 or better] or [Compass College Algebra score of 46 or better] or [Next-Generation Advanced Algebra and Functions Test of 263 or better].",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 3305",
+            "course_name": "Introduction to Data Analysis",
+            "course_desc": "This course introduces principles and applications of data analysis using Microsoft Excel, Access, VBA, and machine learning.  Students will utilize these applications to develop solutions to challenging industrial engineering problems. Emphasis will be placed on computing productivity in a spreadsheet-based setting to develop practical, useful decision support applications to facilitate engineering decisions. Corequisite: IE 3320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 3320",
+            "course_name": "Engineering Statistics",
+            "course_desc": "This course covers the fundamentals of probability and statistics, including probability distributions, visualization techniques of large-scale datasets, interval estimation, hypothesis testing, and regression modeling. The students will be exposed to traditional engineering applications of statistical modeling, as well as those modern problems encountered in big data analysis. Prerequisites: MATH 2472 or MATH 2473 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 3330",
+            "course_name": "Quality Engineering",
+            "course_desc": "Quality assurance systems, quality costs, statistical quality control, and approaches for engineering quality into products and processes. Prerequisite: IE 3320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 3340",
+            "course_name": "Operations Research",
+            "course_desc": "This course covers models in operations research including linear programs, the simplex method, duality theory, sensitivity analysis, integer programs, and network flows. The emphasis is on learning to recognize, formulate, solve, and analyze practical industrial problems. The course also introduces commercial mathematical programming languages. Prerequisite: [CS 1428 or CS 1342] and ENGR 3315 and MATH 3377 and IE 1310 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 3360",
+            "course_name": "Methods Engineering and Ergonomics",
+            "course_desc": "This course is a survey of methods for assessing and improving performance of individuals and groups in organizations.  Techniques include various basic industrial engineering tools, work analysis, data acquisition and application, performance evaluation and appraisal, and work measurement procedures. Prerequisite: IE 3320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4310",
+            "course_name": "Statistical Design of Experiments",
+            "course_desc": "Statistically designed experiments for engineering applications. Topics include analysis of variance, randomized complete designs, factorial designs, empirical models generated from controlled experiments, and response surfaces. Prerequisite: IE 3320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4320",
+            "course_name": "Integrated Production Systems",
+            "course_desc": "Basic concepts in the design and control of integrated production systems to include forecasting, inventory models, material requirements planning, scheduling, planning, and shop floor control.  Prerequisite: IE 3340 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4330",
+            "course_name": "Reliability Engineering",
+            "course_desc": "Reliability of components and systems, reliability models, life testing, failure analysis, and maintainability. Prerequisite: IE 3320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4335",
+            "course_name": "Lean Six Sigma Methodologies",
+            "course_desc": "This course covers the principles and methodologies of Six Sigma and Lean Six Sigma.  Emphasis is on the tools and techniques used in Lean Six Sigma projects, including statistical process control, experimental design, project management and Lean tools.  Prerequisite: IE 3330 and IE 4310 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4340",
+            "course_name": "Non-Linear Optimization Techniques",
+            "course_desc": "This course introduces engineering applications of mathematical modeling and computational methods for non-linear programming problems. Prerequisite: IE 3340 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4342",
+            "course_name": "Advanced Linear and Integer Programming",
+            "course_desc": "This course discusses advanced mathematical modeling computational methods for solving linear and integer programming problems in engineering.  Additional topics include solution techniques, such as stochastic and dynamic programming, that may also apply for solving non-linear programs, and formulation and solution of decision models arising in manufacturing, service, supply chain, healthcare and electrical systems. Prerequisite: IE 3340 with a grade of D or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4350",
+            "course_name": "Supply-Chain Engineering",
+            "course_desc": "The analysis of supply chain problems to include facility location, customer assignment, vehicle routing, inventory management, and the role of information and decision support systems in supply chains. Prerequisite: IE 3340 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4355",
+            "course_name": "Facilities Planning",
+            "course_desc": "Planning, design, and analysis of facilities. Emphasizes the principles and methods used for solving plant layout, facility location, material handling, automation, computer integration, and warehouse operations. Prerequisite: ENGR 3315 and MFGE 2332 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4360",
+            "course_name": "Human Factors Design",
+            "course_desc": "This course will emphasize the applications of human factors engineering to systems design. Prerequisites: IE 3360 with a grade of \"D\" or better.  (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4370",
+            "course_name": "Probabilistic Operations Research",
+            "course_desc": "This course describes probabilistic models in operations research to include queuing theory, simulation, and Markov chains. Emphasis will be placed on modeling applications to solve problems in industry and computing. Prerequisite: [CS 1428 or CS 1342] and IE 3320 with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4381",
+            "course_name": "Introduction to Systems Engineering",
+            "course_desc": "This course is an introduction to the systems thinking process, systems of systems, and the fundamental considerations associated with the engineering of large-scale systems, or systems engineering. These topics include the system development process, needs analysis, concept exploration, concept definition, engineering design, integration and evaluation, and systems engineering management.  Prerequisite: IE 3320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4392",
+            "course_name": "Industrial Engineering Design I",
+            "course_desc": "Student teams apply engineering principles and standards under realistic constraints to develop solutions for industrial problems and/or systems engineering issues.  This course is the first part of a two-course sequence and is followed by Industrial Engineering Design II (IE 4393). Prerequisite: IE 3330 and IE 3340 and IE 3360 all with grades of \"D\" or better. Corequisite: 6 hours from [IE 4310 or IE 4355 or IE 4370] both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4393",
+            "course_name": "Industrial Engineering Design II",
+            "course_desc": "Student teams complete implementation of solutions to industrial problems and/or systems engineering issues with realistic constraints.  This course is the the second in a two-course sequence, and is continuation of Industrial Engineering Design I (IE 4392). Prerequisite: IE 4392 and 6 hours from [IE 4310 or IE 4355 or IE 4370] all with grades of \"D\" or better. Corequisite: 6 hours from [IE 4320 or IE 4350 or MFGE 4396] both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4399D",
+            "course_name": "Heuristic Optimization Techniques",
+            "course_desc": "Heuristic methods that search beyond local optima such as simulated annealing, tabu search, genetic algorithms, ant-colony systems, and particle swarm. Papers from the literature, problem-specific heuristics, evaluation methods and serial/parallel implementations are discussed. This course is an advanced undergraduate course for students in engineering and related fields. Prerequisite: [CS 1428 or CS 1342] and IE 3340 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4399F",
+            "course_name": "Introduction to Data-Intensive Analysis and Simulation",
+            "course_desc": "This course covers the foundational topics in data science and consists of three parts: The first part focuses on data extraction from databases, sensors and social media. The second part reviews data-intensive analysis through statistics and machine learning tools. The third part introduces the concept of farming data using design of experiments methodologies and computer simulation. Prerequisites: IE 3340 and IE 4310 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 4399G",
+            "course_name": "Special Topics in Project Management",
+            "course_desc": "This course provides undergraduate students with solid foundations of project management. Classical, prescriptive and adaptive methodologies are presented. Students will get to know different standards in project management, whereas the main focus will be on those from PMI (Project Management Institute). This course covers all phases of project management and introduces the most relevant tools and techniques to initiate, plan and execute projects in different contexts successfully. In addition to techniques, the soft perspective of managing people and their cooperation within projects will be addressed in detail.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 5310",
+            "course_name": "Advanced Statistical Design of Experiments for Engineers",
+            "course_desc": "This course examines the design and analysis of controlled experiments, demonstrating engineering applications of design of experiments (DOE) in the manufacturing and service industries. Topics include full and fractional factorial designs, response surface methodology, and Taguchi methods. In a semester-long project, students apply DOE to improve a real manufacturing process. Prerequisite: ENGR 5310 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 5320",
+            "course_name": "Modeling and Analysis of Manufacturing Systems",
+            "course_desc": "This course covers the methods for modeling and analyzing manufacturing systems. Critical manufacturing issues that are addressed by these models include sustainable production systems, material handling systems, scheduling, and supply chains. Prerequisite: IE 3320 and IE 3340 and MFGE 4396 all with grades of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 5330",
+            "course_name": "Advanced Quality Control and Reliability Engineering",
+            "course_desc": "This course provides in-depth knowledge in reliability modeling and maintenance optimization for components and systems. The course also covers advanced quality control techniques including multivariate process control. Methodologies are applied to solve practical problems arising from various industry domains. Restricted to students enrolled in the MS Engineering program. Prerequisite: ENGR 5310 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 5340",
+            "course_name": "Applied Deterministic Operations Research for Engineers",
+            "course_desc": "This course introduces students to modeling of linear, non-linear, and integer problems applied to engineering design, manufacturing, service, supply chain, healthcare and electrical systems. Mathematical programming software is emphasized in class exercises, homework, and project. Techniques including revised simplex method, duality theory, sensitivity analysis, and networks are also covered.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 5343",
+            "course_name": "Non-Linear Optimization Techniques for Engineers",
+            "course_desc": "This course covers engineering applications of mathematical modeling and computational methods for nonlinear programming problems. The primary goal of this course is to present techniques and strategies essential to optimize non-linear models. Prerequisite: IE 3340 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 5345",
+            "course_name": "Advanced Optimization",
+            "course_desc": "This course covers advanced concepts in linear and integer programming. Solution techniques for stochastic and dynamic programming and formulation and solution of decision models in manufacturing, service, supply chain, healthcare and electrical systems are presented. Prerequisite: IE 5340 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 5347",
+            "course_name": "Advanced Heuristic Optimization",
+            "course_desc": "This course covers heuristic methods that search beyond local optima such as simulated annealing, tabu search, genetic algorithms, ant-colony systems and particle swarm. Papers from the literature, problem-specific heuristics, evaluation methods, and implementations are discussed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 5397",
+            "course_name": "System Thinking and Analysis",
+            "course_desc": "This course is an introduction to systems engineering and the systems thinking process, providing important considerations related to the engineering of large scale systems. These considerations include system understanding, modeling and design, the system development process, needs analysis, concept exploration and definition, design, integration and evaluation, and systems engineering management. Prerequisite: ENGR 5310 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 5398A",
+            "course_name": "Healthcare Systems Engineering",
+            "course_desc": "This course provides an introduction into healthcare delivery with particular attention to the application of systems engineering techniques. Topics include the organization of healthcare systems, characteristics of US healthcare, decision-making in the healthcare environment, health informatics, and performance measurement tools. Student project involves integration and application of systems engineering methodologies. Prerequisite: IE 5340 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 5398B",
+            "course_name": "Response Surface Methodologies",
+            "course_desc": "This course continues the examination of the design and analysis of controlled experiments, demonstrating how design of experiments (DOE) and response surface methodologies (RSM) are used in product optimization and process improvement. Topics include factorial and fractional factorial designs, steepest ascent, fitting response surfaces, variance-optimal design, and mixture experiments. Prerequisite: IE 5310 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "IE 5398C",
+            "course_name": "Data-Intensive Analysis and Simulation for Engineers",
+            "course_desc": "This course covers foundational topics in data science, including data-intensive analysis and simulation. Specific topics include data science, data extracting and preprocessing, data visualization, and design of simulation experiments. Prerequisite: IE 5310 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

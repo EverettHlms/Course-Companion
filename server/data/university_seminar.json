@@ -1,0 +1,14 @@
+{
+    "name": "University Seminar",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/us/",
+    "courses": [
+        {
+            "course_code": "US 1100",
+            "course_name": "University Seminar",
+            "course_desc": "University Seminar is an introduction to the nature and aims of university education, with special emphasis on the value of broad learning. US 1100 is required of all undergraduate students entering the university with 0-15 semester credit hours completed since high school graduation.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

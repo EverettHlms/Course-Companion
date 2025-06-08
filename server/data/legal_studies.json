@@ -1,0 +1,182 @@
+{
+    "name": "Legal Studies",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ls/",
+    "courses": [
+        {
+            "course_code": "LS 5310",
+            "course_name": "Introduction to the Paralegal Profession and Legal Technology",
+            "course_desc": "This course provides an introduction to the paralegal profession and law office technology, including the history of and current issues facing the profession, paralegal associations, paralegal regulation and certification options, paralegal ethics, and the skills necessary to become an effective paralegal, with an emphasis placed on legal technology.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5320",
+            "course_name": "Legal Research",
+            "course_desc": "This course provides a study of the legal research process, including primary and secondary sources of law and related finding tools and legal citation rules; research using books and online tools; and provides a basic introduction to legal writing, including how to brief cases and prepare legal research memoranda.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5330",
+            "course_name": "Legal Theories and Analysis",
+            "course_desc": "This course is a study of statutory and case law development of basic legal theory including tort theory, contract theory, and evidence theory. This course is intended to assist students in gaining knowledge of fundamental legal theory, reasoning, and analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5340",
+            "course_name": "Litigation",
+            "course_desc": "This course is a study of statutory and case law relating to civil procedure in order to develop an understanding of litigation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5341",
+            "course_name": "Administrative Law",
+            "course_desc": "This course deals with the origin, development, and theory of Administrative Law as well as the agencies and tribunals that administer the law. Emphasis is on enforcement, quasi-legislative and quasi-judicial powers of federal administrative agencies and state tribunals.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5343",
+            "course_name": "Family Law",
+            "course_desc": "This course examines Texas law, dealing with pre-marital contracts, marriage relationships, annulment, abortion, adoption, juveniles, Family Code, divorce, support for children, custody, and separation agreements.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5349",
+            "course_name": "Business Organizations",
+            "course_desc": "This course is a study of the federal and Texas law relating to corporations with particular emphasis on the preparation of initial and amended articles of incorporation, satisfaction of state filing requirements, the drafting of employment agreements, and other activities necessary to the maintenance, merger, and the closing of corporations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5350",
+            "course_name": "Legal Drafting",
+            "course_desc": "This course is a study of legal drafting styles, forms and techniques, including legal document drafting, objective, informative document drafting, and persuasive-style drafting of trial and appellate briefs.  Prerequisite: LS 5320 with grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5351",
+            "course_name": "Estates and Trusts",
+            "course_desc": "This course is the study of Texas laws relating to estates and trusts with emphasis on the preparation of documents regarding the administration of estates.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5353",
+            "course_name": "Real Estate",
+            "course_desc": "This course is a study of Texas laws concerning real properties, conveyances, recordation, taxation, and sales regarding real property. Students are familiarized with various records dealing with real property maintained by public officials and develop an understanding of the procedures by which titles are searched. Repeatable with different emphasis for a maximum of 6 credit hours.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5359",
+            "course_name": "Alternative Dispute Resolution",
+            "course_desc": "This course is an in-depth study of procedural and substantive legal principles of alternative dispute resolution. Emphasis will be placed on procedures and practical applications of negotiation, mediation, arbitration, and alternative adjudicative processes with integration of ethical and policy issues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5360",
+            "course_name": "Advanced Litigation",
+            "course_desc": "This course is a study of the use of the American legal system to resolve disputes between indviduals and entitles. Emphasis is on trial advocacy planning, analysis, preparation, and strategy. Students develop skills necessary to understand and to participate as an advocate in the trial process. Prerequisite: LS 5320 and LS 5340 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5361",
+            "course_name": "Criminal Law and Procedure",
+            "course_desc": "This course is a study of the state and federal statutory and common law relating to the criminal justice system. This course includes the study of the criminal litigation process and procedure with emphasis on theory and practical legal assistant skill development.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5363",
+            "course_name": "Social Legislation",
+            "course_desc": "This course is a study of Texas and federal laws established by statute to remedy various social problems including worker's compensation, unemployment compensation, bankruptcy, and commercial transactions. This course includes a study of statutory and case law development. May be repeated with different emphasis for a maximum of 6 credit hours.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5370",
+            "course_name": "Advanced Legal Research & Writing",
+            "course_desc": "This course has four components: (1) refinement of skills in computer-assisted and manual legal research; (2) legal analysis, legal writing, and organizing, complex legal documents; (3) techniques of persuasive argument; and (4) applied research project. Prerequisite: LS 5350 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5371",
+            "course_name": "Intellectual Property Law",
+            "course_desc": "This course covers principal tenets of intellectual property, including trademarks, copyrights, patents, and trade secrets. Students analyze a wide variety of intellectual property issues, the impact of intellectual property in our current society, and the practical and theoretical concerns raised by the interplay of state and federal laws.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5373",
+            "course_name": "Contract Law",
+            "course_desc": "This course is a study of contracts (e.g., real estate contracts, employment contracts; contracts for services; construction contracts; e-contracts); the common law and statutory law of contracts (e.g., Statute of Frauds; Uniform Commercial Code; Uniform Computer Information Transactions Act; Uniform Electronic Transactions Act), and contract drafting.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5380A",
+            "course_name": "Texas Water Law",
+            "course_desc": "This course examines the chief legal issues that will determine the future of water policy in Texas, with a focus on how state and local agencies administer the state's ground and surface water legal regimes and regulatory framework.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5380B",
+            "course_name": "Environmental Litigation",
+            "course_desc": "This course conducts an in-depth examination of researching, filing, and litigating claims under federal and state environmental statutes. The course focuses on the aspects of environmental litigation that make it different than its non-environmental counterparts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5388",
+            "course_name": "Directed Reading and Research",
+            "course_desc": "This course is an advanced reading and/or research on various topics in legal studies under the direction of a graduate faculty member. May be repeated once with different emphasis and professor for a maximum of 6 credit hours. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LS 5389",
+            "course_name": "Law Office Internship",
+            "course_desc": "This course emphasizes problems, procedures, and ethics in the legal-working environment. Students are involved in internship consisting of approximately 10-15 hours a week to gain experience in the legal-working environment. Course is required unless the student has related experience and has, with program director permission, elected to take a practicum. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "LS 5399",
+            "course_name": "Applied Research Project",
+            "course_desc": "This course is the applied research project for the Master of Arts in Legal Studies degree. Students work with the supervising instructor to complete an applied research project to submit for oral examination. Prerequisite: LS 5370 with a grade of \"B\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

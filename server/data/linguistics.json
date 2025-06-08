@@ -1,0 +1,30 @@
+{
+    "name": "Linguistics",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ling/",
+    "courses": [
+        {
+            "course_code": "LING 3301",
+            "course_name": "Introduction to Translation",
+            "course_desc": "This course provides a foundation for translating various types of texts by building a conceptual framework for confronting practical problems that arise in translation and by introducing key principles and techniques of text analysis and translation strategies. Prerequisite: SPAN 2320 or FR 2320 or GER 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LING 4307",
+            "course_name": "Foreign Language Acquisition",
+            "course_desc": "An introduction to the nature of language development and to the theories that describe foreign language acquisition and development. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LING 4390",
+            "course_name": "Independent Study in Applied Linguistics and Language Learning",
+            "course_desc": "This course is generally open only to students with special needs. Students select a topic in line with their special interests and requirements. May be repeated once with different topic for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

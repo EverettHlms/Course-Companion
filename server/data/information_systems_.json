@@ -1,0 +1,398 @@
+{
+    "name": "Information Systems ",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/isan/",
+    "courses": [
+        {
+            "course_code": "ISAN 1323",
+            "course_name": "Introduction to Microcomputer Applications",
+            "course_desc": "This course develops advanced information technology skills, focusing on office productivity software. Primary emphasis is placed on spreadsheet, database, and presentation software. Advanced techniques are presented for use in data analysis and decision-making. Students will be expected to demonstrate mastery of these techniques in a hands-on environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 3305",
+            "course_name": "Business Programming I",
+            "course_desc": "This course provides an introduction to application program development including requirement analysis, design, implementation, and testing. A blend of structured and object-oriented concepts is used to form solutions to business problems using a visual programming language Prerequisite: ISAN 1323 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 3317",
+            "course_name": "E-Business",
+            "course_desc": "The course explores the constantly changing world of e-Business from an international perspective. This course will emphasize e-Business challenges and opportunities in the worldwide marketplace, while focusing on global issues of management, implementation, and integration of IT resources. (MULT) Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 3325",
+            "course_name": "Business Programming II",
+            "course_desc": "This course is an advanced visual programming course covering topics related to the design and implementation of user interface, business logic and data access in a tiered architecture. The emphasis is on techniques that take advantage of a development framework through the use of forms, classes, and objects. Corequisite: ISAN 3374 and ISAN 3382 both with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 3348",
+            "course_name": "Data Communications and Network Architecture",
+            "course_desc": "This course is oriented to the technical concepts of data communications and network designs and how they relate to contemporary computer end-user environments. It incorporates the systems approach for understanding, designing, managing, securing, and implementing data communication networks. Students will analyze and design data communication networks for various business situations. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 3350",
+            "course_name": "Information Systems Security",
+            "course_desc": "This course examines the concepts of information systems and network availability, integrity, and confidentiality in order to develop effective security controls, processes, practices, and procedures. Topics include methodologies, models, architectures, access control systems, ethics, and legal implications of IT security.  Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 3360",
+            "course_name": "Web Design and Development",
+            "course_desc": "This course focuses on design, creation, and maintenance of websites. It covers fundamental technologies for structuring and presenting content on the web and development framework for creating mobile-first web pages. Prerequisite: A minimum 2.0 Overall GPA. Corequisite: ISAN 3374 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 3374",
+            "course_name": "System Analysis and Design",
+            "course_desc": "This course enables students to understand the analysis and general design phases of the system development life cycle are reviewed. Emphasis is on techniques and tools for determining systems requirements that lead to the development of logical design models using structured and object-oriented methodologies. (WI) Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 3380",
+            "course_name": "Enterprise Information Technology and Business Intelligence",
+            "course_desc": "This course will extend students' ability to effectively use integrated software applications to identify and provide access to various information sources. The course will focus on applying information and Internet Technologies that span normal business functions to develop and implement solutions to managerial problems. Prerequisite: ISAN 1323 and [ANLY 2333 or MATH 2328] and [MATH 1329 or MATH 2331 or MATH 2471] all with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 3382",
+            "course_name": "Computer Data Base Systems",
+            "course_desc": "This course covers concepts and methodology of planning, design, development, and management of the computerized database. The emphasis is on logical database design and a study of relational implementation. A relational database management system with a relational query language is used for the development of a business application system. Corequisite: ISAN 3305 or ANLY 3341 with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 3389",
+            "course_name": "Programming for Data Processing",
+            "course_desc": "This course emphasizes the development of data processing software. Topics include designing applications for analyzing and manipulating numerical and textual data from external data sources. Sequence and collections structures, object serializations, design techniques, and reporting will be examined. Prerequisite: ISAN 3305 and [ANLY 2333 or MATH 2328] both with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 3390",
+            "course_name": "Agile Project Management",
+            "course_desc": "This course introduces project management body of knowledge as applied to Information Technology projects with emphasis on Agile Methodologies. The management of scope, costs, schedules, quality, risks, program management, system methodologies, material procurement, human, and international issues will be examined.  Prerequisite: ISAN 3374 and ISAN 3305 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4318",
+            "course_name": "Object Oriented Development",
+            "course_desc": "This course delves into the sophisticated application of object-oriented programming (OOP) principles within the realm of business application development. Topics include an in-depth exploration of concepts, methodologies, and toolsets essential for designing, implementing, and rigorously testing software applications grounded in the object-oriented paradigm. Participants will gain hands-on experience in applying OOP techniques to tackle real-world business challenges, ensuring a practical understanding of how these principles can be effectively utilized to build robust, scalable, and maintainable software solutions. Prerequisite: ISAN 3374 with a grade of \"D\" or better and a minimum 2.0 Overall GPA. Corequisite: ISAN 3382 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4321",
+            "course_name": "Mobile Application Development for Android",
+            "course_desc": "This course introduces the concepts, methodology, and toolset for designing business applications for mobile devices. Students will learn the MVC development framework and Java programming environment for Android to create interactive business applications. Prerequisite: ISAN 3374 with a grade of \"D\" or better and a minimum 2.0 Overall GPA. Corequisite: ISAN 3382 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4322",
+            "course_name": "Computer System Development and Design",
+            "course_desc": "This course integrates systems development with analysis, design, project management, and the systems development life cycle. Object-oriented methods and UML models will be used to develop a project for a client. Students will select methodology, platform, and development technology based on client requirements. Prerequisite: ISAN 3325 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4332",
+            "course_name": "Enterprise Resource Planning Systems",
+            "course_desc": "This course uses advanced information technology for integrating business functions in an enterprise through distributed databases. Methodology and tools for the selection and implementation of Enterprise Resource Planning (ERP) systems are discussed. Students will use available ERP software to create, track and communicate enterprise information. Prerequisite: ISAN 3380 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4349",
+            "course_name": "Advanced Database Management Systems",
+            "course_desc": "This course introduces advanced concepts and database processes to support applications for Business Intelligence. Multi-dimensional modeling along with database, reporting, and analysis capabilities of a modern database environment will be used to design and develop stored procedures, views, user-defined functions, reports and multi-dimensional information cubes. Prerequisite: ISAN 3382 with a grade of \"D\" or better. Corequisite: ANLY 3339 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4350",
+            "course_name": "Ethical Hacking",
+            "course_desc": "This course focuses on the technology and managerial issues related to information systems security. Topics include: Attack methods, access control, authentication, firewalls, incident and disaster response, disaster recovery, security function management, and cryptography. Prerequisite: Minimum 2.0 overall GPA. Corequisite: ISAN 3348 with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4358",
+            "course_name": "Network and Cloud Administration",
+            "course_desc": "This course provides students with an understanding of the responsibilities assigned to network and cloud administrators. Students will acquire a working knowledge of these responsibilities and skills using tools and technologies for administering enterprise networks via network operating systems and cloud computing commonly used in modern business enterprises. Prerequisite: ISAN 4348 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4360",
+            "course_name": "Developing Business Solutions for the Enterprise",
+            "course_desc": "This course introduces the concepts, methodology, and toolsets for the architecture, design, implementation, and deployment of business solutions for the enterprise in a services-oriented computing environment. Topics include services-oriented architecture, Software as a Service framework, n-tier development of business and data services, and application security. Prerequisite: ISAN 3325 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4373A",
+            "course_name": "Cyber-Warfare: Actors, Techniques, and Impact",
+            "course_desc": "This course is designed to cover all aspects of historical cyberwarfare incidents (those including nation-state actors). Topics covered include the political and/or social actors for each occurrence covered, the timeline of events leading up to, and including the actual incursion or event, the technical explanation for what occurred, and the fallout and impact of the event. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4373B",
+            "course_name": "Applied Artificial Intelligence: Development and Application",
+            "course_desc": "This course immerses students in Large Language Models and Generative Pre-trained Transformers (GPT). The students will master both the theoretical foundations and practical aspects of development. Activities include building custom models, fine-tuning existing ones, and delving into advanced transformer architectures. The course covers real-world applications such as text generation, translation, and chatbots. Additionally, it addresses ethical considerations, bias detection, and model interpretability. Through applied projects, students acquire expertise relevant to AI-driven industries and research, positioning them to meet the demands of the rapidly changing business landscape. Prerequisite: ISAN 3305 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4373C",
+            "course_name": "Legacy Systems: Applications, Development, and Support",
+            "course_desc": "This course focuses on the role of developers in developing, maintaining, supporting, and migrating mission-critical legacy applications within modern, high-volume transactional organizations. It covers key language proficiency and development processes, offering students the chance to gain proficiency in essential legacy application languages and processes. This enables effective development, modification, testing, and troubleshooting of legacy mission-critical applications. Practical assignments provide hands-on experience. Featured guest speakers from IT Legacy organizations will share insights. Prerequisite: ISAN 3305 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4373D",
+            "course_name": "Artificial Intelligence in Business Operations",
+            "course_desc": "This course delves into the impact of artificial intelligence (AI) on modern businesses, providing a comprehensive introduction to key AI concepts, including machine learning, natural language processing, and computer vision. Participants will explore practical AI applications in fields such as marketing and finance through hands-on exercises and real-world examples. The course aims to equip learners with the skills and knowledge necessary to navigate the AI-driven business landscape, preparing them for future challenges by understanding AI's transformative potential across various organizational aspects.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4373E",
+            "course_name": "Programming for Information Security",
+            "course_desc": "This course covers advanced programming topics with a focus on information security. Students will learn to develop secure software, identify and mitigate vulnerabilities, and apply coding for cybersecurity tasks. Utilizing practical examples and real-world scenarios learners will gain hands-on experience in crafting solutions to protect against cyber threats. Designed for those seeking to blend programming expertise with security best practices, this course equips participants with the skills to address contemporary digital security challenges. Prerequisite: CIS 2324 or CIS 3305 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4373G",
+            "course_name": "Introduction to Machine Learning",
+            "course_desc": "This course provides a comprehensive overview of foundational concepts, algorithms, and applications of machine learning. Students gain hands-on experience through programming assignments and case studies, exploring real-world applications like data mining, natural language processing, and computer vision. The course emphasizes both theoretical understanding and practical implementation of machine learning techniques, preparing students to apply these skills across various domains. Prerequisite: [ISAN 3305 or CIS 3305 or CIS 2324 with a grade of \"D\" or better] and [ANLY 2333 or QMST 2333 or MATH 2328 with a grade of \"D\" or better] and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4395",
+            "course_name": "Independent Study in Information Systems",
+            "course_desc": "This course provides an in-depth study of a single topic or related problem solved through information systems research. May be repeated once for credit with a different emphasis. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 4399",
+            "course_name": "Information Systems Internship",
+            "course_desc": "This course provides an integration of professional and academic experience through internship with an external employer. Credit awarded as pass/fail. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n15 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ISAN 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ISAN 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ISAN 5318",
+            "course_name": "Information Technology in Digital Economy",
+            "course_desc": "This course provides an understanding of the issues in managing organizations' information assets. The course examines users' issues and challenges within the Information Technology (IT) management arena as part of a firm's business and IT strategy. The course provides frameworks and management principles that current or aspiring managers can employ with the challenges of implementing rapidly advancing technology. The focus is on managerial rather than technical issues. Prerequisite: B A 5351 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 5355",
+            "course_name": "Database Management Systems",
+            "course_desc": "This course explores the concepts, principles, issues, and techniques for managing data resources using database management systems. Topics include techniques for analysis, design, and development of database systems, creating and using logical data models, database query languages, and procedures for evaluating management software. Students will develop a management information system.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 5357",
+            "course_name": "Computing for Data Analytics",
+            "course_desc": "This course focuses on fundamentals of programming. Students will learn to design and implement applications, and programmatically handle a variety of data management functionalities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 5358",
+            "course_name": "Agile Project Management For Business Professionals",
+            "course_desc": "This course provides an in-depth study of the project management body of knowledge as applied to Information Technology, emphasizing Agile methodologies and the processes of managing scope, costs, schedules, quality, and risks. Topics Include program management, system planning and design methodologies, material & capacity requirements, human, cultural, & international issues, and their impact on the organization.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 5360",
+            "course_name": "E-Commerce: Strategies, Technologies, and Applications",
+            "course_desc": "This course is designed to familiarize students with current and emerging e-commerce technologies. Topics include Internet technology for business advantage, reinventing the future of business through e-commerce, business opportunities in e-commerce, and social, political, global, and ethical issues associated with ecommerce.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 5364",
+            "course_name": "Data Warehousing",
+            "course_desc": "This course allows students to familiarize with current and emerging data warehousing technologies that play a strategic role in business organizations. Topics include data warehouse development life cycle, data warehouse navigation, data quality, and performance issues. Prerequisite: ISAN 5355 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 5367",
+            "course_name": "Machine Learning",
+            "course_desc": "This course focuses on deriving actionable knowledge from data using algorithms and industry standard tools. Topics covered are the complete process, key technologies, core machine learning algorithms, and programming used for business intelligence. Prerequisite: ISAN 5357 and ANLY 5336 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 5368",
+            "course_name": "Information Security",
+            "course_desc": "This course covers the analysis, design, development, implementation, and maintenance of information security systems in communication networks. Topics include legal, ethical, professional, and personnel issues, concepts, theories, and processes of risk management, technology; cryptography theory and practice; and physical and hardware security.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 5369",
+            "course_name": "Independent Study in Information Systems",
+            "course_desc": "This course focuses on individual in-depth research. Students, in consultation with a faculty member, choose a selected area of study in Information Systems and work independently on a specialized project. Course may be repeated with approval of department chair. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 5370",
+            "course_name": "Enterprise Resource Planning and Business Intelligence",
+            "course_desc": "This course uses information technology integrations in enterprises for operational control and business intelligence is examined via Enterprise Resource Planning (ERP) applications in customer relationships management, accounting, finance, purchasing, production control, sales, marketing, and human resource management. Emphasizes managerial issues surrounding the need, selection, and implementation of ERP systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 5371",
+            "course_name": "Accounting Information Systems and Controls",
+            "course_desc": "This course examines accounting information systems and controls and their role in the current technology-intensive business environment. Emphasis is placed on contemporary technology and applications, information technology and business information systems assessments, design of internal controls to satisfy regulation and policy requirements, control concepts, theories, and processes, information systems auditing, systems development life cycle, and information structure, data transfer, and transaction cycles. Prerequisite: ACC 3313 or ACC 5361 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 5378",
+            "course_name": "Information Security Policies and Compliance",
+            "course_desc": "This course focuses on the technology and managerial issues related to information policies, regulations, and compliance that assure confidentiality, integrity, and availability of data and computer systems. Topics include information security policy, regulations, laws, standards, framework, compliance, and governance. Prerequisite: ISAN 5368 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 5390A",
+            "course_name": "Introduction to Design Thinking",
+            "course_desc": "This course provides an overview and hands-on introduction to Design Thinking and the human-centered design process. Topics include an introduction, defining the problem, ideation, and concept generation, prototyping & testing, refining, and launching.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ISAN 5395",
+            "course_name": "Internship in Information Systems",
+            "course_desc": "This course provides students with opportunities for experiential learning by contributing to a computer information systems project. The course enables integration of professional and academic experience through internship with an external employer. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ISAN 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's initial thesis enrollment. No thesis credit is awarded until the student has completed their thesis. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ISAN 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ISAN 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n5 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ISAN 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ISAN 7355",
+            "course_name": "Database Management Systems",
+            "course_desc": "This course explores the concepts, principles, issues, and techniques for managing data resources using database management systems. Topic includes techniques for analysis, design, and development of database systems, creating and using logical data models, database query languages, and procedures for evaluating management software. Students will develop a management information system.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

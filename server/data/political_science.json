@@ -1,0 +1,22 @@
+{
+    "name": "Political Science",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/posi/",
+    "courses": [
+        {
+            "course_code": "POSI 2310",
+            "course_name": "Principles of American Government",
+            "course_desc": "A survey of the principles of political science, of the American system of government, and of the origins and development of the constitutions of the United States and Texas. Satisfies the legislative requirements for teacher certification.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Govt/Pol Science Core 070",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "POSI 2320",
+            "course_name": "Functions of American Government",
+            "course_desc": "This course is a study of functions performed in the American system of government, both national and state, within the framework of the U.S. and Texas Constitutions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Govt/Pol Science Core 070",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

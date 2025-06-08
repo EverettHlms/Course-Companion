@@ -1,0 +1,574 @@
+{
+    "name": "Communication Design",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/artc/",
+    "courses": [
+        {
+            "course_code": "ARTC 1301",
+            "course_name": "Introduction to Communication Design",
+            "course_desc": "This course introduces the field of Communication Design including terminology, creative visual thinking/problem solving, layout design, tools, and materials.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 1302",
+            "course_name": "Imaging I",
+            "course_desc": "This course is an introduction to digital imaging emphasizing visual strategies, techniques, and concepts. Prerequisites: ARTC 1301 with a grade of \"B\" or better and [ART 1301 or ART 1303 with a grade of C or better]. Corequisite: ARTC 2000 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 2000",
+            "course_name": "Admission Portfolio Review",
+            "course_desc": "During this course, students will prepare and present an entry-level design portfolio.  Communication Design majors must pass Admission Portfolio Review to gain entrance into the program. Course is repeatable one time. Prerequisite: ARTC 1301 with a grade of \"B\" or better and ART 1301 and with a grade of C or better. Corequisite: ARTC 1302 with a grade of \"B\" or better.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ARTC 2303",
+            "course_name": "Typography I",
+            "course_desc": "This course introduces the evolution and development of alphabets, letter forms, and typography in relationship to visual expression and communication. Prerequisites: ART 1301 and ART 1303 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 2304",
+            "course_name": "Conceptual Strategies",
+            "course_desc": "This course focuses on concept development and ideation strategies through the production of various design forms. Prerequisites: ART 1301 and ART 1303 both with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 2305",
+            "course_name": "Visualization and Presentation Techniques",
+            "course_desc": "Introduces rendering techniques, three-dimensional graphics, and digital imaging for visual presentations. Prerequisites: ARTF 1302 and ID 1310 and ID 1320 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 3301",
+            "course_name": "Art Direction I",
+            "course_desc": "Students will develop advertising concepts that relate to the creative strategies, marketing platforms, and psychology specific to client-based communication, and the type of media used. Prerequisites: ARTC 3307 and ARTC 3320 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 3303",
+            "course_name": "Trademark Design",
+            "course_desc": "Focuses on the design process and concept development of trademark design (i.e., logo design, corporate identity, iconographic systems). The class emphasizes incorporating historic and contemporary methodologies and practices of trademark design within the context of the communication design discipline. Prerequisites: ARTC 3307 and ARTC 3320 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 3304",
+            "course_name": "Branding Systems",
+            "course_desc": "Focuses on the creation and application of integrated brand communication systems. Students will develop comprehensive brand identities, typographic elements and layout designs for print and digital media. Prerequisites: ARTC 3301 and ARTC 3303 and ARTH 3316 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 3307",
+            "course_name": "Interactive Media I",
+            "course_desc": "This course introduces web site design, construction, basic user interface design, and explores the elements of HTML and CSS. Prerequisites: ARTC 2303 and ARTC 2304 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 3313",
+            "course_name": "Imaging II",
+            "course_desc": "This course uses advanced digital and traditional imaging as it applies to visual and verbal problem solving. The class emphasizes incorporating drawing, photography and appropriated images in order to reinforce and extend the possibilities of sourcing and manipulation of images digitally. Prerequisites: ARTC 3301 and ARTC 3303 and ARTH 3316 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 3320",
+            "course_name": "Typography II",
+            "course_desc": "Introduces advanced issues in page structure and composition, content organization and management, typographic hierarchies, typeface selection, and typesetting. Prerequisites: ARTC 2303 and ARTC 2304 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4000",
+            "course_name": "Senior Exit Review",
+            "course_desc": "A course in which all graduating seniors must participate during their last academic year. Work will be examined and evaluated while displayed in the Exit Review. Prerequisites: ARTC 4308 with a grade of \"D\" or better and instructor approval. Corequisite: ARTC 4315 with a grade of \"D\" or better.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ARTC 4200",
+            "course_name": "Senior Show & Review",
+            "course_desc": "Students will be given the guidance and the studio time needed to polish their portfolios and to organize and produce the Communication Design Exit Review. Lectures will focus on best practices for professionals in communication design. Final portfolios will be evaluated while exhibited in the Exit Review. Prerequisite: ARTC 3304 and ARTC 4308 both with grades of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ARTC 4302",
+            "course_name": "Art Direction II",
+            "course_desc": "Students develop strategic messages across print, digital, and social media and evaluate how conceptual direction and message must shift to accommodate various media. Students strengthen their verbal and visual conceptual skills and elevate their research abilities to create dynamic advertising campaigns, and unify brand position with communication. Prerequisites: ARTC 3301 and ARTC 3303 and ARTH 3316 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4303",
+            "course_name": "Art Direction III",
+            "course_desc": "This course allows students to create art direction projects based on individual professional goals. Faculty will assess each portfolio at the beginning of the course. Students will then address their portfolio content and work to create a body of art direction pieces. Prerequisite: ARTC 4302 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4305",
+            "course_name": "Typography III",
+            "course_desc": "This course continues the study of letter form, typography, image and concept relationships for effective communication. Prerequisites: ARTC 3307 and ARTC 3320 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4306",
+            "course_name": "Environmental Graphic Design",
+            "course_desc": "Introduces a multidiscipline-based design practice centered around exterior and interior built environments. Students examine the visual, theoretical and applied aspects of defining a place through wayfinding, identity and information design. Prerequisites: ARTC 3301 and ARTC 3303 and ARTH 3316 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4308",
+            "course_name": "Interactive Media II",
+            "course_desc": "This course explores advanced Web Site design, construction and User Interface design, advanced Web authoring for multiple platforms, and advanced Web typography. Prerequisites: ARTC 3301 and ARTC 3303 and ARTH 3316 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4309",
+            "course_name": "Interactive Media III",
+            "course_desc": "Mobile application design. Exploration of User Interface design and Experience design for mobile devices. Students will learn to prototype applications that connect the physical and digital worlds. Prerequisite: ARTC 4308 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4310",
+            "course_name": "Communication Design Practicum",
+            "course_desc": "Students are placed in regional graphic design firms and advertising agencies to gain professional design/art experience. May be repeated with different emphasis for additional credit. Prerequisite: ARTC 3301 and ARTC 3303 and ARTH 3316 all with grades of \"D\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4311",
+            "course_name": "Digital Illustration",
+            "course_desc": "This is an illustration course using digital media to execute illustrations in a wide range of genres. Emphasis will be placed on developing unique approaches to manipulate traditional illustration techniques through digital means, as well as the creation of original digital illustration solutions. Prerequisites: ARTC 3301 and ARTC 3303 and ARTH 3316 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4313",
+            "course_name": "Communication Design Special Problems",
+            "course_desc": "This course is an independent study requiring complex problem solving in Communication Design. Goals and objectives will be outlined in a written format. May be repeated with different emphasis for additional credit. Prerequisite: ARTC 3301 and ARTC 3303 and ARTH 3316 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4314B",
+            "course_name": "Legal Issues in Communication Design",
+            "course_desc": "This course introduces students to the business and legal issues relating to communication design. Prerequisites: ARTC 3301 and ARTC 3303 and ARTH 3316 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4314H",
+            "course_name": "Poster Design",
+            "course_desc": "Exploration and experimental usage of the written word integrated with visual imagery by using digital and traditional photographic, illustration, and other graphic elements utilized in poster design. Prerequisites: ARTC 3307 and ARTC 3320 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4314I",
+            "course_name": "Learning from the Land of Design",
+            "course_desc": "The intent of this course is to broaden the students' understanding of the rich culture of Italian design from the Renaissance to modern Italy.  Additionally, the student will learn how intense observation of design principles through sketching, photography and keeping a journal, becomes a method for design inspiration and problem solving.  Prerequisites: ARTC 2303 and ARTC 2304 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4314K",
+            "course_name": "Introduction to Hand Painted Signs and Lettering",
+            "course_desc": "This course explores the historic underpinnings, proven techniques, materials and iterative processes associated with hand painted signs and lettering.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4314L",
+            "course_name": "Guerilla Art Direction",
+            "course_desc": "This course examines guerilla advertising art direction strategies. Students will develop non-traditional advertising concepts that promote social causes, consumer products, and public events. Guerilla creative strategy concepts will integrate various types of media including social and mobile interactions with the targeted audiences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4314M",
+            "course_name": "Design Portfolio Preparation",
+            "course_desc": "Design Portfolio provides students with a published ePortfolio that demonstrates unique problem-solving skills by design thinking methods, well-defined messaging, systems thinking, expansion of sophomore and junior projects, creation of one new project system, clearly stated project briefs and narratives, and exceptional final portfolio execution. Prerequisite: ARTC 3301 and ARTC 3303 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4314O",
+            "course_name": "Entrepreneurial Design",
+            "course_desc": "Students will focus on the interconnection between entrepreneurial thinking and innovation. They will develop innovation-driven venture skills and will gain open and critical thinking skills with a focus on community, understanding of calculated risk and the initiative to follow-through. Prerequisite: ARTC 1301 and ARTC 1302 and ARTC 2000 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4314P",
+            "course_name": "Design Research",
+            "course_desc": "Design Research provides students with an applied foundation in the role of research and analysis in the communication design discipline. Prerequisite: ARTC 2000 and ARTC 2303 and ARTC 2304 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4314R",
+            "course_name": "Information and Data Visualization",
+            "course_desc": "This course teaches students how to utilize design thinking, conceptual strategies, and method-based approaches to create effective information and data visualizations. The course guides students to develop contextualized understanding of information and data by visually clarifying and organizing the key concepts and patterns within information and data sets. Prerequisite: ARTC 2303 and ARTC 2304 and ARTC 3307 and ARTC 3320 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4314T",
+            "course_name": "Design Across Cultures",
+            "course_desc": "Students work cross-culturally through collaborative projects with students from a university program outside the US. Students work collaboratively to research design values and culture in an international context. The course concludes with at least one extensive communication design project that showcases student research. Prerequisite: ARTC 3307 and ARTC 3320 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4314U",
+            "course_name": "An Introduction to Artificial Intelligence (AI) for Communication Design",
+            "course_desc": "This course is an introduction to Artificial Intelligence (AI) for Communication Design which explores how designers interact with and use Artificial Intelligence (AI) for design outcomes and the ways designers create for AI. Prerequisite: ARTC 3301 and ARTC 3303 and ARTH 3316 all with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4314V",
+            "course_name": "Designing Attention: History, Theory and Application",
+            "course_desc": "This course surveys the most important mass media from the late 19th century until now. It asks: how can we assess the impact that different visual cultures, technologies and products have had on collective and individual attention since the modern era began? Students will study the forms, logic, delights and limitations of older inventions, like cinema, as well as newer ones, like social media. They will analyze media history, theory and contemporary debates to gain an understanding of attention as a precious resource for design specifically and social existence in general.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4315",
+            "course_name": "Senior Portfolio Presentation and Self-Promotion",
+            "course_desc": "This capstone course focuses on preparations for entry into professional practice via production of a final portfolio presentation; creation of a resume, business card, and self-promotions; and preparation for the interview process. Prerequisite: ARTC 3304 and ARTC 4308 both with grades of \"D\" or better. Corequisite: ARTC 4200 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4316",
+            "course_name": "Book Design",
+            "course_desc": "This course will cover concept and content development, design, and execution of single edition and limited edition books through lectures, demonstrations, and studio work. Emphasis placed on creativity, problem solving, organizational ability, technical precision, and independent work ethic. Prerequisite: ARTC 3307 and ARTC 3320 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4317",
+            "course_name": "Motion Graphics",
+            "course_desc": "This course introduces theories, techniques, and practices of motion graphics. This course focuses on the successful integration of images, typography, and sound over time to create nuanced and complex messages. Experimentation, research, critical analysis, and concept development are emphasized. Focus is placed upon design concepts  and process. Prerequisite: ARTC 3307 and ARTC 3320 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4318",
+            "course_name": "Package Design",
+            "course_desc": "In this course students explore the role of the communication designer by creating well-designed packaging that reinforces brand experience and meets global industry standards. Students design and create packaging through extensive research, ideation, and prototyping. They explore sustainable packaging solutions. Prerequisite: ARTC 3301 and ARTC 3303 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 4319",
+            "course_name": "Design for Experiences",
+            "course_desc": "This course addresses the creation of user experiences informed by research, customer empathy, experience mapping, and design thinking. Projects involve creating research and problem framing documents, user flow and system diagrams, pattern libraries, and experience prototypes. Students also study design and innovation roles at enterprise-scale companies and independent consultancies. Prerequisite: ARTC 3307 and ARTC 3320 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ARTC 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ARTC 5300",
+            "course_name": "Graduate Assistant Development",
+            "course_desc": "This course is required as a condition of employment for graduate teaching and instructional assistants. It will provide in-service training and evaluations of instructional philosophies, techniques and responsibilities. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ARTC 5301",
+            "course_name": "Communication Design Foundations",
+            "course_desc": "This course may be taken only to fulfill communication design background. Students will acquire knowledge and graphic design skills necessary for advanced studies. This course does not earn graduate degree credit. Repeatable up to 3 times, with different emphases. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ARTC 5320",
+            "course_name": "Web Design",
+            "course_desc": "Students will research, create, and produce advanced online products for Internet. Emphasis is placed on information architecture, interface design, and navigation constructs in order to produce unique online communications. Repeatable up to 3 times when the area(s) of study change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5330",
+            "course_name": "Typography",
+            "course_desc": "This course examines the traditional and experimental advanced usage of type as a visual tool to express meaning. Repeatable up to 3 times when the area(s) of study change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5340",
+            "course_name": "Contemporary Issues and Criticism",
+            "course_desc": "This course examines emerging issues in graphic design and design criticism, primarily from the turn of the 21st century to the present. Students will learn to analyze and critique graphic design, and will produce a work of critical writing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5341",
+            "course_name": "Modernism and Design",
+            "course_desc": "This course explores the modernist movement in design, as it emerged in Europe and America in the early twentieth century. Topics include: visual cultural theory, the origins of modernism, Dada, Constructivism, DeStijl, the Bauhaus, and American modernism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5342",
+            "course_name": "Postmodernism and Typography",
+            "course_desc": "In this course, students explore the relationship between form and content through the lens of postmodern graphic design and typography from the 1960s through the early 2000s. The course begins with the emergence of postmodernism and traces its connections to contemporary developments, including: counter-archival, decolonizing, anti-racist, feminist, and queer perspectives in typography. This hybrid studio-seminar course approaches design history through a pluralistic practice of researching, writing, and designing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5343",
+            "course_name": "Communication Design Seminar",
+            "course_desc": "In this course students examine communication design research methods, modes of practice, and models of the creative process. Students will engage in individual research inquiries in order to develop the topic for their masters thesis in Communication Design, and to present at the MFA Thesis Forum.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5350",
+            "course_name": "Special Problems in Communication Design",
+            "course_desc": "An independent study requiring complex problem-solving in communication design. Repeatable up to 3 times when the area(s) of study change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5360D",
+            "course_name": "Typeface Design",
+            "course_desc": "This course explores the detailed anatomy of typefaces in order to design custom typefaces through various applications. Students with an advanced knowledge of typography will research detailed type anatomy as well as historical, technological, and cultural typographic contexts.  Repeatable up to 3 times when the area(s) of study change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5360G",
+            "course_name": "Interaction Design",
+            "course_desc": "This course focuses on designing a digital experience by connecting people, place, and technology. Students who are interested in digital placemaking, digital innovations/transformation, mobile technology, and exploring hybrid experiences are encouraged to enroll in the course. The course discusses communication, digital products, environments, and services as an ecosystem and the role a designer plays in a larger context. Repeatable up to 3 times when the area(s) of study change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5360H",
+            "course_name": "Mobile and Social Media",
+            "course_desc": "In this course, students explore the implications of social networking and mobile communications in contemporary communication design. Repeatable up to 3 times when the area(s) of study change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5360I",
+            "course_name": "Publication",
+            "course_desc": "This course explores the designers role in the dissemination of information and examines the history and current practices of independent publishing. There is an emphasis on authorship, typography, and experimentation. Repeatable up to 3 times when the area(s) of study change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5360J",
+            "course_name": "International Perspectives in Design",
+            "course_desc": "In this course, students explore international perspectives in design.  This course requires a field trip abroad and will conclude with one extensive communication design assignment based upon the field trip experience.  Repeatable up to 3 times when the area(s) of study change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5360N",
+            "course_name": "Alternative Printing Methods",
+            "course_desc": "This course will explore hands-on printing methods for designers. Letterpress, screen-printing, and other alternative printing methods will be explored to visually express design concepts.  Repeatable up to 3 times when the area(s) of study change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5360S",
+            "course_name": "Design Futures",
+            "course_desc": "Students will translate technological and socioeconomic issues into the near future. They will explore the role of design in solving or coping with the consequences of today's actions. The course will prepare students to think critically about the role of design in the evolution of humankind.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5360U",
+            "course_name": "Design Practice",
+            "course_desc": "This course introduces students to critical design practice and serves as one of several thesis preparation courses offered. Design Practice sets the foundation for building a significant and cohesive body of creative work.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5360V",
+            "course_name": "Research through Making",
+            "course_desc": "This course further examines communication design research methods, modes of practice, and models of the creative process to advance thesis research through making and visualizing abstract ideas.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5360W",
+            "course_name": "Exhibitions",
+            "course_desc": "In this course students will explore different methods of exhibition within traditional and alternative settings. They will experiment with collaborative and multidisciplinary strategies to produce speculative proposals for public and professional communities. Students will come away with an in-depth understanding of various exhibition contexts and the ability to analyze and select the exhibition strategies most appropriate to engage a specified inquiry. Repeatable up to 3 times when the area(s) of study change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5360X",
+            "course_name": "Generative Design",
+            "course_desc": "This course introduces the basics of generative art and design. Utilizing code as a creative medium, students engage in computation through a creative, thoughtful, and transformative approach. Students learn the potential of programming in the field of Communication Design. Repeatable up to 3 times when the area(s) of study change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5360Y",
+            "course_name": "Design History Survey",
+            "course_desc": "This course surveys movements in design history with a focus on the modern and contemporary eras. Graphic design is situated within the contexts of art, architecture, film, and other design disciplines. Major themes include the rise and fall of the European avant-garde; art and editorial direction in the Interwar Period; and topics in post-WWII modernism and postmodernism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5360Z",
+            "course_name": "Designing Attention: History, Theory and Application",
+            "course_desc": "This course surveys the most important mass media from the late 19th century until now. It asks how we can assess the impact that different visual cultures, technologies, and products have had on collective and individual attention since the modern era began. Students will study the forms, logic, delights, and limitations of older inventions, like cinema, as well as newer ones, like social media. They will analyze media history, theory, and contemporary debates to gain an understanding of attention as a precious resource for design specifically and social existence in general.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5370",
+            "course_name": "Professional Practice",
+            "course_desc": "Students are placed in regional and national advertising agencies, digital media studios, or graphic design firms to gain professional practice experience.  Repeatable once for credit.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n5 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5371",
+            "course_name": "Design for Motion",
+            "course_desc": "In this course students are introduced to theories, techniques, and practices of designing for motion. As an essential medium of communication design, this course focuses on the successful integration of images, typography, and sound over time to create nuanced and complex messages. Experimentation, research, critical analysis, and concept development are emphasized. Repeatable up to 3 times when the area(s) of study change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5372",
+            "course_name": "Social Practice",
+            "course_desc": "In this course students are introduced to theoretical and conceptual aspects of socially engaged art and design. The course reconsiders the role of the designer in the context of participatory and public practices. Repeatable up to 3 times when the area(s) of study change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTC 5399A",
+            "course_name": "Thesis",
+            "course_desc": "The course represents a students initial thesis enrollment. No thesis credit is awarded until the student has completed the thesis in ARTC 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ARTC 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ARTC 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ARTC 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

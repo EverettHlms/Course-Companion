@@ -1,0 +1,262 @@
+{
+    "name": "Student Affairs in Higher Education",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/sahe/",
+    "courses": [
+        {
+            "course_code": "SAHE 5179A",
+            "course_name": "Student Affairs Administration at Minority Serving Institutions",
+            "course_desc": "This course focuses on student affairs and higher education administration at Minority Serving Institutions. Course content includes historical context of MSIs, current landscape of MSIs, programs and services fostering student success at MSIs, and key issues and challenges facing MSIs.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5179B",
+            "course_name": "Staffing and Supervision in Student Affairs",
+            "course_desc": "This course includes various topics relevant to student affairs staffing and supervision. Students will be exposed to current theories and research about each topic and will learn how to translate that information to professional practice. The major purpose of the course is to broaden the knowledge base and repertoire of skills of supervision for those who aspire to administrative leadership positions in higher education.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5179C",
+            "course_name": "Crisis Management in Higher Education",
+            "course_desc": "The course serves as an introduction to crisis management in higher education. The focus will be various crises faced by colleges and universities; the planning, prevention, response, and recovery from institutions and leadership; and student avocacy. These crises may include environmental and health problems, natural disasters, psychological issues, criminal acts, abuses of student records, media relations, campus disturbances, and other issues.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5179D",
+            "course_name": "Compassion, Resiliency, and Practitioner Well-Being",
+            "course_desc": "This course focuses on student affairs administration through the lens of compassion, resiliency, and practitioner well-being. With an intrapersonal lens combined with a focus on student affairs administration, students will learn about trauma-informed frameworks, self-care and well-being, resiliency, self-compassion, and compassion for others. Students will consider these topics in connection to crisis response in higher education.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5179E",
+            "course_name": "First-Year Student Transitions and Interventions",
+            "course_desc": "This course focuses on the first-year college student experience with a focus on the challenges, opportunities, engagement, retention, and intentional intervention. Students will be exposed to relevant theories and research about student transitions and timely interventions, and they will focus on how to translate the theory and research to professional practice.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5179F",
+            "course_name": "Teaching and Learning in Higher Education Curricular and Co-Curricular Contexts",
+            "course_desc": "In this course students will learn and model evidence-based practices for engaging undergraduate students in both curricular and co-curricular learning. The course focuses on college teaching pedagogies and learning science. Students will learn current theories and research about how college students learn, including cognitive and affective aspects of learning. Students will gain knowledge in writing learning outcomes, designing authentic learning experiences using inclusive teaching practices, engaging students in learning activities, and conducting formative and summative assessments.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5179G",
+            "course_name": "Inclusive Excellence in Higher Education",
+            "course_desc": "This course will allow students to go beyond theoretical concepts and explore practical strategies for inclusive excellence that can be used in todays higher education workplace. Students will dive into strategic planning, interviewing skills, and exploration of how todays cultural and resource centers support student success through building a sense of belonging and promoting inclusion.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5179H",
+            "course_name": "Advancing Student Success in Higher Education",
+            "course_desc": "This course will introduce the history and best practices in student success, instill the importance of utilizing technology to help make data-informed decisions, and equip students with essential skills and strategies to increase the number of students earning a post-secondary degree. The course will explore how institutions define student success and strategic goal setting to reach positive outcomes.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5179I",
+            "course_name": "Supporting Student Mental Health and Wellbeing for Academic and Personal Success",
+            "course_desc": "This course focuses on wellbeing and mental health as a pivotal topic for student success inside and outside of the classroom. Student Affairs practitioners benefit from recognition and understanding of mental health related stressors facing college students and their contributors. A focus on evidence-based prevention strategies and infusion of mental health related supports across student affairs program areas can provide tools for students to enhance their perseverance and resilience. Student will gain a repertoire of strategies for combating compassion fatigue and burn out as they experience the demands of working with students in distress.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5179J",
+            "course_name": "Critical Examination of Student Development and its Future for Student Affairs",
+            "course_desc": "This course will review several categories of student development theories and examine forces in student affairs and higher education critical to how theory, particularly identity theory, may or may not be applicable to the profession in the future. Students will consider how to create future student affairs and higher education environments that support students growth and development.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5311",
+            "course_name": "Advising and Facilitating Student Groups and Organizations",
+            "course_desc": "Designed for student affairs professionals, this course focuses on effectively advising and facilitating a diverse array of student groups and organizations.  Topics include: one-on-one and group advising, collaboration, group facilitation, conflict resolution/mediation, supervision, mentoring, teamwork, and teambuilding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5322",
+            "course_name": "Legal Issues and Governance in Higher Education",
+            "course_desc": "This course provides for the identification and understanding of the legal issues that influence institutions of higher education. There is also a focus on governance of postsecondary institutions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5323",
+            "course_name": "Assessment, Strategic Planning, and Evaluation in Student Affairs",
+            "course_desc": "This course covers the theoretical bases for assessment techniques; research design; strategic planning; developing, managing, and evaluating student affairs programs including information management and computer applications in higher education; and methods of needs analysis applicable to college student populations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5335",
+            "course_name": "Leadership in Student Affairs",
+            "course_desc": "This course provides an examination of leadership in student affairs and higher education through the study of leadership and organizational theory. Additionally, the course focuses on student leadership development. Students will be prepared to apply their knowledge of leadership theories and models to practice leadership and develop leadership in others.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5339",
+            "course_name": "Higher Education and Student Affairs Administration",
+            "course_desc": "This course provides an overview and examination of higher education and student affairs administration with a focus on institutional programs, services, practices, resources, and best practices that support student engagement and success.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5340",
+            "course_name": "College Student Development: Theory & Practice",
+            "course_desc": "This course seeks to provide in-depth understanding of developmental needs and issues of college and university students, identifies ways to enhance learning by considering developmental and environmental effects, and offers practice in creating learning opportunities that consider developmental needs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5348",
+            "course_name": "Professional Development in Student Affairs",
+            "course_desc": "Professional development plays an important role in student affairs. This course will allow students to learn more about professional development, professional associations, and conferences. Students will also create a professional development plan and will develop a conference proposal that they could submit to a professional conference.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5354",
+            "course_name": "Basic Helping Skills",
+            "course_desc": "This course will assist students with the development of basic communication, crisis assessment, and referral skills, through the use of role playing and modeling. It provides didactic and experiential activities to facilitate the acquisition of skills essential to helping in the student affairs context.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5380",
+            "course_name": "Interpersonal and Group Facilitation",
+            "course_desc": "This course is designed to give students both a theoretical and practical foundation in the knowledge, understanding, and skills needed to effectively facilitate groups and group development. Communication, facilitation, peer leadership, and experiential learning are the focus of the course.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5387",
+            "course_name": "Research Methods in Student Affairs",
+            "course_desc": "Understanding research is an important part of higher education administration.  This course focuses on research measurement and design procedures for addressing issues in student affairs in higher education. Students will learn quantitative and qualitative methods as well as fundamentals for reviewing, understanding, and applying research literature. Corequisite: SAHE 5390 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5388",
+            "course_name": "Internship I - Student Affairs",
+            "course_desc": "With a focus on bridging theory and practice, Internship I focuses on applying professional and theoretical knowledge to a student affairs internship setting and making meaning of one's internship experience. The course involves in-class meetings and clocked internship hours. Repeatable with departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SAHE 5389",
+            "course_name": "Internship II - Student Affairs",
+            "course_desc": "With a focus on career development, Internship II emphasizes applying coursework and practice to students' future careers. The course includes functional area exploration, resume and cover letter development, job search strategies, and interviewing skills. The course involves in-class meetings and clocked internship hours. Repeatable with departmental approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n10 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SAHE 5390",
+            "course_name": "Student Affairs Functions and Professional Orientation",
+            "course_desc": "This course covers the history of student affairs in higher education; the context in which student affairs exists in higher education; the theories used in student affairs work and its philosophical foundations; and the mission, goals, and programs of selected functions in student affairs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5392",
+            "course_name": "Student Affairs Capstone",
+            "course_desc": "As a culminating and capstone experience, this course provides the opportunity for students to synthesize their learning from their coursework and their professional field experiences (internships and graduate assistantships). Students will analyze case studies, engage in critical self-reflection, discuss current events and issues, engage in practices that promote well-being, and focus on career planning.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 5393",
+            "course_name": "Inclusion and Belonging in Higher Education",
+            "course_desc": "This course focuses on the awareness, knowledge, skills, and competencies necessary to serve and support students from multiple and diverse backgrounds. Further, the course focuses on strategies and approaches to addressing higher education institution aims of inclusion and belonging. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 7178",
+            "course_name": "Independent Study",
+            "course_desc": "This course focuses on individual research topics.  Students choose a selected area of study and work independently on a specialized project.  Repeatable with departmental approval.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SAHE 7345",
+            "course_name": "Gender and Sexuality in College",
+            "course_desc": "This course examines the role of gender and sexuality in the college experience. Designed using feminist theory and a social justice framework, the course includes topics of gender identity development, intersectionality, and multiple identities, sexual orientation, gender privilege and oppression, gender disparities in achievement and persistence, femininity, and masculinity. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 7378",
+            "course_name": "Independent Study",
+            "course_desc": "This course focuses on individual research topics.  Students choose a selected area of study and work independently on a specialized project.  Repeatable with departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SAHE 7379C",
+            "course_name": "Professional Development in Student Affairs",
+            "course_desc": "Professional development plays an important role in student affairs. This course will allow students to learn more about professional development, professional associations, and conferences. Additionally, students will attend a professional conference and explore the theme of the conference through readings and meetings with professional association leaders and speakers.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 7379E",
+            "course_name": "Intergroup Dialogue",
+            "course_desc": "This course is designed to give students both a theoretical and practical foundation in the knowledge, understanding, and skills needed to effectively facilitate intergroup dialogue. While providing foundational grounding in the theory and pedagogy of intergroup dialogue, the course directs particular attention to intergroup dynamics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 7379F",
+            "course_name": "Interpersonal and Group Facilitation",
+            "course_desc": "This course is designed to give students both a theoretical and practical foundation in the knowledge, understanding, and skills needed to effectively facilitate groups and group development.  Communication, facilitation, peer leadership, and experiential learning are the focus of the course.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SAHE 7379G",
+            "course_name": "Project-Based Applications in Student Affairs",
+            "course_desc": "In this course students engage in project-based applications in the field of student affairs. Students will select a project of their choice and implement the project with support of faculty and practitioners in the field. Students will engage in reflection and document their project for their portfolio.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

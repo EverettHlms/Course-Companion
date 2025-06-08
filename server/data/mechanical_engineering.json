@@ -1,0 +1,190 @@
+{
+    "name": "Mechanical Engineering",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/me/",
+    "courses": [
+        {
+            "course_code": "ME 1101",
+            "course_name": "Introduction to Digital Mechanical Engineering Lab",
+            "course_desc": "This lab course introduces students to engineering labs and digital equipment. Topics include instruction in design labs, a brief introduction to computer-aided design (CAD), and digital additive manufacturing and making. Corequisite: [MATH 2417 or MATH 2471] and ENGR 1304 and ME 1201 all with grades of C or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 1201",
+            "course_name": "Introduction to Digital Mechanical Engineering",
+            "course_desc": "This course introduces students to mechanical engineering as a discipline and a profession. Topics include instruction in the engineering design process, use of digital sensors, AI, the Internet of Things and the security of sensors in mechanical systems, engineering simulation and application of mathematical and scientific principles to solve practical problems, ethics, and career opportunities. Corequisite: MATH 2417 or MATH 2471 with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 3112",
+            "course_name": "Mechanical Behavior of Materials Lab",
+            "course_desc": "This laboratory course introduces students to experimental stress analysis techniques and tests used to characterize the mechanical behavior of materials. It also addresses the interpretation of experimental data and comparison of measurements to analytical predictions. The experiments investigate tension, compression, bending, hardness, impact, fracture toughness, cyclic fatigue, creep and relaxation, photoelasticity, and digital image correlation tests. Prerequisite: ENGR 2300 with a grade of C or better. Corequisite: ME 3311 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 3151",
+            "course_name": "Smart Instrumentation and Measurement Lab",
+            "course_desc": "In this lab course, students conduct Internet of Things concept experiments for mechanical measurements using digital instrumentation and transducers via wireless digital communication and computer-based data acquisition tools.  Lab experiments cover fundamental experimental techniques, operational principles of various digital instruments and transducers, and statistical data analysis techniques. Prerequisite: ME 1101 and ENGR 3373 and ENGR 3311 and ME 3330 all with grades of \"C\" or better. Corequisite: ME 3351 and IE 3320 both with a grade of C or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 3311",
+            "course_name": "Mechanics of Solids",
+            "course_desc": "This course covers advanced topics in solid mechanics including combined loadings, statically indeterminate loadings, thermal stresses, unsymmetrical bending, stress concentrations, inelastic deformations, stress and strain transformations, plane stress, plane strain, Mohrs circle, failure criteria, curved beams, and torsion of prismatic bars.  Prerequisite: ENGR 3311 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 3314",
+            "course_name": "Machine Design",
+            "course_desc": "This course will apply knowledge of statics, dynamics, mechanics of solids, and engineering materials, to the design and selection of machine elements. Topics include fatigue failure theories, material selection, impact loading, and typical machine elements such as transmission shafts, keys, bearings, gears, springs, and fasteners. Prerequisite: ENGR 2302 and ME 3311 both with grades of \"C\" or better. Corequisite: ME 3112 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 3330",
+            "course_name": "Engineering Thermodynamics",
+            "course_desc": "This course covers introductory concepts of thermodynamics, energy transfer and general energy analysis, properties of pure substances, ideal gas model, mass and energy analysis of control volumes, first and second laws of thermodynamics, entropy, power cycles, and refrigeration cycles.  Prerequisite: [PHYS 2325 and PHYS 2125] and MATH 2472 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 3331",
+            "course_name": "Heat Transfer",
+            "course_desc": "This course covers introductory concepts of heat transfer, steady-state and transient conduction in one- and two-dimensions, external forced convection, internal forced convection, natural convection, heat exchangers, and fundamentals of radiation. Prerequisite: ME 3335 and MATH 3323 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 3335",
+            "course_name": "Engineering Fluid Mechanics",
+            "course_desc": "This course is an introduction to fluid mechanics, fluid properties, fluid statics, fluid dynamics, control volume analysis, differential analysis of fluid flow, dimensional analysis, viscous flow in pipes, external flows, and open channel flows.  Prerequisite: ENGR 2302 and MATH 2393 and ME 3330 all with grades of \"C\" or better. Corequisite: MATH 3323 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 3351",
+            "course_name": "Smart Instrumentation and Measurement",
+            "course_desc": "This course covers basic concepts and principles of instrumentation and measurement systems, analog and digital devices, basic electronics, sensors and transducers, introduction to the Internet of Things (IoT) and big data, cybersecurity of IoT devices, wireless digital network and communication, probability and statistics to characterize measurement uncertainty, data acquisition and analysis using software packages, and measurements of physical properties such as temperature, pressure, and strain.   Prerequisite: ME 1101 and ENGR 3373 and ENGR 3311 and ME 3330 all  with grades of \"C\" or better. Corequisite: ME 3151 and IE 3320 both with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 3361",
+            "course_name": "Computer Aided Design and Digital Manufacturing",
+            "course_desc": "This course provides an in-depth study of computer aided design (CAD), computer aided manufacturing (CAM), and digital manufacturing.  Topics include the product development process, CAD file formats and data exchange, fundamentals of computer numerical control (CNC) machines, numerical control programming for milling processes, CNC code generation and simulation by CAD/CAM software, and an overview of other digital manufacturing processes such as additive manufacturing, laser cutting, welding, and waterjet cutting.  In the lab, students get hands-on experience in reading CAD drawing standards, lab safety, machine tools operation, and operation of digital manufacturing processes, including CNC machining, additive manufacturing, and laser cutting. Prerequisite: MATH 2472 and ENGR 1304 and ENGR 2300 and ME 1101 all with grades of \"C\" or better. Corequisite: ME 3311  with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 4131",
+            "course_name": "Fluids/Thermal Lab",
+            "course_desc": "This laboratory course is designed for students to conduct experiments based on various principles of fluid mechanics, thermodynamics, and heat transfer. Students need to use proper experimental methods and interpret data using these principles and uncertainty analysis.  Prerequisite: ME 3151 and ME 3331 and ME 3351 all with grades of \"C\" or better. Corequisite: ME 4390 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 4311",
+            "course_name": "Mechanical Vibrations",
+            "course_desc": "This course introduces fundamental concepts on the vibration of mechanical systems.  Topics include equations of motion, free and forced vibrations of damped/undamped single- and multi-degree-of-freedom mechanical systems, self-excitation and stability analysis, application of transfer functions for vibration problems, Lagranges equations, and determination of natural frequencies and mode shapes of multi-degree-of-freedom systems. Prerequisite: ENGR 2302 and [MATH 3376 or MATH 3383] and MATH 3323 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 4312",
+            "course_name": "Mechanics of Composite Materials",
+            "course_desc": "This course focuses on the elastic properties of a wide range of composites, including unidirectional and multidirectional laminates, particulate and fiber-reinforced composites, invariant properties of an orthotropic lamina, classical lamination theory, strength of laminates, and use of general purpose computer codes for classical laminate theory. Prerequisite: [MATH 3376 or MATH 3383] and ME 3314 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 4321",
+            "course_name": "Applied Finite Element Analysis",
+            "course_desc": "This course provides an introduction to the finite element method (FEM). Two aspects are considered in the course: The theoretical foundations of the method and the use of existing finite element analysis (FEA) software. Topics covered in the theory portion include the direct method, the variational method, and the weighted residuals method. Topics covered in the laboratory portion include typical pre- and post-processing modules, different types of elements, analysis of simple time independent stress analysis and heat transfer problems, and practical aspects related to the creation of a finite element model. Prerequisite: MATH 3323 and [MATH 3376 or MATH 3383] and ME 3314 all with grades of \"C\" or better. Corequisite: ME 3331 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 4332",
+            "course_name": "Modern Heating, Ventilating, and Air Conditioning",
+            "course_desc": "This course focuses on current and upcoming practices in heating, ventilating, and air conditioning (HVAC), including psychometrics, standards, ventilation requirements, load estimates, filtration, air sterilization, and building energy system design, simulation, and control. Prerequisite: ME 3331 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 4341",
+            "course_name": "Computational Fluid Dynamics",
+            "course_desc": "This course introduces the scientific principles and practical engineering applications of Computational Fluid Dynamics (CFD). Although it provides a brief overview of the fundamental mathematics governing fluid flow and heat transfer phenomena, its emphasis is to apply the knowledge using commercial CFD software. Additional topics include set-up of appropriate CFD parameters, conduct of steady-state and transient fluid flow simulations, solutions for both isothermal and non-isothermal thermo-fluid applications, solutions for both incompressible and compressible fluid flow applications, solutions for fluid flow through porous media and rotating machinery, and extraction of the required results including plots.  Prerequisite: MATH 3323 and [MATH 3376 or MATH 3383] and ME 3335 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 4351",
+            "course_name": "Control Systems",
+            "course_desc": "This course covers introductory concepts of linear control systems.  Topics include mathematical modeling of physical systems, Laplace transform, transfer function, modeling and analysis in state space, transient and steady state responses, root locus and stability, control systems in time and frequency domains, Bode plot, and design of PID controllers. Prerequisite: ENGR 2302 and MATH 3323 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 4355",
+            "course_name": "Autonomous Systems and Robotics",
+            "course_desc": "This course introduces different types of autonomous systems, such as autonomous driving vehicles, drones, and robots. It provides an introduction to the methods and algorithms used in the design, construction, and operation of such systems. The emphasis is on the application of autonomous systems, their components, and their underlying control algorithms, including sensor fusion, real-time decision-making and learning, information processing, path planning, localization, and intelligent control.  Prerequisite: ENGR 2302 and IE 3320 and [MATH 3376 or MATH 3383] and ME 4351 all with grades of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 4390",
+            "course_name": "Mechanical Engineering Design I",
+            "course_desc": "This course is the first of a two-course sequence involving integrated design and development of products and processes, the impact of ethical issues on design, the discussion of real-world engineering problems and emerging engineering issues with practicing engineers, preparation of reports indicating use of appropriate engineering standards and multiple constraints, plans and specifications, cost estimation, project management, and communication. (WI) Prerequisite: ME 3331 and ME 3314 and  ME 3361 all with grades of C or better. Corequisite: ME 4131 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 4391",
+            "course_name": "Mechanical Engineering Design II",
+            "course_desc": "This course is the second of a two course sequence involving implementation of Integrated design and development of products and processes; impact of ethical issues; the discussion of real-world engineering problems and emerging engineering issues with practicing engineers; preparation of reports indicating use of appropriate engineering standards and multiple constraints, plans and specifications; cost estimation; project management; and communication. Prerequisite: ME 4131 and ME 4390 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 5310",
+            "course_name": "Continuum Mechanics",
+            "course_desc": "This course provides an introduction to continuum mechanics. Topics include indicial notation, tensor algebra, tensor calculus, curvilinear coordinates, kinematics of a continuum, strain, stress, constitutive models, field equations governing continuous media, and applications to problems in solid and fluid mechanics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ME 5312",
+            "course_name": "Stress Analysis of Composite Materials",
+            "course_desc": "This course covers the mechanical analysis of continuous-fiber-polymer-matrix laminated composites.  Topics include fabrication and testing of composite materials, lamination theory, micromechanics, design analysis and computerized implementation, environmentally induced stresses, and failure theories for composites.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

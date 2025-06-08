@@ -1,0 +1,358 @@
+{
+    "name": "Engineering",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/engr/",
+    "courses": [
+        {
+            "course_code": "ENGR 1304",
+            "course_name": "Engineering Graphics",
+            "course_desc": "This course covers the introduction to computer-aided drafting using CAD software and sketching to generate two- and three-dimensional drawings based on the conventions of engineering graphical communication in the tools and techniques utilized to produce various types of working drawings. Principles of multiview projections, geometric relationships, shape and size description, and pictorial methods are included with emphasis on technical applications and design problem solving. Corequisite: MATH 2417 or MATH 2471 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 2300",
+            "course_name": "Materials Engineering",
+            "course_desc": "This course covers topics including structure, properties and behavior of engineering materials including metals, polymers, composites, and ceramics. Mechanical, electrical, magnetic, thermal, and optical properties are covered. Prerequisite: [CHEM 1335 and CHEM 1135] or [CHEM 1341 and CHEM 1141] with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 2301",
+            "course_name": "Statics",
+            "course_desc": "This course covers the theory of engineering mechanics.  Topics include forces, moments, and couples acting on stationary engineering structures.  Additionally, two and three dimensional equilibrium, free-body diagrams, friction, centroids, and centers of gravity are covered. Prerequisite: PHYS 2325 and 2125 with grades of \"C\" or better. Corequisite: MATH 2472 or MATH 2473 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 2302",
+            "course_name": "Dynamics",
+            "course_desc": "This course introduces the fundamentals of kinematics and kinetics of individual particles, systems of particles, and rigid bodies. Topics include the rectilinear, curvilinear, and general motion, Newton's laws of motion, work and energy relationship, principles of impulse and momentum, and application of kinetics and kinematics to the solution of engineering problems. Prerequisite: ENGR 2301 and MATH 2472 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 3190",
+            "course_name": "Cooperative Education",
+            "course_desc": "This course provides cooperative education students the opportunity to study particular problems in engineering in an occupational setting.  Problems are related to the students work assignment and culminate in an industrial supervisor's evaluation and technical report or presentation. This course may be taken up to three times for a maximum of three credits applying towards the major elective. Prerequisite: A minimum 2.25 Overall GPA and instructor approval.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 3290",
+            "course_name": "Advanced Cooperative Education",
+            "course_desc": "This course provides cooperative education students the opportunity to study particular problems in engineering in an occupational setting. Problems are related to the student's work assignment and culminate in an industrial supervisor's evaluation and technical report. This course maybe taken up to 2 times for a maximum of 3 credits applying towards the major elective. Prerequisite: A minimum 2.25 Overall GPA and instructor approval.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 3311",
+            "course_name": "Mechanics of Materials",
+            "course_desc": "This course covers the principles of the mechanics of materials and includes the following topics: stress and strain, elastic modulus and Poisson's ratio, constitutive equations, torsion, bending, axial, shear and bending moment diagrams, deflection of beams, and stability of columns. Prerequisite: ENGR 2301 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 3315",
+            "course_name": "Engineering Economic Analysis",
+            "course_desc": "Interest formulas, economic equivalence, rate of return analysis, techniques of economic analysis for engineering decisions and an introduction to cost estimation. Prerequisite: MATH 1315 or MATH 2417 or MATH 2471 any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 3373",
+            "course_name": "Circuits and Devices",
+            "course_desc": "In this course, circuits and devices are introduced. Topics include circuit analysis and network theorems with emphasis on applications of analog and digital electronic devices, transducers, sensors, and electromechanical devices. Prerequisite: PHYS 2326 and PHYS 2126 and [CS 1428 or CS 1342] with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 3380",
+            "course_name": "Fluid Mechanics",
+            "course_desc": "This course is an introduction to fluid motion.  Fluid flow, pressure, energy, and momentum are examined.  Dimensional analysis is also covered. Sensing devices used to monitor a fluid are discussed.  Students will learn to follow standard laboratory procedures, perform data acquisition, conduct data analysis, and visualize test data.  Prerequisite: ENGR 2301 and MATH 3323 with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 4299",
+            "course_name": "Engineering Undergraduate Research",
+            "course_desc": "In this course undergraduates investigate a special topic in engineering by developing a research idea, conducting a literature review, researching the topic, writing a technical report, and presenting the findings. Research plans will be developed on an individual basis with strict faculty supervision.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 4390",
+            "course_name": "Internship",
+            "course_desc": "Supervised on-the-job professional learning experience in engineering and other technical areas. This course provides practical work experience in their particular field of interest.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 4395",
+            "course_name": "Independent Studies in Engineering",
+            "course_desc": "Open to undergraduate students on an independent basis by arrangement with the faculty member concerned.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5100",
+            "course_name": "Seminar in Engineering",
+            "course_desc": "Graduate students attend seminars by invited speakers presenting relevant topics in academia and industry. The schedule of speakers will be developed each semester with strict faculty supervision. This course may only be taken for credit one time.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENGR 5101",
+            "course_name": "Academic Instruction for Engineering Graduate Assistants",
+            "course_desc": "This course is seminar based and covers topics related to teaching and employment responsibilities. Completion of this course is required as a condition of employment for graduate assistants. This course does not earn graduate degree credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ENGR 5105",
+            "course_name": "Engineering Internship",
+            "course_desc": "This course is a faculty-supervised, experiential, work-integrated learning course intended to help the student acquire engineering curriculum-related industrial experience and hence successfully make the transition into the workforce.  Course cannot be counted toward graduation.  Course may be repeated once. Prerequisite: Instructor approval.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENGR 5198B",
+            "course_name": "Project",
+            "course_desc": "This course represents a student's continuing project enrollments. The student continues to enroll in this course until the project is completed. Prerequisite: Instructor approval.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENGR 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENGR 5201",
+            "course_name": "Academic Instruction for Engineering Graduate Assistants",
+            "course_desc": "This course is seminar based and covers topics related to teaching and employment responsibilities. Completion of this course is required as a condition of employment for graduate assistants. This course does not earn graduate degree credit.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ENGR 5298B",
+            "course_name": "Project",
+            "course_desc": "This course represents a student's continuing project enrollments. The student continues to enroll in this course until the project is completed.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENGR 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENGR 5310",
+            "course_name": "Probability, Random Variables, & Stochastic Processes for Engineers",
+            "course_desc": "This course develops theory underlying analysis and design of systems. Fundamental distributional concepts, applications of statistical methods, and theory of stochastic processes are introduced to create a mathematical foundation for engineering analysis of physical systems involving randomness. Applications to engineering topics are taught, including estimation, control, and systems theory.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5321",
+            "course_name": "Environmental Chemistry",
+            "course_desc": "This course introduces environmental chemistry, emphasizing aquatic resources and engineering. It also examines fundamental geochemistry and atmospheric chemistry principles relating to pollutant impacts on aquatic ecosystems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5322",
+            "course_name": "Low Impact Development and Green Infrastructure",
+            "course_desc": "This course covers the principles and practices of Low Impact Development and Green Infrastructure (LID/GI) for sustainable development and water sustainability through rain harvesting, small systems, resource recovery, and technology-enhanced innovation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5323",
+            "course_name": "Soil and Groundwater Remediation",
+            "course_desc": "This course covers various remediation technologies to clean up contaminated soil and groundwater. Topics include, but are not limited to, subsurface hydrology, contaminant fate and transport, physicochemical and biological remediation, monitoring, and brownfield redevelopment. Significance of subsurface contamination and the importance of environmental health will also be addressed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5330",
+            "course_name": "Advanced Soil Mechanics",
+            "course_desc": "This course is a fundamental graduate-level geotechnical engineering course, covering the physical, mechanical, hydraulic, and electrical properties of soil. The mandatory laboratory component will provide hands-on experience with characterizing soils for engineering purposes (stress-deformation and strength characteristics) and help to familiarize students with ASTM geotechnical laboratory testing procedures and standards.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5332",
+            "course_name": "Earth retaining structures and slopes",
+            "course_desc": "The course will cover the design and analysis of various earth retaining structures as well as slope stability analysis. Fundamental lateral earth pressure theories will be taught, followed by application through design for gravity walls, cantilever walls, mechanically stabilized earth walls, soil nails, and tiebacks.  Slope stability analysis will include infinite methods, methods of slices, chart methods, and finite element methods with commercial software. Additional topics include slope remediation techniques and geosynthetics for slope stabilization.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5333",
+            "course_name": "Fluid Flow in Porous Media",
+            "course_desc": "This course presents the fundamental theory of fluid flow in heterogeneous porous media and introduces various theoretical tools to characterize and predict the flow field.  This course focuses on the fluid flow theory in complex porous media, such as fractured porous media. Key concepts are introduced, and derivations of governing equations are presented thoroughly. Analytical and numerical techniques to solve governing equations are discussed. The students of this course use these fundamental equations to solve problems based on real-world situations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5334",
+            "course_name": "Advanced Foundation Engineering",
+            "course_desc": "This course examines advanced topics in foundations design including design, analysis and construction of shallow and deep foundations. Deep foundations include driven piles, drilled shafts, micropiles, and auger cast in place piles. The course will cover bearing/axial capacity, settlement, pile group effects, and lateral capacity of the various foundation types. Additional topics include subsurface exploration and analysis of pile behavior using wave equation analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5341",
+            "course_name": "Advanced Bituminous Materials",
+            "course_desc": "This course provides a comprehensive presentation of bituminous materials, mix design procedures, and construction techniques.  Emphasis is placed on a fundamental understanding of asphalt cements and aggregates, and how these materials affect mixture design and pavement performance.  Modern asphalt pavement design and construction practices are also introduced.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5351",
+            "course_name": "Advanced Reinforced Concrete Members",
+            "course_desc": "This course covers advanced topics related to reinforced concrete materials and specifications, and the behavior and design of reinforced concrete members. The topics includes the following: flexural behavior and design of reinforced concrete, behavior and design of slender columns, design of structural components, frame joints, and walls, serviceability and durability issues, and anchorage design using splices, hooks, and mechanical devices.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5352",
+            "course_name": "Advanced Prestressed Concrete",
+            "course_desc": "This course covers the theories, principles, and concepts of prestressed concrete, including analysis and design of prestressed components for axial, flexure, shear, and torsion. This course will also introduce the applications of prestressed elements in various types of infrastructure.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5361",
+            "course_name": "Pavement Asset Management",
+            "course_desc": "This course is about applications of pavement condition evaluation technologies, pavement distress data analysis and modeling, and pavement maintenance and rehabilitation decision making in the management of pavement systems. The course covers methods of evaluating field performance of rigid and flexible pavements by measuring surface distresses, profiles, friction resistance, and structural integrity. In addition, the course also discusses pavement performance evaluation models, and ranking and optimization methods for decision-making of pavement maintenance and rehabilitation strategies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5362",
+            "course_name": "Advanced Traffic Engineering",
+            "course_desc": "This course is an introduction to basic components of transportation systems and fundamentals of transportation engineering.  Topics include  geometric design of highways, study of warrants for traffic control devices, analysis of traffic flow theory and characteristics, levels of service, capacity of urban and rural highways, design and analysis of traffic signals and timing plans, and analysis of urban and highway traffic characteristics using simulation software.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5363",
+            "course_name": "Road Infrastructure Safety",
+            "course_desc": "This course will cover topics including an introduction to road infrastructure safety, fundamentals of road safety analysis, highway safety management systems, count data modeling, crash severity modeling, highway safety design, basics of artificial intelligence and machine learning, human factors, and safe system design.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5384",
+            "course_name": "Problems in Engineering",
+            "course_desc": "Graduate students investigate a special topic by developing a technical problem, researching the topic, and presenting the findings. Plans will be developed on an individual basis with strict faculty supervision. This course may be repeated once for additional credit with permission of the School Director. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENGR 5398A",
+            "course_name": "Project",
+            "course_desc": "This course represents a student's initial project enrollment. No project credit is awarded until the student has completed the project in ENGR 5x98B. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENGR 5398B",
+            "course_name": "Project",
+            "course_desc": "This course represents a student's continuing project enrollments. The student continues to enroll in this course until the project is completed. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENGR 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's initial thesis enrollment. No thesis credit is awarded until the theses is completed in ENGR 5x99B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENGR 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENGR 5598B",
+            "course_name": "Project",
+            "course_desc": "This course represents a student's continuing project enrollments. The student continues to enroll in this course until the project is completed. Prerequisite: Instructor approval.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENGR 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENGR 5998B",
+            "course_name": "Project",
+            "course_desc": "This course represents a student's continuing project enrollments. The student continues to enroll in this course until the project is completed. Prerequisite: Instructor approval.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENGR 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

@@ -1,0 +1,422 @@
+{
+    "name": "Recreation",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/rec/",
+    "courses": [
+        {
+            "course_code": "REC 1310",
+            "course_name": "Introduction to Recreation and Sport Management",
+            "course_desc": "This course includes brief historical backgrounds, professional opportunities, present status, and past and present leaders of the recreation and sport management profession. It also includes the role of recreation and sports in our social structure, professional responsibility, familiarization with current issues and trends, and professional literature.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 1330",
+            "course_name": "Introduction to Outdoor Recreation",
+            "course_desc": "This course provides students with an overview of the role the natural world plays in recreation and leisure services. The course will focus on values of outdoor recreation, adventure recreation, environmental impact, and the role of government in the provision and protection of outdoor recreation programs and resources.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 1370",
+            "course_name": "Introduction to Recreational Therapy",
+            "course_desc": "This course surveys history, philosophy, terminology, and professional opportunities within recreational therapy. An overview of interventions, settings, clientele, and services supporting functional improvements and enhancing quality of life are explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 2330",
+            "course_name": "Leadership in Recreation and Sport Services",
+            "course_desc": "Discussion of leadership theories and skill development for indoor-outdoor activities, games and sports. A weekly required lab includes leading and participating in group activities to develop leadership skills.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 2335",
+            "course_name": "Recreation and Sport Program Development",
+            "course_desc": "This course introduces students to basic principles and procedures for developing recreation and sport programs that respond to human needs. This course provides students with opportunities to acquire and utilize recreation and sport programming skills. Prerequisite: REC 1310 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 2336",
+            "course_name": "Directed Field Experience in Recreation and Sport Programming",
+            "course_desc": "This course provides field-based experiences in programming and leadership with a selected recreation or sports agency. Online learning modules and communications guide the work and professional reflections. Prerequisite: REC 2335 with a grade of \"C\" or better and a minimum 2.0 Texas State GPA and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 2370",
+            "course_name": "Planning Recreational Therapy Services",
+            "course_desc": "This course engages students in course content and service learning to develop knowledge and skills in program planning and implementation used in a variety of therapeutic recreation settings. Students will gain an understanding of theoretical models and learn how to apply these models to activity and task analysis. Prerequisites: REC 1370 with a grade of \"C\" or better. Corequisites: REC 1310 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 3325",
+            "course_name": "Recreation & Sport Administration & Management",
+            "course_desc": "This course covers administrative practices relevant to entry-level professionals in the recreation and sport industry. Topics include foundations of management, decision-making, planning, coordination of resources, and ethics. Prerequisite: REC 2335 with a grade of \"C\" or better and [MATH 1312 or MATH 1315 or MATH 1316 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2417 or MATH 2471 or HON 2302A] with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 3335",
+            "course_name": "Advanced Recreation and Sport Program Development",
+            "course_desc": "Students will develop advanced recreation and sport program planning skills through the integration of theories and models of program development, consideration of diverse target markets, performing needs assessments, and planning for risk management issues. Students will apply these planning skills through an applied project. (WI) Prerequisite: REC 2335 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 3340",
+            "course_name": "Recreation and Sport Facility Operations and Management",
+            "course_desc": "This course content includes theories and processes in the development, operation, maintenance, and management of various recreational and sport facilities. Prerequisite: REC 1310 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 3351",
+            "course_name": "Evaluation of Recreation and Sport Programs",
+            "course_desc": "This course focuses on methods, techniques, and application of the evaluation process related to a wide variety of recreation and sport functions including clientele and prospective participants, programs, personnel, facilities, organizations, and literature. (WI) Prerequisite: REC 2335 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 3370",
+            "course_name": "Assessment and Documentation in Recreational Therapy",
+            "course_desc": "This course introduces students to selecting, utilizing, and interpreting assessment instruments, and to the processes used to document assessment results and client progress used in recreational therapy practice. Prerequisite: HIM 2360 and REC 1370 and REC 2370 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 3371",
+            "course_name": "Facilitation and Processing in Recreational Therapy",
+            "course_desc": "This course presents an overview of concepts, methods, and techniques used in the selection and implementation of therapeutic facilitation and interventions used in recreational therapy practice. Students will apply current research and theoretical perspectives to the selection and implementation of therapeutic interventions. In addition, processes for leading therapeutic groups, facilitation techniques, and counseling techniques will be introduced in relation to recreational therapy practice. Focus will be on development of skills necessary to implement evidence-based goal-directed outcomes. Prerequisite: REC 1370 and REC 2370 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 3380",
+            "course_name": "Practicum in Outdoor Recreation",
+            "course_desc": "This practicum involves a 200 hour field-based experience during which a student will complete leadership and administrative tasks in an approved outdoor recreation services agency. The practicum is co-supervised by a faculty and an agency representative. This course may be taken two times with different outdoor recreation services agencies. Prerequisite: REC 1310 and REC 1330 both with grades of \"C\" or better and a minimum 2.25 Major GPA and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n13 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 4318G",
+            "course_name": "Cross-Cultural Studies in Recreation & Sport Facility Operation",
+            "course_desc": "This course will introduce theories and provide practical experience in the design, development, operation, maintenance, administration of various recreation and sport facilities. Students will compare facility amenities from the United States with those in another country. Students will have behind the scenes tours of recreation and sport facilities and parks, meet with managers from all sectors of the recreation and sport industry, and learn from faculty abroad. It is specifically for students participating in a Study Abroad program.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 4318H",
+            "course_name": "Recreation & Sport Research in a Cross-Cultural Context",
+            "course_desc": "This course, designed specifically for use in study abroad programs,  involves the examination of concepts, techniques, and processes that are applied in conducting evaluation/research. Students will identify an area of interest related to recreation, sport or leisure and complete a research project comparing the subject area in the United States to the country being visited. Students will tour recreation and sport facilities as well as visit cultural, historic, and scenic locations in and around the city where we will be staying.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 4330",
+            "course_name": "Entrepreneurial Management in Recreation and Sport",
+            "course_desc": "This course provides a study of entrepreneurial management of recreation and sport. The focus will be on financial management related to profit centers including planning, legal liability, record keeping, and revenue management. Prerequisite: REC 1310 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 4335",
+            "course_name": "Outdoor Recreation Programming",
+            "course_desc": "In this course, students apply principles and procedures for developing and leading recreation programs in a variety of specialized, outdoor environments. Students will demonstrate competencies for Leave No Trace certification.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 4337",
+            "course_name": "Independent Study in Recreation and Sport Management",
+            "course_desc": "This course consists of individual study related to recreation and sport management under direct supervision of a faculty member. (WI) Prerequisite:\nInstructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 4350",
+            "course_name": "Employee Supervision in Recreation and Sport Management",
+            "course_desc": "This course presents theories and methods relating to recruitment, selecting, hiring, training, disciplining, and discharging employees. This course also addresses legal issues related to personnel supervision. Prerequisite: REC 2335 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 4370",
+            "course_name": "Principles of Recreational Therapy",
+            "course_desc": "This course will cover the principles and administrative aspects of recreational therapy services including standards of practice, code of ethics, comprehensive program design, and issues related to professionalism. Prerequisite: REC 1370 and REC 2370 and REC 3370 and REC 3371 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 4371",
+            "course_name": "Application of Evidence-Based Practice in Recreational Therapy",
+            "course_desc": "This course provides a theoretical and practical foundation for applying the recreational therapy process with persons with various types of disabilities across the lifespan. Focus will be on developing skills necessary to implement evidence-based interventions culminating in the design and application of a comprehensive case study.  Prerequisite: REC 1370 and REC 2370 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 4380",
+            "course_name": "Seminar in Recreation and Sport Trends and Issues",
+            "course_desc": "This capstone seminar addresses trends in recreation and sport management. Emphasis is on the interactional effects of diverse services, consumers, and environments. The course should be taken in the last spring semester preceding enrollment in REC 4680 or REC 4681. (WI) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 4680",
+            "course_name": "Internship in Recreation and Sport",
+            "course_desc": "This internship involves a 400 hour field-based experience during which a student will complete administrative tasks  in an approved recreation or sport agency. The work is co-supervised by a faculty and an agency representative trained in the recreation and sport field. Prerequisites: REC 1310 and REC 2335 and REC 2336 and REC 3325 and REC 4380 all with grades of \"C\" or better and all major coursework must be completed and a minimum 2.25 Major GPA and instructor approval.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n30 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 4681",
+            "course_name": "Internship in Recreational Therapy",
+            "course_desc": "This internship involves experiential learning over a long semester during which a student will work (a minimum of 14 weeks and 560 hours) in a recreational therapy setting under direct professional supervision by a Certified Therapeutic Recreation Specialist (CTRS) and a faculty member with CTRS credential. Prerequisites: REC 1310 and REC 1370 and REC 2335 and REC 2336 and REC 2370 and REC 3325 and REC 3370 and REC 3371 and REC 4370 and REC 4371 and REC 4380 all with grades of \"C\" or better and all major coursework completed and a minimum 2.25 Major GPA and instructor approval.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n35 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continued thesis enrollment. No thesis\ncredit is awarded until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "REC 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continued thesis enrollment. No thesis\ncredit is awarded until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "REC 5310",
+            "course_name": "Philosophical Foundations of Recreation and Sport Management",
+            "course_desc": "This course introduces and explores the meanings of recreation, sport, and leisure behaviors and services from historical, philosophical, sociological, and political perspectives. Students will develop a philosophical view of recreation and sport based on exploration of the history as well as consideration of the nature of the individual and society.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5318P",
+            "course_name": "Inclusive Recreation for Individuals with Disabilities",
+            "course_desc": "This course engages students to understand the meaning of social inclusion as it pertains to people with disabilities, along with current trends and best practices related to inclusive sport and recreation services    for people with disabilities. Course content will prepare students to enhance inclusive service delivery in a variety of settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5318Q",
+            "course_name": "Evaluation of Recreation and Sport Programs",
+            "course_desc": "This course will focus on practical applications of program evaluation techniques. Directed readings will cover the history of evaluation as well as methods and approaches designed for different customers, locations and program types.  Prerequisite: REC 5380 with a grade of \"C\" or better or instructor permission.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5321",
+            "course_name": "Issues and Trends in Recreational Therapy",
+            "course_desc": "This is a seminar-style course during which students investigate current trends related to the provision of recreational therapy services, research, education, and professional advocacy.  Prerequisite: REC 5328 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5325",
+            "course_name": "Philosophical Foundations of Recreational Therapy",
+            "course_desc": "This course examines the history, theory, and philosophy of therapeutic recreation such as service models, standards, and legislation. The use of recreational therapy in supporting the attainment and maintenance of well-being of people with differing characteristics and abilities is explored.  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5326",
+            "course_name": "Recreational Therapy Planning and Implementation",
+            "course_desc": "This course provides an advanced examination of the recreational therapy process with a focus on planning and implementation of individualized services and supports for persons with disabling conditions. Students will analyze interventions, modalities, instruction, leadership, supervision, and leisure counseling techniques in relation to program planning and implementation.  Prerequisite: REC 5327 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5327",
+            "course_name": "Assessment, Evaluation, and Documentation in Recreational Therapy",
+            "course_desc": "This course provides an in-depth examination of the assessment and documentation phases used in recreational therapy. Students will select, administer, score, interpret, and report standardized and specialized assessment instruments and documentation methods.  Corequisite: REC 5325 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5328",
+            "course_name": "Advanced Principles of Recreational Therapy",
+            "course_desc": "This course provides an in-depth examination of the principles of organizing, funding, and managing recreational therapy services within a variety of settings. Topics include analysis of professional credentialing, policies, standards of practice, ethical behavior, and regulatory guidelines as they relate to recreational therapy are applied to advancing the profession.  Prerequisite: REC 5327 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5329",
+            "course_name": "Evidence-based Practice in Recreational Therapy",
+            "course_desc": "This course explores the application of research evidence to the planning and delivery of recreational therapy within a variety of service settings. The emphasis is on locating, critically appraising, analyzing, and producing evidence related to treatment modalities and techniques for recreational therapy practice. In addition, the course will apply evidence-based practice in relation to therapeutic facilitation techniques and interventions. Prerequisite: REC 5328 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5330",
+            "course_name": "Organizational Leadership in Recreation and Sport Management",
+            "course_desc": "This course provides an exploration of management issues related to the role of the leader as a conduit for effectiveness in recreation and sport management service agencies. Content will include practices associated with managing human resources such as hiring, supervising, evaluating, and compensating. Content will include examination of federal and state laws impacting employment and the managers role in operationalizing both legislative mandates and agency policy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5337",
+            "course_name": "Independent Study in Recreation and Sport Management",
+            "course_desc": "This course includes individual study related to recreational administration or sport management under direct supervision of a faculty member. May be repeated for additional credit at the discretion of the department chair.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5338",
+            "course_name": "Internship in Recreational Therapy",
+            "course_desc": "This course provides students the opportunity to complete an intensive, on-site internship under the supervision of a nationally Certified Therapeutic Recreation Specialist. Students will complete a minimum of 560 hours and 14 weeks in a recreational therapy setting. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5340",
+            "course_name": "Social Psychology of Recreation and Sport",
+            "course_desc": "This course provides an introduction and overview of the personal, social and social-psychological contexts of leisure; utilizing current literature the course will focus on examining sport and recreation behavior from psychological, sociological and social-psychological constructs that are contributing to a contemporary, interdisciplinary understanding of the leisure phenomenon.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5346",
+            "course_name": "Literature and Research in Recreation and Sport Management",
+            "course_desc": "The course provides an analytical investigation of research techniques and steps necessary to address research questions related to professional practice. Students will examine methods of locating and securing research findings and reports and develop the ability to discuss current literature in the field of recreation and sport.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5350",
+            "course_name": "Legal and Ethical Issues in Recreation and Sport Management",
+            "course_desc": "This course focuses on legal and ethical issues related to recreation and sport management. Tort law, participant rights, accessibility, credentialing, and others are topics to be addressed in this course.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5360",
+            "course_name": "Financial Management in Recreation and Sport Management",
+            "course_desc": "This course is a study of financial concepts, principles, and techniques as they relate to recreation and sport delivery systems. These include full cost accounting, pricing, financial management, and alternative funding proposals. Prerequisite: REC 5380 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5372",
+            "course_name": "Technology-Mediated Places of Leisure:  Aspirations towards a life of leisure",
+            "course_desc": "This course focuses on the technology-leisure experience interaction, supported by knowledge of layout, design, and functions of homes, cities, and outdoor environments. Students will develop an understanding of how technology is incorporated into the experience of physical spaces and create proposals for technological enhancements appropriate to these varied places of leisure.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5373",
+            "course_name": "Innovative Technology Solutions and Applications in Recreation and Leisure",
+            "course_desc": "This course is a study of operational competence in selected technologies including the development of research skills in user need articulation and technology augmentation. Students will critically investigate technology usage in leisure service delivery. Students will develop the ability to diagram and write for analytical purposes, fieldwork and experiences, and collaborative work.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5380",
+            "course_name": "Organizational Planning in Recreation and Sport Management",
+            "course_desc": "This course provides students with organizational planning and administration tools developed and tested within the recreation and sport industries. Topics may include the exploration of programming and organizational theory, administrative processes, and the application of the organizational principles to the recreation and sport delivery systems. Emphasis will be placed on various planning functions including strategic, evaluation, and marketing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5381",
+            "course_name": "Outdoor Program Leadership and Administration",
+            "course_desc": "Within the role of leadership and administration, students will become knowledgeable in the theoretical foundations of outdoor programs, adventure programming, and wilderness travel.  The history of thought surrounding natural places and outdoor recreation will be examined throughout the semester.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5382",
+            "course_name": "Facility Management in Recreation and Sport Services",
+            "course_desc": "The course provides an overview of practice of facility management. Explorations will include the role of facility manager, work management functions, and user interaction. In addition, students will investigate concepts of health and safety, accessibility, environment and sustainability, technologies, sourcing, emergency preparedness, and space interrogation. Basics of design drawing literacy and evaluation will be discussed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REC 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until the student has completed the thesis in REC 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "REC 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continued thesis enrollment. No thesis\ncredit is awarded until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "REC 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continued thesis enrollment. No thesis\ncredit is awarded until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "REC 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continued thesis enrollment. No thesis\ncredit is awarded until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

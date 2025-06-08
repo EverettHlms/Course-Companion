@@ -1,0 +1,406 @@
+{
+    "name": "Public Administration",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/pa/",
+    "courses": [
+        {
+            "course_code": "PA 3300",
+            "course_name": "Introduction to Public and Nonprofit Administration",
+            "course_desc": "This course introduces students to the fundamentals of public and nonprofit administration including the context, nature, and structure of public and nonprofit administration in America; management of public organizations; and challenges of the future.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 3301",
+            "course_name": "Political Institutions and Public Service",
+            "course_desc": "This course examines the fundamental political institutions and values of American democracy. The role of public service as it relates to government and nonprofit administration is emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 3310",
+            "course_name": "Public Finance Administration",
+            "course_desc": "This course introduces students to fiscal administration and budgeting at different levels of government and nonprofit organizations in the United States.  The course includes a wide range of theoretical and applied aspects of fiscal policy and financial administration.  Both expenditures and revenues are examined.  Prerequisite: MATH 1312 or MATH 1315 or MATH 1316 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2417 or MATH 2471 or HON 2302A or HON 2302B any with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 3311",
+            "course_name": "Analytical Techniques",
+            "course_desc": "This course introduces quantitative analytical methods and fundamental statistics ranging from descriptive to inferential procedures.  Emphases will be placed on appropriate analytical techniques, use of software for data analysis, interpretation of results and crafting of professional reports based on data analysis. Prerequisite: MATH 1312 or MATH 1315 or MATH 1316 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2417 or MATH 2471 or HON 2302A or HON 2302B any with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 3314",
+            "course_name": "State and Local Government",
+            "course_desc": "This course examines state and local government structure, organization, functions, powers and processes. The role of American and Texas state and local government institutions in the formulation and implementation of public policy will be covered. Corequisite: PA 3301 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 3316",
+            "course_name": "Metropolitan Politics",
+            "course_desc": "This course examines the political institutions and processes of urban and suburban America. Key contemporary metropolitan policy issues are used to highlight underlying tensions in policy formation and implementation. This course emphasizes the unique problems of cities and major metropolitan areas. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 3330",
+            "course_name": "Public Personnel and Human Resource Administration",
+            "course_desc": "This course introduces the laws, context, procedures, personnel structures, techniques, and challenges associated with managing personnel in government and nonprofit organizations. Emphases will be placed on strategic planning for human resources, position classification, selection, recruitment, compensation and benefits, training, performance appraisal, collective bargaining and other aspects of personnel management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 3340",
+            "course_name": "Administrative Law",
+            "course_desc": "This course examines the rule making, adjudication, and enforcement powers of federal and state agencies. The course also examines statutes that confer authority on such agencies and challenges to their constitutionality, as well as the principles that the courts employ to scrutinize agency actions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 3350",
+            "course_name": "Public Policy Process",
+            "course_desc": "This course examines the theories, processes and practices of public policy formulation, implementation and evaluation.  Emphasis may vary and include but not be limited to environment and sustainability issues, energy, social and economic policies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 3351",
+            "course_name": "Urban Management and Regional Policy",
+            "course_desc": "This course provides a critical introduction to the key aspects of regional and urban management and policy. Students will study how urban administration practices and regional policies influence the form and function of American cities. Corequisite: PA 3301 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 4340",
+            "course_name": "Issues in Law and Public Policy",
+            "course_desc": "This course examines contemporary legal issues and their relationship to public policy.  Emphasis may include environmental protection, sustainability, climate change, voting rights, capital punishment, gun rights, and electronic challenges to privacy rights from the perspective of bureaucratic functions and non-profits.  Corequisite: PA 3301 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 4352",
+            "course_name": "Comparative Public Administration",
+            "course_desc": "This course surveys the field of Public Administration emphasizing aspects of administration and public policy systems in the US and compares them with administration and public policy systems of other countries. Corequisite: PA 3301 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 4362",
+            "course_name": "Government, Nonprofit and American Business",
+            "course_desc": "This course examines the role of American business in public policy. It examines how the public, private and nonprofit sectors interact in the policy process. This includes ways in which policy and politics shape business and nonprofit culture and how businesses and nonprofits influence policy implementation through contracting. Corequisite: PA 3301 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 4370",
+            "course_name": "Ethics in American Government",
+            "course_desc": "This course examines key ethical and cultural challenges in public service, including service in government and in nonprofit and voluntary organizations. Content includes but is not limited to ethical theory and analysis, and examination of ethical issues in areas such as healthcare, privacy, accountability, education, research, planning, elections, and policy. Corequisite: PA 3301 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 4389",
+            "course_name": "Internship in Public Administration",
+            "course_desc": "This course provides students with meaningful work in public administration as interns in public or nonprofit organizations. Under faculty supervision, students complete 150 hours of service and conclude their internship by completing a report on their work experience. (MULT) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n15 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 4398",
+            "course_name": "Research in Public Administration",
+            "course_desc": "This course will examine basic concepts and approaches used in the study of public administration. Emphasis will be placed on identifying, locating, and employing resources to assist in understanding public administration at all governmental levels.  Prerequisites: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PA 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PA 5300",
+            "course_name": "Introduction to Public Policy and Administration",
+            "course_desc": "This course introduces students to the study and practice of US public administration and policy. It also focuses on the dynamics of the democratic governance process.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5310",
+            "course_name": "Public Finance Administration",
+            "course_desc": "This course examines the applied aspects of public finance including operating budgets, revenue estimation, capital budgeting, financial planning, budgetary decision-making, cost benefit analysis, and life-cycle costing. In addition, strategies for budget justification, presentation, and implementation are examined. The use of various budgetary tools and techniques are emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5311",
+            "course_name": "Introduction to Statistical Analysis",
+            "course_desc": "This course applies quantitative methods to problems faced by public administration practitioners. Topics include the use of descriptive and inferential statistics as they apply to decision-making in public management. Students gain hands-on experience with data collection, analysis, and interpretation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5312",
+            "course_name": "Program Evaluation and Administrative Statistical Analysis",
+            "course_desc": "This is an advanced course in the application of quantitative methods for the evaluation of public policies and programs. The course emphasizes the administrative and managerial environment. Prerequisite: PA 5311 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5313",
+            "course_name": "Public Sector Economics",
+            "course_desc": "This course presents basic concepts of economics as applied to the public sector. Principles of economics for policy analysis and management are examined in the context of collective action, public choice, resource allocation, and service delivery. The course also examines the financing of national, state, and local governments.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5314",
+            "course_name": "Public Administration and Information Technology",
+            "course_desc": "This course explores the use of information technology in the public sector. It emphasizes the issues that public administrators need to know concerning the impact of information technology on their organizations. The course covers E-Democracy, E-Governance, Enterprise Architecture, Public Management Information Systems (PMIS), E-Procurement, and E-Commerce.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5315",
+            "course_name": "Public Performance Management",
+            "course_desc": "This course examines public sector performance management and measurement as tools for improving strategic planning, resource allocation, organizational learning, and internal operational processes. It also examines accountability, managerial performance, and evaluation processes.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5320",
+            "course_name": "Organizational Theory, Change, and Behavior",
+            "course_desc": "This course analyzes classic and contemporary literature on organizational theory and behavior in the public sector. Emphasis is placed on history and development of organizational theory and core concepts such as organizational culture, power, and change. The implications of organizational theory for democratic governance are explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5330",
+            "course_name": "Public Personnel Administration",
+            "course_desc": "This course introduces students to public personnel functions from a managerial perspective. Examples of topics covered include: recruitment and selection, perfomance evaluation, discipline, collective bargaining, classification, and compensation. Constructive leadership of government personnel that encourages a more competent, motivated, and representative administration workforce is emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5331",
+            "course_name": "Labor Management Relations",
+            "course_desc": "This course examines the historical development of public employee unions and the effects of collective bargaining agreements on personnel policy development. Public laws concerning collective bargaining procedures and strategy on the part of public managers are covered.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5332",
+            "course_name": "Management Practices in Public Personnel Administration",
+            "course_desc": "This course is a seminar-based examination of selected topics in public personnel administration including job analysis, position classification, test construction, performance appraisal, succession planning, and affirmative action. The role of the personnel office as a strategic partner in accomplishing organizational goals is also explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5340",
+            "course_name": "Introduction to Public Law",
+            "course_desc": "This course examines the regulatory environment, legal requirements, and constraints that public officials face when carrying out their durties. The use of online research tools to find adminstrative materials and analyze public law issues is emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5350",
+            "course_name": "Public Policy Processes",
+            "course_desc": "This course is an overview of the process of public policymaking including policy formulation and implementation. Emphasis is placed on actors in the policy process and on the political environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5351",
+            "course_name": "Urban Sustainability Policy",
+            "course_desc": "This course examines the basic components of urban transportation and land use policy. In addition to building an understanding of the historic foundation of urban policy and planning, students explore the underlying concepts related to sustainability to analyze underlying tensions and potential connections across policy spheres.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5352",
+            "course_name": "Comparative Public Administration",
+            "course_desc": "This course examines differences in various national administrative systems and the role of international organizations. It explores differences that influence various public policy issues from countries around the world. Policy issues examined include poverty, human rights, health care, and the environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5353",
+            "course_name": "Ecology and the Politics of Sustainability",
+            "course_desc": "This course is an exploration of problems and policies dealing with air, water, waste, energy use, natural resources, sustainability, and global environmental issues. This class highlights the historical drivers of environmental policy. Implementation strategies, policy mechanisms, and compliance adherence are also examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5355",
+            "course_name": "Environmental Policy",
+            "course_desc": "This course will introduce students to the public policy process and the details of U.S. environmental policy and administration. Problems and policies dealing with air, water, solid waste, hazardous waste, energy use, natural resources, climate change, sustainability, and global environmental governance will be discussed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5361",
+            "course_name": "Introduction to the Nonprofit and Voluntary Sector",
+            "course_desc": "This course provides a foundation for understanding the history, scope, and function of the American nonprofit and voluntary sector. It includes an examination of the conceptual and theoretical underpinnings of the sector, and assessment of the role of these organizations in society, and their impact on public policy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5362",
+            "course_name": "Alternative Public Service Delivery Systems",
+            "course_desc": "This course examines alternative delivery of public services. The reliance on market mechanisms, contracting out, and privatization are explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5370",
+            "course_name": "Public Management and Ethics",
+            "course_desc": "This course explores issues of morality and ethics in the public sector. It also considers subjects such as administrative discretion, the public interest, democratic values, and dissent. The course aims to formulate a frame of reference for judging behavior and clarifying our role and responsibility as moral agents.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5380A",
+            "course_name": "Texas Water Law and Policy",
+            "course_desc": "This course examines the chief policy issue that will determine the future of Texas: how state and local agencies administer the states ground- and surface water legal regimes.  With the legal and regulatory framework in place, the course investigates pressing water policy issues that confront Texas.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5380B",
+            "course_name": "Environmental Litigation",
+            "course_desc": "This course conducts an in-depth examination of researching, filing, and litigating claims under federal and state environmental statutes. The course focuses on the aspects of environmental litigation that make it different than its non-environmental counterparts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5387",
+            "course_name": "Research Practicum",
+            "course_desc": "This course uses structured group research to analyze a current policy, management, or administrative issue. A professor-led research team completes a final report detailing findings and recommendations for action. May be repeated once for additional credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5388",
+            "course_name": "Directed Reading and Research",
+            "course_desc": "This course guides students in directed reading and research on various topics in public policy and administration under the direction of a graduate faculty member. The course may be repeated once with a different emphasis for additional credit for a maximum of 6 credit hours. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5389",
+            "course_name": "Internship in Government",
+            "course_desc": "This course provides students with the opportunity to integrate classroom learning with practical experience. Students with little or no work experience related to public service are required to complete an internship. Students considering a career change should consider an internship. May be repeated once for additional credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5390",
+            "course_name": "Applied Research Methodology",
+            "course_desc": "This course is an introduction to applied research methods in the public sector. Topics include the scientific method, research design, measurement, qualitative research, and sampling. Data collection methods such as survey research, content analysis, and secondary data analysis are also covered.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5397",
+            "course_name": "Research Design and Proposal Development for Public Administration",
+            "course_desc": "This course prepares students for the demands of academic and professional writing. Students learn how to identify a public problem, develop a research purpose statement, and complete a literature review around a conceptual framework. This course prepares the student for their Applied Research Project (ARP). Prerequisite: PS 5390 with a grade of \"B\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5398",
+            "course_name": "Applied Research Project",
+            "course_desc": "This course serves as the capstone experience for MPA students. Students complete an original and empirical Applied Reserach Project (ARP), complete an oral defense of the ARP, and prepare the ARP for publication. Prerequisite: PA 5397 with a grade of \"B\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PA 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in public administration.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PA 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PA 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PA 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

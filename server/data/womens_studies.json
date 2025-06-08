@@ -1,0 +1,62 @@
+{
+    "name": "Women's Studies",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ws/",
+    "courses": [
+        {
+            "course_code": "WS 3376",
+            "course_name": "Introduction to Womens, Gender, and Sexuality Studies",
+            "course_desc": "This course introduces students to the key concepts of womens, gender, and sexuality studies with a focus on the diversity of cultural experiences within the United States.  (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "WS 3377",
+            "course_name": "Gender, Sex, and Power",
+            "course_desc": "This course examines the relationship between gender, sex, and power in cross cultural contexts to investigate key debates and current research within the field of Womens, Gender, and Sexuality Studies. Gender roles in societies outside the U.S. will be examined. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "WS 4377",
+            "course_name": "Intersections of Race, Class, Gender, and Sexualities",
+            "course_desc": "This course critically examines how race, class, gender, and sexuality intersect to shape the lived experiences of a wide array of communities in the United States. Students cannot receive credit for both WS 4377 and AAS 4377. (WI) Prerequisite: WS 3376 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "WS 4388",
+            "course_name": "Independent Research in Womens Studies",
+            "course_desc": "Independent study course open to advanced students on an individual or small group basis. The research area in Womens Studies, bibliography, and study paper outline are to be approved by the instructor. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "WS 5376",
+            "course_name": "Images of Women",
+            "course_desc": "This course, one of two multidisciplinary team-taught womens studies courses, is a survey of the changing images of women in the U.S. since 1800 through the eyes of historians, writers, artists, orators, the media, and educators. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "WS 5377",
+            "course_name": "Realities of Women",
+            "course_desc": "This course, one of two multidisciplinary team-taught womens studies courses, is a study of the realities faced by women in the U.S. today-including biological and psychological differences in males and females, politics and law, the work force, and the home. Gender roles in societies outside the U.S. will also be examined. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "WS 5388",
+            "course_name": "Independent Research in Women and Gender Studies",
+            "course_desc": "Independent research course open to students on an individual or small group basis. The research area in Women and Gender Studies, bibliography, and study paper outline are to be approved by the instructor. (MULT) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

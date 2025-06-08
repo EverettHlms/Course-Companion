@@ -1,0 +1,750 @@
+{
+    "name": "Sociology",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/soci/",
+    "courses": [
+        {
+            "course_code": "SOCI 1310",
+            "course_name": "Introduction to Sociology",
+            "course_desc": "A survey of the basic concepts in sociology including social organization, culture, socialization, groups, and human population leading to the development of a sociological perspective of human behavior. SOCI 1310 and SOCI 3300 may not both be counted for credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Soc & Behav Sciences Core 080|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3307",
+            "course_name": "Statistics for the Behavioral Sciences",
+            "course_desc": "The application of descriptive and inferential statistics of behavioral science data.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3317",
+            "course_name": "Popular Culture and Society",
+            "course_desc": "The content of popular culture, including movies, television, genre novels, popular music, fads and fashion, sports, contemporary folklore, festivals and celebrations, clothing and body decoration, and related cultural material, is examined and analyzed for social significance. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3318",
+            "course_name": "Applied Data Analysis",
+            "course_desc": "This course introduces the student to some of the uses of various existing statistical software packages including proper application, limitations, and interpretations of results. Prerequisite: SOCI 3307 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3320",
+            "course_name": "Population Dynamics",
+            "course_desc": "A study of the composition of the worlds population, focusing on growth, problems, politics, and controls. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3322",
+            "course_name": "Sociology of Latinos and Immigration",
+            "course_desc": "This class will examine the impact that immigration and migration have on the growth of the Latino population as well as current debates surrounding immigration and its future in the U.S.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3323",
+            "course_name": "Sociology of Consumption",
+            "course_desc": "Consumption is an integral part of social life in the United States, shaping how we see ourselves and others.  While consumption can enhance consumers' lives, it is linked to a host of social and environmental problems.  This course critically examines such problems and explores alternatives to the way of life that is consumerism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3324",
+            "course_name": "Social Stratification",
+            "course_desc": "The study of inequality as it relates to occupational, educational, religious, political, and other social activities. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3325",
+            "course_name": "Social Deviance",
+            "course_desc": "Theoretical and descriptive analysis of the major types of deviant behavior.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3327",
+            "course_name": "Sociology of Racial and Ethnic Relations",
+            "course_desc": "This course focuses upon sociological perspectives in understanding race, ethnicity, and the relations between minority and majority groups with special reference to the American scene. (MULT) (MULP).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3328",
+            "course_name": "Complex Organizations",
+            "course_desc": "The study and analysis of complex organizations, bureaucracies, and professions and their influence on individuals and society and its institutions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3329",
+            "course_name": "Life Course Sociology",
+            "course_desc": "This course examines major sociological approaches to the study of the human life\ncourse. Theoretical approaches reviewed include age stratification, the life course perspective, and constructivist and critical approaches to the life course.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3330",
+            "course_name": "Globalization and Development",
+            "course_desc": "This course covers the sociology of globalization and development. Students will learn about theories of globalization; the effects of globalization on cultural, economic and political life; and factors at different levels of analysis affecting socioeconomic development, security, human rights, and democracy around the world. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3331",
+            "course_name": "Social Movements",
+            "course_desc": "This course examines social movements  the repeated display of collective action outside sanctioned political channels to bring about social change.  Different theoretical approaches to social movements are reviewed to determine how movements organize, attract members, utilize resources, ideologically frame their issues, and engage in nonconventional tactics to influence public policy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3333",
+            "course_name": "The Sociology of Popular Music",
+            "course_desc": "This course explores the dynamic and interactive relationships between music, culture, and society. Popular American music - from blues, gospel, ragtime, jazz, country, and swing to rock, disco, punk, alternative, and rap - will be analyzed as reflections of culture, as societys voice, and as a powerful instrument of socialization and social change. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3334",
+            "course_name": "Mind and Society",
+            "course_desc": "This course provides an overview of mental health and illness with an emphasis on how social environments and structures influence mental well-being. The course explores the causes and consequences of mental health disorders. The course examines policies and programs aimed at improving mental health in society.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3337",
+            "course_name": "The Family",
+            "course_desc": "A comparative study of the family in various cultures, both historical and contemporary, with attention to the family in terms of social organization, social change, and social disorganization. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3338",
+            "course_name": "Family Problems",
+            "course_desc": "This course applies sociological knowledge to common problems encountered in families: spouse and child abuse, elder abuse, catastrophic illness, suicide, unemployment, poverty, teen pregnancy, aging and gender issues. Worldwide traditions and norms affecting the institution of the family are also reviewed. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3340",
+            "course_name": "Sociology of Sport and Leisure",
+            "course_desc": "The theories and research in leisure and popular culture will serve as the broad framework. An emphasis will be placed on the sub-area of sport sociology, including such topics as sport and aggression, competition, children, women, minorities, professionalism, and others. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3343",
+            "course_name": "Criminology",
+            "course_desc": "The various theories of crime, the cause of crime, areas of crime, treatment of criminals through the courts, punishment, reform, education, probation, and parole, and means of crime prevention. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3347",
+            "course_name": "Juvenile Delinquency",
+            "course_desc": "Delinquency in modern society, basic factors and conditions of juvenile delinquency, and the problem of delinquency control. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3349",
+            "course_name": "Drugs and Society",
+            "course_desc": "A sociological examination of the social context of drug abuse with emphasis on the social factors, processes, and institutions that impact drug abuse. Applications of sociological theories and research methods will be studied. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3350",
+            "course_name": "Gender and Society",
+            "course_desc": "This course examines the relations between gender roles throughout the world. Special attention is given to changes in these roles and the consequences of such changes for societies, including familial, marital, and sexual relationships. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3353",
+            "course_name": "Urban Society",
+            "course_desc": "A study of urbanization as a social phenomenon with attention to traditional sociological studies of the community. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3358",
+            "course_name": "Work and Society",
+            "course_desc": "This course will explore sociological studies of work and occupations, including the structure of work, economic changes, and concerns of workers such as earnings, promotions, and unemployment. It is divided into three main topics: the social organization of work, current work trends, and inequalities at work.  (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3363",
+            "course_name": "Medical Sociology: The Sociology of Health and Illness Behavior",
+            "course_desc": "An examination of the social determinants and consequences of human health, morbidity, and mortality, including considerations of health institutions, organizations, professionals, and clients. Social epidemiology of human diseases and mortality and changing relationships of acute and chronic diseases are stressed. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3365",
+            "course_name": "Society and Environment",
+            "course_desc": "This course addresses issues emerging from the reciprocal relationship between society and its environment. The impacts of social and economic organization, social class, and government policies on the physical and social milieu will be examined in order to produce a better understanding of social and environmental interactions. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3367",
+            "course_name": "Sustainable Cities",
+            "course_desc": "This course uses sociological insight to develop a broader understanding of key concepts and debates about the sustainability of cities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3372",
+            "course_name": "Food and Society",
+            "course_desc": "This course surveys the sociological study of food.  Students will examine how people in societies socially construct \"food\"; how people obtain food and the implications of this process for our health, economy, and environment; and how food relates to issues of race-ethnicity, social class, and gender. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3375M",
+            "course_name": "Latinos and Aging",
+            "course_desc": "This course offers an understanding of the growing Latino aging population in American society, highlighting issues related to their social, familial, economic, physical, and mental well-being. This course will also cover social programs, health and human service needs, and social policies affecting Latino elders. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3375N",
+            "course_name": "Urban Sociology in Comparative Perspective",
+            "course_desc": "Topics include the historical development of cities, cities as engines of culture, planning, and gentrification. The comparative emphasis permits analysis of London in light of corresponding phenomena in American cities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3375O",
+            "course_name": "Culture and Society in Comparative Perspective",
+            "course_desc": "Topics include cultural change and diffusion and social concerns such as inequality, gender, popular culture, etc. The comparative emphasis permits analysis of these phenomena in England vis-a-vis the United States.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3375P",
+            "course_name": "Sociology of Religion: A Global Perspective",
+            "course_desc": "This course is an introduction to the tools and concepts central to the sociological study of religion and religiosity. It takes a global perspective on religions, inspecting the ideas of classic and modern sociological theorists concerning the various roles, functions, conflicts, prejudices and symbols of religion.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3375Q",
+            "course_name": "Climate Change and Society",
+            "course_desc": "This course will focus on the ways in which social institutions and social structures play a foundational role in climate change, but also how these social intuitions, structures, and processes can adapt to solve climate change problems. Climate change is an existential threat to humans.  There is a strong consensus among physical scientist that the burning of fossil fuels by humans is the main driver of climate change.  Sociology is uniquely situated to investigate and understand the social ramifications of climate change. The course will also focus on issues of climate change and inequality and environmental justice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3383",
+            "course_name": "Aging and Society",
+            "course_desc": "This course is an introduction to the sociology of aging and social gerontology.  It employs a multicultural perspective to examine diversity in the aging process as influenced by societal forces. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3384",
+            "course_name": "The Sociology of Death and Dying",
+            "course_desc": "A study of the sociological and social psychological perspectives on death\nand dying in contemporary societies with particular emphasis\non the meanings of death, on dying as a social process,\nand on death in the context of both social organization and\nthe life cycle.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3390",
+            "course_name": "Technology and Society",
+            "course_desc": "The subject of this course is the relationship between technologies and social institutions. Topics covered may include but are not limited to theories of sociotechnical change, diffusion, social constructivism, modernity and rationalism, and case studies of transformative technologies such as the clock, the car, and the birth control pill.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 3395",
+            "course_name": "Sociology of Sexuality",
+            "course_desc": "Sexuality is explored from a social constructionist perspective, in contrast to essentialist and biological determinist perspectives dominating the Western understanding of sexual roles and behavior. Sexual identity, desire, behavior, response, and health are viewed as socially constructed, largely in response to concerns about societal order. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 4306",
+            "course_name": "Sociological Theory",
+            "course_desc": "This course examines classical sociological theories and the contemporary theories that follow from them. The major approaches covered are functionalism, conflict theory, symbolic interaction, and phenomenology. (WI) (MULT) Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 4308",
+            "course_name": "Quantitative Research Methods",
+            "course_desc": "Basic issues in social research are introduced, while emphasizing design and analysis of quantitative research studies. Research exercises culminate in a major research paper analyzing secondary data from The General Social Survey. Critique of published research articles is also required. (WI) Prerequisite: SOCI 3307 with a grade of \"D\" or better. Corequisite: SOCI 3318 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 4309",
+            "course_name": "Qualitative Research Methods",
+            "course_desc": "This course examines issues in the sociological research process with an emphasis on qualitative methods. Students will design, propose, and submit a qualitative study based on an extensive review of the sociological literature. (WI) Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 4360",
+            "course_name": "Directed Study",
+            "course_desc": "A course of independent study open to superior students. May be repeated with different emphasis. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 4690",
+            "course_name": "Internship in Applied Sociology",
+            "course_desc": "This course is a supervised work experience related to students career interests. Requirements include seminars and a 300-hour internship for 15 weeks during long semesters or 10 weeks in the summer. This course is limited to BS majors who meet all prerequisites and can be taken for credit only once.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5105",
+            "course_name": "Practicum in Teaching Sociology",
+            "course_desc": "An introduction to key concepts and practices in the teaching of college course in Sociology. Provides regular in-service training and planned periodic evaluations of instructional responsibilities. Required for first-year teaching and instructional assistants in the Sociology Department. This course does not earn graduate degree credit. Repeatable with different emphasis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "SOCI 5110",
+            "course_name": "Proseminar in Sociology",
+            "course_desc": "This course will orient new graduate students to the department and the profession.  Topics include presentations at professional meetings, academic writing and publishing, and putting together curriculum vitae.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5198B",
+            "course_name": "Applied Research Practicum II",
+            "course_desc": "This course represents a students continuing enrollment to complete the practicum project. The student continues to enroll in this course until the practicum project is approved by the practicum committee.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOCI 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOCI 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOCI 5300",
+            "course_name": "Foundation Studies in Sociology",
+            "course_desc": "This course provides prerequisite knowledge required for success in graduate-level coursework in Sociology. Course content varies depending on academic preparation. This course does not earn graduate degree credit. Repeatable up to 12 hours with different emphasis. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "SOCI 5306",
+            "course_name": "Sociological Theory Seminar",
+            "course_desc": "This graduate theory course examines the role of social theory in the historical and contemporary quest for knowledge and understanding of society. The first half of the course emphasizes the European Classics. The second half of the course is devoted to contemporary theory. Emphasis throughout will be on using theory to better understand current events and everyday life experiences. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5307",
+            "course_name": "Advanced Statistics for the Social Sciences",
+            "course_desc": "Application of advanced statistical theory and methods to the analysis of social data. Prerequisite: SOCI 3307 with a grade of B or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5308",
+            "course_name": "Seminar in Quantitative Research Methods",
+            "course_desc": "The application of research methods to social science with emphasis on direct, practical experience in research. Prerequisite: SOCI 5307 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5309",
+            "course_name": "Seminar in Qualitative Research Methods",
+            "course_desc": "This course examines qualitative methods in Sociology. Topics include examples of classical and modern qualitative research, and issues related to qualitative research. Students critique qualitative studies and conduct and defend a qualitative project. Departmental approval needed for non-majors.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5316",
+            "course_name": "Seminar in Deviation and Social Problems",
+            "course_desc": "A systematic analysis of contemporary social problems and various types of social deviation. Emphasis is on the socialization process as it relates to social problems and human deviation. The sociological explanation of underlying factors will be stressed. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5318",
+            "course_name": "Seminar in Advanced Data Applications",
+            "course_desc": "This course will cover the application of various statistical techniques, such as chi-square, correlation, and regression while introducing statistical analysis to students using software such as SPSS. Prerequisite: SOCI 5307 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5319",
+            "course_name": "Seminar in Social Psychology",
+            "course_desc": "A critical appraisal of the major theories and theorists found in Social Psychology with emphasis on their application to contemporary social and psychological issues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5320",
+            "course_name": "Seminar in Demography",
+            "course_desc": "A seminar in the study of population with emphasis on sources of demographic data, techniques of demographic analysis, and population composition and forecasts. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5322",
+            "course_name": "Impact Analysis Research",
+            "course_desc": "This course is designed to introduce students to the assessment of organizational impact. It addresses both the historical development and social functions of evaluation, as well as practical application of assessment research. Emphasis will be on appropriate research design, implementing the design, and analysis of data.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5323",
+            "course_name": "Grant Writing for the Social Sciences",
+            "course_desc": "This course offers an applied approach to developing grant-writing skills for the social scientist. It will cover all aspects of proposal development including idea generation, funding source identification, project description, project plan, project\nmanagement, evaluation methods, and budget preparation strategies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5350",
+            "course_name": "Seminar on the Sociology of Gender",
+            "course_desc": "This course is a graduate level seminar on the study of gender in sociology with a focus on issues of race, ethnicity, social class, and sexuality. We will examine the major contemporary scholarly debates about gender and explore how gender issues are embedded in different institutions and organizations. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5351",
+            "course_name": "Introduction to Dementia Studies",
+            "course_desc": "This course is an introduction to the social-scientific study of the causes and consequences of dementia, as well as to issues related to the care of persons with dementia.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5352",
+            "course_name": "Dementia and Caregiving",
+            "course_desc": "This course for the Dementia and Aging Studies degree covers current research on policy and support for caregivers of persons with dementia, with an emphasis on the applied sociological focus of caregiver training and education. The course also addresses broader public sociology issues of caregiving and healthcare.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5353",
+            "course_name": "Seminar in the Community",
+            "course_desc": "A study of contemporary urban society with emphasis on understanding the social structure as a prerequisite to planning and problem solving at the community level. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5354",
+            "course_name": "Theoretical Perspectives in Aging and Dementia",
+            "course_desc": "This course discusses theories of aging from biological, psychological, and social science perspectives. The course also demonstrates how these theories can be applied to analyzing various aging issues, particularly the social care of persons with Alzheimer's disease and other dementias.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5355",
+            "course_name": "The Social Psychology of Dementia",
+            "course_desc": "This course analyzes the social construction of dementia and salient social psychological theories, concepts, and research in dementia studies. It investigates the social psychology of dementia in relation to mind, identity, stereotypes, prejudice, attributions, socialization, emotions, social interaction and the impact of institutions on the self.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5356",
+            "course_name": "End of Life Care",
+            "course_desc": "This course focuses on issues of dying and death. Topics covered include symptom management, palliative care, hospice, pain control, life-sustaining treatment and spiritual, legal and ethical issues related to dying and death. Also covered will be different religious views on euthanasia, dying, death, and funerals.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5357",
+            "course_name": "Gender and Aging in Society",
+            "course_desc": "This course is a seminar on the study of gender and aging. This seminar will examine issues of aging identities, the aging body, sexuality, health and medicine, and caregiving among older adults. This course emphasizes the aging experience in our culture as a fundamentally gendered phenomenon. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5359",
+            "course_name": "Seminar in Drugs and Society",
+            "course_desc": "A sociological examination of the use of legal and illegal drugs in society, with emphasis on topics such as the war on drugs, the pharmaceutical industry, and drugs as technologies of medicalization, as well as incentives to social change. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5361",
+            "course_name": "Aging and Dementia: Racial and Ethnic Minorities",
+            "course_desc": "This course provides an analysis of how race and ethnicity affect aging and dementia, with particular emphasis on the United States. The course examines health and quality of life of racial and ethnic minorities in later life, social factors that influence these differences, and means of intervention. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5362",
+            "course_name": "Rural Aging and Dementia",
+            "course_desc": "This graduate course examines aging and dementia issues in rural America. Demographic trends, cultural and economic changes, and intervention strategies will be examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5363",
+            "course_name": "Seminar in Medical Sociology",
+            "course_desc": "A seminar on selected topics of human health and health care organizations. Topics to be stressed include: social causes and consequences of morbidity and mortality, professionalization and socialization of health care practitioners, organization of health institutions, and demographic changes in health problems and needs. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5364",
+            "course_name": "Clinical Gerontology: Interventions for Elders and Persons with Dementia",
+            "course_desc": "This course takes a clinical sociology perspective in studying the issues of the aged and persons with dementia. The approach is humanistic and multidisciplinary, seeking to improve the quality of older persons' lives by assessing situations and reducing problems using analysis and intervention.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5366",
+            "course_name": "Social Inequality: Race, Class, and Gender in the United States",
+            "course_desc": "This course investigates the topic of social inequality. The intersections of class, race and gender as they produce inequality are explored, along with theoretical perspectives and empirical evidence informing the study of social inequality.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5367",
+            "course_name": "Seminar in Sustainable Cities",
+            "course_desc": "This course analyzes the complex relationship between urbanization and environmental change from a sociological perspective.  Overarching themes include sustainabiilty and environmental justice. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5368",
+            "course_name": "Seminar in Environmental Sociology",
+            "course_desc": "This course situates societies within their ecological context and vice versa. Focusing upon social and environmental interactions, including the interactions of social organization, inequality, and policy, provides a comprehensive understanding of the physical and social milieu. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5370",
+            "course_name": "Seminar in Sociology of Racial and Ethnic Relations",
+            "course_desc": "This course examines the dynamics of dominant and subordinate social groups. The course focuses on racial, ethnic, and class differences. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5371",
+            "course_name": "Directed Study",
+            "course_desc": "Course of independent study open to individual students only at the invitation of the faculty member with the approval of the department chair and the graduate advisor.  Repeatable for credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5383",
+            "course_name": "Seminar on Aging",
+            "course_desc": "This course provides graduate students with an opportunity to examine national and global issues involved with the aging process and population aging from a social scientific and multicultural perspective. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5388F",
+            "course_name": "Seminar in Poverty",
+            "course_desc": "This course is a graduate seminar on the sociological study of US poverty and social mobility. We will examine poverty measurement and trends, poverty-related social policies, theories for explaining poverty and mobility, and the intersection of poverty and social mobility with issues of gender, race, family structure, and place. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5388G",
+            "course_name": "Seminar in Food and Society",
+            "course_desc": "This graduate course focuses on the sociological study of food. It examines the current food system and its interactions with macro-level social institutions, as well as individual identity and well-being. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5388H",
+            "course_name": "Advanced Statistical Analysis II",
+            "course_desc": "The focus of this course is advanced data analysis.  This course will cover topics such as regression, limited dependent variables analysis, and time series analysis.  A secondary aim is to demonstrate data analyses using popular software packages.  Prerequisite: SOCI 5307 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5388J",
+            "course_name": "Applied Survey Research",
+            "course_desc": "This course offers an applied approach to learning about survey methods. The course links research on survey construction and implementation to practical applications in which students solve problems associated with real-world survey instruments. Students will learn appropriate survey research terminology, as well as how to communicate in an effective and non-technical manner to others in need of survey assistance.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5388L",
+            "course_name": "Applied Analysis using Temporal and Spatial Quantitative Data",
+            "course_desc": "This course will introduce students to the analysis of temporal and spatial quantitative data commonly used in the social sciences. The instruction will focus on the application and interpretation of statistical techniques found in freely available software packages (e.g., GeoDa and R). Topics include data management of cases with repeated measures over time, analysis and interpretation of panel models, as well as construction of basic maps, spatial autocorrelation, and spatial regression. Prerequisite: ANTH 5305 or FCS 5302J or GEO 5301 or PA 5311 or SOCI 5307 with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5390",
+            "course_name": "Seminar in Globalization and Development",
+            "course_desc": "This seminar explores issues related to socioeconomic development and change, particularly in the Global south. The course will focus on factors affecting development and underdevelopment around the world. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5395",
+            "course_name": "Global Insecurity",
+            "course_desc": "This graduate seminar covers global, socially constructed risks perceived as threats to sustainable development.  Topics include theories of globalization and insecurity; an assessment of threats to democracy and human rights, the environment, food security, public health and safety; as well as local, national and international responses to these threats. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 5398A",
+            "course_name": "Applied Research Practicum",
+            "course_desc": "Directed impact analysis project in a government agency, business, or non-profit organization requiring the student to apply skills and demonstrate knowledge gained in course work. The project topic will be determined jointly by the faculty supervisor, the student, and the research site. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOCI 5398B",
+            "course_name": "Applied Research Practicum",
+            "course_desc": "Directed impact analysis project in a government agency, business, or non-profit organization requiring the student to apply skills and demonstrate knowledge gained in course work. The project topic will be determined jointly by the faculty supervisor, the student, and the research site. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOCI 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until the student has completed the thesis in SOCI 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOCI 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOCI 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOCI 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOCI 7307",
+            "course_name": "Advanced Social Statistics",
+            "course_desc": "In this course students learn to apply advanced statistical theory and methods to the analysis of social data. Prerequisite: SOCI 3307 with a grade of B or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOCI 7318",
+            "course_name": "Seminar in Advanced Statistical Applications",
+            "course_desc": "This course is an advanced applied data analytics course that covers statistical mediation/moderation, regression, and analysis of limited dependent variables.  The course will utilize multiple software packages including, but not limited to the following: SPSS, Stata, R. Prerequisite: SOCI 5307 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

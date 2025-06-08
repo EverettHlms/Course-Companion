@@ -1,0 +1,222 @@
+{
+    "name": "Radiation Therapy",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/rtt/",
+    "courses": [
+        {
+            "course_code": "RTT 3120",
+            "course_name": "Clinical Simulation Lab I",
+            "course_desc": "Students are provided instruction and simulated practice in a controlled laboratory setting. This course provides first-year students foundational clinical set-up skills from which to build on during the clinical learning practicum course.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 3121",
+            "course_name": "Clinical Simulation Lab II",
+            "course_desc": "Students are provided instruction and simulated practice in a controlled laboratory setting. This course provides instruction, demonstration and participation in immobilization, positioning and simulation with the aid of an anthropomorphic phantom. Students will learn aspects of simulation for basic treatment delivery applications.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 3220",
+            "course_name": "Directed Clinical Learning I",
+            "course_desc": "Students will observe the basic operations of the radiation oncology clinic while interacting with the multidisciplinary team involved in providing treatment and care. The student will be introduced to oncology terminology, equipment, and techniques used for treatment. Learning is achieved through direct patient care, with instruction, demonstration and direct supervision.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n16 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 3221",
+            "course_name": "Directed Clinical Learning II",
+            "course_desc": "Students will gain additional skills in clinical procedures, interaction with patients and professional personnel. Students apply knowledge from previous clinical learning experience under the supervision of a registered radiation therapist. Students are tested on intermediate clinical radiation therapy skills.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n16 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 3300",
+            "course_name": "Patient Care in Radiation Oncology",
+            "course_desc": "This course will focus on basic nursing concepts involved in providing care\nfor the cancer patient. Topics to be included in the class will\nbe cancer as a chronic health problem, social roles and cancer,\nmultidisciplinary approach to patient care, psychosocial\ndimension of cancer, in-treatment examinations, follow-up\nexaminations, emergency management, chemotherapy and\nnutritional aspects of treating patients with cancer.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 3301",
+            "course_name": "Introduction to Radiation Oncology",
+            "course_desc": "An overview of radiation oncology and the role of the radiation therapist.\nPresentations will orient the student to the physical and biological basis of radiation equipment, procedures, tumor pathology, and patient interaction. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 3302",
+            "course_name": "Radiologic Science and Medical Imaging",
+            "course_desc": "This course will cover the principles governing production of radiation, interaction of radiation with matter, and protection of the radiation worker and patient from exposure. Basic principles of x-ray equipment, exposure factors, latent image formation, and processing of radiographs are presented. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 3310",
+            "course_name": "Physics of Radiation Therapy I",
+            "course_desc": "Students will learn the principles of radiation physics as they apply to the treatment\nand care of the cancer patient. Course will include a thorough\nreview of x-ray production, fundamental principles,\nconcepts and terminology. Topics studied include measurements,\ngeneral principles, structure of the atom, structure\nof the matter, electrostatics, magnetism, electrodynamics,\nelectromagnetism, rectification and production and properties\nof radiation and radiographic techniques.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 3314",
+            "course_name": "Radiation Therapy Sectional Anatomy",
+            "course_desc": "The course provides instruction in identifying cross-sectional anatomy to\ndevelop the ability to make anatomic correlations between multiple planes of view. Major organs, lymphatics, vessels are emphasized as related to the clinical significance in the field of radiation therapy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 3350",
+            "course_name": "Radiobiology",
+            "course_desc": "This course will cover the principles of cell response to radiation, including tissue sensitivity, survival, repair and the latent effects of irradiated tissue. Topics\nto be covered include the development of radiation science,\ncellular targets for radiation action, target theory, physical/\nchemical factors affecting radiation response, biological factors,\nrepair and recovery, fractionated doses and dose rate,\nearly/acute effects of whole body exposure, late/chronic\neffects of whole body exposure, and radiation protection\ndose guidelines.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4120",
+            "course_name": "Clinical Simulation Lab III",
+            "course_desc": "Students are provided instruction and simulated practice in a controlled laboratory setting. A continuation of RTT 3121. This course provides instruction, demonstration, and participation in immobilization, positioning and simulation with the aid of an anthropormorphic phantom. Students will learn aspects of simulation for basic intermediate treatment delivery applications.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4121",
+            "course_name": "Clinical Simulation Lab IV",
+            "course_desc": "Students are provided instruction and simluated practice in a controlled laboratory setting. A continuations of RTT 4120. This course provides instruction, demonstration and participantion in immobilization, positioning and treatment simluation. Students will learn aspects of simulation for basic, intermediate, and some advanced treatment delivery applications.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4122",
+            "course_name": "Clinical Simulation Lab V",
+            "course_desc": "Students are provided instruction and simulated practice in a controlled laboratory setting. A continuation of RTT 4121. This course provides instruction, demonstration and participation in immobilization, positioning and treatment simulation. Students will learn aspects of simulation for basic, intermediate, and some advanced treatment delivery applications.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4189",
+            "course_name": "Radiation Therapy Literary Scholarship and Manuscript Writing",
+            "course_desc": "This intensive writing course provides instructions in research strategies, critical review and analysis of peer reviewed publications.  An introduction to scholarly resources and professional manuscript development using peer reviewed journal guidelines for the profession of radiation therapy.  This course prepares students for RTT 4191 Radiation Therapy Seminar. (WI).",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4190",
+            "course_name": "Professional Issues in Radiation Therapy",
+            "course_desc": "This capstone course provides a comprehensive review of the program curriculum\nand clinical practice in the field. Current radiation therapy treatment management techniques and issues are presented for analysis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4191",
+            "course_name": "Radiation Therapy Seminar",
+            "course_desc": "This course is a continuation of RTT 4189.  The course provides instruction in the completion of a final draft for the students technical manuscript.  The course work builds from the completed manuscript and draws from the material and knowledge gained in RTT 4189 to develop a formal presentation.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4220",
+            "course_name": "Directed Clinical Learning III",
+            "course_desc": "Students will continue to develop skills during this clinical course. Progressive interaction with patients and professional personnel are monitored as students practice radiation therapy in a supervised setting. Additional areas include problem solving, identifying machine components and basic side effect management. Students will demonstrate competence in beginning, and intermediate procedures.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n16 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4221",
+            "course_name": "Directed Clinical Learning IV",
+            "course_desc": "The course provides students the opportunity to continue to develop confidence and increased skill in simulation and treatment delivery. Students will demonstrate competence in beginning, intermediate, and some advanced procedures through supervised clinical instruction, progressing through a competency-based educational sequence.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n24 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4222",
+            "course_name": "Directed Clinical Learning V",
+            "course_desc": "The students will complete their clinical training by practicing all the skills they have learned in the classroom, lab, and clinical practicum. The students will continue demonstrating proficiency while completing the Skills Competency Checklist.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n24 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4291",
+            "course_name": "Radiation Therapy Registry Review",
+            "course_desc": "This course provides a comprehensive review of the program curriculum and clinical practice in the field. Current radiation therapy treatment management techniques and issues are presented for analysis.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4310",
+            "course_name": "Physics of Radiation Therapy II",
+            "course_desc": "Students will continue to learn the principles of cell response to radiation. Topics\ncovered will include properties of x-ray and gamma radiation, radiation units, x-ray production, photon interactions, beam characteristics, radioactivity, treatment units, and particle irradiation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4330",
+            "course_name": "Quality Assurance",
+            "course_desc": "Students will study quality assurance\ntests related to patient charts, treatment accessories,\npatient communication devices, machine reading and\nsafety devices. Emphasis on quality control procedures to\ninclude Continuous Quality Improvement (CQI), Joint\nCommission on Accreditation of Healthcare Organizations\n( JCAHO) and responsibilities of each team member in relation\nto quality assurance duties.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4331",
+            "course_name": "Operational Issues in Radiation Therapy",
+            "course_desc": "Course content is designed to focus on various radiation therapy\noperational issues. Accreditation, CQI development and\nassessment techniques will be presented. Human resource\nissues and regulations impacting the radiation therapist will\nbe examined. Topics include the role of network information\nsystems within the radiation oncology department. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4360",
+            "course_name": "Dosimetry I",
+            "course_desc": "This course will cover the basic concepts\nin treatment planning and clinical dosimetry. Students will\nlearn to identify treatment preparation processes and needs\nfor beam modifying devices. Students will also be taught isodose\ncharts for several treatment arrangements and be able\nto calculate a variety of external beam treatment formulas.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4361",
+            "course_name": "Dosimetry II",
+            "course_desc": "Students will learn additional concepts in treatment planning and clinical dosimetry addressed in Dosimetry I. Computerized treatment planning applications\nwill enhance the understanding of medical dosimetry.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4370",
+            "course_name": "Clinical Radiation Oncology I",
+            "course_desc": "The first of a two-part course, this course advances the students knowledge of\nneoplastic disease management. Instruction will focus on\nthe regional anatomy and physiology, epidemiology and\netiology, detection and diagnosis, diagnostic procedures,\nhistopathology, patterns of spread principles of treatment,\nstaging, and prognosis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RTT 4371",
+            "course_name": "Clinical Radiation Oncology II",
+            "course_desc": "The second of a twopart course, this course is a continuation of disease specific\ninstruction. Instruction will focus on the regional anatomy and physiology, epidemiology and etiology, detection and diagnosis, diagnostic procedures, histopathology, patterns of spread, principles of treatment, staging, and prognosis. Prerequisite: RTT 4370 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

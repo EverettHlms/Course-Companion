@@ -1,0 +1,1710 @@
+{
+    "name": "Geography and Environmental Studies",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/geo/",
+    "courses": [
+        {
+            "course_code": "GEO 1105",
+            "course_name": "Meteorology Laboratory",
+            "course_desc": "Laboratory observations, calculations, and exercises of meteorological data and phenomena. Prerequisite: GEO 1305 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 1305",
+            "course_name": "Meteorology",
+            "course_desc": "An introduction to atmospheric science providing information on the properties of the atmosphere, the scientific principles that govern weather and climate, and interactions between the atmosphere and the other components of the Earth system.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 1309",
+            "course_name": "Introduction to Cultural Geography",
+            "course_desc": "This course introduces students to the geographical perspective and focuses on spatial distributions of human activities and investigates underlying geographical processes that account for present and past cultural patterns such as population,folk and popular culture, language, religion, gender, ethnicity, politics, urban and rural land use, and economic development. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 1310",
+            "course_name": "World Geography",
+            "course_desc": "This course stresses the similarities and differences of the major world regions. Emphasis is given to human behavior in a spatial context. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Soc & Behav Sciences Core 080|Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 2110",
+            "course_name": "Physical Geography Laboratory",
+            "course_desc": "This is a laboratory course that includes exercises and calculations to apply principles and concepts covered in introductory physical geography lecture classes. These include geographic tools, weather and climate, soils and biogeography, and geomorphology. Open only to students who have taken the lecture class at another college/university. Prerequisite: MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2328 or MATH 2417 or MATH 2471 any with a grade of C or better and instructor approval.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 2310",
+            "course_name": "Global Environmental Change",
+            "course_desc": "This course introduces the global perspective to examine Earths environment and its systems, dynamics, and risks.  Students use principles of scale, space, and distributions to analyze the changes in the environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 2410",
+            "course_name": "Introduction to Physical Geography",
+            "course_desc": "A systematic study of the various elements that make up the Earth's physical environment, weather, climate, vegetation, soil, and landforms. Prerequisites: MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2328 or MATH 2417 or MATH 2471 any with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 2420",
+            "course_name": "Introduction to Geographic Information Techniques",
+            "course_desc": "The course will introduce the foundations of geographic information systems (GIS), global positioning systems (GPS), remote sensing, cartography, data analysis, and other tools and methods used by geographic information scientists. Maps, data collection, using and creating Internet content, and data analysis and display will be topics in the course.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 2426",
+            "course_name": "Fundamentals of Geographic Information Systems",
+            "course_desc": "This course is an introduction to Geographic Information Systems (GIS), a tool for integrating and analyzing spatial data to visualize relationships, seek explanations and develop solutions to pressing problems. The foundations and theory of GIS will be emphasized. Prerequisites: MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2328 or MATH 2417 or MATH 2471 any with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 2427",
+            "course_name": "Management and Implementation of GIS",
+            "course_desc": "This course addresses strategies for successful GIS management and\nimplementation in an organization-wide context and is organized around four primary issues: implementation planning, data management, technology assessment, and organizational setting. Prerequisite: GEO 2426 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3301",
+            "course_name": "Research Methods in Geography",
+            "course_desc": "This course provides an introduction to quantitative and qualitative research methodology, data collection and analytical techniques. Topics include descriptive, inferential, spatial quantitative statistics and qualitative methods such as case studies and content analysis. The course will introduce students to software applications that are designed for organizing, analyzing and visualizing data. Prerequisite: MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2328 or MATH 2417 or MATH 2471 any with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3303",
+            "course_name": "Economic Geography",
+            "course_desc": "This course investigates the geographic organization of economic activity with emphasis on the interconnections from global to local scales. Technological advances, resource creation and destruction, supply and demand, distribution and development, environmental impacts, and economic justice are addressed. Theoretical models are used to interpret past and current situations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3305",
+            "course_name": "Climatology",
+            "course_desc": "Introduction to the elements of climate and their use in environmental monitoring and analysis. Prerequisite: GEO 2110 or GEO 2410 or [GEO 1305 and MATH 1315] any with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3307",
+            "course_name": "Geography of Europe",
+            "course_desc": "The course presents a systematic and regional investigation of the physical and cultural processes and phenomena that have created the characteristic landscapes of Europe. Topics include the climate, landform regions, trade, transportation, urban growth, population change, and the evolution of economic integration in the region. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3308",
+            "course_name": "Latin America",
+            "course_desc": "A regional survey of the physical and cultural geography of Latin America. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3309",
+            "course_name": "United States and Canada",
+            "course_desc": "This course provides a systematic and regional analysis of the United States and Canada with emphasis on contemporary economic, environmental, political, and social issues. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3310",
+            "course_name": "Urban Geography",
+            "course_desc": "The study of city systems, form, and development with emphasis on functional patterns, economic base, industrial location, service, and social area analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3313",
+            "course_name": "Natural Resource Use and Management",
+            "course_desc": "This course uses environmental concepts at all geographic scales to identify and analyze patterns and processes of resource use, and discusses management strategies to solve present and future concerns related to natural resources. Prerequisite: GEO 2110 or GEO 2410 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3320",
+            "course_name": "Community and Regional Planning",
+            "course_desc": "This course examines the practice, history and development of community and regional planning in the U.S. focusing on specific methods and legal frameworks of community planning and cultivating sustainable development. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3321",
+            "course_name": "Energy Resource Management",
+            "course_desc": "An analysis of energy sources, their distribution and characteristics, and the problems associated with their use and management. (WI) Prerequisite: MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2328 or MATH 2417 or MATH 2471 any with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3323",
+            "course_name": "Researching the City",
+            "course_desc": "This course covers data collection and analysis of urban life, and the factors considered in locating industry, business, housing, and community facilities. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3328",
+            "course_name": "Geography of North Africa and the Middle East",
+            "course_desc": "A regional treatment dealing with the physical features and cultural activities of the people in North Africa and the Middle East. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3329",
+            "course_name": "Geography of Texas",
+            "course_desc": "A physical and cultural geography of Texas with special emphasis on human resources and economic activities. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3332",
+            "course_name": "Geography of South and Southeast Asia",
+            "course_desc": "This course is a systematic and regional overview of the physical and human geography of the countries of the Indian subcontinent and Southeast Asia. Topics include the monsoons, cultural diversity, rapid economic development, agricultural systems, and environmental problems. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3333",
+            "course_name": "Geography of East Asia",
+            "course_desc": "This course provides a regional overview of the physical and human geography\nof the countries of East Asia. This course also systematically examines the countries of this region by closely examining such topics as the impacts of high population densities and intensive land use practices. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3335",
+            "course_name": "Oceanography",
+            "course_desc": "An introductory course about the physical, chemical, geologic, and biologic characteristics of the oceans and coastal areas. Emphasis will be placed on the role of the oceans as a component of the global environment. Prerequisite: BIO 1320 or BIO 1330 or GEO 2110 or GEO 2410 or GEOL 1410 any with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3340",
+            "course_name": "Political Geography",
+            "course_desc": "Political geography concerns the interrelationship between political activities and spatial distributions. Topics include the concept of the state, international\nspheres of influence and confrontation, boundaries, contemporary world issues and problems, and geographic aspects of electoral politics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3349",
+            "course_name": "World Population",
+            "course_desc": "An in-depth study of the spatial distribution and movement of human populations. The course will emphasize current issues and analytical techniques. Topics will include the impact of population growth, spatial diffusion processes, migration trends and theories, explanation of regional demographic differences, and techniques such as population projections. Prerequisite: MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2328 or MATH 2417 or MATH 2471 any with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3351",
+            "course_name": "Health Geography",
+            "course_desc": "This course introduces concepts of health, health care, disease, and illness from a geospatial perspective. The course examines how people and societies interact geographically with the natural, social, and built environment in ways that result in varying degrees of health. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3353",
+            "course_name": "American Ethnic Geography",
+            "course_desc": "A geographical analysis of ethnic groups in the United States with emphasis on their settlement patterns, spatial interactions, and current problems. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3411",
+            "course_name": "Maps and Mapmaking",
+            "course_desc": "An introduction to reference and thematic map use and design. The course introduces basic cartographic mapping techniques for quantitative and qualitative data, teaches about geospatial analysis and interpretation, and enables students to design basic maps. Prerequisite: MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2328 or MATH 2417 or MATH 2471 any with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3416",
+            "course_name": "Remote Sensing and Earth Observation",
+            "course_desc": "Introduction to the acquisition, mensuration, interpretation, and mapping of aerial photographs and satellite images for environmental monitoring and inventorying. Prerequisite: MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2328 or MATH 2417 or MATH 2471 any with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3425",
+            "course_name": "Geomorphology",
+            "course_desc": "This course in Geomorphology investigates linkages between landscape forms and processes with emphasis on weathering, fluvial, aeolian, karst, and coastal processes. There will be various activities, including fieldwork, where students will demonstrate their grasp on fundamental processes in geomorphology.   Prerequisite: GEO 2110 or GEO 2410 or GEOL 1410 any with a grade of C or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3426",
+            "course_name": "Advanced GIS",
+            "course_desc": "This course builds on the principles introduced in GEO 2426 and presents an in-depth examination of the technical aspects involved in spatial data handling, analysis, and modeling. Prerequisite: GEO 2426 and GEO 3301 both with grades of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 3434",
+            "course_name": "Water Resources",
+            "course_desc": "This course analyzes within a geographical perspective, the formation, use, conservation, and management of water resources. The students will develop a working knowledge of the hydrologic, water quality, legal, economic, political, and societal factors that determine water availability, hazards, use, demand, and allocation. Prerequisite: GEO 2110 or GEO 2410 or [CHEM 1141 and CHEM 1341] any with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4190",
+            "course_name": "Independent Study",
+            "course_desc": "Individual study under direct supervision of a professor. May involve field trips. This course may be repeated for credit, but a student may not exceed six hours of credit in Independent Study.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4290",
+            "course_name": "Independent Study",
+            "course_desc": "Individual study under direct supervision of a professor. May involve field trips. This course may be repeated for credit, but a student may not exceed six hours of credit in Independent Study.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4306",
+            "course_name": "Geography of the Southwest",
+            "course_desc": "Though primarily defined by aridity, the southwestern United States is extremely diverse in its environments and its people. This course explores how people have related to this land. This course also examines current issues and future trends in natural resources and cultural processes in the region. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4309",
+            "course_name": "Cultural and Political Ecology",
+            "course_desc": "This course examines cultural and political ecology, which employs concepts of culture formation/change and biological ecology to understand processes of adaptation and the influences of social/political power.  It provides a holistic means to interpret pre-modern, non-western, and agrarian cultures as well as modern cultures as relates to their biophysical environment. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4310",
+            "course_name": "Regional Field Studies",
+            "course_desc": "Observation, description, and analysis of a geographical environment based upon offcampus study in that environment. May be repeated once, provided the second study is in a different region, for a total of 6 semester hours. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4313",
+            "course_name": "Environmental Management",
+            "course_desc": "This course provides an analysis of the causes of environmental problems, from local to global scale, and the evaluation of attempts at management and solutions of those problems. Emphasis will be placed on the role that geography can play in environmental degradation and management.  Prerequisite: [GEO 2110 or GEO 2410] and [GEO 3313 or GEO 3321 or GEO 3434 or GEO 4350 or GEO 4352] both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4314",
+            "course_name": "River Basin Management",
+            "course_desc": "The purpose of this course is to study principles and practices of large-scale river basin management. Emphasis is on integrated management of land and water resources, including economic development and environmental protection issues. (WI) Prerequisite: GEO 3434 or GEO 4325 either with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4316",
+            "course_name": "Landscape Biogeography",
+            "course_desc": "Investigation of present-day and post-Pleistocene spatial patterns of plants, animals, and biogeograpical processes. Human interactions with biogeographical patterns is also addressed, as are methods for reconstructing Holocene patterns of biogeographic distribution. Course to be taught over every other year. Prerequisite: GEO 2110 or GEO 2410 either with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4317",
+            "course_name": "Water Resources Planning",
+            "course_desc": "This course examines water resources planning case studies related to water quality protection/mitigation and state/regional water supply planning from a policy practitioners perspective. Students explore watershed and water supply planning to understand the elements involved, stakeholders, and strategy recommendations pursued including water-use conservation and efficiency measures.  Prerequisite: GEO 3434 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4321",
+            "course_name": "Cities and Urban Design",
+            "course_desc": "This course explores the interplay of intentional and natural processes shaping urban landscapes. It provides an introduction to the roles of spatial thinking and collaborative decision-making in urban planning and design. (MULT) Prerequisite: GEO 3310 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4322",
+            "course_name": "Interpretive Environmental Geography",
+            "course_desc": "Students learn principles, themes, and techniques for effective interpretation of environmental information to audiences ranging from park visitors to professional conferences. Interpretive themes are drawn from geographic concepts including the physical and cultural landscapes and cultural ecology. Techniques emphasize effective use of traditional and digital presentation methods. (WI) Prerequisite: GEO 2110 or GEO 2410 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4323",
+            "course_name": "Conservation Leadership",
+            "course_desc": "This course offers an in-depth introduction to the conservation movement and the philosophy, establishment, and operation of institutions engaged in that movement.  Problems and attributes of leadership will be emphasized along with the operational implications, ethical issues and other considerations for successful implementation at non-governmental, local, state, and federal levels.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4325",
+            "course_name": "Fluvial Processes",
+            "course_desc": "Students analyze modern principles of river processes and forms within a geographical perspective. This course examines the fundamental mechanics of fluvial channels with an emphasis on quantitative geographic evaluation of their processes. The course emphasizes natural scientific perspectives and includes linkages to ecology, engineering, resources management, and policy. Prerequisite: GEO 3425 or GEO 3434 either with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4326",
+            "course_name": "Parks and Protected Places",
+            "course_desc": "This course serves as an in-depth introduction to the philosophy, establishment, and operation of Public Parks, Wildlife Refuges, Protected Areas, Non-Governmental Preserves and Historic Sites. Students will be introduced to the scientific and policy rationale for the creation of such areas as well as methods of classification and acquisition.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4328",
+            "course_name": "Geography of the Russian Realm",
+            "course_desc": "This course presents a regional and systematic overview of the physical and human geography of the countries of the former Soviet Union. The course examines in depth issues such as the legacy of the degraded landscape and environmental problems left by decades of Soviet industrialization. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4331",
+            "course_name": "Geography of Food and Agriculture",
+            "course_desc": "This course critically evaluates local and global food systems, considering the implications of varying forms of production and consumption. Topics explored are related to sociocultural, economic, and environmental landscape change, the role of agriculture in both rural and urban places, and sustainability writ large. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4334",
+            "course_name": "Groundwater Resources",
+            "course_desc": "This course examines, within a geographical perspective, the major concepts and principles that control groundwater availability and use. Students will analyze aquifer characteristics that determine water quantity and quality. Constraints on aquifer use including environmental, economic, societal, and legal factors will be analyzed for optimizing aquifer management and water-use policy. Prerequisite: GEO 3434 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4335",
+            "course_name": "Directed Research",
+            "course_desc": "This course allows students to pursue advanced geographic research not offered in the present curriculum.  Permission and project approval must be obtained from the supervising faculty member prior to registration.  This course may be repeated for credit, but a student may not exceed six hours of credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4336",
+            "course_name": "Transportation Systems",
+            "course_desc": "This course is an examination of the evolution of urban transportation systems, policies, institutions, and methods in the United States. Principles, procedures, and techniques of transportation planning in the State of Texas are covered and students are introduced to the literature in transportation geography and methods of transportation analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4338",
+            "course_name": "Planning Practicum",
+            "course_desc": "This capstone course focuses on methods and procedures used for planning and managing urban development on the local level. Topics include municipal ordinances, the development/redevelopment process and relationships between development, capital improvements and the local economy. Prerequisite: GEO 3320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4339",
+            "course_name": "Environmental Hazards",
+            "course_desc": "Analysis of environmental hazards with respect to human use of the land. Includes geologic hazards and problems caused by floods and meteorological conditions.  Prerequisite: GEO 2110 or GEO 2410 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4340",
+            "course_name": "Fundamental Themes in Geography",
+            "course_desc": "Students will become familiar with the K-12 Geography Texas Essential Knowledge and Skills (TEKS) and the national geography content standards, identify instructional resources and materials, design instructional units, and fully develop grade level appropriate inquiry based lessons and student assessments. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4341",
+            "course_name": "Water Policy",
+            "course_desc": "This course covers the evolution of water policy from the awareness of issues, through the political and legal process, to the implementation of specific plans,\nprograms, and facilities. Prerequisite: GEO 3434 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4350",
+            "course_name": "Solid Waste Planning and Management",
+            "course_desc": "A survey of the methods of solid waste disposal including waste storage, collection, transportation and disposal, and their short-and long-range effects on the environment. A practical course in the planning, implementation, and management of alternate methods of sanitary waste disposal. Prerequisite: GEO 2110 or GEO 2410 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4351",
+            "course_name": "Geospatial Data Science and Health",
+            "course_desc": "This course examines how methods in geospatial data science can be used to study health outcomes from a geographic perspective, and how insights from these studies can be used to enhance population health efforts.  Prerequisite: GEO 2426 and GEO 3301 and GEO 3351 all with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4352",
+            "course_name": "Air Quality Management",
+            "course_desc": "This course provides an assessment and analysis of air quality including types, sources, and effects of air pollutants as well as principles governing their dispersal and mangagement.  These aspects are analyzed considering physical science, economic, legal and social factors. Prerequisite: [CHEM 1141 and CHEM 1341] or GEO 2110 or GEO 2410 or GEO 3305 any with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4355",
+            "course_name": "Geography of Crime",
+            "course_desc": "This course provides understanding of geographical aspects of crime and criminal behavior. Students are exposed to theories and analysis methods and\nmodels explaining and predicting crime spatial patterns. Computer exercises give students hands on experience on crime pattern analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4356",
+            "course_name": "Urban Infrastructure Management",
+            "course_desc": "This course examines life-cycle management of technology-enhanced urban infrastructure.  Buildings, transportation systems, water and waste treatment facilities, and energy and communication grids are considered.  Sensor data and other factors are analyzed to establish repair and rehabilitation strategies to improve an assets functionality, safety, and economic value. (WI) Prerequisite: CE 3360 or [GEO 2426 and GEO 3301] either with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4380",
+            "course_name": "Internship in Geography",
+            "course_desc": "On-the-job training in a public or private-sector agency. Students must apply to the department internship director at least six weeks prior to registering for the internship course. This course may be repeated one time for additional internship credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4390",
+            "course_name": "Independent Study",
+            "course_desc": "Individual study under direct supervision of a professor. May involve field trips. This course may be repeated for credit, but a student may not exceed six hours of credit in Independent Study.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4393A",
+            "course_name": "Environmental Compliance",
+            "course_desc": "This course examines the implementation and enforcement of environmental statutes and regulations from a geographic perspective that includes physical environmental, cultural, social, economic, and legal parameters. The course focuses on current environmental requirements as applied to contemporary regulatory challenges including widely applicable innovative compliance strategies. (WI) Prerequisite: GEO 3321 or GEO 3434 or GEO 4350 or GEO 4352 any with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4393B",
+            "course_name": "Business Geography",
+            "course_desc": "This course provides an exploration of the geospatial analysis of business activities in the United States with emphasis on site location, market segmentation and material/product tracking.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4393E",
+            "course_name": "Race, Class, and the American City",
+            "course_desc": "This course examines historical and contemporary intersections of race and class as they have been shaped by and continue to influence urbanization in the United States while emphasizing geographical understandings of space and place. Topics include segregation, immigration, civil rights, housing, crime, race and the environment, community development, and cultural.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4393F",
+            "course_name": "Geographies of the Holocaust and Genocide",
+            "course_desc": "This course examines the Holocaust as a complex historical event and frames the Holocaust in the context of, and in comparison to, other genocides. The course is explicitly geographical in methods and subject matter, focusing on how the Holocaust and genocide are planned, implemented, and experienced differently in different places.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4393G",
+            "course_name": "Geographic Elements of Environmental Law",
+            "course_desc": "A survey of environmental laws related to land, air, and water pollution. The nature of environmental problems will be studied as they relate to urbanization, industrialization, land development, noise, radiation and solid waste management, and the laws and guidelines that have been passed to alleviate such problems. Prerequisite: GEO 3321 or GEO 3434 or GEO 4350 or GEO 4352 any with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4411",
+            "course_name": "Advanced Cartographic Design",
+            "course_desc": "This advanced course in cartography focuses on thematic map design. The objective is to produce a cartographic portfolio of well-designed, professional grade maps. Theoretical concepts and principles will be introduced using practical examples and written assignments. Prerequisite: GEO 3411 with a grade of C or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4412",
+            "course_name": "Digital Image Processing and Machine Learning",
+            "course_desc": "This course is an introduction to the digital image processing of satellite scenes including restoration, enhancement, classification and machine learning, change detection, and mapping for environmental monitoring and inventorying. (WI) Prerequisites: GEO 3301 and GEO 3416 both with grades of C or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4417",
+            "course_name": "Digital Terrain Modeling",
+            "course_desc": "The course focuses on the mapping, transformation, mensuration, visualization, and applications of digital elevation models in Geography. Prerequisite: GEO 2426 and GEO 3416 both with grades of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4420",
+            "course_name": "GeoProgramming",
+            "course_desc": "This course develops advanced GIS concepts, techniques, analysis skills (e.g. spatial data manipulation), and provides hands-on experience with geoprogramming in GIS software programs. The course focuses on the application of basic programming skills to solve real-world GIS problems.  Prerequisite: GEO 3426 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4422",
+            "course_name": "Web Mapping",
+            "course_desc": "The course introduces students to modern interactive and dynamic mapping and GIS techniques that allow internet-based cartographic representations of temporal and non-temporal geospatial objects and phenomena. Prerequisite: GEO 3411 with a grade of C or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4424",
+            "course_name": "GPS and GIS",
+            "course_desc": "Students will learn to plan and conduct fieldwork using Global Positioning System (GPS) to differentially correct GPS data, and to build Geographic Information Systems (GIS) applications using GPS technology. The course is project-based and involves working with external client(s). Prerequisites: GEO 3411 or GEO 3426 either with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4427",
+            "course_name": "GIS Consulting Practicum",
+            "course_desc": "This course requires students to work on a substantive GIS project in partnership with external clients in the GIS workforce. Through project-based teamwork, students develop GIS career skills and demonstrate competence in GIS techniques at the professional level. Prerequisite: GEO 3426 with a grade of C or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 4430",
+            "course_name": "Field Methods",
+            "course_desc": "Methods and techniques for observing, measuring, recording, and reporting on geographic phenomena are investigated in this course. Students will learn the use of instruments and materials in the collection of data for mapping and field research in the local area. (WI) Prerequisites: [GEO 2110 or GEO 2410] and GEO 3301 both with grades of C or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5190",
+            "course_name": "Independent Study",
+            "course_desc": "Individual study under direct supervision of a professor.  May involve geographic field trips. GEO 5190, GEO 5290, and GEO 5390 may be taken for a total of six semester hours of credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 5290",
+            "course_name": "Independent Study",
+            "course_desc": "Individual study under direct supervision of a professor.  May involve geographic field trips. GEO 5190, GEO 5290, and GEO 5390 may be taken for total of six semester hours of credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 5300",
+            "course_name": "Applied Research Design and Techniques",
+            "course_desc": "Students will be introduced to appropriate research methods for applied geographers. Emphasis will be placed on the scientific method, productive library research, data collection and analysis, fieldwork, effective writing, and the nature of graphic representation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5301",
+            "course_name": "Multivariate Quantitative Methods",
+            "course_desc": "The use of multivariate descriptive and inferential statistics as applied to geographic data and problems, beginning with the general linear model and including topics such as multiple regression, principal components analysis, discriminant analysis, and clustering algorithms. Prerequisite: GEO 3301 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5304",
+            "course_name": "Qualitative Research Methods",
+            "course_desc": "This course introduces the qualitative research paradigm, including research design, methods of data collection, and inductive analysis.  Standards of scientific research that call for a deeper evaluation of complex social relationships are emphasized. The focus and application will be oriented towards human geography and nature-society relations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5308",
+            "course_name": "Regional Field Studies",
+            "course_desc": "Study of geographic phenomena during field excursions to a particular site or region. Students will study the physical and/or cultural environments through off-campus field experience.  Students will research, analyze, and report on major regional geographic features.  Repeatable once for additional credit with a different site or region. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5309",
+            "course_name": "Geographical Analysis",
+            "course_desc": "A survey of typical spatial problems of interest to geographers, with emphasis on current research and application being undertaken by the faculty in the Department of Geography. Topics include environmental geography, geographic education, land use and regional development, and cartographic representation and geographic information theory.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5312",
+            "course_name": "Managing Urbanization",
+            "course_desc": "Survey methods and procedures related to managing and preparing for urban growth. Selected topics for examination include transportation planning, housing, historic preservation, and environmental design. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5313",
+            "course_name": "Environmental Studies",
+            "course_desc": "A critical analysis of the major causes of environmental change and human response to environmental problems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5314",
+            "course_name": "Geographic Elements of Environmental Law",
+            "course_desc": "A survey of environmental laws related to land, air, and water pollution. The nature of environmental problems will be studied as they relate to urbanization, industrialization, land development, noise, radiation and solid waste management, and the laws and guidelines that have been passed to alleviate such problems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5315",
+            "course_name": "Geographic Analysis of Global Issues",
+            "course_desc": "This course focuses on a critical analysis of contemporary global or regional issues from geographic perspectives. The course emphasizes research-based case studies associated with the topics and integrative approaches to the study of world regions and world cultures. The course may be repeated with permission of the instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5316",
+            "course_name": "Applied Physical Geography",
+            "course_desc": "This course is a survey of methods and techniques used in the collection, analysis, and evaluation of information relating to problems within the physical environment.  Emphasis will be on problems characteristic of particular geographic locations or specific environmental settings.  Repeatable once for additional credit with a different topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5317",
+            "course_name": "Seminar in Applied Human Geography",
+            "course_desc": "A focus on the methods and techniques used in the collection, analysis, and evaluation of information relating to problems within the human geographical environment. Emphasis will be on problems pertaining to particular geographic locations or special environmental settings.  Repeatable once for additional credit with a different topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5318",
+            "course_name": "Environment Problems of the US-Mexico Border",
+            "course_desc": "This course serves as an in-depth introduction to the physical, social, and environmental landscapes of the region of the U.S.-Mexico Border. The course applies an interdisciplinary perspective to geographic understanding of the environmental and health-related issues experienced by residents of the borderlands. Special attention is given to management and planning solutions to the regions problems. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5319",
+            "course_name": "Seminar in Nature and Heritage Tourism",
+            "course_desc": "This seminar focuses on the special geographic issues of nature and heritage tourism. Particular emphasis is placed on sites and activities, costs and benefits, commoditization and authenticity, resource protection, and substantive learning content of nature and heritage tourism activities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5322",
+            "course_name": "Interpretive Environmental Geography",
+            "course_desc": "Students learn to use geographic theories and concepts to provide holistic and thematic interpretation of environmental information, as specified by interpretive principles. Students also learn advanced use of traditional and digital presentation techniques and research methods, which include audience assessment and program evaluation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5323",
+            "course_name": "Researching the City",
+            "course_desc": "This course covers data collection and analysis of urban life and the factors considered in locating industry, business, housing, and community facilities. Attention will be paid to the location of manufacturing activities, commercial enterprises, and a variety of social service facilities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5326",
+            "course_name": "Parks and Protected Places",
+            "course_desc": "This course serves as an in-depth introduction to the philosophy, establishment, and operation of public parks, wildlife refuges, protected areas, non-governmental preserves and historic sites. Students will be introduced to the scientific and policy rationale for the creation of such areas as well as methods of classification and acquisition.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5329",
+            "course_name": "Historical Geography of the Environment",
+            "course_desc": "This course examines the evolution of environmental problems using the techniques and analytical perspectives of historical geography. Special emphasis is given to the emergence of environmental challenges related to urbanization and climate change. Students in this class will engage with scholarship related to historical geography of the environment and develop original research related to environmental change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5330",
+            "course_name": "Geography of Hazards",
+            "course_desc": "This course focuses on understanding and advancing scholarship in hazards research  the threats to life, health, and welfare caused by natural, technological, and/or social processes, and disasters.  Special emphasis is placed on understanding the complexities of the assessment and management of risks, hazards, and disasters at multiple geographic scales.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5332",
+            "course_name": "Environmental Geography of the Coastal Zone",
+            "course_desc": "Investigation of the physical geographic factors associated with the coastal zone and the role of human activities in problems and opportunities characteristic of this environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5334",
+            "course_name": "Applied Water Resources",
+            "course_desc": "Application of techniques employed in water management including flood hazards, water supply assessment, and water management strategies.  Students will apply principles to specific watersheds and water problems including the analysis of\nvarious physical, land use, and legal parameters.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5335",
+            "course_name": "Directed Research",
+            "course_desc": "This course is directed research on various topics in applied geography under the supervision of a graduate faculty member.  Students gain experience about the entire process of conducting applied research in geography.  Students receive course credit after a directed research report is approved by a students advisor and members of the students committee.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5336",
+            "course_name": "Transportation Systems",
+            "course_desc": "This course introduces key concepts and methods of transportation geography and transportation planning. Topics include, among others, the spatial structure of transportation systems, transportation economics, and logistics. Various methods, techniques, and technologies for transportation analysis, particularly Geographic Information Systems (GIS), will be explored and applied as part of the course.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5339",
+            "course_name": "The Geography of Land Management",
+            "course_desc": "This course explores U.S. land management philosophies, techniques, and development approaches. Major topics include land ethics/philosophies, U.S. traditions in cadastral geography, urban sprawl and green development, land conservation techniques, the role of local/state/federal regulations in land management, and the human environmental impacts of land development.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5340",
+            "course_name": "Active Learning in Geography",
+            "course_desc": "The course focuses on instructional strategies that will allow teachers to promote active learning in geography. Emphasis will be on how active learning can help students reach geography content and skills standards.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5341",
+            "course_name": "Contemporary Issues in Geographic Education",
+            "course_desc": "This course examines current approaches to teaching geography in American education. Specific attention will be given to new classroom materials, curriculum reform efforts, and research developments.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5342",
+            "course_name": "Theory and Research Methods in Geographic Education",
+            "course_desc": "The course focuses on designing, conducting, and presenting empirical research on teaching and learning geography. This course emphasizes the critical analysis of theories, research methods, and key research questions in geographic education and developing a research proposal.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5344",
+            "course_name": "Curriculum, Standards, and Assessments in Geography",
+            "course_desc": "This course is a survey of major curriculum and assessment theories and practices in geography education. Geography is examined as a school subject that is part of the social studies, as an element of interdisciplinary studies, and as a stand-alone subject. The concept of teacher leadership frame discussions of geography subject matter and standards implementation in schools.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5345",
+            "course_name": "Spatial Thinking in Education",
+            "course_desc": "This course introduces the concept of spatial thinking and discusses how spatial thinking may be taught in the context of K-16 education. Students examine various instructional strategies to facilitate spatial thinking in the classroom and design grade-level appropriate learning experiences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5346",
+            "course_name": "Inquiry-Based Teaching in Human Geography",
+            "course_desc": "This course introduces models of geographic inquiry for instruction in human geography at the secondary and postsecondary levels. Case studies examining contemporary issues will be paired with lessons and activities that support integrated and inquiry-based approaches to teaching human geography. Students develop inquiry lessons aligned with geography/social studies standards, the Advanced Placement Human Geography course, and introductory undergraduate courses in human geography.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5349",
+            "course_name": "Population Geography",
+            "course_desc": "An in-depth study of the spatial distribution and movement of human populations. Course will emphasize current issues and analytical techniques.  Topics will include the impact of population growth, spatial diffusion processes, migration trends and theories, explanation of regional demographic differences, and techniques such as population projections. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5350",
+            "course_name": "Practicum in Teaching Geography",
+            "course_desc": "This course  introduces key concepts in teaching geography and provides regular training and planned periodic evaluations of instructional responsibilities. Course topics include instructional and assessment strategies in geography and classroom management. This course is required for first-year instructional assistants in the Geography Department. Students do not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "GEO 5351",
+            "course_name": "Regional Waste Management",
+            "course_desc": "The principles of effective solid waste planning and management will be examined as they relate to such activities as waste generation, storage and collection, transfer and transportation, processing and volume reduction, resource conservation and recovery, the disposal of wastes, and the handling of special wastes, particularly those of a toxic and hazardous nature.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5352",
+            "course_name": "Air Quality Management",
+            "course_desc": "A geographic assessment of air quality management in the United States. Spatial distribution of the types, sources, and effects of air pollutants. Meteorology\nand physics of air pollution dispersion. Legislative and regulatory approaches to pollution management.  National, state, regional, and local policy development procedures. Geographic methods for air pollution management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5353",
+            "course_name": "Emergency Management",
+            "course_desc": "This course provides an overview of the most important aspects of emergency management at all geographic scales, with emphasis on local, regional, and federal levels.  Best practices and proper methodologies are emphasized as well as ways that students can develop the skills and capabilities for a career in this field.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5360",
+            "course_name": "Seminar in Planning Problems",
+            "course_desc": "A critical and in-depth examination of several problem areas currently facing the planner.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5365",
+            "course_name": "Remote Sensing and the Environment",
+            "course_desc": "This course provides an examination and implementation of sophisticated approaches for processing satellite digital images with emphasis on environmental applications.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5367",
+            "course_name": "Exploring Spatial Databases",
+            "course_desc": "This course covers principles of spatial ontologies and spatial semantics to facilitate appropriate database conceptualization, design and implementation. Course assignments and projects provide in-depth experience with database query languages. Course work is completed using a spatially-enabled Relational Database Management Systems (RDBMS). Prerequisite: GEO 5418 or equivalent with a grade of 'B' or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5368",
+            "course_name": "Lidar and SfM Data Processing and Analysis",
+            "course_desc": "This course covers Light Detection and Ranging (lidar) systems and Structure from Motion (SfM) workflows for mapping and analysis of the environment. Students learn to successfully apply knowledge of lidar data and SfM workflows for a variety of Geographic Information Science applications.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5370",
+            "course_name": "Seminar in Applied Physical Geography",
+            "course_desc": "Critical analysis of theories, models, and techniques of physical geographic research with the focus on application to real-world problems.  Repeatable once for additional credit with a different topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5371",
+            "course_name": "Seminar in Geographic Education",
+            "course_desc": "This research seminar addresses contemporary topics related to geographic education.  The emphasis is on applications of learning theories, teaching strategies, and innovative tools in geography classrooms.  Course topics may vary depending on student and faculty interest.  Repeatable once for additional credit with a different topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5380",
+            "course_name": "Internship",
+            "course_desc": "Application of techniques of applied geography in an actual on-thejob setting. Internships will be arranged and supervised by the Internship Director. May be repeated once for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 5390",
+            "course_name": "Independent Study",
+            "course_desc": "Individual study under direct supervision of a professor. May involve geographic field trips. GEO 5190, GEO 5290, and GEO 5390 may be taken for a total of six semester hours of credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5393B",
+            "course_name": "Biogeography in Mountain Environments",
+            "course_desc": "This course examines how plants and animals interact with and affect geomorphological processes and landforms, and how geomorphological processes, landforms and geological factors affect spatial distribution of animals and plants; all within the environmental limitation and conditions of mountains. The role of humans in affecting these interrelationships will be emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5393D",
+            "course_name": "Water Resource Planning",
+            "course_desc": "This seminar presents case-studies related to water quality protection and mitigation and to the planning of water supply at the state and regional level from a policy practitioners perspective. The objective of the course is to identify the components of the planning process and its outcomes, including water-use conservation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5393E",
+            "course_name": "Geomorphology in the Anthropocene",
+            "course_desc": "This course will examine the ways in which humans interact with and affect geomorphological processes and landforms, and how humans directly act as geomorphological agents.  The level at which human activities have transformed the surface of the Earth will be examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5393G",
+            "course_name": "Jobs, Careers, and Professional Development in Geography",
+            "course_desc": "This course introduces graduate students to research-based strategies for career planning and professional development in geography. Career opportunities for geographers in business, government, nonprofit, and academic organizations are examined. The course also analyzes professional identities, applications of geography in society, professional ethics, lifelong learning, work-life balance, and professional networking.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5393H",
+            "course_name": "Professional Development in Geographic Education",
+            "course_desc": "This course combines useful, dynamic geography content with a sensible professional development online delivery system. The content emphasis stresses the applicability of geography in our modern world thus offering jobs and careers to students. The message for teachers is that geography has become more oriented to student aspirations and civic and environmental responsibility.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5393I",
+            "course_name": "Geography and the Social Studies",
+            "course_desc": "This course examines on how geography fits within the social studies. It details how geography can be taught alongside history, economics, and civics for a well-rounded social studies curriculum. Attention is paid to technology, skills and perspectives. The course examines various social studies frameworks and standards. This course will prepare teachers to be versatile in their social studies knowledge and understanding. It will enhance a teacher's ability to teach geography across all of the social studies subjects.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5393K",
+            "course_name": "Advanced Web Cartography and Data Visualization",
+            "course_desc": "This course provides advanced training in the design and development of interactive, web-based data visualization systems with emphasis on the modern cartographic process and the spatial applications of interactive data visualization principles.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5395",
+            "course_name": "Problems in Applied Geography",
+            "course_desc": "Designed to consider a selected topic relating to applied geography. Emphasis on the practical application of geographic tools, with individual or group participation in a specific project. Course topics may vary depending on student and faculty interests and may apply to any of the four graduate tracks: physical-environmental, urban and regional planning, geographic education or GIScience. Repeatable for up to six hours.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in GEO 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 5408",
+            "course_name": "Web Mapping",
+            "course_desc": "This course introduces students to modern interactive and dynamic mapping and GIS techniques that allow internet-based cartographic representations of temporal\nand non-temporal geospatial objects and phenomena. Prerequisite: GEO 3411 with a grade of C or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5415",
+            "course_name": "Geographic Applications of Remote Sensing",
+            "course_desc": "Students will focus on Geographic applications of the principles and practices of digital image processing, classification, and modeling using satellite images.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5417",
+            "course_name": "Advanced Cartographic Design",
+            "course_desc": "This advanced course in cartography focuses on thematic map design. The objective is to produce a series of well-designed, professional grade maps (or\nan atlas) that students can use to build a cartographic portfolio. Theoretical concepts and principles will be introduced using practical examples and written assignments. Prerequisite: GEO 3411 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5418",
+            "course_name": "Geographic Information Systems I",
+            "course_desc": "Course is concerned with the analysis and interpretation of maps stored in digital form. Students are introduced to concepts and practices involving computerized cartographic and geographic data input, storage and retrieval, data manipulation\nand analysis, graphic and tabular report generation, and cartographic modeling.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5419",
+            "course_name": "Geographic Information Systems II",
+            "course_desc": "This course aims to develop more advanced GIS concepts and application issues, further spatial data manipulation and analysis skills, and provide hands-on experience with GIS hardware and software programs. The emphasis will be on practical application of skills to real world issues. Prerequisite: GEO 5418 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5424",
+            "course_name": "GPS and GIS",
+            "course_desc": "Students will learn to plan and conduct fieldwork using Global Positioning System (GPS) to differentially correct GPS data, and to build Geographic Information Systems (GIS) applications using GPS technology. The course is project-based and involves working with external clients(s). Prerequisites: GEO 2426 with a grade of \"D\" or better or GEO 5418 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5430",
+            "course_name": "Field Methods",
+            "course_desc": "Course will emphasize common field techniques necessary in the construction of accurate maps. Various kinds of data collection techniques will be presented that will facilitate geographic research. Prerequisite: GEO 3301 with a grade of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5447",
+            "course_name": "Technology in Geographic Education",
+            "course_desc": "The course focuses on the applications and implications of technology in geographic education. The emphasis is placed on the role of technology as an instructional tool to promote inquiry-based learning.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 5680",
+            "course_name": "Internship",
+            "course_desc": "Application of techniques of applied geography in an actual on-thejob setting. Internships will be arranged and supervised by the Internship Director.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7190",
+            "course_name": "Independent Study",
+            "course_desc": "Research in geography under the direction of a supervising professor. Repeatable once for additional credit with a different topic.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7199A",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geography is to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7199B",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geographic Education is to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7199C",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geographic Information Science, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7290",
+            "course_name": "Independent Study",
+            "course_desc": "This course is designed to provide a student with credit while conducting independent research in consultation with his or her research advisor. Repeatable once for additional credit with a different topic.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7299A",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geography to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7299B",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geographic Education to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously\nenrolled each long semester.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7299C",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geographic Information Science, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7300",
+            "course_name": "Advanced Geographic Research Design",
+            "course_desc": "The purpose of this course is to develop an appreciation for the process of research as practiced by contemporary professional geographers. Topics covered include formulating research problems, reviewing and critiquing published literature, developing and executing a research design, and completing a research project.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7301",
+            "course_name": "Advanced Quantitative Methods in Geography",
+            "course_desc": "How to mathematically and statistically model geographic problems is the focus of this course. The application of multivariate statistical techniques to geographic problems and the problems that spatial data create in the application of statistical and other quantitative techniques are central issues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7302",
+            "course_name": "Nature and Philosophy of Geography",
+            "course_desc": "This course is a critical analysis of the historical development of geographic thought: its roots, its present status, and future directions. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7304",
+            "course_name": "Qualitative Research Methods",
+            "course_desc": "This course introduces the qualitative research paradigm, including research design, methods of data collection, and inductive analysis.  Standards of scientific research that call for a deeper evaluation of complex social relationships are emphasized. The focus and application will be oriented towards human geography and nature-society relations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7305",
+            "course_name": "Historical Geography of the Environment",
+            "course_desc": "This course examines the evolution of environmental problems using the techniques and analytical perspectives of historical geography. Special emphasis is given to the emergence of environmental challenges related to urbanization and climate change. Students engage with scholarship related to historical geography of the environment and develop original research related to environmental change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7308",
+            "course_name": "Advanced Regional Field Studies",
+            "course_desc": "Advanced study of geographic phenomena during field excursions to a particular site or region. Course includes preparation of site inventory, site guides, and on-site presentations. Repeatable once for additional credit with a different site or region.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7313",
+            "course_name": "Environmental Systems",
+            "course_desc": "Theories and concepts involved in environmental systems will be examined. Tools and research issues relevant to their analysis will also be explored. Basic principles, as well as specific research questions and techniques, will be proposed to give students a foundation for analysis of current issues involving environmental systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7316",
+            "course_name": "Remote Sensing and the Environment",
+            "course_desc": "A detailed examination and implementation of sophisticated approaches for processing satellite digital images with emphasis on environmental applications.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7318",
+            "course_name": "GIS and Environmental Geography",
+            "course_desc": "This course examines the nature of environmental problems and explores the potential of GIS for environmental modeling and management. The conceptual basis for using GIS as well as the framing of environmental research problems will be covered.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7330",
+            "course_name": "Geography of Hazards",
+            "course_desc": "This seminar examines research on issues related to the geography of hazards.  Topics will be determined by instructor and student interests.  Special emphasis will be placed on conceptual, theoretical, and methodological approaches to advance the study of spatial aspects of hazards such as risk, vulnerability, resilience, relief, recovery, and change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7334",
+            "course_name": "Geographic Aspects of Water",
+            "course_desc": "This seminar is a critical analysis of developmental and current literature that define waters critical role in determining the physical and cultural characteristics of the earth. Principal focus will be placed on waters role on land use and as a\ncritical resource.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7341",
+            "course_name": "Urban Environment",
+            "course_desc": "Students in this course will critically engage with scholarly and governmental research relating to urban environments, urban environmentalism, and urban environmental management. Emphasis is placed on students developing and executing a unique, topically relevant research project aimed at improving our understanding of the way in which human-environment interaction influences, and is influenced by, urban geography and the urban experience. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7342",
+            "course_name": "Theories and Methods in Geographic Education",
+            "course_desc": "This seminar is a critical analysis of previous and current literature concerning problems in pedagogy, philosophy, learning theory, research methods, teaching methodologies, and techniques of geographic education. A research paper will be required of each student on a topic related to the course content. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7344",
+            "course_name": "Seminar in Geographic Curriculum",
+            "course_desc": "The seminar will be a survey and discussion of major curricula in geographic education. Geography will be viewed as a school subject that is part of the social studies, as an element of interdisciplinary studies, and as a stand alone subject.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7345",
+            "course_name": "Contemporary Topics in Geographic Education",
+            "course_desc": "This course is a survey of initiatives and reforms in geography education spanning from the 1980s to the present day. Students are expected to develop and carry out research plans that address current theories in geographic education. Repeatable once for additional credit with a different topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7346",
+            "course_name": "Standards and Assessment in Geography",
+            "course_desc": "An introduction to assessment procedures in geography education is central to the course. Analysis of national standards in geography and how they have affected geographic learning in grades K-12 will be addressed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7349",
+            "course_name": "Population Geography",
+            "course_desc": "An in-depth study of the growth, movement, and spatial distribution of human populations is the central theme. Students will read and discuss professional articles that stress both theory and analytical techniques. Topics will include population growth and the environment, rural and small town depopulation, spatial diffusion processes, migration trends and theories, urban population growth, and techniques such as multivariate analysis and population projections. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7350",
+            "course_name": "Practicum in Teaching Geography",
+            "course_desc": "This course introduces key concepts in teaching geography and provides regular training and planned periodic evaluations of instructional responsibilities. Course topics include instructional and assessment strategies in geography and classroom management. This course is required for first-year instructional assistants in the Geography Department. Students do not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "GEO 7352",
+            "course_name": "Social Theory, Space, and Geography",
+            "course_desc": "This course examines key texts and concepts in social and political theory, focusing on theories of space and their mobilization in geographical research. Space and geography are approached with respect to several topics and debates in social theory including structuralism and agency, feminist theory and embodiment, racial formations, assemblage thinking and actor-network theory, hybridity, governance, and scale.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7361",
+            "course_name": "Advanced Geographic Information Systems",
+            "course_desc": "This course provides exposure to advanced topics in GIS, particularly to quantitative methods and techniques for developing and interpreting models of natural and anthropogenic phenomena over the geographical space.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7362",
+            "course_name": "Geographic Visualization",
+            "course_desc": "This course focuses on the interdisciplinary field of Geographic Visualization. Students will review visualization research in computer graphics, human computer interaction, GIScience, and cartography and relate the research approaches to useful and usable geographic visualizations. Prerequisite: GEO 3411 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7364",
+            "course_name": "Geocomputation",
+            "course_desc": "Geocomputation reviews and analyzes concepts of computational modeling in Geography. The course will include modeling theory and advanced topics such as parallel processing, neural networks, cellular automata, scientific visualization, and fuzzy modeling. Students will practice model development, specifically spatially explicit simulation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7365",
+            "course_name": "Theoretical Cartography",
+            "course_desc": "This course focuses on theoretical developments in cartography, and in particular looks at the role of maps and other graphic devices as tools for the discovery, analysis, and communication of geographical knowledge. Prerequisite: GEO 3411 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7366",
+            "course_name": "Advanced Topics in Remote Sensing",
+            "course_desc": "The course focuses on advanced topics including the theoretical basis, mathematical foundations, and current research frontiers in remote sensing. Prerequisite: GEO 5415 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7368",
+            "course_name": "Lidar and SfM Data Processing and Analysis",
+            "course_desc": "This course covers doctoral level skills in Light Detection and Ranging (lidar) systems and Structure from Motion (SfM) workflows for mapping and analysis of the environment. Students learn to successfully apply knowledge of lidar data and SfM workflows for a variety of Geographic Information Science applications.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7369",
+            "course_name": "Exploring Spatial Databases",
+            "course_desc": "This course covers principles of spatial ontologies and spatial semantics to facilitate appropriate database conceptualization, design and implementation. Course assignments and projects provide in-depth experience with database query languages. Course work is completed using a spatially-enabled Relational Database Management Systems (RDBMS). Prerequisite: GEO 7417 or equivalent with a grade of 'B' or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7370",
+            "course_name": "Advanced Seminar in Environmental Geography",
+            "course_desc": "This research seminar focuses on the methods, approaches, issues, and concepts of major themes in environmental geography.  Special emphasis will be placed on theoretical and conceptual understandings of how humans interact with the environment from a geographical perspective. Repeatable once for additional credit with a different topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7371",
+            "course_name": "Advanced Seminar in Geographic Education",
+            "course_desc": "This research seminar analyzes literature and research into recent trends in geographic education. Emphasis will be on new developments in curriculum, content, and teaching methodologies. Repeatable once for additional credit with a different topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7372",
+            "course_name": "Seminar in Geographic Information Science",
+            "course_desc": "This course deals with advanced and current research issues in Geographic Information Science. Based on this objective, the course aims at educating doctoral students to conduct research in Geographic Information Science as well as develop innovative applications of Geographic Information Science. May be repeated for credit with a different topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7390",
+            "course_name": "Independent Study",
+            "course_desc": "Research in geography under the direction of a supervising professor. Repeatable once for additional credit with a different topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7393B",
+            "course_name": "Biogeography in Mountain Environments",
+            "course_desc": "This course examines how plants and animals interact with and affect geomorphological processes and landforms, and how geomorphological processes, landforms and geological factors affect spatial distribution of animals and plants; all within the environmental limitation and conditions of mountains. The role of humans in affecting these interrelationships will be emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7393C",
+            "course_name": "Managing Urbanization",
+            "course_desc": "This course examines survey methods and procedures related to managing and preparing for urban growth.  Selected topics for examination include transportation planning, housing, historic preservation, and environmental design.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7393D",
+            "course_name": "International Migration",
+            "course_desc": "This course provides a survey of geographic and social science research conducted across various topics of international migration. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7393E",
+            "course_name": "Geography of Land Mangagement",
+            "course_desc": "This course explores U.S. land management philosophies, techniques, and development approaches.  Major topics include land ethics/philosophies, U.S. traditions in cadastral geography, urban sprawl and green development, land conservation techniques, the role of local/state/federal regulation in land management, and the human-environment impacts of land development.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7393F",
+            "course_name": "Gender and Development",
+            "course_desc": "This course is a survey of geographic and social science research conducted across various topics of gender studies and international development. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7393G",
+            "course_name": "Political Geography",
+            "course_desc": "This course is a survey of geographic and social science research conducted across various topics of political geography. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7393J",
+            "course_name": "Soil and Society",
+            "course_desc": "This course explores the importance of soil resources for environmental and socioeconomic sustainability.  Soil science will be introduced, but the majority of the course will focus on soil's value to societies.  Specific topics that will be explored include soil geography, historical abuses of soil resources, and current conservation efforts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7393K",
+            "course_name": "Biogeomorphology",
+            "course_desc": "This course will examine the ways in which plants and animals interact with and affect geomorphological processes and landforms, and how geomorphological processes, landforms, and geological factors affect spatial distributions of animals and plants. The role of humans in affecting these interrelationships will be emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7393M",
+            "course_name": "Global Climate Change",
+            "course_desc": "This course examines various implications of global climate change, including impacts on science, politics, and society. Emphasis will be placed on anthropogenic influences across the 20th and 21st centuries, contemporary mitigation options, and future adaptation strategies amidst a complex and dynamic climate system.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7393N",
+            "course_name": "Rivers and Society",
+            "course_desc": "This course examines river system processes and how they are influenced by human activities. We will discuss the principles and practices of large-scale river basin management with an emphasis on the different perspectives and motivations driving different management goals.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7393P",
+            "course_name": "Advanced Seminar in Human Geography",
+            "course_desc": "This course will engage students in systematic critical analysis of the theories and methods of human geography. The students will conduct careful research on a topic in human geography.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7393Q",
+            "course_name": "Geomorphology in the Anthropocene",
+            "course_desc": "This course will examine the ways in which humans interact with and affect geomorphological processes and landforms, and how humans directly act as geomorphological agents.  The level at which human activities have transformed the surface of the Earth will be examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7399A",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geography, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each semester (including summer) for at least three dissertation hours.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7399B",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geographic Education, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each semester (including summer) for at least three dissertation hours.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7399C",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geographic Information Science, to be\naccomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each semester (including summer) for at least three dissertation hours.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7415",
+            "course_name": "Geographic Applications of Remote Sensing",
+            "course_desc": "Students will focus on geographic applications of the principles and practices of digital image processing, classification, and modeling using satellite images.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7417",
+            "course_name": "Geographic Information Systems",
+            "course_desc": "Course is concerned with the analysis of interpretation of maps stored in digital form. Students are introduced to the concepts involving computerized cartographic and geographic data input, storage and retrieval, data manipulation and analysis, graphic and tabular report generation, and cartographic modeling.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7418",
+            "course_name": "Technical Foundations and Methods in Geographic Information Science",
+            "course_desc": "This course addresses technical foundations and methods in management, analysis, visualization, and dissemination of geographically-referenced data and information in digital form. Topics include data structures, algorithms, and a variety of methods used in GIS and spatial data analysis.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7419",
+            "course_name": "Advanced Techniques in Geographic Information Science",
+            "course_desc": "This course develops advanced Geographic Information System (GIS) concepts and application issues, spatial data manipulation and analysis skills, and provides hands-on experience with GIS, programming, and spatial analytics hardware/software programs. Emphasis is placed on practical application of skills to real world issues using advanced GIS techniques and geoprogramming. Prerequisite: GEO 7417 or equivalent with a grade of \"C\" or better and instructor approval.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7430",
+            "course_name": "Field Methods",
+            "course_desc": "Methods and techniques for observing, measuring, recording, and reporting on geographic phenomena are investigated in this course. Students will learn the use of instruments and materials in the collection of data for mapping and field research in the local area.  Prerequisites: GEO 2410 and GEO 3301 both with grades of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7447",
+            "course_name": "Spatial Graphics in Geographic Education",
+            "course_desc": "This course examines traditional and innovative geoinformation and geovisualization technologies and their relationship to spatial thinking and the teaching and learning of geography. The course reviews academic literature, research methods, and teaching methodologies related to spatial graphics in geographic education. The lab portion provides geovisualization design skills for geographic education.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEO 7599A",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geography to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7599B",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geographic Education to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously\nenrolled each long semester.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7599C",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geographic Information Science, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7699A",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geography, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each semester (including summer) for at least three dissertation hours.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7699B",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geographic Education, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each semester (including summer) for at least three dissertation hours.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7699C",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geographic Information Science, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each semester (including summer) for at least three dissertation hours.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7999A",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geography, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each semester (including summer) for at least three dissertation hours.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7999B",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geographic Education, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each semester (including summer) for at least three dissertation hours.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "GEO 7999C",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Geographic Information Science, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each semester (including summer) for at least three dissertation hours.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

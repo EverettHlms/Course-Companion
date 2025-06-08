@@ -1,0 +1,230 @@
+{
+    "name": "Educational Leadership",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/edcl/",
+    "courses": [
+        {
+            "course_code": "EDCL 5100",
+            "course_name": "Educational Leaders Continuing Professional Development",
+            "course_desc": "This course provides state-of-the-art continuing professional development for in-service, non-degree seeking educational leaders. New topics will be addressed with each offering. The course may be repeated once if necessary.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 5339",
+            "course_name": "Understanding Self: Developing a Personal Vision of Leadership",
+            "course_desc": "Successful leadership in organizational settings requires an understanding of human behavior. This understanding begins with the knowledge of self and leads to the understanding of others. The focus of this course is on the individual student. The intent is to enhance the students self-awareness of values, beliefs, and attitudes related to successful school leadership.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 5340",
+            "course_name": "Shaping Organizations and Using Inquiry: Management and Leadership",
+            "course_desc": "This course includes an understanding of the basic structural components of educational organizations and the theoretical frameworks that describe organizational behavior. Students will focus on the process of action research, planning, decision-making, change in organizations, and leadership. Prerequisites: EDCL 5339 with a grade of a \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 5345",
+            "course_name": "Understanding People: Professional Development",
+            "course_desc": "This course includes fundamental issues related to the development of personnel, entry-level knowledge of staff appraisal, adult learning and development, and staff development. Prerequisite: EDCL 5339. Corequisite: EDCL 5339.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 5347",
+            "course_name": "Understanding Environments: Social, Political, Economic, Legal, and Technological",
+            "course_desc": "Concepts of the internal and external environment of educational organizations are explored. Entry level concepts are presented in areas of school environments. Prerequisite: EDCL 5339. Corequisite: EDCL 5339.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 5348",
+            "course_name": "Supervision of Instruction",
+            "course_desc": "Concepts of curriculum and instructional leadership models for schools will be developed. Factors such as curriculum leadership and instructional improvement are considered part of the internal environment of schools. Prerequisite: EDCL 5339 and EDCL 5345.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 5349",
+            "course_name": "Practicum in Instructional Leadership",
+            "course_desc": "Students obtaining an MA in educational leadership with a concentration in instructional leadership apply the knowledge and skills they have developed in their program of study in a school setting, with mentoring by a school administrator and under the supervision of a faculty member in the educational leadership program.   Prerequisite: EDCL 5339, EDCL 5345, EDCL 5348, EDCL 6342, EDCL 6352, and EDCL 6358.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 5351",
+            "course_name": "Understanding Self Within School & Community Environments",
+            "course_desc": "Successful leadership in school settings requires an understanding of human behavior and its ethics within a diverse context. This understanding begins with knowledge of self and leads to the understanding of organizations within the micro and macro environments. The focus of this course is on you, the learner, and your school and community. The goal is to enhance the students self-awareness of values, beliefs, attitudes and the ecological context informing and impacting their school leadership experience. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 5352",
+            "course_name": "Instructional Leadership, Supervision, and Professional Development",
+            "course_desc": "The relationship between school improvement and instructional leadership will be examined. The course will examine current research and trends related to professional learning and supervision in a school setting. Students will have an opportunity to learn about the design, development, implementation, and evaluation of individual, campus, and district professional development.  The course is designed to promote leadership knowledge and skills that will enhance the instructional capacity of all campus staff members and thereby improve overall student success. Prerequisite: EDCL 5351 with a grade of  \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 5353",
+            "course_name": "Campus Leadership and School Law",
+            "course_desc": "This course is designed to develop campus leadership skills in elementary and secondary schools, focusing on the role and functions of the principal as a leader. This course also surveys and examines the implications of legal issues likely to be encountered by a school leader, examining constitutional provisions, statutory laws, court decisions, and regulations governing public schools with special reference to state and federal relationships.  Prerequisite: EDCL 5352 with a grade of \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 5388",
+            "course_name": "Problems in Administration",
+            "course_desc": "Individual problems not related to thesis or research problems. Designed to place emphasis on selected areas of study. May be repeated once for additional credit at the discretion of the department chair.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 6342",
+            "course_name": "Curriculum Design",
+            "course_desc": "Theory and practice in planning for curriculum needs assessment, development, implementation, and evaluation. Prerequisite: EDCL 5339, EDCL 5345, EDCL 5347, EDCL 5348, and EDCL 6352.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 6343",
+            "course_name": "Continuous School Improvement",
+            "course_desc": "Applies the concept and principles of Total Quality Improvement to schools and classrooms and integrates Total Quality Improvement with other school improvement models. Prerequisite: All Level I core courses or permission of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 6344",
+            "course_name": "Campus Leadership",
+            "course_desc": "This course develops campus leadership skills for elementary and secondary schools, focusing on the role and functions of the principal as a leader. Students practice skill development in evaluation processes, student activity programs, staffing patterns, site-based decision-making, community relations, and accounting procedures. Prerequisites: EDCL 5339, EDCL 5345, and EDCL 5348. Corequisite: EDCL 5347.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 6348",
+            "course_name": "School Law",
+            "course_desc": "This course examines the constitutional provisions, statutory laws, court decisions, and regulations governing public schools with special reference to state and federal relationships. Prerequisite: EDCL 5339, EDCL 5345, EDCL 5347, EDCL 5348, EDCL 6342, EDCL 6344, EDCL 6358, and EDCL 6387.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 6351",
+            "course_name": "Instructional Models",
+            "course_desc": "Characteristics of effective teaching are identified and correlated with learning theories and their corresponding instructional models. Matching instruction to\nthe needs of learners and integrative approaches are emphasized. Prerequisites: All Level I and II courses or permission of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 6352",
+            "course_name": "School as Center of Inquiry",
+            "course_desc": "Prepares the educational leader to be an intelligent consumer of research and to assume a leadership role in school-wide action research. This course is a prerequisite for EDCL 6358. Prerequisites: EDCL 5339 and EDCL 5345. Corequisite: EDCL 5345.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 6358",
+            "course_name": "Integrative Seminar",
+            "course_desc": "This course integrates key theories, concepts, and principles learned during the students course of study. The student will complete a paper including an action research plan designed to solve an educational problem present within a specific  educational setting.  The masters student will defend the plan during the oral examination. Prerequisites: EDCL 5339, EDCL 5345, EDCL 5347, EDCL 5348, and EDCL 6352. Corequisite: EDCL 5348.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 6387",
+            "course_name": "Principal Field-Based Practicum I",
+            "course_desc": "The practicum provides students the opportunity to develop leadership skills needed by principals of elementary and secondary schools. Students will develop a practicum proposal in cooperation with their site-mentor and university supervisor. The course focus is on the development of administrative skills in a real world setting. Prerequisites: EDCL 5339, EDCL 5348, EDCL 6344, and EDCL 6358. Corequisites: EDCL 6344 and EDCL 6358.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDCL 6388",
+            "course_name": "Principal Field-Based Practicum II",
+            "course_desc": "This course is a continuation of EDCL 6387 and allows students to continue projects and activities begun in the fall semester and to work further with their on-site mentor and university supervisor. This course is offered in the spring semester only. Prerequisites: EDCL 5339, EDCL 6358, and EDCL 6387.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDCL 6389",
+            "course_name": "Superintendents Practicum I",
+            "course_desc": "The practicum is intended to give prospective school superintendents the opportunity to hone their leadership skills under the guidance an experienced\nand successful school leader. Offered fall semester only and may be taken concurrently with other superintendent certification courses.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDCL 6390",
+            "course_name": "Superintendents Practicum II",
+            "course_desc": "A continuation of EDCL 6389, this course allows students to carry through projects and activities begun in the fall semester and to work further with their\non-site mentor and university supervisor. Offered spring semester only. May be taken concurrently with other superintendent certification courses. Prerequisite: EDCL 6389.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDCL 7344",
+            "course_name": "Campus Leadership",
+            "course_desc": "Develops the skills needed as a practitioner in elementary and secondary schools, focusing on the role and functions of the principal as a leader. Activities lead participants to practice skill development in evaluation processes, student activity programs, staffing patterns, site-based decision-making, community relations, accounting procedures, as well as other skills. Prerequisites: All Level I core courses, and EDCL 6342, EDCL 6343, EDCL 6348, or permission of the instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 7348",
+            "course_name": "Public School Law",
+            "course_desc": "Examines constitutional provision, statutory laws, court decisions, and regulations governing public schools, with reference to state and federal relationships. Participants develop skills in researching and interpreting law, policy development and impact on public schools and communities. (Note: Students who took EDCL 6348 may not repeat this course for doctoral credit.).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDCL 7387",
+            "course_name": "Field Practicum, Part I",
+            "course_desc": "Students seeking Principal Certification must complete this field-based 2 semester internship focusing on actual experiences with each of the state standards. The practicum provides opportunities to plan, produce, participate in, and reflect upon\ncampus leadership. (Note: Students who took EDCL 6387 may not repeat these courses for doctoral credit.).",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDCL 7388",
+            "course_name": "Field Practicum Part II",
+            "course_desc": "Students seeking Principal Certification must complete this field-based 2-semester internship focusing on actual experiences with each of the state\nstandards. The practicum provides opportunities to plan, produce, participate in, and reflect upon campus leadership. (Note: Students who took EDCL 6388 may not repeat these courses for doctoral credit.).",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDCL 7389",
+            "course_name": "Superintendent Practicum I",
+            "course_desc": "The practicum provides prospective superintendents and district leaders with practical experiences to prepare for various roles and responsibilities of central office leadership. Students work under the joint mentorship of a practicing school superintendent and a university supervisor. Offered fall semester only. May be taken concurrently with other superintendent certification courses. Prerequisite: ED 7347 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n5 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDCL 7390",
+            "course_name": "Superintendent Practicum II",
+            "course_desc": "This course is a continuation of EDCL7389 Superintendent Practicum I, providing prospective district leaders with practical experiences to prepare for central office leadership. Students work under the joint mentorship of a practicing school superintendent and a university supervisor. May be taken concurrently with other superintendent courses. Prerequisite: EDCL 7389.",
+            "course_credits": "\n3 Credit Hours \n5 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

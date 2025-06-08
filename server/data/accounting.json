@@ -1,0 +1,302 @@
+{
+    "name": "Accounting",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/acc/",
+    "courses": [
+        {
+            "course_code": "ACC 2301",
+            "course_name": "Accounting in Organizations and Society",
+            "course_desc": "Introductory accounting course for non-business majors. Describes the role of accounting as an information system essential for the operation of todays organizations. Focus is on (1) how data is captured and processed to provide information for decision-making, and (2) how the information provided can be used for decision-making.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 2361",
+            "course_name": "Introduction to Financial Accounting",
+            "course_desc": "This course introduces financial accounting concepts and their application in the accounting process for business organizations, including financial statement preparation, analysis and communication of financial information and related ethical responsibilities. Prerequisite: MATH 1315 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2331 or MATH 2417 or MATH 2471 or HON 3391 or ACT Mathematics score of 27 or better or SAT Mathematics score of 580 or better or SAT Math Section Score 600-800.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 2362",
+            "course_name": "Introduction to Managerial Accounting",
+            "course_desc": "This course provides an introduction to the use of accounting information as an aid to management decision making and budgeting.  Students will gain an appreciation of control processes and an understanding of accounting reports and related ethical responsibilities.  Prerequisites: ACC 2361 and ISAN 1323 and (MATH 1315 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2331 or  MATH 2417 or MATH 2471 or HON 3391); all with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 3305",
+            "course_name": "Financial Accounting and Reporting",
+            "course_desc": "This course expands upon financial accounting concepts introduced in ACC 2361 by emphasizing the use of financial accounting principles to prepare and analyze an organizations financial statements and provides an in-depth study of the accounting cycle. Prerequisites: ACC 2361 with a grade of C or better and ISAN 1323 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 3308",
+            "course_name": "Survey of Income Tax",
+            "course_desc": "This course is an introduction to federal income tax provisions, concepts and issues concerning individuals, business and property transactions. The coursework focuses on income and expense recognition as well as tax planning opportunities. Prerequisite: ACC 3305 with a grade of \"C\" or better or ACC 3313 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 3313",
+            "course_name": "Intermediate Accounting I",
+            "course_desc": "An in-depth study of financial accounting concepts and standards with emphasis on current theory and practices relating to corporate financial statements particularly stressing elements of the balance sheet. Prerequisite: ACC 3305 with a grade of B or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 3314",
+            "course_name": "Intermediate Accounting II",
+            "course_desc": "This course is a continuation of ACC 3313 and provides an in-depth study of advanced financial accounting topics. Prerequisite: ACC 3313 with a grade of B or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 3323",
+            "course_name": "Data Analytics for Accounting",
+            "course_desc": "This courses introduces students to the application of data analytics in accounting. The focus is on developing a data analytics mindset so that students can critically think through the planning, analysis, and interpretation of data analysis results before making and communicating a professional judgment or decision.  Prerequisite: ACC 3305 with a grade of \"B\" or better and [QMST 2333 or MATH 2328] with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 3363",
+            "course_name": "Governmental Accounting",
+            "course_desc": "A study of concepts and techniques of fund accounting, and financial reporting for governmental and not-for-profit organizations including state and local government, universities, hospitals, and other public sector entities. Prerequisite: ACC 3313 with a grade of B or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 3365",
+            "course_name": "Cost/Managerial Accounting",
+            "course_desc": "The study of cost/management accounting within the manufacturing and merchandising environment. Includes the analysis of cost accumulation, planning, and control within the organization. Specific topics emphasized are job order and process costing; standard costing, standard costing and variance analysis; absorption and direct costing; budgetary procedures; cost/volume profit analysis; and capital budgeting techniques. Prerequisite: ACC 2362 with a grade of \"C\" or better and [QMST 2333 or MATH 2328] with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 3385",
+            "course_name": "Accounting Systems",
+            "course_desc": "A study of elements of theory, procedures, and practice relating to system design and implementation for manual and computerized accounting information systems. Emphasis placed on system selection, data entry, file structure, internal control implementation, and report generation for various information end-users. Prerequisite: ACC 3305 or ACC 3313 with a grade of \"B\" or better and CIS 3380 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 4313",
+            "course_name": "Auditing and Internal Controls",
+            "course_desc": "This course provides a study of the theory and practices relating to auditing. The course emphasizes the procedures used to evaluate the effectiveness of risk management and control processes, including prevention and detection of fraud. Prerequisite: ACC 3385 and ACC 3313 with grades of C or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 4390A",
+            "course_name": "International Accounting",
+            "course_desc": "This course introduces students to accounting issues unique to multinational enterprises and international business activity. Financial accounting practices are compared across different countries. The development of international accounting standards is also explored. (MULT) Prerequisite: ACC 3313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5315",
+            "course_name": "Selected Topics in Financial Accounting",
+            "course_desc": "The study of specialized financial accounting topics, existing and prospective, necessary for an advanced understanding of financial reporting. Topics include: pensions and post-retirement benefits, deferred taxes, derivatives, share-based payments, interim and segment reporting and emerging issues of the Emerging Issues Task Force. Prerequisite: ACC 3314 with a grade of B or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5316",
+            "course_name": "Advanced Accounting",
+            "course_desc": "A study of accounting for business combinations and consolidated financial statements. Additional selected topics may include accounting for multinational operations, interim reporting, SEC reporting, partnership and governmental and not-forprofit accounting. Prerequisite: ACC 3313 with a grade of B or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5320",
+            "course_name": "Auditing",
+            "course_desc": "A study of the underlying theory of external financial auditing including professional ethics, auditing standards and procedures, and the role of auditors judgment. (Suggested for CPA eligibility). Prerequisite: ACC 4313 with a grade of B or better. Corequisite: ACC 3314 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5323",
+            "course_name": "Accounting Data Analytics",
+            "course_desc": "This course introduces students to the process of making decisions using data-driven techniques. Specifically, this course emphasizes question formulation, hypothesis development, data analysis, model building, and model testing using business case studies.  Prerequisite: ACC 3313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5340",
+            "course_name": "Individual Income Tax",
+            "course_desc": "A study of the tax concepts and issues involved in an individuals employment and personal life, and in sole proprietorships, property transactions, tax administration and tax practice. Regulatory and ethical issues are incorporated into the discussion. This course may not count as an elective in any master's program in the McCoy College of Business. Prerequisite: ACC 3313 with a grade of B or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5350",
+            "course_name": "Professional Accounting Research",
+            "course_desc": "This course provides a study of the sources of authoritative standards in financial accounting. The course develops procedures for identifying the applicable accounting issues, locating appropriate authority, and communicating the results of professional research. Corequisite: ACC 3314 with a grade of B or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5352",
+            "course_name": "Financial Statement Reporting and Analysis",
+            "course_desc": "A study of financial statement reporting and analysis. Use of tools and skills will be used to analyze and interpret financial reports for assessing financial performance of firms to facilitate investment, lending, and other financial decisions in a variety of business contexts. Prerequisite: ACC 3305 or ACC 5361 either with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5355",
+            "course_name": "IT Auditing",
+            "course_desc": "A study of the IT audit: The process of collecting and evaluating evidence of IT system practices and operations. The course develops understanding of the procedures to test whether the systems are safeguarding assets, maintaining data security and operating effectively and efficiently. Prerequisite: ACC 3305 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5357",
+            "course_name": "Regulation and Professionalism",
+            "course_desc": "This course will cover the professional and legal responsibilities and liabilities of the accounting profession and tax preparers; the commercial law applicable to business transactions; and the legal structure of business organizations.  It will also provide a basic overview of corporate and partnership taxation, focusing on current topics and developments.  Prerequisites: ACC 3313 and [ACC 4328  or  ACC 3308] both with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5361",
+            "course_name": "Accounting Analysis for Managerial Decision Making",
+            "course_desc": "Use of accounting information for improving managerial decision making. Emphasis is on understanding the practice of business management, budgeting, cost behavior, and operational, internal, and management control. Prerequisite: B A 5352 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5362",
+            "course_name": "Cost and Managerial Accounting Theory",
+            "course_desc": "A study of recent developments and topics in the area of cost and managerial accounting. Includes a discussion of quantitative techniques and their applicability to accounting problems. Prerequisites: ACC 3365 or ACC 5361 either with a grade of B or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5366",
+            "course_name": "Business Entity Taxation",
+            "course_desc": "Federal income tax provisions affecting business decisions, with an emphasis on C Corporations, Limited Liability Companies, and Partnerships. An introduction to the choice, formation, organization, operation and distribution rules or the preceding business entities. Prerequisite: ACC 3313 and [ACC 4328  or ACC 3308] both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5369",
+            "course_name": "Special Studies in Accounting",
+            "course_desc": "Directed study and research on selected accounting topics, including the development of accounting thought and research in; advanced tax topics, international accounting, professional ethics and managerial and financial accounting. Courses will be offered as independent instruction. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5370",
+            "course_name": "Internship in Accounting",
+            "course_desc": "Experiential learning during which the students work in accounting. This work experience may be in public, industry, or governmental accounting units. The student is immersed in a variety of intensive work assignments with increasing levels of responsibility. Students taking ACC 5370 for credit may not take ACC 5680 for credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ACC 5372",
+            "course_name": "Tax Research",
+            "course_desc": "An examination of the sources of tax authority, which include its primary sources (legislative, judicial, and administrative), as well as secondary sources. The course also develops procedures for identifying the applicable tax issues, locating appropriate tax authority, and communicating the results of tax research. Prerequisite: ACC 4328 or ACC 3308 with a grade of \"B\" or better. Corequisite: ACC 3314 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5373",
+            "course_name": "Fraud Examination",
+            "course_desc": "An introduction to the theory and techniques used to prevent, detect, and solve occupational and financial fraud and corruption schemes.  Includes forensic accounting procedures, interviewing techniques, rules of evidence, documentary evidence gathering, report writing and other aspects of litigation support. Prerequisite: ACC 3305 or ACC 3313 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5375",
+            "course_name": "Business Information Consulting",
+            "course_desc": "Integrative capstone for the MSAIT program using principles and concepts applied through the analysis and presentation of case studies dealing with current issues or emerging trends in the fields of accounting and information technology for the accounting professionals serving as consultants. Prerequisite: ACC 3305 with a \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5377",
+            "course_name": "Partnership Taxation",
+            "course_desc": "A comprehensive study of the tax implications of conducting a business as a partnership or as a limited liability company. Life-cycle analysis and tax planning considerations are emphasized. Prerequisite: ACC 4328 or ACC  3308 or ACC 5366 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5378",
+            "course_name": "Tax Practice, Procedures, Audits and Controversy",
+            "course_desc": "This course focuses on the procedural aspects of tax planning and tax return preparation.  Coverage includes IRS enforcement tools and corresponding taxpayer rights, audits and appeals, civil and criminal penalties, and statutory relief provisions.  Professional standards and ethical considerations in tax practice are emphasized. Prerequisites: ACC 3314 and [ACC 4328 or ACC 3308] both with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5389",
+            "course_name": "Corporate Governance and Ethics",
+            "course_desc": "A study of the corporate governance and ethical issues in accounting, including ethical reasoning, integrity, objectivity, independence, core values and professional issues. Prerequisite: ACC 3313 with a grade of \"B\" or better. Corequisite:  ACC 4313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5390A",
+            "course_name": "International Accounting",
+            "course_desc": "A study of the impact of international business activity on accounting standard setting. This course investigates the development of international accounting standards and compares those standards to US standards. Students taking ACC 4390A for credit may not take ACC 5390A for credit. (MULT) Prerequisite: ACC 3313 with a grade of  \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5390G",
+            "course_name": "Sustainability Reporting",
+            "course_desc": "This course on sustainability reporting strategies will examine analytical methods and reporting techniques used by for-profit and non-profit companies to support sustainable operations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5390L",
+            "course_name": "Exploring Accounting Oversight in Washington, DC",
+            "course_desc": "This course offers an immersive learning experience in Washington, D.C. The course bridges classroom theory with real-world practice, providing a holistic understanding of the regulatory landscape through exploration of the key institutions shaping the accounting profession. The core of the course consists of guided visits to these institutions. Prerequisite: ACC 4313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ACC 5680",
+            "course_name": "Internship in Accounting",
+            "course_desc": "This internship involves experiential learning over one entire semester during which the students work in accounting. This work experience may be in public, industry, or governmental accounting units. The student is immersed in a variety of intensive work assignments with increasing levels of responsibility. Students taking ACC 5370 for credit may not take ACC 5680 for credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

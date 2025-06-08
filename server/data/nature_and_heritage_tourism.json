@@ -1,0 +1,22 @@
+{
+    "name": "Nature and Heritage Tourism",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/nht/",
+    "courses": [
+        {
+            "course_code": "NHT 4301",
+            "course_name": "Planning and Development of Nature and Heritage Tourism",
+            "course_desc": "This course applies basic planning and development principles to the special issues of nature and heritage tourism. Particular emphasis is placed on locational analysis, site analysis, and planning for sustainable use. Prerequisite: GEO 2110 or GEO 2410 either with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NHT 4302",
+            "course_name": "Internship in Nature and Heritage Tourism",
+            "course_desc": "Students will work in private or public sector settings to gain practical experience in the planning, development and management of nature and/or heritage tourism. NHT internships frequently require students to develop and deliver content (online and/or in-person) to increase recipients awareness of and appreciation for geography and the environment. Students will be expected to perform at high professional standards and will interpret the internship experience within the context of current literature. Prerequisite: NHT 4301 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

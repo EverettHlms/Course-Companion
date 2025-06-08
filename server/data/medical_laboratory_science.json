@@ -1,0 +1,190 @@
+{
+    "name": "Medical Laboratory Science",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/mls/",
+    "courses": [
+        {
+            "course_code": "MLS 3105",
+            "course_name": "Introduction to Medical Laboratory Techniques LAB",
+            "course_desc": "This lab class will be for students currently accepted into the Medical Laboratory Science Program and have taken or concurrently taking MLS 3205 lecture course. There will be technical competency demonstrations and hands-on practice in the techniques, procedures, and instrumentation commonly used in clinical laboratories.    Corequisite: MLS 3205 with a grade of a \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 3111",
+            "course_name": "Medical Laboratory Science Review",
+            "course_desc": "This course reviews material presented in the first two semesters of the Medical Laboratory Science coursework to improve retention of material for the national certification exam. Students will review entry-level theory and application in the areas of clinical chemistry, immunology, hematology, coagulation, urinalysis, parasitology, quality control, and microscopy.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 3205",
+            "course_name": "Introduction to Medical Laboratory Techniques",
+            "course_desc": "This course will introduce students, both MLS majors and non-majors, to the main areas of clinical practice including Hematology, Microbiology, Immunohematology (blood banking), Clinical Chemistry, and Immunology. Lectures will cover the techniques, procedures, and instrumentation commonly used in clinical laboratories. (WI).",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 3323",
+            "course_name": "Medical Microscopy and Analysis of Body Fluids",
+            "course_desc": "This course is the study of body fluids present in the various anatomical compartments of the body as they differ in health and disease. Physical and chemical tests, and microscopic examination of select body fluids are performed.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 3324",
+            "course_name": "Clinical Immunology",
+            "course_desc": "This course is an in-depth study of theoretical and practical aspects of clinical immunology with emphasis on principles, methodology, problems encountered, and clinical applications.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 3326",
+            "course_name": "Medical Parasitology",
+            "course_desc": "This course includes lectures and laboratory instruction in medically important parasites producing disease in humans with emphasis on epidemiology, life cycles, identifying characteristics, and pathology of these parasites.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 3410",
+            "course_name": "Clinical Chemistry I",
+            "course_desc": "This course is designed to acquaint the medical laboratory science student with concepts, techniques, procedures, and instrumentation used in clinical chemistry.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 3412",
+            "course_name": "Clinical Hematology and Hemostasis I",
+            "course_desc": "This course is an in-depth study of theoretical and practical aspects of clinical hematology and hemostasis with emphasis on principles, methodology, problems encountered, and clinical applications.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 4121",
+            "course_name": "Directed Study in Medical Laboratory Science",
+            "course_desc": "This course is an in-depth study of a narrow range of topics or a related problem in the medical laboratory sciences. Topics to be announced; may be repeated for credit when topics vary.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MLS 4177A",
+            "course_name": "Community Health Education through Laboratory Science",
+            "course_desc": "This course is a service-learning course designed to teach students about best practices in community health and community health education from a laboratory science perspective. Students will learn about cultural humility in healthcare, social determinants of health, and how clinical laboratory professionals can be integrated into a variety of public health initiatives.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions|Topics",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MLS 4221",
+            "course_name": "Directed Study in Medical Laboratory Science",
+            "course_desc": "This course is an in-depth study of a narrow range of topics or a related problem in the medical laboratory sciences. Topics to be announced. Course may be repeated for credit when topics vary.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MLS 4225",
+            "course_name": "Laboratory Management & Supervision",
+            "course_desc": "This course is an in-depth study of theoretical and practical aspects of laboratory management, with emphasis on active discussions of general principles of management and supervision of the clinical laboratory and its personnel.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 4241",
+            "course_name": "Molecular Diagnostics",
+            "course_desc": "This course consists of an introduction to the principles, methodologies, and applications of molecular diagnostic procedures used in clinical laboratories. Emphasis is placed on the procedures used in the identification of infectious agents that cause human disease, the diagnosis of inherited diseases, and the diagnosis of cancer.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 4318",
+            "course_name": "Clinical Hematology and Hemostasis II",
+            "course_desc": "This course is an in-depth study of theoretical and practical aspects of clinical hematology and hemostasis with emphasis on principles, methodology, problems encountered, and clinical applications.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 4321",
+            "course_name": "Directed Study in Medical Laboratory Science",
+            "course_desc": "This course provides an in-depth study of a narrow range of topics or a related problem in the clinical laboratory sciences. Topics to be announced. May be repeated for credit when topics vary.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MLS 4333",
+            "course_name": "Bridge to Clinical Practice",
+            "course_desc": "This course will discuss professional and technical laboratory competence requirements for clinical laboratory science students as well as the students role as a unit of the healthcare team. This course focuses on the four Cs: critical thinking, communication, cultural humility, and core competencies. Students will reflect upon their own cultural beliefs and examine a variety of cultural perspectives, behaviors, disparities, and barriers to transcultural communication. (MULTI).",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 4340",
+            "course_name": "Diagnostic Microbiology II",
+            "course_desc": "This course is a study of medically important fungi, viruses, chlamydiae, rickettsiae, mycobacteria, and advanced topics in clinical microbiology. Automated identification of microorganisms, database management, and epidemiologic techniques will be discussed.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 4361",
+            "course_name": "Medical Laboratory Research Methods",
+            "course_desc": "This course provides a working knowledge of research designs, analysis, and presentation for medical laboratory professionals. Students will complete a directed independent research project covering the principles of research and validation of medical laboratory methodologies. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 4370",
+            "course_name": "Clinical Chemistry II",
+            "course_desc": "This course is designed to acquaint the medical laboratory science student with advanced concepts, techniques, procedures, and instrumentation used in clinical chemistry.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 4440",
+            "course_name": "Diagnostic Microbiology I",
+            "course_desc": "This course is a study of pathogenic and nonpathogenic bacteria with special emphasis on methods of isolation from body fluids, cultural and differential biochemical characteristics of body pathogens. An overview of major classes of antibiotics, antimicrobial resistance, and antibiotic susceptibility testing platforms will be covered.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 4460",
+            "course_name": "Immunohematology",
+            "course_desc": "This course is a study of theoretical and practical consideration of major blood groups with emphasis on grouping and typing, antibody detection and identification, compatibility testing and component therapy in blood transfusion service.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 4463",
+            "course_name": "Clinical Practice I",
+            "course_desc": "This course provides a structured clinical experience assigned on an individual basis for observation, study, interpretation, and practical application of techniques and methodology in the medical laboratory.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MLS 4465",
+            "course_name": "Clinical Practice II",
+            "course_desc": "Structured clinical experience assigned on an individual basis for observation, study, and practical application of techniques and methodology in the medical laboratory.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

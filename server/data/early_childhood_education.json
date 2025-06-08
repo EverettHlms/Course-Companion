@@ -1,0 +1,86 @@
+{
+    "name": "Early Childhood Education",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ece/",
+    "courses": [
+        {
+            "course_code": "ECE 3610",
+            "course_name": "Early Childhood Education: Teaching and Curriculum in Programs for Young Children",
+            "course_desc": "This course emphasizes research, program development, and developmentally appropriate teaching strategies, materials and activities for children ages 3-6 and collaboration with families. A critical component will include directed field experiences in observation, participation, problem solving, assessing and teaching in programs for young children.  Prerequisite: Admittance to Educator Preparation Program and 2.75 Overall GPA and ECE 4300 and ECE 4301 both with a grade of a \"C\" or better. Corequisite: CI 4345 with a grade of \"D\" or better.",
+            "course_credits": "\n6 Credit Hours \n5 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECE 4300",
+            "course_name": "The Languages of Children: Acquisition and Use",
+            "course_desc": "This course is designed to provide pre-service teachers with pertinent information regarding the development of language and cognition in pre-school and school-aged children. Information regarding language structure, the sequence of development as well as the cognitive and social aspects of language acquisition and use will be included. (MULT)  Corequisite: CI 2311 with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECE 4301",
+            "course_name": "Play in Educational Settings for Diverse Learners",
+            "course_desc": "This course examines \"play\" as a fundamental mechanism for learning in schooling and society through historical, sociological, anthropological, and cultural perspectives with a focus on constructive play and sociodramatic play in educational settings. Students will explore equity in childrens access to power and voice within play, deconstruct deficit-oriented views of children, examine the impact of play deprivation, and analyze how children acquire powerful cultural tools for problem-solving from home communities. In field experiences students will design inclusive play environments, utilize strategies designed to support and encourage children's play, and observe and document young children as they utilize play-based skills.  Corequisite: CI 2311 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECE 4310",
+            "course_name": "Seminar for Teachers of Young Children",
+            "course_desc": "This course provides directed field experiences in observation, participation, problem solving, assessing and teaching in programs for young children. In addition to course seminars, students have an approximately three-hour weekly placement in an approved preschool or kindergarten program. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and 2.75 overall GPA and Departmental approval. Corequisite: CI 4345 with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECE 4352",
+            "course_name": "Curriculum for Preschool and Kindergarten Children",
+            "course_desc": "This course emphasizes research, program development, and developmentally appropriate teaching strategies, materials and activities for children ages 3-6 and collaboration with families. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and 2.75 overall GPA and Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECE 4380",
+            "course_name": "Independent Study in Early Childhood",
+            "course_desc": "In-depth study of selected topics of current need or interest in early childhood education. Work due on independent study basis with faculty member and only with permission of department. Repeatable for credit with different emphasis. Prerequisites: Admittance to the Educator Preparation Program; 2.75 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECE 5318",
+            "course_name": "Advanced Early Child Development: Readiness for Learning and Language Abilities",
+            "course_desc": "A study of the cognitive, affective, and psychomotor factors bearing on the young\nchilds readiness for learning and acquisition of language. The course includes methods of child study, such as instruction, and practice in using observational techniques and anecdotal records. It includes the design and evaluation of specific readiness activities and guided field experience.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECE 5319",
+            "course_name": "Curriculum and the Young Child: Early Care and Education",
+            "course_desc": "This course is designed to investigate the organization and evaluation of curricula designed for young children.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECE 5330",
+            "course_name": "Curriculum and the Young Child, II (Kindergarten)",
+            "course_desc": "Advanced study of curriculum and materials used in educational programs for young children.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECE 5380",
+            "course_name": "Independent Study in Early Childhood",
+            "course_desc": "In-depth study of selected topics of current needs or interest in early childhood education. Work done on independent study basis with faculty member and only with permission of department. Repeatable once with departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

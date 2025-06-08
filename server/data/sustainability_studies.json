@@ -1,0 +1,110 @@
+{
+    "name": "Sustainability Studies",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/sust/",
+    "courses": [
+        {
+            "course_code": "SUST 5105",
+            "course_name": "Practicum in Teaching",
+            "course_desc": "This course is an introduction to key concepts and practices in the teaching of college courses. It provides regular in-service training and planned periodic evaluations of instructional responsibilities. It is required for first-year teaching and instructional assistants in the MA and MS in Sustainability programs. This course does not earn graduate degree credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "SUST 5197",
+            "course_name": "Directed Study",
+            "course_desc": "This course involves individual work with specific guidance from graduate faculty.  Work may include participation in research, professional practice, and/or critical review of the related literature.  Course may be repeated once for credit when topics vary.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SUST 5198B",
+            "course_name": "Professional Project II",
+            "course_desc": "This course represents a students continuing enrollment to complete the professional project.  The student continues to enroll in this course until the project is completed and approved by the committee.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SUST 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SUST 5297",
+            "course_name": "Directed Study",
+            "course_desc": "This course involves individual work with specific guidance from graduate faculty.  Work may include participation in research, professional practice, and/or critical review of the related literature.  Course may be repeated once for credit when topics vary.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SUST 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SUST 5301",
+            "course_name": "Seminar in Sustainability",
+            "course_desc": "The seminar in sustainability is an opportunity for students to learn about issues from a wide-ranging set of perspectives.  The seminar is, by design, interdisciplinary.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SUST 5397",
+            "course_name": "Directed Study",
+            "course_desc": "This course involves individual work with specific guidance from graduate faculty.  Work may include participation in research, professional practice, and/or critical review of the related literature.  Course may be repeated once for credit when topics vary.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SUST 5398",
+            "course_name": "Professional Project",
+            "course_desc": "This course involves individual work related to a professional topic or project with specific guidance from graduate faculty.  The project requires the completion of a rigorous paper that is the culmination of the final paper/project for the non-thesis degree in Sustainability Studies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SUST 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's initial thesis enrollment.  No thesis credit is awarded until the student has completed the thesis in SUST 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SUST 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SUST 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SUST 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

@@ -1,0 +1,350 @@
+{
+    "name": "Materials Science, Engineering, and Commercialization",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/msec/",
+    "courses": [
+        {
+            "course_code": "MSEC 7100",
+            "course_name": "Doctoral Assistant Development",
+            "course_desc": "The course is designed to equip the doctoral students with skills and an understanding of proper procedures to be effective teaching assistants.  This course does not earn graduate degree credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MSEC 7101",
+            "course_name": "Commercialization Forum",
+            "course_desc": "The course is a seminar series exposing students to commercialization issues. The series includes as speakers: successful entrepreneurs, businessmen, research directors, production and process control engineers, intellectual property and licensing experts, management consultants, and technology transfer specialists. Repeatable four times for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7102",
+            "course_name": "MSEC Seminar",
+            "course_desc": "This course is an introduction to current materials science and engineering topics with presentations by subject matter experts as the basis for weekly discussions. Students participate by asking questions and actively engaging the seminar speaker. Students are also expected to give public presentations based upon their own field of research at the STAR (Student Technology and Research) Showcase. Repeatable four times for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7103",
+            "course_name": "Research in Materials Science, Engineering, and Commercialization",
+            "course_desc": "This research course is for students in Materials Science, Engineering, and Commercialization who have not yet passed their candidacy exam, typically under supervision of the PhD Research Advisor.  Repeatable (with MSEC 7203 & MSEC 7303 hours) for doctoral credit up to 6 hours.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MSEC 7199",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Materials Science, Engineering, and Commercialization, is to be accomplished under direct supervision of the PhD Research Advisor.  While conducting dissertation research and writing, students must be continuously enrolled each long semester.  Repeatable for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MSEC 7203",
+            "course_name": "Research in Materials Science, Engineering, and Commercialization",
+            "course_desc": "This research course is for students in Materials Science, Engineering, and Commercialization who have not yet passed their candidacy exam, typically under supervision of the PhD Research Advisor.  Repeatable (with MSEC 7103 and MSEC 7303 hours) for doctoral credit up to 6 hours.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MSEC 7299",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Materials Science, Engineering, and Commercialization, is to be accomplished under direct supervision of the PhD Research Advisor.  While conducting dissertation research and writing, students must be continuously enrolled each long semester.  Repeatable for credit.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MSEC 7301",
+            "course_name": "Practical Skills in Commercialization and Entrepreneurship",
+            "course_desc": "This course is the first of a two-course series to impart business and commercialization skills by producing a business plan.  Key areas covered include intellectual property law, technology transfer and licensing strategies, business plan development, business finance strategies, management structures, project management methods, statistical quality and process control.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7302",
+            "course_name": "Leadership Skills in Commercialization and Entrepreneurship",
+            "course_desc": "This course is the second of a two-course series to impart business and commercialization skills by producing a business plan.  Key areas covered include intellectual property law, technology transfer and licensing strategies, business plan development, business finance strategies, management structures, project management methods, statistical quality and process control. Prerequisite: MSEC 7301 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7303",
+            "course_name": "Research in Materials Science, Engineering, and Commercialization",
+            "course_desc": "This research course is for students in Materials Science, Engineering, and Commercialization who have not yet passed their candidacy exam, typically under supervision of the PhD Research Advisor.  Repeatable (with MSEC 7103 & MSEC 7203 hours) for doctoral credit up to 6 hours.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MSEC 7304",
+            "course_name": "Collaborative Research/Commercialization Experience",
+            "course_desc": "This course allows Ph.D. level graduate students to initiate, conduct and participate in a collaborative research or commercialization experience with graduate faculty in addition to research conducted under MSEC 7103, MSEC 7303, MSEC 7199 and MSEC 7399.  This course recognizes the collaborative nature of the scientific and commercialization enterprise.  Repeatable for doctoral credit up to 6 hours.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MSEC 7310",
+            "course_name": "Nanoscale Systems and Devices",
+            "course_desc": "This course is an in-depth treatment of physical phenomena in nanoscale structures, and consequences for electronic, photonic, mechanical and other types of devices.  The course provides a strong background in devices with applications in nanoelectronics, biomedical systems, micro- and nanoscale manipulation, adaptive optics, and microfluidics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7311",
+            "course_name": "Materials Characterization",
+            "course_desc": "This course covers skills and knowledge required for microscopy methods including transmission electron microscopy, scanning electron microscopy, scanning tunneling electron microscopy, atomic force microscopy, and confocal microscopy.  It covers x-ray and neutron diffraction techniques including structure analysis, powder and glancing angle diffraction, pole figure, texture analysis, and small angle scattering.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7315",
+            "course_name": "Quantum Mechanics for Materials Scientists",
+            "course_desc": "This course includes quantum-mechanical foundation for study of nanometer-scale materials, principles of quantum physics, stationary-states for one-dimensional potentials, symmetry considerations, interaction with the electromagnetic radiation, scattering, reaction rate theory, spectroscopy, chemical bonding and molecular orbital theory, solids, perturbation theory, and nuclear magnetic resonance.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7320",
+            "course_name": "Nanocomposites",
+            "course_desc": "Characteristics of nanoparticles utilized in nanocomposites, techniques for surface modification, methods for nanoparticle dispersion forming nanocomposites, types of nanocomposites, characteristics of nanocomposites, analytical methods for characterization of composites, and common applications will be discussed.  Particular attention will be given to the science and theories explaining the unique behavior of nanocomposites.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7325",
+            "course_name": "Principles of Technical Project Management",
+            "course_desc": "This course includes planning, budgeting, identification of risks and risk mitigation approaches, resource allocation, review of milestones and schedules, and evaluating projects to measure success.  Responsibilities of project managers in the areas of problem solving, motivating and managing creative technical staff in project and matrix organizations will be included.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7330",
+            "course_name": "Computational Materials Science",
+            "course_desc": "Application of computational techniques to molecular and atomic modeling of materials is discussed along with quantum mechanical modeling, density functional theory approaches, forcefield based molecular modeling, mesoscale modeling, energy minimization, molecular dynamics, vibrational spectra, crystal structures, phase equilibria, physical property prediction, and electronic structure related to magnetic and electrical properties. Prerequisite: CHEM 3340 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7340",
+            "course_name": "Biomaterials and Biosensors",
+            "course_desc": "The course covers the growing field of biomaterials science including materials for prosthetics and implants, mimetic materials, biosensors, diagnostic devices, and drug delivery systems.  Particular attention will be given to nanomaterials for diagnosis and treatment of diseases including targeted cancer treatments, drug delivery systems, and advanced imaging methods.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7350",
+            "course_name": "Frontiers of Nanoelectronics",
+            "course_desc": "This course provides an introduction to the operating principles of nanoscale electronic and optical devices.  The emphasis is on how leading edge nano-fabrication technology takes advantage of quantum mechanics of reduced sizes and dimensions.  Specific examples of devices based on quantum wells, wires, dots and molecular electronics are given.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7355",
+            "course_name": "Fluid Flow in Porous Media",
+            "course_desc": "In this course, the fundamental theory of transport and fluid flow in heterogeneous porous media will be presented. First, the equations that govern transport and fluid flow processes will be derived. Both analytical and numerical methods will be used to solve these equations in order to characterize and predict flow fields in porous media. These skills will then be applied to practical problems that involve porous media such as soils, rocks, biological tissues, concrete, etc. The knowledge gained from studies of fluid flow in natural porous materials will be employed to design/optimize systems with engineered porous media.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7360",
+            "course_name": "Nanomaterials Processing",
+            "course_desc": "The course will cover various aspects of materials processing related to semiconductor devices.  Topics covered include properties of electronic materials, thin film deposition, etching, lithography, and related device physics with an emphasis on the nanoscale.  Fabrication and characterization techniques will be covered, including clean room usage. Prerequisite: MSEC 7401 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7370",
+            "course_name": "Advanced Polymer Science",
+            "course_desc": "Advanced topics in polymer science are discussed with a focus on high performance polymers such as high impact, conducting, shape memory, high temperature and the underlying phenomena that provide these unusual properties, and advanced polymer topic areas such as flame retardancy, barrier properties, dielectric properties, rheology, and fiber reinforced composites.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395A",
+            "course_name": "Microwave & Power Device Physics and Materials",
+            "course_desc": "This course will develop an understanding of basic microwave and power device physics and  technology and the advanced materials that are used in todays cutting-edge research & development.  The primary focus will be wide bandgap semiconductor materials and devices, and their performance metric versus the industry standard Si-based devices. Prerequisite: MSEC 7401 and MSEC 7402 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395B",
+            "course_name": "Thin Film Photovoltaic Devices",
+            "course_desc": "This course is a survey of the Materials Science of photovoltaic devices with emphasis on device physics including the photovoltaic effect, photon absorption, electrons and holes, generation and recombination, the pn-junction, charge separation, monocrystalline solar cells, thin film solar cells, III-V solar cells, and losses. Prerequisite: MSEC 7401 and MSEC 7402 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395C",
+            "course_name": "Materials for Sustainable Energy",
+            "course_desc": "This course introduces principles and applications of sustainable energy materials used for energy generation, conversion, and storage. Topics of study include principles (thermodynamics, kinetics, transport phenomena, equivalent circuits, catalysis, and electrochemistry) and selection and performance criteria important for applications including batteries, supercapacitors, fuel cells, electrolyzers, dielectrics, biomass, and piezoelectrics. Prerequisite: MSEC 7401 and MSEC 7402 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395D",
+            "course_name": "Polymer Characterization and Processing",
+            "course_desc": "This course will cover the concepts critical to the characterization and processing of organic polymers. Topics critical to characterization will include molecular weight determination, thermo/mechanical characterization, X-ray scattering, and polymer spectroscopy. Processing topics will include polymer rheology, principles of polymer processing, solution processing, and extrusion. Prerequisite: CHEM 4351 or CHEM 5351 or MSEC 7370 any with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395E",
+            "course_name": "Industrial Ecology and Sustainability Engineering",
+            "course_desc": "This course covers the basic principles of life cycle analysis (LCA) of engineered products, materials, and processes. Topics covered include: biological ecology, industrial ecology, resource depletion, product design, process design, material selection, energy efficiency, product delivery, use, end of life and LCA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395F",
+            "course_name": "Catalysis in Materials Science",
+            "course_desc": "This course introduces principles and applications of catalysis in materials science. The primary topics of study will include catalysis as a means of synthesizing materials and materials as catalysis. Subtopics will focus on specific catalysts (Ziegler-Natta, ROMP, and cross-coupling catalysts) and specific catalytic processes (hydrogenation, photoredox, and electrocatalysis).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395G",
+            "course_name": "Applied Plasma Physics",
+            "course_desc": "Applied plasma physics focusing on the broad range of technical plasma devices, and to analyze and describe the main plasma physical characteristics and principles of operation. Emphasis will be on physical insight, application, and problem solving.  Prerequisite: MSEC 7401 and MSEC 7402 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395H",
+            "course_name": "Environmental Chemistry",
+            "course_desc": "Advanced study in environmental chemistry, with an emphasis on aquatic resources and materials science and engineering. Principles of geochemistry and atmospheric chemistry will be covered as they relate to environmental pollution monitoring and control.  Principles and applications of green chemistry will also be discussed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395I",
+            "course_name": "Structure and Properties of Alloys",
+            "course_desc": "This course in an advanced exploration of the structure and properties of engineering alloys. Strengthening mechanisms of alloys are explored with specific applications to the alloys studied. The processing, properties, and structure of ferrous and nonferrous alloys are explored including new and emerging alloys. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395J",
+            "course_name": "Advanced Concrete Materials and Durability",
+            "course_desc": "This course delves into a comprehensive coverage of Portland cement concrete materials as well as resilient and sustainable materials used for building and transportation infrastructure. Topics include cement and aggregate properties, chemical and mineral admixtures, mixture proportioning, concrete microstructure, concrete durability, long-term performance, durability prediction and modeling, durability of alternative cement, multi-scale assessment, and dimensional stability.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395K",
+            "course_name": "Electrical and Magnetic Characterization Methods",
+            "course_desc": "This course introduces electric and magnetic characterization methods important to metals, magnetic and semiconductor materials and devices. Various measurement techniques and methods will be reviewed. Students will learn to work with characterization tools.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395L",
+            "course_name": "Advanced Solid State Physics",
+            "course_desc": "This course reviews models of a solid and energy band theory. Additional topics may include interaction of electromagnetic waves with solids, lattice vibrations and phonons, many body effects in solids, device physics, quantum phenomena, carrier transport properties, current device configurations, and materials interface problems. Prerequisite: MSEC 7401 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395M",
+            "course_name": "Semiconductor Devices and Processing",
+            "course_desc": "This course addresses the basics of semiconductor devices, silicon and compound semiconductor material fabrication, photolithography, etching, control of dopant profiles for the formation of shallow junctions needed for nanoscale devices, ion implantation and microstructure engineering, different types of doping phenomena, the carrier action and charge transport properties, defect microstructures, low-resistivity Ohmic contacts, and different fabrication concepts of conventional and emerging micro-/nano-electronic devices. In addition, students will be involved in laboratory projects and seminar presentations. Prerequisite: MSEC 7401 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395N",
+            "course_name": "Advanced Infrastructure Materials",
+            "course_desc": "This course provides a comprehensive presentation of advanced infrastructure materials including cement concrete, asphalt concrete, wood, steel, etc.  Emphasis is placed on a fundamental understanding of the raw ingredients of cement concrete and how these ingredients affect concrete fresh and hardened properties. A brief introduction of other common infrastructure materials is also included in this course. Students will be asked to solve an infrastructure material related problem using advanced analytical and simulation tools.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7395O",
+            "course_name": "Modern Concepts in Materials Science",
+            "course_desc": "This course provides an overview of the modern concepts and principles that are used to describe and predict the physical properties of materials. An emphasis will be placed on developing and applying fundamental materials science concepts: atoms and atomic bonding, fundamentals of crystallography, elementary diffraction by solid-state materials, defects, solid solution and phase equilibrium. Particular attention will be given to the science and theories explaining the unique behavior of different classes of materials, i.e. ceramics, metals, polymers, electronic materials and composites.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7399",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Materials Science, Engineering, and Commercialization, is to be accomplished under direct supervision of the PhD Research Advisor.  While conducting dissertation research and writing, students must be continuously enrolled each long semester.  Repeatable for credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MSEC 7401",
+            "course_name": "Fundamental Materials Science and Engineering",
+            "course_desc": "Course covers fundamentals of chemical kinetics, physical properties, and continuum mechanics. Topics include electronic and atomic structure, structure of crystalline materials, imperfections, thermodynamic and kinetic principles and equations for closed and open systems, statistical models, phase diagrams, diffusion, phase transformations, conservation laws, and kinematics.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7402",
+            "course_name": "Advanced Materials Science and Engineering Concepts",
+            "course_desc": "Fundamentals of quantum mechanics, physics of solid state, and physical electronics and photonics for advanced materials will be discussed.  Topics will include quantum basis for properties of solids, lattice vibration, free electron model for magnetism, semiconductors, nanostructures and mesoscopic phenomena, superconductivity, and recent advances in new types of materials.   Prerequisite: MSEC 7401 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MSEC 7599",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Materials Science, Engineering, and Commercialization, is to be accomplished under direct supervision of the PhD Research Advisor.  While conducting dissertation research and writing, students must be continuously enrolled each long semester. Repeatable for credit.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MSEC 7699",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Materials Science, Engineering, and Commercialization, is to be accomplished under direct supervision of the PhD Research Advisor.  While conducting dissertation research and writing, students must be continuously enrolled each long semester.  Repeatable for credit.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MSEC 7999",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Materials Science, Engineering, and Commercialization, is to be accomplished under direct supervision of the PhD Research Advisor.  While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

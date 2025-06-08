@@ -1,0 +1,62 @@
+{
+    "name": "Russian",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/russ/",
+    "courses": [
+        {
+            "course_code": "RUSS 1410",
+            "course_name": "Beginning Russian I",
+            "course_desc": "This course is an introduction to listening, speaking, reading, and writing skills within a Russian cultural framework. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RUSS 1420",
+            "course_name": "Beginning Russian II",
+            "course_desc": "This course provides continued instruction and practice in listening, speaking, reading, and writing skills within a Russian cultural framework.(MULT)  Prerequisite: RUSS 1410 with a grade of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RUSS 2310",
+            "course_name": "Intermediate Russian I",
+            "course_desc": "This course provides continued development and review of all language skills within a Russian framework.(MULT) Prerequisite: RUSS 1420 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RUSS 2320",
+            "course_name": "Intermediate Russian II",
+            "course_desc": "This course provides more advanced practice in all language skills with greater emphasis on reading within a Russian cultural framework.(MULT)  Prerequisite: RUSS 2310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RUSS 3302",
+            "course_name": "Advanced Russian I",
+            "course_desc": "This course provides students an opportunity to develop advanced-level oral and written communication skills in the Russian language, along with enhanced comprehension skills in listening and reading. The course focuses on vocabulary and sentence building; listening and reading comprehension; and pronunciation practice. Prerequisite: RUSS 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RUSS 4301",
+            "course_name": "Advanced Russian through Film",
+            "course_desc": "This course focuses on Russian and Soviet films. In addition to the thematic and formal aspects of the films, the course examines their social, historical, and cultural contexts. Course activities allow students to develop their skills in reading, writing, speaking, and listening.  Prerequisite: RUSS 3301 or RUSS 3302 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RUSS 4390",
+            "course_name": "Studies in Russian Language and Culture",
+            "course_desc": "Students will conduct independent study projects in Russian language and culture.(MULT) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

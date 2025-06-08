@@ -1,0 +1,238 @@
+{
+    "name": "Analytics",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ANLY/",
+    "courses": [
+        {
+            "course_code": "ANLY 2300",
+            "course_name": "Introduction to Data Analytics",
+            "course_desc": "This course introduces data science and analytics fundamental concepts and applications. It covers the use of visualization software, and describes the use of data wrangling, descriptive, predictive and prescriptive analytical models. Topics include the ethical and societal implications of analytics and development of data storytelling.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 2333",
+            "course_name": "Business Statistics",
+            "course_desc": "This course covers descriptive and inferential statistical techniques for business and economic decision-making. Topics include measures of central tendency and dispersion, probability distributions, sampling distributions, confidence intervals, hypothesis testing, simple linear regression, and correlation analysis. Prerequisite: ISAN 1323 and [MATH 1329 or MATH 2331 or MATH 2471] both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 3314",
+            "course_name": "Decision Analytics",
+            "course_desc": "This course introduces the theory, algorithms and applications of decision making methods that are used in analyzing and solving business problems. The methods to be discussed include linear programming, integer programming, network optimization, simulation, and decision models with uncertainty. Prerequisite: ANLY 2333 or MATH 2328 or [ANLY 2300 and [GEO 3301 or PSY 2301 or IE 3320 or SOCI 3307 or PH 3315]] with a grade of \"D\" or better and a minimum 2.0 Overall GPA. \n .",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 3330",
+            "course_name": "Introduction to Business Analytics",
+            "course_desc": "This course introduces business analytics fundamental concepts and applications. It covers the use of visualization software, and describes the use of data wrangling, analytical models and data storytelling; with an emphasis on business applications. It also discusses ethical and societal implications, and data storytelling.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 3334",
+            "course_name": "Statistical Modeling",
+            "course_desc": "This course allows students to apply a broad range of statistical analysis techniques using statistical software in business decision-making. Topics include applied modeling techniques, such as regression modeling, time-series modeling and analysis of variance; non-parametric methods; quality control; and simulation. Prerequisite: ANLY 2333 or MATH 2328 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 3339",
+            "course_name": "Data Mining and Visualization",
+            "course_desc": "This course introduces data mining concepts and practical skills for applying data mining techniques to solve business problems. It emphasizes data visualization and data analysis algorithms (e.g., prediction, classification, clustering), systematic evaluation, and model assessment for big data sets. Prerequisite: ANLY 2333 or MATH 2328 or [ANLY 2300 and [GEO 3301 or PSY 2301 or IE 3320 or SOCI 3307 or PH 3315]] with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 3341",
+            "course_name": "Computational Methods for Analytics",
+            "course_desc": "This course is an introduction to statistical programming. The objective of this course is to use programming tools and statistical methods to analyze large data sets. Topics covered are graphs used for statistical analysis, statistical modeling, visualization techniques, simulation, and optimization. Prerequisite: ANLY 2333 or QMST 2333 or MATH 2328 or [ANLY 2300 or QMST 2300 and [GEO 3301 or PSY 2301 or IE 3320 or SOCI 3307 or PH 3315]] with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 4320",
+            "course_name": "Analytics in Practice",
+            "course_desc": "This course covers the use of analytical methods in business practice. Students are expected to do an applied project that includes steps of problem understanding, data preparation, model building, validation, and communication. Prerequisite: [ANLY 3334 OR ANLY 3339] AND [ANLY 3341 OR ANLY 3305] with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 4321",
+            "course_name": "Predictive Analytics",
+            "course_desc": "This course covers the use of predictive analytics methods such as advanced regression and classification to solve business problems. Particular topics include feature selection and shrinkage methods such as ridge and lasso regression; deep neural network learning; ensemble methods based on bagging (e.g., random forests) and boosting. Bias-variance trade-off and model complexity will be emphasized. Prerequisite: ANLY 3339 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 4373A",
+            "course_name": "Operations Analytics",
+            "course_desc": "This course introduces the analytics concepts and tools used in planning and managing business operations. The course emphasizes forecasting, service systems, queueing analysis, optimization, decision analysis, simulation, and quantitative supply chain analysis. Topics include but are not limited to inventory control, logistics and distribution planning, process analysis, and quality management. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 4373F",
+            "course_name": "Big Data Analysis and Artificial Intelligence",
+            "course_desc": "This course demonstrates utilization of analytical and artificial intelligence methods along with big data to solve business problems. It introduces high performance computing, big data storage and analysis, distributed and parallel programming to increase throughput and/or reduce latency of selected applications.   Prerequisite: [ISAN 3305 OR ANLY 3341] AND ISAN 3382 AND ANLY 4321 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 4395",
+            "course_name": "Independent Study in Analytics",
+            "course_desc": "This course provides an in-depth study of a single topic or related problem solved through analytics research. May be repeated once for credit with a different emphasis.  Prerequisite: Instructor Approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 4399",
+            "course_name": "Analytics Internship",
+            "course_desc": "This course provides an integration of professional and academic experience through internship with an external employer. Credit awarded as pass/fail. Prerequisite: Instructor Approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANLY 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANLY 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANLY 5332",
+            "course_name": "Optimization for Business Analytics",
+            "course_desc": "This course introduces optimization theory and applications for analyzing and solving business decision-making problems. The students will learn to apply in various business domains optimization concepts and tools such as linear programming, integer/mixed-integer programming, and other classes of optimization models.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 5334",
+            "course_name": "Statistical Methods for Business",
+            "course_desc": "This course provides the quantitative foundation for business analysis and decision making. Topics include inferential statistics, regression analysis, and other analytical/modeling techniques with wide applicability in decision-making and problem solving in all functional areas of business.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 5335",
+            "course_name": "Forecasting and Simulation",
+            "course_desc": "This course introduces the concepts and principles of forecasting and simulation techniques as applies to planning and decision making in organizations. Topical coverage includes time series forecasting, causal forecasting, discrete event simulation, and continuous-event simulation techniques.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 5336",
+            "course_name": "Analytics",
+            "course_desc": "This course introduces analytics which refers to the process of transforming data into information for making decisions. The topics include the introduction to analytics, visualization, analytics applications, and challenges related to business data. Students will learn how to use software, conduct data analysis and communicate their results.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 5338",
+            "course_name": "Operations Management",
+            "course_desc": "This course introduces the processes and strategies to create, produce, and deliver goods and services that drive organizations' overall success. It will highlight operational and tactical problems organizations typically confront and introduce the concepts and analytical tools (both process and systems based) used to deal with these problems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 5342",
+            "course_name": "Probability and Statistical Models",
+            "course_desc": "This course introduces the concept of probability and probability distributions. It includes general and generalized linear models, inflated and mixture models, and hierarchical models.  Model validity and choice will also be discussed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 5343",
+            "course_name": "Data Mining",
+            "course_desc": "This course covers data mining concepts and applications of data mining techniques to solve business problems. It emphasizes algorithms such as classification, clustering, association, and text mining. Model selection and assessment are also emphasized. Prerequisite: ANLY 5336 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 5369",
+            "course_name": "Independent Study in Analytics",
+            "course_desc": "This course focuses on individual in-depth research. Students, in consultation with a faculty member, choose a selected area of study in quantitative methods and work independently on a specialized project. Course may be repeated with approval of department chair. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 5390A",
+            "course_name": "Statistical Computing",
+            "course_desc": "This course covers programming and statistical computing concepts. Programming concepts include data manipulation, data structures, control structures, functions, basic algorithms, and matrix manipulations. Statistical computing topics include numerical linear algebra, Monte Carlo methods, and numerical optimization.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANLY 5395",
+            "course_name": "Internship in Analytics",
+            "course_desc": "This course is based on experiential learning while the student works in quantitative methods and statistics. Students will integrate both professional and academic experiences through the internship with an external employer. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANLY 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's initial thesis enrollment. No thesis credit is awarded until the student has completed the thesis in Data Analytics and Information Systems. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANLY 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANLY 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANLY 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

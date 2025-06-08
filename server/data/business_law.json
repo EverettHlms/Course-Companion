@@ -1,0 +1,110 @@
+{
+    "name": "Business Law",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/blaw/",
+    "courses": [
+        {
+            "course_code": "BLAW 3301",
+            "course_name": "Legal Environment of Business",
+            "course_desc": "The course surveys basic features of the American legal system and legal aspects of business transactions. Topics include generally the nature and sources of law, court systems and procedures, torts, contracts, agency, and ethics. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BLAW 3360",
+            "course_name": "Business Organizations and Government Regulations",
+            "course_desc": "This course studies corporations, partnerships, limited liability companies, securities law, law for small business, administrative law, consumer law, environmental law, antitrust law, and insurance. Prerequisite: BLAW 3301 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BLAW 3363",
+            "course_name": "International Business Law",
+            "course_desc": "This course studies the principles of international business law which emphasizes the commercial activities of the multinational firm conducting business in global economic, political, social and cultural environments. (MULT) (MULP).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BLAW 3364",
+            "course_name": "Commercial Law",
+            "course_desc": "This course studies sales law, negotiable instruments, secured transactions, suretyship, bankruptcy, personal property and bailments, real property, and creditors rights and remedies. Prerequisite: BLAW 3301 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BLAW 3367",
+            "course_name": "Employment Law",
+            "course_desc": "This course studies the legal developments in the workplace, with emphasis on attempts to maintain a proper balance between employees interest in earning a livelihood and employers interest in operating their business efficiently and profitably. Prerequisite: PHIL 1320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BLAW 4310",
+            "course_name": "Sustainable Development & Law",
+            "course_desc": "This course examines the role of law and policy in balancing economic, environmental, and social issues for current and future generations. Prerequisite: A minimum 2.0 overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BLAW 4320",
+            "course_name": "Legal Issues in Finance & Economics",
+            "course_desc": "This course surveys the ways that law impacts, and is impacted by, the practice of finance and economics. Prerequisite: BLAW 3301 with a grade of \"D\" or better and a minimum 2.0 overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BLAW 4395",
+            "course_name": "Independent Study in Business Law",
+            "course_desc": "An in-depth study of a single topic or related problem solved through business law research. May be repeated once for credit with different emphasis. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BLAW 5310",
+            "course_name": "The Employment Relationship",
+            "course_desc": "A study of trends in the rapidly evolving law of workplace, with emphasis on how lawmakers attempt to balance the rights and responsibilities of employers and workers. Prerequisite: B A 5351 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BLAW 5315",
+            "course_name": "Legal Issues in International Business",
+            "course_desc": "This course examines legal issues relevant to international business transactions, emphasizing international trade, licensing of intellectual property, and foreign direct investment. Environmental, dispute resolution, labor, e-commerce, marketing, and ethical issues will also be discussed. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BLAW 5333",
+            "course_name": "Legal Issues of Sustainability and Responsibility",
+            "course_desc": "Diverse frameworks and analytical methods underlying our understanding of sustainability are explored, including the legal aspects & impact on business, society, environment and economy. Topics include corporate governance, globalization, urbanization, energy, human population, food, natural resources, water and equity.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BLAW 5364",
+            "course_name": "Commercial Law",
+            "course_desc": "A traditional business law course which examines sales, negotiable instruments, creditors rights and remedies, secured transactions, bankruptcy law, personal property, bailments, real property and landlord-tenant relationships. Prerequisite: BLAW 3301 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BLAW 5368I",
+            "course_name": "International Business Ethics",
+            "course_desc": "This course examines the legal and ethical challenges inherent in international marketing, international environmental and energy practices, international labor and employment practices, trade negotiations, foreign direct investment, intellectual property licensing, technology development, data collection mining, corporate tax inversion, and global corporate social responsibility. Students will also discuss the individual behavioral, organizational, and cultural factors that influence ethical and unethical business decisions in the global business environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

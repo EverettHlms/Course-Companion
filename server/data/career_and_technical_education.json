@@ -1,0 +1,414 @@
+{
+    "name": "Career and Technical Education",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/cte/",
+    "courses": [
+        {
+            "course_code": "CTE 3304",
+            "course_name": "Human Relations for Career and Technical Education Teachers",
+            "course_desc": "This course emphasizes the combination of psychological and sociological factors that influence relationships of CTE teachers in the pursuit of professional duties. Strategies for teaching students and mentoring employees on the dynamics of human relations are highlighted.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3313A",
+            "course_name": "Special Needs Students in CTE",
+            "course_desc": "This course involves in-depth studies of characteristics, principles of inclusion, development and implementation of individualized programs of instruction and collaboration with school personnel for effective education of special needs students, including special education, limited-language proficiency, and gifted and talented students. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3313L",
+            "course_name": "Civic Engagement as Global Citizenship",
+            "course_desc": "To live, compete, and innovate in a global society, students need learning experiences that are rooted in the messy intricacies of the real world. To provide such experiences, Civic Engagement as Global Citizenship is a field-based, experiential course that provides students with much needed boundary-spanning approaches to learning about community-based issues within the context of global citizenship.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3313M",
+            "course_name": "Creative Thinking",
+            "course_desc": "This course introduces students to creative thinking skills-building techniques. Students in this course will engage in weekly activities to practice creative thinking skill acquisition and will learn the importance of fostering creative thinking in the workplace. By the end of the course, students will have knowledge of past creative thinkers who have helped change the world and will have tools to become the next generation of change-making creative thinkers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3313N",
+            "course_name": "Problem Solving and Decision Making",
+            "course_desc": "This course surveys the great mental models, explores data types, and overviews basic analytical tools and models to make informed decisions. When problems arise, how do you confront them? How do you approach problems and make decisions? We form mental models all the time without knowing. But power comes when you consciously build a latticework of mental models and deliberately apply tools to make better decisions, solve problems and improve your outcomes.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3313O",
+            "course_name": "Health and Safety in the Workplace",
+            "course_desc": "Workplace health and safety refers to the right of every employee to carry out daily work in a safe environmentregardless of industry, size, location, and type of organization. This course provides the tools, guiding practices, and resources for maintaining a healthy and safe workplace, and for safeguarding one's person on the job, especially in workplaces where there are high risks of injury. Students products from the course provides employers with evidence of worker competency in health and safety in the workplace.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3313P",
+            "course_name": "Project Management",
+            "course_desc": "This course offers tools, questions, reviews, guiding practices, and exercises that will help students build a roadmap to project management and leadership success. This course will help project managers at any level overcome some of the most common challenges they face by: effectively managing a demanding workload; leading and motivating a team; building effective relationships with senior stakeholders; managing risks, issues, and changes to scope; and delegating effectively.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3313Q",
+            "course_name": "Teamwork",
+            "course_desc": "In this course, students will learn the differences between a group and a team, how to lead a team, how to become an effective team player, and how to resolve conflicts in teams. This course describes the lifecycle of teams and team roles. Ultimately, students will be equipped with strategies for setting up teams and managing teams effectively.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3313R",
+            "course_name": "ACCEYSS Learning Community: Action-Research in Communities of Color to Equip Youth for STEM Success",
+            "course_desc": "This course is a Service-Learning Section designated course that introduces undergraduate students to culturally responsive, community-engaged, participatory, action, and P-20 STEM workforce research. During this course, students will work with the ACCEYSS (Association of Collaborative Communities Equipping Youth for STEM Success) Network, a local community partner, and its network of faith-based and community partners across the Greater San Marcos region. Students will learn data collection, data analysis, and other methodological approaches to conducting participatory action research at assigned ACCEYSS partner sites. Students will receive mentorship from the instructor and a postdoctoral scholar while learning in a real-world environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3313Y",
+            "course_name": "Excellence in Customer Service",
+            "course_desc": "This course prepares students to apply hard and soft skills to navigate various aspects of customer service. Topics include identifying customer needs, providing personalized service, building rapport, acting professionally, and handling challenging customers. Throughout the course, students will learn how to shift their mindset to one that is customer centered and service oriented.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3315",
+            "course_name": "Leadership and Professional Development",
+            "course_desc": "This course prepares students to examine and apply principles of leadership to create their own applicable model of influencing others. Topics covered include leadership behavior, strategic thinking, managing energy, and getting results within an organization.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3320",
+            "course_name": "Effective Methods of Teaching and Training",
+            "course_desc": "This is an introductory/fundamental course for instructors in trade and industrial education seeking certification and technical trainers who are not seeking certification. It is designed to prepare these individuals to apply effective teaching principles and techniques, to prepare lesson plans, and manage classrooms. Practice teaching will be included.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3321",
+            "course_name": "Work-based Learning in Career and Technical Education",
+            "course_desc": "This course is intended for teacher coordinators of work-based program in trade and industrial cooperative education. There is an emphasis on selection of occupations and appropriate training stations, student recruitment, instruction coordination in on-the-job educational experiences, state and local report preparation and required record keeping systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3322",
+            "course_name": "Teaching and Training as Professions",
+            "course_desc": "This course emphasizes the professional requirements of teaching and training in a variety of settings. Professional topics include licensure and preparation for the profession, organizations, philosophical foundations of teaching and training, and the socio-political landscape of teaching and training.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3323",
+            "course_name": "Technology Applications",
+            "course_desc": "This course covers the use and integration of computers in the classroom or office. Topics include history of computers, use of word processor, spreadsheet, and presentation software; overview of common computer programs; history and use of the Internet, and computer security.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3324",
+            "course_name": "Entrepreneurship in Schools, Communities, and the Workplace",
+            "course_desc": "Students will gain an in-depth understanding of entrepreneurship and its application in the contexts of schools, communities, and the workplace.  This course intersects entrepreneurial concepts in career and technical education with educational entrepreneurship, social entrepreneurship, and intrapreneurship.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3330",
+            "course_name": "STEM Literacy for the Workplace",
+            "course_desc": "This course focuses on the STEM literacy skills important for success in a diverse workplace.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3340",
+            "course_name": "Occupational Skills for the 21st Century",
+            "course_desc": "This course allows students to explore past and present occupational trends, new and emerging occupations and the 21st century occupational skills necessary for success. Students will explore transferability of occupational skills and how these skills are applied and packaged for career transitions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3360",
+            "course_name": "Private Aircraft Operations",
+            "course_desc": "This course explores the dynamics of flight through the investigation into and proper operations of private aircraft. Topics include theory and operation of flying, supplemented by learning acquired from flight simulator experiences and actual flight time combined with practical flight instruction. Students can attempt certification as a private pilot upon successful course completion.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CTE 3361",
+            "course_name": "Instrument Flight Rules for Aviation",
+            "course_desc": "This course provides students with a comprehensive review of the standard aircraft instrumentation array. Topics include how these devices operate as well as the nature of the information conveyed by them to a flight crew to ensure safe aircraft navigation, assessment of aircraft system function, and emergency response. To facilitate learning, the course provides opportunities for students to implement the concepts in real-world scenarios. Prerequisite: CTE 3360 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CTE 3362",
+            "course_name": "Theory of Commercial Flight",
+            "course_desc": "This course explores advanced aircraft systems, aerodynamics, federal aviation regulations, airports and airspace, navigation, and performance from the perspective of commercial aviation. Topics include theory of commercial aircraft operations and practical application to real-world aviation scenarios. Prerequisite: CTE 3360 and CTE 3361 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CTE 3363",
+            "course_name": "Principles and Methods of Flight Instruction",
+            "course_desc": "This course focuses on techniques for teaching prospective pilots under visual and instrument rules. Topics include theory of adult learning, creation of lesson plans, learning modules, and appropriate assessments for aircraft operation instruction. Prerequisite: CTE 3360 and CTE 3361 and CTE 3362 all with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CTE 3364",
+            "course_name": "Theory of Multi-Engine Aircraft Operations",
+            "course_desc": "This course explores multi-engine aircraft theory and aerodynamics, pre-flight requirements for safe operation of multi-engine aircraft, and flight and landing maneuvers for aircraft of this type. Topics include system operation of constant speed propellers, multi-tank and pump fuel systems, dual electrical systems, turbocharger and ice control systems. Students also learn to use performance charts based on multi-engine weight and balance. Prerequisite: CTE 3360 and CTE 3361 and CTE 3362 and CTE 3363 all with grades of a \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CTE 3370",
+            "course_name": "Introduction to Leadership",
+            "course_desc": "This course provides an overview of current leadership theory and research with emphasis on practical application. Topics include leadership styles, models of effective leadership, and strategies for leadership success.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3380",
+            "course_name": "Education and Training Programs in Workforce Settings",
+            "course_desc": "This course helps students investigate the range of programs related to education and training in Workforce settings. Students will investigate government policies, program coordination techniques, and organizations related to learning in the workplace. Students will explore local programs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 3381",
+            "course_name": "Strategies for Education and Training in Workforce Settings",
+            "course_desc": "This course provides an overview of identifying curriculum, individual learning styles, needs of learners in the workforce, instructional strategies, providing support for diverse learners, inclusive instructional strategies, and the use of technology and assessment in workforce settings. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 4310",
+            "course_name": "Independent Study in Career and Technical Education",
+            "course_desc": "This course is an independent study of various subjects in CTE. Work is done on an independent basis under the direction of the faculty member. Repeatable for credit with different emphases.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 4315",
+            "course_name": "Creating a Purposeful Life Plan: A Journey of Self-Exploration and Discovery",
+            "course_desc": "This course introduces analytical tools and work-life balance principles students use as they develop their personal and professional goals in creating a purposeful life plan. The impact of social media platforms and mobile app technologies on the management of personal and professional goals is also covered.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 4320",
+            "course_name": "Aviation Safety",
+            "course_desc": "This course provides an in-depth exploration of safety in aviation operations and the role of leadership in threat and error management. Topics include issues of individual agency, crew factors, weather, and mechanical safety, as well as potential causes of error and accident.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 4321",
+            "course_name": "Operations Risk Management",
+            "course_desc": "This course explores operations risk management as it relates to professional aviation. Topics include theories of risk planning, identification, and mitigation and the practical applications of these theories within the context of flight systems, environment, and human factors.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 4322",
+            "course_name": "Crew Resource Management",
+            "course_desc": "This course explores the theory and practical application of Crew Resource Management (CRM) for aviation professionals. Topics include situation awareness, communication skills, teamwork, task allocation, and decision making within a comprehensive framework of standard operating procedures (SOP) for aviation operations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 4323",
+            "course_name": "Aviation Weather",
+            "course_desc": "This course explores weather and its effects on aviation operations. Topics include weather theory, meteorological forecasting and reporting tools and the impacts of weather systems on safe aircraft operations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5301",
+            "course_name": "Technology of Teaching",
+            "course_desc": "This course presents the research and theory related to the technology of teaching. Topics include learning theories, effective teaching techniques, motivation and performance, evaluation, and classroom dynamics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5303",
+            "course_name": "Interdisciplinary Studies in Occupational, Workforce, and Leadership Studies",
+            "course_desc": "This course provides an overview of interdisciplinary studies' frameworks in the fields related to occupational, workforce, and leadership studies. Students investigate career options, develop plans of study, integrate interdisciplinary academic material, and refine interdisciplinary writing skills.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5306",
+            "course_name": "Instructional Materials Development Technology",
+            "course_desc": "This course provides students opportunities to develop knowledge, skills, and abilities relevant to assessing instructional materials in education and training, within the context of real-world settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5308",
+            "course_name": "Problems in Cooperative Training",
+            "course_desc": "This course provides a review of basic standards for cooperative education, underlying reasons for standards, and current issues/problems in cooperative education programs. Students will discuss and provide solutions to current dilemmas of cooperative education, through the use of organizational research techniques and organizational problem solving.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5312",
+            "course_name": "Development, Organization, and Use of Instructional Material",
+            "course_desc": "This course involves the selection of lesson content, lesson planning, and instructional material development. The emphasis is on the effective development and evaluation of instructional materials. A variety of methods will be taught to gather and utilize instructional materials.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5313C",
+            "course_name": "Teaching Entrepreneurship in Career and Technical Education",
+            "course_desc": "This course includes a study and analysis of ownership, marketing strategies, location, financing, regulations, managing, and protecting a business.  Students will analyze current research and techniques in teaching entrepreneurship in CTE settings. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5313L",
+            "course_name": "Emergent Workplace Perspectives",
+            "course_desc": "This course examines the emergent and evolving nature of the modern workplace.  Students will explore topics related to interdisciplinary perspectives in the workplace such as inequality related to gender and race, workers' rights, knowledge, control, the role of technology, and globalization.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5313M",
+            "course_name": "Program Evaluation in Career and Technical Education",
+            "course_desc": "Students will gain an in-depth understanding of terminology and program evaluation, guiding principles, approaches and models, and professional standards utilized while conducting program evaluations of career and technical education (CTE) programs. Students will apply these concepts to design a program evaluation proposal for an existing or proposed CTE program.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5314",
+            "course_name": "Human Relations for Career and Technical Education Teachers",
+            "course_desc": "This course includes a study of methods of establishing and maintaining effective relationships with students, co-workers, families, business and industry, and community members. Strategies for teaching students and mentoring employees on the dynamics of human relations are highlighted.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5315",
+            "course_name": "Leadership and Professional Development",
+            "course_desc": "This course provides an overview of leadership approaches used in various educational, training, and workplace settings. Students will explore current research on leadership and engage in activities geared toward building leadership skills.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5320",
+            "course_name": "Effective Methods of Teaching and Training",
+            "course_desc": "This fundamental course is for trade and industrial educators seeking certification and technical trainers who are not seeking certification. It is designed to prepare them to apply effective teaching principles and techniques. Lesson plans will be prepared, classrooms managed, and practice teaching included.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5321",
+            "course_name": "Work-based Learning in Career and Technical Education",
+            "course_desc": "This course is intended for teacher coordinators of work-based programs in trades and industrial cooperative education. There is an emphasis on selection of occupations and training stations, student recruitment, instructional coordination in numerous on-the-job experiences, state and local reports, and recordkeeping requirements. Research is conducted on local districts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5322",
+            "course_name": "Teaching and Training as Professions",
+            "course_desc": "This course emphasizes the professional requirements of teaching and training in a variety of settings. Professional topics include licensure and preparation for the profession, organizations, philosophical foundations of teaching and training, and the socio-political landscape of teaching and training. Research is conducted on reform efforts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5323",
+            "course_name": "Technology Applications",
+            "course_desc": "This course covers the use of computers in the classroom or office. Topics include history of computers, philosophies of computer integration, research in computer use, overview of common computer programs, and history and use of the Internet.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5324",
+            "course_name": "Human Performance in the Workplace",
+            "course_desc": "The course provides an overview of current quality improvement strategies utilized in business and industry settings. Topics include the teaching of Human Performance Technology (HPT), organizational culture, teamwork, leadership, measuring improvement, statistical process control, and restructuring of work.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5330",
+            "course_name": "Overview of Interdisciplinary Research",
+            "course_desc": "Students will become familiar with various interdisciplinary research methods, learn concepts related to research, and conduct reviews and critiques of academic research articles. The application of academic research to practical problems will be emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5355",
+            "course_name": "Career Education and Occupational Information in Career and Technical Education Guidance",
+            "course_desc": "This course deals with the collection, evaluation, and interpretation of common occupational, career, and personal information. It includes an overview of current theory and research in occupational selection techniques, psychological and sociological factors in career selection, and job analysis. The emphasis is on the practical application in CTE settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5360",
+            "course_name": "Organization Development in the Workplace",
+            "course_desc": "This course introduces theories and practices related to organizational development (OD), including strategies to improve organizational, group, and individual performance. Topics include major theories, concepts, skills, and techniques for the practice of OD and the interventions used to lead and manage organization change in various contexts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CTE 5390",
+            "course_name": "Independent Study in Career and Technical Education",
+            "course_desc": "This is an independent study course involving the study of important and timely topics in CTE. Students complete the study at the direction of the faculty member. This course may be repeated with different topics with departmental permission.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

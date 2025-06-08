@@ -1,0 +1,78 @@
+{
+    "name": "Aerospace Studies",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/a_s/",
+    "courses": [
+        {
+            "course_code": "A S 1000",
+            "course_name": "Leadership Laboratory",
+            "course_desc": "An integral and mandatory two-hour lab accomplished concurrently with all Aerospace Studies courses. It is a progression of practical command and staff experiences that develop leadership potential. AFROTC cadets plan, organize, direct, coordinate, and control all activities. The lab is repeatable without credit because it focuses on different leadership processes.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Time Conflicts Permitted",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "A S 1110",
+            "course_name": "The Air Force Today I",
+            "course_desc": "A study of the doctrine, mission, and organization of the United States Air Force; United States strategic offensive and defensive forces, their missions and functions; and employment of nuclear weapons. Co-requisite: A S 1000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "A S 1120",
+            "course_name": "The Air Force Today II",
+            "course_desc": "An introduction to flight, oral and written communication for the Air Force officer, Air Force installations, the Air Force profession and how the Air Force integrates with the U.S. Army, Navy, Marines, and Coast Guard. Co-requisite: A S 1000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "A S 2110",
+            "course_name": "The Development of Air Power I",
+            "course_desc": "A historical study of the development of air and space power beginning before the first powered flights through WWI, the inter-war years, and WWII, tracing the development of various air power concepts with a focus on factors prompting aerospace research and technological change. Co-requisite: A S 1000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "A S 2120",
+            "course_name": "The Development of Air Power II",
+            "course_desc": "A continuation of A S 2110 studying the historical development of air and space power from Vietnam to the present. Events and trends in the history of airpower are examined, emphasizing examples of the impact of air and space power on strategic thought. Co-requisite: A S 1000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "A S 3311",
+            "course_name": "Leadership and Management I",
+            "course_desc": "A study of the framework of leadership in the Air Force (AF), part 1. Practical case studies examine AF leadership and management situations and discipline and ethics scenarios that demonstrate applications of the concepts. The course emphasizes communication skills used by officers in the AF. Co-requisite: A S 1000.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "A S 3312",
+            "course_name": "Leadership and Management II",
+            "course_desc": "A study of the framework of leadership in the Air Force (AF), part 2. Practical case studies examine AF leadership and management situations and discipline and ethics scenarios that demonstrate applications of the concepts. The course emphasizes communication skills used by officers in the AF. Co-requisite: A S 1000.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "A S 4311",
+            "course_name": "National Security Forces in Contemporary American Society I",
+            "course_desc": "Part 1 of the study of professional Air Force (AF) officers in a democratic society; societal attitudes toward the armed forces; national defense structure, policy development; and military law. AFROTC cadets study topics that prepare them for duty as AF officers. The course emphasizes AF communication skills. Co-requisite: A S 1000.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "A S 4312",
+            "course_name": "National Security Forces in Contemporary American Society II",
+            "course_desc": "Part 2 of the study of professional Air Force (AF) officers in a democratic society; societal attitudes toward the armed forces; national defense structure, policy development; and military law. AFROTC cadets study topics that prepare them for duty as AF officers. The course emphasizes AF communication skills. Co-requisite: A S 1000.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

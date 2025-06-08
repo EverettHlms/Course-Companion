@@ -1,0 +1,646 @@
+{
+    "name": "Social Work",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/sowk/",
+    "courses": [
+        {
+            "course_code": "SOWK 1350",
+            "course_name": "Introduction to Social Work",
+            "course_desc": "This introductory survey course includes the nature, function, and various types of social work practice, acquainting the student with the history, scope, and values of the profession.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 2320",
+            "course_name": "Love and Relationships",
+            "course_desc": "This elective course explores the nature of attraction, friendship, love, and human sexuality, enabling students to enhance their own personal and professional relationships.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 2375",
+            "course_name": "Social Services in the Community",
+            "course_desc": "This undergraduate course introduces the organizations and policies involved in social services delivery. Students participate in 50 hours of work as supervised observers and volunteers in selected social service agencies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 3305",
+            "course_name": "Seminar in Human Behavior and Social Environment I",
+            "course_desc": "This course provides an overview of human functioning in the environment by studying eco-systems and developmental frameworks. It builds knowledge and values for practice with task groups, organizations, and communities. Prerequisite: SOWK 2375 with a grade of \"C\" or better. Corequisite: SOWK 3420 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 3312",
+            "course_name": "Alcoholism and Chemical Dependence",
+            "course_desc": "This elective course focuses on commonly used and abused drugs as well as the dynamics and treatment of addiction and alcohol abuse. It emphasizes direct social work interventions aimed at addiction prevention and treatment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 3332",
+            "course_name": "Helping Troops Transition Back to their Families and Communities: The Invisible Wounds of War",
+            "course_desc": "The course examines topics at the individual, family, group, organizational, and community levels related to troops who are returning from current combat operations and their families. It reviews the needs, community resources, and policies in place for helping them and their families make this transition.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 3340",
+            "course_name": "Social Work Research",
+            "course_desc": "This course builds foundation-level scientific research skills in critical thinking, knowledge of program and practice evaluation, and a philosophy of generalist social work practice. Prerequisite: [CJ 3347 or HP 3302 or HP 3325 or PSY 2301 or SOCI 3307] and SOWK 3425 both with grades of \"C\" or better. Corequisite: SOWK 4356 and SOWK 4425 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 3420",
+            "course_name": "Social Work Practice I",
+            "course_desc": "This course studies generalist theory and application of social work practice with individuals, families, and groups, including introductory data collection, assessment, intervention planning, and evaluation. (WI) Prerequisite: SOWK 2375 with a grade of \"C\" or better. Corequisite: SOWK 3305 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 3425",
+            "course_name": "Social Work Practice II",
+            "course_desc": "This undergraduate course emphasizes generalist social work practice with task groups, organizations, and communities, examining data collection, assessment, intervention, planning, implementation, and evaluation. Students develop and implement a community-based project. (WI) Prerequisites: SOWK 3420 with a grade of \"C\" or better. Corequisites: SOWK 4305 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4300E",
+            "course_name": "Statistics for Social Work Online",
+            "course_desc": "This course builds foundation scientific research skills.  Students develop critical thinking skills, knowledge of program and practice evaluation, and a philosophy of generalist social work practice.",
+            "course_credits": "\n3 Credit Hours \n45 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4300F",
+            "course_name": "International Social Work",
+            "course_desc": "This course covers basic theoretical and practical approaches to empowerment, social and economic justice, and human rights. Particular cultures and specific global problems are examined in-depth to promote student acquisition of an international worldview for human global change based on social work values and research-informed practice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4300K",
+            "course_name": "Innovative Community Engagement with Vulnerable Populations",
+            "course_desc": "This hybrid, service-learning, Study-in-America course will require students to identify, examine, and critically analyze social service programs in Central Texas and Los Angeles, California which provide services to vulnerable populations (persons experiencing poverty, homelessness, food insecurity, criminal justice issues, etc.). The impact of socio-economic and community-based social justice issues is analyzed within the context of human development over the life course with an emphasis on the impact of positive individual and community development. Cultural dynamics are examined in conjunction with issues of equity, justice, and community service provision. This course is designed to be highly experiential.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4300O",
+            "course_name": "Modern Day Colonialism and Indigenous People",
+            "course_desc": "This course is a hybrid, service-learning, Study-in-America course that will require students to identify, examine, and critically analyze the history of colonialism on the culture, allocation of resources, oppression, and contribution to on-going risks and strengths in Hilo, Hawaii. Additional components of the course include: 1) required travel to various agencies, communities, and areas of interest throughout Hilo, Hawaii; 2) required participation in synchronous online learning, asynchronous learning, and two pre-travel orientations; and 3) active participation in service-learning/volunteer activities within a human service agency in Hilo, Hawaii.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Perspective|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4300P",
+            "course_name": "Perspectives in Global Social Work Ethics",
+            "course_desc": "This course provides undergraduate students with an overview of perspectives on global social work ethics, while affording opportunities to problem-solve practice-related international ethical dilemmas. Prerequisite: [SOWK 1350 or SOWK 2375] with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n45 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4301",
+            "course_name": "School Social Work",
+            "course_desc": "This course is an overview of social services in schools. Topics covered include: educational issues, conceptual frameworks, education and mental health policies, and service delivery systems. Special attention is paid to cultural diversity, special populations within education, parent-school collaboration, community liaisons, referral systems, and educational systems change. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4302",
+            "course_name": "Hip Hop and Social Justice for Individual and Community Change",
+            "course_desc": "In this course, Hip-Hop culture is introduced within the context of human development over the life course with an emphasis on positive individual and community well-being. Cultural dynamics are viewed alongside art's role in the social and political history of the United States including issues of equity and justice. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4303",
+            "course_name": "Spirituality and Social Work Practice",
+            "course_desc": "This course provides a basic framework of knowledge, values, and skills necessary for ethical and effective spiritually-relevant practice. It examines spirituality as an integral component of a strengths-based approach to social work practice with diverse and/or vulnerable clients. It integrates a contemporary global perspective with critical self-reflection. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4304",
+            "course_name": "Animal-Assisted Therapy",
+            "course_desc": "This course is an introduction to the human-animal bond and its therapeutic applications. The course connects students with an extensive network of handlers and facilities in a wide range of disciplines with applied animal-assisted therapy programs. Students learn to plan professional, ethical, goal-directed, individualized and group animal-assisted therapy activities and programs that incorporate peoples from a variety of populations, in a variety of settings, as well as animal welfare. The course assists students in earning American Kennel Club (AKC) Canine Good Citizen certification so they may prepare for future therapy-dog training and certification.  Prerequisite: SOWK 1350 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4305",
+            "course_name": "Seminar in Human Behavior and Social Environment II",
+            "course_desc": "This course integrates knowledge from social sciences and SOWK 3305, focusing on individuals, families, and small groups functioning in environments. It uses a bio-psychosocial perspective, expanding on eco-systems, developmental, and values frameworks. (WI) Prerequisite: SOWK 3305 with a grade of \"C\" or better. Corequisite: SOWK 3425 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4307",
+            "course_name": "Ghana: Human Rights and Social Justice",
+            "course_desc": "This course focuses on human rights and applied social justice in a global context from an interdisciplinary standpoint. The course helps students develop the capacity to apply human rights and social justice knowledge and skills to interdisciplinary practice with individuals, communities, and families in a global context. This international-based service learning course intentionally integrates community service, academic learning, and civic learning.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4310",
+            "course_name": "Diversity and Social Justice in Social Work",
+            "course_desc": "This undergraduate course focuses on knowledge and skills necessary for effective, ethical, and just practice, exploring interpersonal and institutional dynamics of racism, sexism, heterosexism, homophobia, classism and other forms of oppression and their effects on providing social services to diverse populations. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4315",
+            "course_name": "Child Welfare",
+            "course_desc": "This undergraduate elective course analyzes child welfare services available to abused and neglected children in their own homes, in substitute care, and through the community, emphasizing social work intervention with children and their families.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4318",
+            "course_name": "Social Work and Health Care",
+            "course_desc": "This undergraduate elective course provides a generalist view of social work practice in mental health and public health, considering the social problems that affect health care, and ethical and effective intervention strategies and service delivery systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4320",
+            "course_name": "Social Work with Older Adults",
+            "course_desc": "This undergraduate elective gives a comprehensive introduction to contemporary social problems, values, and issues affecting older adults, and effective and ethical intervention strategies and service delivery systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4333",
+            "course_name": "Comparative Social Work Ethics for Education Abroad",
+            "course_desc": "This course assists students in expanding their basic level of knowledge, values, and skills in the area of ethics in social work, while participating in the Education Abroad program.  Prerequisite: SOWK 1350 and SOWK 2375 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4334",
+            "course_name": "Social Work During the Education Abroad Experience",
+            "course_desc": "This course assists students in exploring social work processes, social service provision and services to special populations in an international context during the Education Abroad experience. Prerequisite: SOWK 1350 and SOWK 2375 both with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4355",
+            "course_name": "Policy Practice",
+            "course_desc": "This course is an overview of social policy and legislation and the processes of influencing public policy. It links policy with a broad range of social work service areas.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4356",
+            "course_name": "Professionalism in Social Work",
+            "course_desc": "This course builds skills in self-presentation, in taking responsibility for personal and professional growth, in learning professional behaviors in organizations, and in presenting court testimony. Prerequisite: SOWK 3425 and SOWK 4305 both with grades of \"C\" or better. Corequisite: SOWK 3340 and SOWK 4425 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4360",
+            "course_name": "Directed Study in Social Work",
+            "course_desc": "This one-semester undergraduate course highlights individualized reading, independent study and projects, and guided instruction. It is offered to superior students by the professors invitation and with the consent of the BSW Coordinator. This course may be repeated once for credit with different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4374",
+            "course_name": "Generalist Field Integrative Seminar I",
+            "course_desc": "In this course students engage in generalist social work practice in agencies, supervised by degreed social worker professionals and the field liaison. Students complete this integrative lecture-based seminar concurrently with a field practicum (SOWK 4975) in a social service agency. Prerequisite: SOWK 3340 and SOWK 4356 and SOWK 4425 all with grades of \"C\" or better. Corequisite: SOWK 4975 with a grade of \"credit\".",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4425",
+            "course_name": "Social Work Practice III",
+            "course_desc": "This undergraduate course emphasizes interpersonal and communication skills necessary for effective, ethical generalist social work practice. Students translate theory into helping behaviors through practice and feedback to develop competent skills for beginning field placement. (WI) Prerequisites: SOWK 3425 and SOWK 4305 both with grades of \"C\" or better. Corequisites: SOWK 3340 and SOWK 4356 both with grades of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 4975",
+            "course_name": "Generalist Field Practicum II",
+            "course_desc": "This course provides students with experiential opportunities for generalist social work practice in social service agencies applying micro, mezzo, and macro level knowledge.  Prerequisite: SOWK 3340 and SOWK 4356 and SOWK 4425 all with grades of \"C\" or better. Corequisite: SOWK 4374 with a grade of \"B\" or better.",
+            "course_credits": "\n9 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOWK 5111",
+            "course_name": "Foundation Part-Time Field Practicum I",
+            "course_desc": "This course is supervised internship/practicum for beginning generalist social work practice. Students apply knowledge gained in an online integrative seminar to their work with individuals, families, groups, and communities for a minimum of 180 contact hours at a human service agency.  Prerequisite: SOWK 5313 and SOWK 5314 both with grades of \"B\" or better.  Corequisite: SOWK 5376 with a grade of \"B\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOWK 5300E",
+            "course_name": "Social Work and Health Care",
+            "course_desc": "This elective course provides a generalist view of social work practice in mental health and public health, considering the social problems that affect health care, and ethical and effective intervention strategies and service delivery systems.   Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5300F",
+            "course_name": "International Social Work",
+            "course_desc": "This course covers advanced theoretical and practical approaches to empowerment, social and economic justice, and human rights. Particular cultures and specific global problems are examined in-depth to promote student acquisition of an international worldview for human global change based on social work values and research-informed practice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5300H",
+            "course_name": "Comparative Social Work Ethics in Canterbury",
+            "course_desc": "This course assists students in expanding an intermediate level of knowledge, values, and skills in the area of ethics in social work. The NASW Code of Ethics (US) and the National Codes of Ethics from the International Federation of Social Workers are used.",
+            "course_credits": "\n3 Credit Hours \n12 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5300I",
+            "course_name": "Social Work and Social Services in Canterbury",
+            "course_desc": "The purpose of this course is to assist the student in exploring social work processes, social service provision and services to special populations in Canterbury, England. Agency visits or primary research will guide learning.",
+            "course_credits": "\n3 Credit Hours \n12 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5300J",
+            "course_name": "Introduction to Trauma Informed Care",
+            "course_desc": "This advanced course focuses on culturally relevant knowledge and skills for theory-based, therapeutic assessment and intervention with diverse families and groups.  The course emphasizes systemic, critical analysis of contemporary mental health practice using a psychosocial, strengths-based framework.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5300K",
+            "course_name": "Innovative Community Engagement with Vulnerable Populations",
+            "course_desc": "This service-learning, Study-in-America course will require students to identify, examine, and critically analyze social service programs which provide services to vulnerable populations (persons experiencing poverty, homelessness, food insecurity, criminal justice issues, etc).  Additional components of the course include travel to and participation in service-learning/volunteer activities in Louisiana.",
+            "course_credits": "\n3 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5300M",
+            "course_name": "ADVANCED INTERVENTION WITH INTIMATE PARTNERSHIPS (COUPLES)",
+            "course_desc": "This advanced course focuses on culturally relevant knowledge and skills for theory based, therapeutic assessment and intervention with diverse intimate partnerships.  The course emphasizes systemic, critical analysis of contemporary mental health practice using a psychosocial, strengths-based framework.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5300N",
+            "course_name": "Social Work Practice in the Criminal Justice System",
+            "course_desc": "This graduate elective course explores an integrated approach to social work practice in the criminal justice system. It provides a comprehensive framework of knowledge, values, and skills for effective and ethical practice serving diverse and vulnerable clients and communities. It assumes an evidence-based and strengths-oriented social justice perspective to contemporary challenges and opportunities. It engages students in a process of self-reflection that assists them in developing an individualized professional model of potential practice in this critically relevant field.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5300O",
+            "course_name": "Modern Day Colonialism and Indigenous People Study in America",
+            "course_desc": "This course is a hybrid, service-learning, Study-in-America course. It requires students to identify, examine, and critically analyze the history of colonialism on the culture, allocation of resources, oppression, and contribution to on-going risks and strengths in Honolulu, Hawaii. Additional components of the course include required travel to various agencies, participation in online learning,  and two pre-travel orientations, and active participation in service-learning/volunteer activities within a human service agency in Honolulu, Hawaii.   Prerequisite: Minimum 3.0 TXST GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5301",
+            "course_name": "School Social Work",
+            "course_desc": "This course explores the role of social workers in the school setting. Students learn about the unique challenges of providing social services within the educational environment. Interventions for working with children and youth in at risk situations are also introduced and practiced. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5302",
+            "course_name": "Hip Hop and Social Justice for Individual and Community Change",
+            "course_desc": "Contemporary issues of equity and justice are investigated for potential influences on health and well-being. Students will compare professional application of Hip Hop integrated strategies within therapeutic, education, physical health, and afterschool and summer programs. Students will learn the interdisciplinary aspects of community-based strategies to promote equity and justice. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5303",
+            "course_name": "Spirituality in Social Work Practice",
+            "course_desc": "This course provides an advanced-level framework of knowledge, values, and skills necessary for ethical and effective spiritually-relevant practice. It examines spirituality as an integral component of a strengths-based approach to social work practice with diverse and/or vulnerable clients. It integrates a contemporary global perspective with critical analysis and assessment. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5304",
+            "course_name": "Adventure Therapy: Theory, Research & Practice",
+            "course_desc": "The course examines theory, practice and research in adventure therapy and engages the learner in hands on practice experience in outdoor, adventure therapy activities. The course guides students towards best practices in the use of adventure therapy as an innovative intervention that can be used in social work practice and other disciplines, with individuals, families and groups in a variety of settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5307",
+            "course_name": "Ghana: Human Rights and Social Justice",
+            "course_desc": "This course focuses on human rights and applied social justice in a global context from an interdisciplinary standpoint. The course helps students develop the capacity to apply human rights and social justice knowledge and skills to interdisciplinary practice with individuals, communities, and families in a global context. This international-based service learning course intentionally integrates community service, academic learning, and civic learning.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5308",
+            "course_name": "Human Behavior in Individual and Family Social Environments",
+            "course_desc": "This foundation graduate course presents individual and family dynamics across the life cycle, centering on human development, individual and group strengths, and the effects of cultural diversity.  It enhances critical thinking and assessment skills about human behavior in social environments, and incorporates material on professional values, ethics, and social justice. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5309",
+            "course_name": "Human Behavior in Local and Global Social Environments",
+            "course_desc": "This foundation graduate course explores human functioning in the environment by studying families, groups, communities, organizations, and societies in local and global contexts.  Through learning content on diversity, populations at risk, and social and economic justice, students build critical thinking and assessment skills using developmental and eco-systems frameworks. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5310",
+            "course_name": "Social Welfare Policy and Services",
+            "course_desc": "This foundation course studies the United States social welfare system, emphasizing how social welfare policies affect diverse populations.  Topics include social welfare history; and policy development, implementation, evaluation, and values.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5312",
+            "course_name": "Social Work Intervention in Drug Addiction & Abuse",
+            "course_desc": "This course focuses on commonly used and abused drugs as well as the dynamics and treatment of addiction. It emphasizes social work intervention aimed at addiction prevention and treatment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5313",
+            "course_name": "Foundation Social Work Practice I",
+            "course_desc": "This foundation course explores generalist social work theory and practice methodology in problem-solving with individuals, families, and groups, emphasizing data collection, assessment, intervention planning, and evaluation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5314",
+            "course_name": "Foundation Social Work Practice II",
+            "course_desc": "This foundation skill-development course emphasizes generalist social work practice with task groups, organizations, and communities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5315",
+            "course_name": "Social Work Intervention in Child Abuse & Neglect",
+            "course_desc": "This course considers child welfare services available to abused and neglected children in their own homes, in substitute care, and through the community, emphasizing social work intervention with children and their families.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5316",
+            "course_name": "Foundation Social Work Practice III",
+            "course_desc": "This foundation course develops the students interpersonal and communication skills with clients and other professionals. Students must demonstrate competence in interviewing, assessment, and planning skills. Students learn to collect data to support assessment, plan intervention, and evaluate practice. Prerequisite: Department approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5317",
+            "course_name": "Social Work Research",
+            "course_desc": "This foundation course builds introductory scientific research skills in critical thinking and knowledge of program and practice evaluation. It prepares students to read, interpret, and critique research with skepticism and rigor and to perform various research and social work practice activities. Prerequisite: SOWK 5308 and SOWK 5313 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5319",
+            "course_name": "Diagnostic Assessment",
+            "course_desc": "This advanced course examines how individuals, families, and groups interact with the social environment, emphasizing mental health and adaptive capacity, theories of the etiology and development of mental and emotional disorders, and how culture affects mental health. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5320",
+            "course_name": "Advanced Administrative Leadership Practice I: Introduction to Management",
+            "course_desc": "This advanced skill-development course emphasizes social work practice in managing small and large organizations. Students develop knowledge and skills in social work management and supervision in non-profit and public organizations. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5322",
+            "course_name": "Advanced Social Policy and Social Justice",
+            "course_desc": "This advanced course, a study of social legislation affecting disadvantaged persons, emphasizes policy analysis, values, and advocacy through studying social policy history; developing, implementing, and evaluating policy; and influencing social and economic justice. (MULT) Prerequisite: Department approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5323",
+            "course_name": "Advanced Social Work Research",
+            "course_desc": "This advanced course builds knowledge and skills for systematically evaluating programs and practice. It enhances effective and ethical social work practice by teaching skills necessary to design, implement, and empirically assess intervention with client and programs. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5324",
+            "course_name": "Advanced Direct Practice with Families",
+            "course_desc": "This advanced course focuses on theories, research, and models of practice with families. It emphasizes a systems orientation to assessment and intervention, and integrates issues of self-awareness and human diversity. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5325",
+            "course_name": "Advanced Administrative Leadership Practice III: Challenges and Innovations",
+            "course_desc": "This advanced course expands knowledge and skills by exploring how theories, supervision and management interventions, and social work values are applied to diverse organizational environments. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5326",
+            "course_name": "MC/MP Advanced Direct Practice with Individuals",
+            "course_desc": "This advanced course examines intervention theories and builds specialized skills for effective, ethical practice with individuals. It examines how culture influences individuals, and discusses how to assess individuals from multiple perspectives. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5327",
+            "course_name": "Advanced Direct Practice with Groups",
+            "course_desc": "This advanced course develops effective, ethical group practice skills, including assessment from multiple perspectives, facilitation of group process and intervention, evaluation, and addressing needs of diverse populations. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5328",
+            "course_name": "Interdisciplinary Perspectives on Aging",
+            "course_desc": "This interdisciplinary course provides a graduate-level foundation in knowledge and skills used to address a wide range of needs among the aging population, their families, and support systems. Biophysical, psychosocial, and environmental perspectives will be integrated into development of culturally competent approaches to work with elders in many fields.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5329",
+            "course_name": "Organizational Development",
+            "course_desc": "This advanced course examines organizational and inter-organizational social service delivery contexts; how funding, mandate, and organizational arrangements influence services; and factors to consider in modifying existing organizations. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5332",
+            "course_name": "Helping Troops Transition Back to their Families and Communities: The Invisible Wounds of War",
+            "course_desc": "The course examines topics at the individual, family, group, organizational, and community levels related to troops who are returning from current combat operations and their families. It reviews the needs, community resources, and policies in place for helping them and their families make this transition.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5339",
+            "course_name": "Selected Topics in Social Work",
+            "course_desc": "Students study relevant social work topics in depth. Topics, such as social work in schools or in health care, are selected according to students needs and professional trends. Repeatable for credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5360",
+            "course_name": "Directed Study in Social Work",
+            "course_desc": "This one-semester course highlights individualized reading, independent study and projects, and guided instruction. It is offered by invitation of the professor and with the consent of the MSW Coordinator. It may not be repeated for credit. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5370",
+            "course_name": "Advanced Program Planning and Grant-Based Resource Development",
+            "course_desc": "This advanced course emphasizes social work practice in building and developing non-profit and public human services organizations. Course topics include: determining organizational needs and priorities; identifying resources to address needs and priorities; and pursuing grant-funded resources to address organizational needs. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5371",
+            "course_name": "Advanced Assessment, Leadership, and Supervision in Social Service Organizations",
+            "course_desc": "This advanced course focuses on observational and interview-based evaluations of organizational functioning related to change, diversity, ethical decision-making, budgeting, and implementation of action plans. The course also focuses on development of supervisory strategies to effectively lead and transform an organization. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5372",
+            "course_name": "Advanced Diagnostic Assessment and Intervention with Individuals",
+            "course_desc": "This advanced course focuses on culturally relevant diagnostic assessment of and intervention with individuals based on current theory. The course emphasizes critical analysis of contemporary mental health practice using a psychosocial framework. (MULT) Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5373",
+            "course_name": "Advanced Intervention with Families and Groups",
+            "course_desc": "This advanced course focuses on culturally-relevant knowledge and skills for theory-based, therapeutic assessment and intervention with diverse families and groups. The course emphasizes systemic, critical analysis of contemporary mental health practice using a psychosocial, strengths-based framework. (MULT) Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5376",
+            "course_name": "Foundation Field Integrative Seminar I",
+            "course_desc": "This course is an integrative seminar for generalist social work practice in social service agencies applying micro, mezzo, and macro level knowledge. The content of the course includes social work competencies, ethical values, professional development, and basic knowledge of social work practice and the profession overall. This seminar course is completed by students enrolled in full-time and part-time. Prerequisite: SOWK 5313 and SOWK 5314 both with grades of \"B\" or better.  Corequisite: SOWK 5111 or SOWK 5577 either with a grade of \"Credit\".",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5378",
+            "course_name": "Advanced Field Practicum I",
+            "course_desc": "This course is the first part of the advanced MSW field practicum in which students participate in a field seminar course in conjunction with completing field practicum hours at an agency.  Field seminar provides the opportunity for students to apply and critically analyze social work knowledge gained in core.  Prerequisites: SOWK 5370 and SOWK 5371 and SOWK 5372 and SOWK 5373 all with grades of \"B\" or better and a minimum 3.0 Overall GPA. Corequisite: SOWK 5379 or SOWK 5979 either with a grade of \"Credit\".",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SOWK 5379",
+            "course_name": "Advanced Part-Time Field Practicum I",
+            "course_desc": "This course is taken in conjunction with SOWK 5378 as Part I of the advanced/final field practicum courses for part-time students requiring completion of a minimum of 270 hours of internship in a social service agency.  This course requires application of classroom knowledge to address complex level social justice issues.  Prerequisite: SOWK 5370 and SOWK 5371 and SOWK 5372 and SOWK 5373 all with grades of \"B\" or better and a minimum 3.0 Overall GPA. Corequisite: SOWK 5378 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOWK 5411",
+            "course_name": "Foundation Part-Time Field Practicum II",
+            "course_desc": "This second foundation part-time course continues a supervised internship/practicum focused on generalist social work practice in agencies for a minimum of 180 clock hours, applying classroom knowledge to work with individuals, families, groups, and communities. Prerequisites: SOWK 5376 with a grade of \"B\" or better and SOWK 5111 with a grade of \"credit\".",
+            "course_credits": "\n4 Credit Hours \n1 Lecture Contact Hour \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOWK 5577",
+            "course_name": "Foundation Full-Time Field Practicum II",
+            "course_desc": "This course provides experiential learning opportunities through application of complex micro, mezzo, and macro level knowledge in social service agencies. This is the second course of the foundation full-time field sequence, and requires completion of 360 hours. This course is completed by students enrolled full-time only.  Prerequisite: SOWK 5313 and SOWK 5314 both with grades of \"B\" or better. Corequisite: SOWK 5376 with a grade of \"B\" or better.",
+            "course_credits": "\n5 Credit Hours \n0 Lecture Contact Hours \n24 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOWK 5679",
+            "course_name": "Advanced Part-Time Field  Practicum II",
+            "course_desc": "This is the second part of the advanced practicum course sequence for part-time students requiring completion of a minimum of 270 hours in a social service agency.  This course continues the experiential learning process initiated in SOWK 5379 including application of classroom knowledge to address complex level social justice issues. Prerequisite: SOWK 5378 with a grade of \"B\" or better and SOWK 5379 with a grade of \"Credit\" and a minimum 3.0 Overall GPA.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SOWK 5979",
+            "course_name": "Advanced Field Practicum II",
+            "course_desc": "This course is taken in conjunction with SOWK 5378 and is the advanced/final field practicum course in the final field course sequence for full-time students requiring completion of 540 hours of internship in a social service agency.  This course requires application of classroom knowledge to address complex level social justice issues. Prerequisite: SOWK 5370 and SOWK 5371 and SOWK 5372 and SOWK 5373 all with grades of \"B\" or better and a minimum 3.0 Overall GPA. Corequisite: SOWK 5378 with a grade of \"B\" or better.",
+            "course_credits": "\n9 Credit Hours \n0 Lecture Contact Hours \n35 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

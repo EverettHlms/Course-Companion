@@ -1,0 +1,30 @@
+{
+    "name": "Art",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/art/",
+    "courses": [
+        {
+            "course_code": "ART 1301",
+            "course_name": "Core I: Collaboration",
+            "course_desc": "This course introduces practical and theoretical content in disciplinary and interdisciplinary art and design practices. Through thematic collaborative projects, students will engage various 2D, 3D, and 4D materials, methods, tools, and concepts independently and in relation to each other.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ART 1303",
+            "course_name": "Core II: Archive",
+            "course_desc": "This course builds upon interdisciplinary practices introduced in Core I. By creating and engaging with archives and collections, students will build a personal archive of inspiration and source material that uses different research and working methods from all five program areas of the School of Art and Design. Students utilize this personal archive to create a series of interdisciplinary outcomes.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ART 2313",
+            "course_name": "Introduction to Fine Arts",
+            "course_desc": "An introductory course designed to give the student a fundamental understanding of the creation and appreciation of diverse modes of expression through the visual and performing arts. This course may not be repeated for credit by taking MU 2313, TH 2313, or DAN 2313.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Creative Arts Core 050",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

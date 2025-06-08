@@ -1,0 +1,414 @@
+{
+    "name": "Public Health",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ph/",
+    "courses": [
+        {
+            "course_code": "PH 1310",
+            "course_name": "Foundations of Personal Health",
+            "course_desc": "This course provides an introduction to personal health and wellness topics including nutrition, mental health, sexual health, and physical fitness with an emphasis on health trends and health behaviors.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 1320",
+            "course_name": "Introduction to Public Health",
+            "course_desc": "This course provides students a basic understanding of U.S. and global public health systems. Students are also introduced to various public health settings, specific careers in public health, and public health certifications.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 2338",
+            "course_name": "Substance Use and Abuse",
+            "course_desc": "This course explores the impact of substance use and abuse on personal, public, and population health. Course content includes current statistics and information on substance use and abuse issues and substance prevention interventions with a focus on public health prevention strategies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 2340",
+            "course_name": "Community Health",
+            "course_desc": "This course acquaints students with issues, trends, developments, and principles in community health. The course also provides an overview of selected topics, such as epidemiology, community organization, and program planning. Corequisite: PH 1320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 3301",
+            "course_name": "Environmental Health",
+            "course_desc": "This course is an examination of the ecological impact resulting from contemporary sociopolitical action and its resulting influence on human health.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 3315",
+            "course_name": "Statistics in Public Health",
+            "course_desc": "This course emphasizes analysis and interpretation of health-related data. Descriptive and inferential statistics (including measures of central tendency and variability, estimation, ANOVA, and regression) will be used to understand factors associated with current health-related issues. (WI) Prerequisites: MATH 1312 or MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2417 or MATH 2471 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 3321",
+            "course_name": "Health in the School Setting",
+            "course_desc": "This course offers a foundation in health methods and activities to provide resources for the elementary and secondary school teacher. Provides an overview of current school health issues: Whole School, Whole Community, Whole Child model, mental health, personal health, family life, substance abuse, and violence in the school setting.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 3330",
+            "course_name": "Inclusion and Diversity in Women's Health",
+            "course_desc": "This course is designed to explore the health care concerns unique to women and to provide students with opportunities to create strategies to improve women's health. Particular attention will be given to issues that affect women in under-served populations and how to more effectively serve their needs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 3348",
+            "course_name": "Prevention of Disease",
+            "course_desc": "This course provides an overview of the etiology of communicable and chronic diseases with special emphasis on health promotion activities to reduce the incidence of disease in communities and society.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 3350",
+            "course_name": "Consumer Health",
+            "course_desc": "This course focuses on consumer health and decision making with regard to the selection of health products and services. Students will learn how to effectively evaluate health information with emphasis on consumer literacy, public policy, and consumer products and services.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 3360",
+            "course_name": "Issues in Human Sexuality",
+            "course_desc": "The course provides a study of human sexuality as a lifelong process of acquiring information and forming healthy attitudes, beliefs, and values regarding sexuality. Human sexuality's impact on personal and public health will be explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 3370",
+            "course_name": "Epidemiology",
+            "course_desc": "This course introduces students to epidemiological concepts including determinants of health and patterns of disease in populations, population health descriptive techniques, use of health indicators and secondary data sources. Students will focus on epidemiology in community health assessment and program evaluation, and development of public health strategies and policy. Prerequisite: MATH 1312 or MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2417 or MATH 2471 or HON 2302A or HON 2302B and with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 3374",
+            "course_name": "Global Health",
+            "course_desc": "This course focuses on principles of international health in global populations. Students explore roles of health educators collaborating with providers of health services to diverse populations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 3376",
+            "course_name": "Worksite Health Promotion",
+            "course_desc": "The purpose of this course is to introduce students to worksite health promotion. The focus of the course is on planning, implementing, and evaluating worksite health promotion programs. The course addresses other contemporary health issues, policies, and considerations that affect worksite health promotion.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 4100",
+            "course_name": "Professional Development in Public Health",
+            "course_desc": "This course provides the opportunity for students to obtain a community or public health promotion internship and to actively participate in professional development activities including conferences, development of resumes and interaction with health professionals. If a student is planning to complete an internship, this course must be completed during the semester immediately prior.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 4331",
+            "course_name": "Health Disparities",
+            "course_desc": "This course explores social determinants of health and health disparities in the U.S. and globally. Students explore past and existing public health initiatives to address health disparities in various U.S. and global communities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 4335",
+            "course_name": "Public Health Leadership",
+            "course_desc": "This course allows students to develop discipline-specific leadership skills and a personal leadership philosophy which will help in managing public health and health promotion programs.  Topics include leadership philosophy, staffing, programming, budgeting, public relations, facilities, and evaluations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 4336",
+            "course_name": "Health Behavior Theory",
+            "course_desc": "This course introduces students to health behavior theory, including cognitive, operant, and social theories of motivation and behavior, behavior change theory, social marketing, and social ecology. Students will also learn about the role of behavior theory in health promotion practice and public health interventions. (WI) Prerequisites:  PH 1320 and PH 2340 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 4347",
+            "course_name": "Independent Study in Public Health",
+            "course_desc": "This course is designed for undergraduate students who display potential for independent research in public health. Students work individually with faculty to develop an independent research study/project in public health. Open on an individual basis by arrangement with the division chair. May be repeated for credit with different emphasis. Prerequisites: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 4360",
+            "course_name": "Internship in Public Health",
+            "course_desc": "This part-time internship involves the application of public health concepts to a community or public health setting. Students participate in the work of a health organization/agency and complete a semester-long project. A minimum of 200 contact hours is required. (WI) Prerequisite: PH 4100 with a grade of \"C\" or better and a minimum 3.0 major GPA and departmental approval. Corequisite: PH 4640 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 4640",
+            "course_name": "Public Health Program Planning and Evaluation",
+            "course_desc": "Students apply professional knowledge and skills to the development of public health programs. Topics include needs assessment, data gathering techniques, instrument design, data and statistics, and the interpretation, reporting, and application of findings for program development. Cultural competency and communication are covered. (WI) Prerequisite: PH 1320 and PH 2340 both with grades of \"C\" or better. Corequisite: PH 4336 with a grade of \"C\" or better.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 4660",
+            "course_name": "Internship in Public Health",
+            "course_desc": "This internship involves the application of public health concepts to a community or public health setting. Students participate in the work of a health organization/agency and complete a semester-long project. A minimum of 400 contact hours is required. (WI) Prerequisites: PH 4100 and PH 4640 both with grades of \"C\" or better and a minimum 3.0 major GPA and departmental approval.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PH 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PH 5301",
+            "course_name": "Environmental Health Issues",
+            "course_desc": "This course is an examination of the ecological impact on the environment resulting from contemporary sociopolitical action and its resulting influence on human health. Students will be guided to research and interpret evidence-based information on major current environmental issues facing local, national, and global communities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5302",
+            "course_name": "Current Issues in Public Health",
+            "course_desc": "This course will investigate the contemporary issues impacting public health on the local and national levels. Particular attention will be paid to the goals and objectives of the U.S. Healthy People Initiative and the ten essential public health services. Topics will focus on emerging trends in morbidity and mortality as identified by public health governing institutions, while exploring historical and current perspectives on public health practice. Students will examine the impact of current issues on the roles and responsibilities of the Certified Health Education Specialist.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5303",
+            "course_name": "Social Determinants of Health",
+            "course_desc": "This course explores the social ecological conditions which impact health and quality of life among various communities. Public health impact of socioeconomic stability, education access and quality, healthcare access and quality, neighborhood and built environment, and social and community context will be analyzed. The link between social determinants and the U.S. Healthy People Initiative will be examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5305",
+            "course_name": "Grant Proposal Writing in Public Health",
+            "course_desc": "This course provides the fundamentals of writing grant proposals in the social sciences. Instruction covers how to package a successful proposal from start to finish, including defining program objectives, selecting approaches and a plan, and preparing a program evaluation and budget.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5310",
+            "course_name": "History and Philosophy of Public Health Education and Promotion",
+            "course_desc": "This course is an intensive study of historical and philosophical contributions to public health education and promotion program development. Current political issues, public health issues, and influential cultural changes are examined. Focus is placed on developing a professional philosophy of practice in public health education and promotion practice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5312",
+            "course_name": "Writing for Public Health Professionals",
+            "course_desc": "This course provides a systematic approach to improve technical and professional writing skills. Specifically, theory-based methods for establishing a productive writing habit, generating and editing text, and self-identifying and self-correcting writing problems are presented. Writing for and application of public health research are emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5315",
+            "course_name": "Applied Behavioral Statistics in Public Health",
+            "course_desc": "This course focuses on the study of introductory and intermediate statistics and procedures commonly used in public health practice and research. Emphasis will be placed on application of statistical models, analysis software, and interpretation of findings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5320",
+            "course_name": "Foundations of Public Health",
+            "course_desc": "This course is an in-depth study of past and current public health programs. The course focuses on the examination of public health programs, policies, and systems that have impacted health status in different populations. A collection of current case-studies will be examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5321",
+            "course_name": "Advanced Health Behavior Theory",
+            "course_desc": "This course focuses on the presentation and critical analysis of the role of theory in health behavior, the description of different theories being utilized in health research and interventions, and the application of these theories to interventions and research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5325",
+            "course_name": "Ethical Principles in Public Health",
+            "course_desc": "This course provides an in-depth analysis of ethical standards, principles, and behaviors related to the field of public health. Students will explore how to apply, monitor, and model ethical standards in the profession.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5331",
+            "course_name": "Health Disparities",
+            "course_desc": "This course explores social determinants of health and health disparities in the U.S. and globally. Students explore past and existing public health initiatives to address health disparities in various U.S. and global communities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5335",
+            "course_name": "Public Health Leadership",
+            "course_desc": "This course covers structured experiences for developing administrative leadership for public health programs. Included are leadership philosophy, staffing, programming, budgeting, public relations, facilities, and evaluations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5345",
+            "course_name": "Public Health Issues in Human Sexuality",
+            "course_desc": "This course provides for an in-depth study of human sexuality as a lifelong process of acquiring information and forming healthy attitudes, beliefs, values, and practices regarding sexuality. Students analyze information and resources for implementing and advocating for quality inclusive instruction, policies, and evidence based approaches.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5346",
+            "course_name": "Public Health Research  and Population Surveillance",
+            "course_desc": "This course focuses on research models used in public health and population surveillance. Students learn how to design data collection strategies for research and program evaluation in the social and behavioral sciences and public health initiatives.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5347",
+            "course_name": "Independent Study in Public Health",
+            "course_desc": "This course allows for independent study of one or more problems in public health that hold special interest for a student or offers opportunity for professional improvement and growth. Open on an individual basis by special arrangement with the Program Coordinator. Repeatable once with a different emphasis. Prerequisites: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PH 5348",
+            "course_name": "Disease Prevention and Health Promotion",
+            "course_desc": "This course provides an overview of the etiology of communicable and noncommunicable diseases with special emphasis on public health initiatives and health promotion activities which reduce the incidence and burdens of disease in both individuals and communities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5350",
+            "course_name": "Advanced Public Health Program Planning and Evaluation",
+            "course_desc": "Students examine social ecological influences on population health in the context of public health program development. Students explore the use of epidemiological data to assist in developing health education and health promotion programs. Concepts include needs assessment, strategy selection, coalition development, implementation plans, and evaluation approaches.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5360",
+            "course_name": "Internship in Public Health",
+            "course_desc": "This 200-hour internship provides students with professionally related experience. Students may work with diverse target audiences in public health settings. The internship is approved and supervised by a Program Coordinator or assigned faculty. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PH 5370",
+            "course_name": "Applied Epidemiology",
+            "course_desc": "Applied epidemiology is the science of tracking diseases and disease determinants in populations. Students will explore principles of epidemiology and biostatistics, as well as methods of disease and behavior surveillance. This course highlights the use of surveillance data to develop public health interventions and prevention programs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5374",
+            "course_name": "Global Public Health",
+            "course_desc": "This advanced course focuses on principles of international health with global populations. Emphasis is placed on assessing, planning, implementing, and evaluating prevention strategies. Students explore roles of health educators collaborating with providers of health services to diverse populations. Prerequisites: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5376",
+            "course_name": "Health Promotion in the Workplace",
+            "course_desc": "In this course, students will learn the standard approaches of developing and implementing evidence-based workplace health promotion programs. The course will focus on practical methods for needs assessment, intervention development, and program evaluation in various workplace settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PH 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's initial thesis enrollment. No thesis credit is awarded until the student has completed the thesis in PH 5399B. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PH 5399B",
+            "course_name": "Thesis",
+            "course_desc": " This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PH 5599B",
+            "course_name": "Thesis",
+            "course_desc": " This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PH 5660",
+            "course_name": "Internship in Public Health",
+            "course_desc": "This course requires students to complete a 400-hour internship to gain professional experiences. Students may work with diverse target audiences in public health settings. The internship is approved and supervised by a Program Coordinator or assigned faculty. Prerequisite: Instructor approval.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PH 5999B",
+            "course_name": "Thesis",
+            "course_desc": " This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PH 7321",
+            "course_name": "Applied Theories of Health Behavior",
+            "course_desc": "This course focuses on the presentation and critical analysis of the role of theory in health behavior, the description of different theories being utilized in health research and interventions, and the application of these theories to interventions and research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

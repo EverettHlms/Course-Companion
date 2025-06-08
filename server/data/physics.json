@@ -1,0 +1,630 @@
+{
+    "name": "Physics",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/phys/",
+    "courses": [
+        {
+            "course_code": "PHYS 1115",
+            "course_name": "General Physics I Laboratory",
+            "course_desc": "First of two laboratory courses in General Physics for science-related majors.  The course introduces students to the basics of measurement.  Topics cover mechanics and heat. Corequisite: PHYS 1315 or PHYS 1335 either with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 1125",
+            "course_name": "General Physics II Laboratory",
+            "course_desc": "This is the second of two laboratory courses in general Physics.  The course introduces the students to experimental measurements and demonstration of principles of electricity, magnetism, optics, modern physics, electromagnetic waves. Corequisite: PHYS 1325 or PHYS 1345 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 1310",
+            "course_name": "Elementary Physics I",
+            "course_desc": "This course is a non-mathematical survey of mechanics, properties of matter, heat, and sound. These topics are described conceptually with applications relating to the world around us. PHYS 1310 and PHYS 1320 are designed for the liberal arts student. The order in which they are taken is not important. They are not recommended for pre-engineering students or majors and minors in science.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 1315",
+            "course_name": "General Physics I",
+            "course_desc": "This is the first course in a two semester sequence which is a survey of the basic laws and principles of physics and includes the topics of mechanics and heat. The course is designed for students whose program requires technical physics, but who are not pre-engineering students or majors or minors in physics.  Prerequisite: [MATH 1315 or MATH 1317 or MATH 2321 or MATH 2417 or MATH 2471 with a grade of \"C\" or better] or [ACT Mathematics score of 24 or better] or [New ACT Mathematics score of 25 or better] or [SAT Mathematics score of 520 or better] or [SAT Math section score of 550 or better] or [Next-Generation Advanced Algebra and Functions Test score of 263 or better]. Corequisite: PHYS 1115 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 1320",
+            "course_name": "Elementary Physics II",
+            "course_desc": "This course is a non-mathematical survey of electricity, magnetism, light, relativity, and atomic and nuclear physics. These topics are described conceptually with applications relating to the world around us. PHYS 1310 and PHYS 1320 are designed for the liberal arts student. The order in which they are taken is not important. They are not recommended for pre-engineering students or majors and minors in science.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 1325",
+            "course_name": "General Physics II",
+            "course_desc": "This is the second course in a two semester sequence which is a survey of the basic laws and principles of physics and includes the topics of waves, light, electricity and magnetism.  This course is designed for students whose program requires technical physics, but who are not pre-engineering students or majors or minors in physics. Prerequisites: PHYS 1315 or PHYS 1335 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 1335",
+            "course_name": "General Physics I for Life Sciences Majors",
+            "course_desc": "This is the first course in a two-semester sequence which surveys the fundamental principles of physics. This focus of this first course is on the topics of mechanics, fluids, and heat. The course is designed for biology, pre-health, and life-science majors whose program requires technical physics. Credit for both PHYS 1335 and PHYS 1315 cannot be given. Prerequisite: [MATH 1315 or MATH 1317 or MATH 2321 or MATH 2417 or MATH 2471 with a grade of \"C\" or better] or [ACT Mathematics score of 24 or better] or [New ACT Mathematics score of 25 or better] or [SAT Mathematics score of 520 or better] or [SAT Math section score of 550 or better] or [AAF score of 263 - 300]. Corequisite: PHYS 1115 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 1340",
+            "course_name": "Astronomy: Solar System",
+            "course_desc": "A study of the solar system. Topics included are a study of the sun, the planets and their satellites, the comets, and other components of the solar system. Some aspects of telescopes and ancient astronomy will be included also.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 1345",
+            "course_name": "General Physics II for Life Science Majors",
+            "course_desc": "This is the second course in a two-semester sequence which surveys the fundamental principles of physics. The focus of this second course is on the topics of oscillations, light, and electrical phenomena. This course is deigned for biology, pre-health, and life-science majors whose program requires technical physics. Prerequisite: PHYS 1315 or PHYS 1335 with a grade of \"C\" or better. Corequisite: PHYS 1125 with a grade of D or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 1350",
+            "course_name": "Astronomy: Stars and Galaxies",
+            "course_desc": "A study of the universe beyond the solar system. Topics included are a study of the stars and star clusters, nebulae, galaxies, and an introduction to some aspects of cosmology.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 1365",
+            "course_name": "Physics for Educators",
+            "course_desc": "This studio-style course introduces physics concepts through active exploration and discussion of physical phenomena. Course content includes developing concepts of force and motion, light, sound, waves, electricity, magnetism, energy, and conservation laws. Focus is on how physics helps make sense of everyday experience, and on the learning and teaching of children in grades K-8.",
+            "course_credits": "\n3 Credit Hours \n4 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 2125",
+            "course_name": "Mechanics Laboratory",
+            "course_desc": "This course introduces students to experimental methods in the study of motion, forces, energy, momentum, and other topics in mechanics. This laboratory course is designed to accompany PHYS 2325.  Corequisite: PHYS 2325 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 2126",
+            "course_name": "Electricity and Magnetism Laboratory",
+            "course_desc": "This course introduces students to experimental methods in the study of electric charges and fields, electric circuits, magnetic materials, and electromagnetic induction. This laboratory course is designed to accompany PHYS 2326. Corequisite: PHYS 2326 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 2135",
+            "course_name": "Waves and Heat Laboratory",
+            "course_desc": "This course introduces students to experimental methods in the study of geometrical and physical optics and of thermodynamics. This laboratory course is designed to accompany PHYS 2335. Corequisite: PHYS 2335 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 2150",
+            "course_name": "Professional Development for Beginning Physicists",
+            "course_desc": "This course introduces to physics majors career options and opportunities for internships, scholarships, and research internal and external to the university. The course also develops essential practical skills for job seekers. Prerequisite: PHYS 2326 and PHYS 2126 and PHYS 2335 and PHYS 2135 all with grades of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 2230",
+            "course_name": "Introduction to Computational Modeling for Physics",
+            "course_desc": "This course is an introduction to computational concepts and tools that physicists use for data analysis, simulation and modeling, and visualization in research and dissemination. Python and its various libraries are emphasized.  Prerequisite: PHYS 2325 and PHYS 2125 with grades of \"C\" or better. Corequisite: [PHYS 2326 and PHYS 2126] or [PHYS 2335 and PHYS 2135] with grades of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 2325",
+            "course_name": "Mechanics",
+            "course_desc": "This course covers the principles of introductory classical mechanics through problem-solving and research-validated interactive instruction.  Corequisite: MATH 2471 with a grade of \"C\" or better and PHYS 2125 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 2326",
+            "course_name": "Electricity and Magnetism",
+            "course_desc": "This course covers the principles of classical electricity and magnetism through problem-solving and research-validated interactive instruction. Prerequisite: PHYS 2325 and [MATH 2472 or MATH 2473] with grades of \"C\" or better. Corequisite: PHYS 2126 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Life & Phys Sciences CAO 093|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 2335",
+            "course_name": "Waves and Heat",
+            "course_desc": "This course covers the principles of thermodynamics, geometric optics, and physical optics through problem solving and research-validated interactive instruction. Prerequisite: MATH 2471 and PHYS 2325 with grades of \"C\" or better. Corequisite: [MATH 2472 or MATH 2473] with a grade of \"C\" or better and PHYS 2135 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 3210",
+            "course_name": "Physics Cognition and Pedagogy",
+            "course_desc": "This course is an introduction to physics-specific pedagogy and the methods and results of physics education research (PER). Students will investigate relevant literature in PER and cognitive science, engage in discussions about physics teaching and learning, and reflect on their own teaching practice in the role of Physics Learning Assistants. (WI).",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 3301",
+            "course_name": "Musical Acoustics",
+            "course_desc": "A survey of the physics of sound and acoustic measurement. Special emphasis will be placed on sound production, propagation, and perception as applied to music.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 3311",
+            "course_name": "Classical Mechanics",
+            "course_desc": "This course discusses the fundamentals of classical mechanics focusing on the physical description of the behavior of single and multiple particle systems. Topics include advanced problem-solving strategies for systems with position and velocity dependent forces, simple harmonic oscillators, and non-inertial reference frames. Prerequisite: PHYS 2335 and PHYS 2135 with grades of \"C\" or better. Corequisite: PHYS 3320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 3312",
+            "course_name": "Modern Physics",
+            "course_desc": "This course is an introduction to the foundations of modern physics, including the following topics: relativistic mechanics, foundational experiments in the development of quantum mechanics, light and energy, wave nature of particles, and nuclear physics.  Prerequisite: PHYS 2335 and PHYS 2135 with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 3313",
+            "course_name": "Astrophysics",
+            "course_desc": "This course surveys a variety of issues in astrophysics through problem solving, quantitative measurements, and theoretical reasoning. Topics include celestial mechanics, stellar dynamics and evolution, galaxy evolution, and cosmology. Corequisite: PHYS 3312 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 3315",
+            "course_name": "Thermodynamics",
+            "course_desc": "This course is a fundamental study of thermodynamics and statistical mechanics. Prerequisite: MATH 3323 and [(PHYS 2335 and PHYS 2135) or (ENGR 2300 and PHYS 2326 and PHYS 2126)] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 3318",
+            "course_name": "Galactic and Extragalactic Astrophysics",
+            "course_desc": "A survey of the physical properties, dynamics, and distribution of galaxies. Topics include the contents, origin, and evolution of the Milky Way and other galaxies; the large-scale distribution of galaxies in groups, clusters and superclusters; interactions between galaxies; dark matter; active galaxies and supermassive black holes; high redshift Universe. Prerequisite: PHYS 3313 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 3320",
+            "course_name": "Introduction to Mathematical Physics",
+            "course_desc": "This course is an introduction to the mathematical methods of theoretical physics with emphasis on development of mathematical tools used in upper division core physics courses. Students will also develop their ability to communicate mathematical ideas in the context of physics. Prerequisite: MATH 2393 and PHYS 2326 and PHYS 2126 all with grades of \"C\" or better. Corequisite: MATH 3323 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 3411",
+            "course_name": "Advanced Physics Laboratory",
+            "course_desc": "This course is an introduction to experimental modern physics, with emphasis on the design and assembly of physics apparatus and the development of practical skills for controlling and automating data collection. (WI) Prerequisites: PHYS 2326 and PHYS 2126 with grades of \"C\" or better. Corequisites: PHYS 2335 and PHYS 2135 with grades of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 3416",
+            "course_name": "Applied Electronics",
+            "course_desc": "This Laboratory/lecture course is an introduction to electronic test bench methods for the construction, operation and analysis of important DC/AC circuits utilizing resistors, capacitors, diodes, BJTs, FETs, and OpAmps. The behavior of the circuits will be modeled in SPICE. Elementary semiconductor device physics and microfabrication methods will be discussed. (WI) Prerequisites: PHYS 2326 and PHYS 2126 and PHYS 2335 and PHYS 2135 all with grades of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 3417",
+            "course_name": "Optics",
+            "course_desc": "This course is a one-semester survey of geometrical and physical optics accompanied by laboratory experience. Topics covered include electromagnetic waves and their propagation, geometrical optics, polarization, interference, diffraction, Fourier optics, and holography. (WI) Prerequisites: PHYS 2326 and PHYS 2126 and PHYS 2335 and PHYS 2135 all with grades of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 3418",
+            "course_name": "Methods in Observational Astrophysics",
+            "course_desc": "This course is an introduction to methods and instrumentation used in observational astrophysics. Topics include image processing, data acquisition and analysis, and detectors for data across the electromagnetic spectrum. Prerequisite: PHYS 2326 and PHYS 2126 and PHYS 2335 and PHYS 2135 all with grades \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4121",
+            "course_name": "Undergraduate Research",
+            "course_desc": "This course represents a students research project in physics to be carried out under the supervision of a faculty member. The student must contact a faculty member in advance to arrange the topic and specific course objectives. This course may be repeated for credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4221",
+            "course_name": "Undergraduate Research",
+            "course_desc": "This course represents a students research project in physics to be carried out under the supervision of a faculty member. The student must contact a faculty member in advance to arrange the topic and specific course objectives. This course may be repeated for credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4305",
+            "course_name": "Statistical Physics",
+            "course_desc": "Statistical physics is the study of energy flow and energy distributions within systems in equilibrium. Students will explore a range of phenomena including black-body radiation, diffusion, phase transitions, and magnetism. Emphasis will be placed on topics of entropy, probability, free energy, Boltzmann distributions, and the atomic behavior of these systems.  Prerequisite: MATH 3323 and PHYS 3312 and PHYS 3320 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4310",
+            "course_name": "Electromagnetic Field Theory I",
+            "course_desc": "An introduction to the electromagnetic field theory of classical physics for static fields. Topics included will be the electrostatic field, polarization and dielectrics, electrostatic energy, magnetic field of steady currents, magneto static energy, and magnetic properties of matter. Prerequisite: [MATH 2393 or MATH 3373] and MATH 3323 and PHYS 3320 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4311",
+            "course_name": "Condensed Matter Physics",
+            "course_desc": "Application of physics principles to solid materials. Topics include crystal structure and the reciprocal lattice, including x-ray diffraction, crystal binding and elastic properties, lattice vibrations, energy bands, semiconductors and metals. Prerequisite: PHYS 3312 and PHYS 3320 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4312",
+            "course_name": "Quantum Mechanics I",
+            "course_desc": "This course introduces students to quantum mechanics. Topics include mathematical foundations, fundamental postulates, time development, and one dimensional problems.  Prerequisite: PHYS 3312 PHYS 3320 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4315",
+            "course_name": "Electromagnetic Field Theory II",
+            "course_desc": "An introduction to the electromagnetic field theory of classical physics for time varying fields. Topics included will be electromagnetic induction, time varying electric and magnetic fields, Maxwells equations, electromagnetic energy, electromagnetic waves and radiation, and a brief introduction to some specialized topics. Prerequisite: PHYS 4310 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4320",
+            "course_name": "Selected Study in Physics",
+            "course_desc": "Topics are chosen in theoretical\nand experimental areas of current interest in physics\nwith specific topic to be discussed agreed upon prior to\nregistration. May be repeated once with different emphasis\nand professor for additional credit. Prerequisite: Instructor\napproval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4321",
+            "course_name": "Undergraduate Research",
+            "course_desc": "A research project in physics to be carried out under the supervision of a faculty member by upper division physics majors. Student must contact\na faculty member in advance to arrange topic and specific\ncourse objective. Course may be repeated only as an elective\ntowards the BS or BA in physics. Prerequisite: Instructor\napproval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4330",
+            "course_name": "Relativity",
+            "course_desc": "This course includes a review of special relativity, an introduction to the mathematics of tensor calculus and differential geometry, and covers such topics from general relativity as the Schwarzschild solution, black holes, tests of general relativity, cosmological models, gravitational waves, and the Einstein equation. Prerequisite: PHYS 3312 and PHYS 3320 with a grade of \"C\" or better. Corequisite: PHYS 3311 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4345",
+            "course_name": "Biophysics",
+            "course_desc": "This course applies the principles of physics to the study of living organisms. An emphasis will be placed on the topics of structure, fluids, diffusion, entropy, probabilities, and stochastic processes, as well as on scientific modes of thinking, including modeling, estimation, and data analysis. Prerequisite: PHYS 3320 and PHYS 2230 and PHYS 2335 and PHYS 2135 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4350F",
+            "course_name": "Astronomical Spectroscopy",
+            "course_desc": "A lecture course introducing students to spectroscopy in astronomy, with particular emphasis on molecular spectroscopy. The course will cover a broad range of aspects including the development of spectroscopy in astronomy, the theory of atomic and molecular spectra, spectra in different astrophysical environments, instrumentation and data reduction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4350G",
+            "course_name": "Nuclear and Particle Physics",
+            "course_desc": "This course covers the theoretical, phenomenological, and experimental foundations of nuclear and particle physics including the fundamental forces, particles, and composites. An emphasis will be on the fundamental structure of nucleus (nuclear masses and nuclear sizes), nuclear interactions (alpha, beta, and gamma radiation), Fission, Fusion, beyond nuclear physics (quarks and leptons as basic constituents of matter), brief introduction to the Standard model: electroweak interactions, Higgs boson, QCD and basic nuclear Astrophysics (nucleosynthesis of stellar particles). Prerequisite: PHYS 2326 and PHYS 2126 and PHYS 3312 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4350H",
+            "course_name": "Optical Materials and Characterization Methods",
+            "course_desc": "This course is an introduction to optical properties of solids including electronic and vibrational transitions in inorganic and organic thin films and multilayers. Various optical characterization methods and techniques will be reviewed including Raman, FTIR, Photoluminescence, and X-ray Fluorescence spectroscopy. Students will learn to work with those characterization methods and learn how to interpret the various spectra.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 4360",
+            "course_name": "Physics Cognition and Pedagogy II",
+            "course_desc": "This course addresses historical, philosophical, and cognitive perspectives on the learning, teaching, and discovery of physics, including results from contemporary research on learning. It is recommended for students pursuing teacher certification. Prerequisite: PHYS 3210 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5100",
+            "course_name": "Professional Development",
+            "course_desc": "This course covers topics related to teaching, research, and employment responsibilities. The completion of this course is required as a condition of employment for graduate assistants. This course does not earn graduate degree credit. Courrse is repeatable with different emphasis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "PHYS 5110",
+            "course_name": "Seminar in Physics",
+            "course_desc": "A course designed to acquaint the graduate student with current research areas in physics. May be repeated twice for total of three semester hours credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PHYS 5200",
+            "course_name": "Professional Development",
+            "course_desc": "This course covers topics related to teaching, research, and employment rights and responsibilities. It provides a brief background on teaching and learning theories and consists of organized practice teaching. Completion is required as a condition of employment for graduate instructional and teaching assistants. This course does not earn graduate degree credit.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "PHYS 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PHYS 5302",
+            "course_name": "Electricity and Magnetism",
+            "course_desc": "An introduction to the electromagnetic field theory of classical physics for static fields. Topics included will be the electrostatic field, polarization and dielectrics, electrostatic energy, magnetic field of steady currents, magneto static energy, and magnetic properties of matter. This is a graduate leveling course in Electricity and Magnetism (stacked with PHYS 4310). This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "PHYS 5303",
+            "course_name": "Quantum Mechanics",
+            "course_desc": "This course is an introduction to quantum mechanics. Topics include mathematical foundations, fundamental postulates, time development, and one dimensional problems. This is a graduate leveling course in Quantum Mechanics (stacked with PHYS 4312). This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "PHYS 5304",
+            "course_name": "Experimental Research Methods",
+            "course_desc": "This is a laboratory based course introducing experimental methods used in physics research with emphasis on quantum effects through materials synthesis and characterization methods. The specific experiments are chosen by department faculty on topics of current research interests. The students are exposed to different research topics through laboratory rotations. Prerequisite: Instructor approval. Corequisite: PHYS 5314 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5312",
+            "course_name": "Advanced Quantum Mechanics",
+            "course_desc": "This course is a study of quantum mechanics including combination of two or more quantum mechanical systems, addition of angular momentum, time independent perturbation theory, and time dependent perturbation theory.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5313",
+            "course_name": "Mathematical Methods of Physics",
+            "course_desc": "This course is a survey of mathematical methods of physics at the graduate level focusing on complex analysis of analytic functions (Laurent expansions and evaluation of residues) and methods of solving both ordinary and partial differential equations (Frobenius' method and Sturm-Liouville theory) with applications to mechanics and electromagnetic theory.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5314",
+            "course_name": "Statistical Physics",
+            "course_desc": "This course is an introduction to the laws of statistical physics and their application to realistic problems at the graduate level. The topics include a brief review of equilibrium thermodynamics, Boltzmann and Gibbs distribution, Fermi-Dirac and Bose-Einstein statistics, derivation of Planck's Law and black-body radiation, and heat capacity of solids.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5320",
+            "course_name": "Solid State Physics",
+            "course_desc": "This is an introductory course at the graduate level intended for students who have not had a previous course in Solid State Physics.  Topics covered include crystal structure, the reciprocal lattice, x-ray diffraction, lattice vibrations, electronic band structure, and optical, transport and magnetic properties of metals and semiconductors including  applications. Prerequisite: PHYS 5312 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5322",
+            "course_name": "Semiconductor Device Microfabrication",
+            "course_desc": "This experimental methods course provides an in-depth overview of the physics and technology of semiconductor device micro and nano fabrication. Topics include materials used in electronic devices, thin film deposition, wet and dry etching, lithography processing, and topics relevant to semiconductor research and devices. Fabrication and characterization techniques will be covered.  Corequisite: PHYS 5312 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5324",
+            "course_name": "Thin Film Synthesis and Characterization Laboratory",
+            "course_desc": "This advanced experimental course is designed as a research group project experience with emphasis on nanoscale device fabrication. All projects are conducted in university facilities with state-of-the-art thin film growth, processing, and characterization facilities. Prerequisite: PHYS 5322 with a grade of \"C\" or better. Corequisites: PHYS 5312 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5327",
+            "course_name": "Semiconductor Device Physics",
+            "course_desc": "This course demonstrates how solid state physics applies to describing important examples of thin film device operation with emphasis on semiconductor devices. Additional topics may include photon and phonon effects on electronic properties, quantum phenomena, many body effects in solids, carrier transport properties, micro-electromechanical systems, and materials interface issues. Corequisite: PHYS 5314 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5328",
+            "course_name": "Advanced Solid State Physics",
+            "course_desc": "Review of models of a solid and energy band theory. Additional topics may include interaction of electromagnetic waves with solids, lattice vibrations and phonons, many body effects in solids, device physics, quantum phenomena, carrier transport properties, current device configurations, and materials interface problems. Prerequisite: PHYS 5320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5331",
+            "course_name": "Electromagnetic Field Theory",
+            "course_desc": "This course is an introduction to electrodynamics at the graduate level using rigorous mathematical formulation. Topics include methods of solving problems in electrostatics and magnetostatics, boundary value problems and Greens Functions, fields in media, and Maxwells Equations and time varying fields.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5332",
+            "course_name": "Materials Characterization",
+            "course_desc": "This course covers skills and knowledge required for microscopy methods including optical microscopy, scanning electron microscopy, scanning tunneling electron microscopy, atomic force microscopy, and confocal microscopy. Topics covered include x-ray and neutron diffraction techniques including structure analysis, powder and glancing angle diffraction, pole figure, texture analysis, and small angle scattering. Prerequisite: PHYS 5312 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5334",
+            "course_name": "Relativity",
+            "course_desc": "This course includes a review of special relativity, an introduction to the mathematics of tensor calculus and differential geometry, and such topics from general relativity as the Schwarzschild solution and black holes, tests of general relativity, cosmological models, and applications of relativity in the global positioning system (GPS).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5350F",
+            "course_name": "Astrophysics",
+            "course_desc": "This course surveys a variety of issues in astrophysics through problem solving, quantitative measurements, and theoretical reasoning. Topics include celestial mechanics, stellar structure and evolution, star formation, and supernova remnants.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5350G",
+            "course_name": "Electrical and Magnetic Characterization Methods",
+            "course_desc": "This course introduces electric and magnetic characterization methods important to metals, magnetic and semiconductor materials and devices. Various measurement techniques and methods will be reviewed. Students will learn to work with characterization tools.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5350H",
+            "course_name": "Astronomical Spectroscopy",
+            "course_desc": "A lecture course introducing students to spectroscopy in astronomy, with particular emphasis on molecular spectroscopy. The course will cover a broad range of aspects including the development of spectroscopy in astronomy, the theory of atomic and molecular spectra, spectra in different astrophysical environments, instrumentation and data reduction. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5350I",
+            "course_name": "Advanced Computational Methods for Physics",
+            "course_desc": "In this course students will learn and practice the Python computer language along with several of its scientific modules to model, visualize & analyze complex physical systems that cannot be described by mathematical equations with analytical solution. Special attention will be paid to programming techniques for data manipulation & analysis of large amounts of data residing in multiple data sets. The Python implementation of the (free) Anaconda distribution will be utilized. No previous knowledge of Python or programming required since a basic training will be provided in the first lectures, which will serve as an introduction or refresher for students.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5350J",
+            "course_name": "Optical Materials and Characterization Methods",
+            "course_desc": "This course is an introduction to optical properties of solids including electronic and vibrational transitions in inorganic and organic thin films and multilayers. Various optical characterization methods and techniques will be reviewed including Raman, FTIR, Photoluminescence, and X-ray Fluorescence spectroscopy. Students will learn to work with those characterization methods and learn how to interpret the various spectra.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5360",
+            "course_name": "Physics Education Research: Teaching & Learning",
+            "course_desc": "This course is an introduction to pedagogical issues in physics, including their related philosophical analysis and empirical research studies on student learning. Students will be guided to read, analyze, and present existing scholarly research that justifies approaching certain physics topics from particular perspectives and with particular instructional methods.The course is appropriate for future researchers in physics education and future physics teachers at secondary and post-secondary levels.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5370",
+            "course_name": "Problems in Advanced Physics",
+            "course_desc": "Open to graduate students on an individual basis by arrangement with the Department of Physics. May be repeated with prior approval of the department. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5395",
+            "course_name": "Fundamentals of Research",
+            "course_desc": "Course is available to graduate students only at the invitation of the department. May be repeated with prior approval of the department. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHYS 5398",
+            "course_name": "Industry Internship",
+            "course_desc": "Supervised work experience in an appropriate high tech industry. Students will be required to keep a daily journal and make a final presentation (both written\nand oral) describing their accomplishments.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PHYS 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in PHYS 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PHYS 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PHYS 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PHYS 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

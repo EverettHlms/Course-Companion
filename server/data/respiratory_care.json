@@ -1,0 +1,382 @@
+{
+    "name": "Respiratory Care",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/rc/",
+    "courses": [
+        {
+            "course_code": "RC 2213",
+            "course_name": "Introduction to Respiratory Care",
+            "course_desc": "This course offers an in-depth overview of the respiratory care profession to acquaint the student with the responsibilities of the respiratory therapist as part of healthcare team. Progression of the profession, career opportunities, past and future impact of profession on patient recovery and health maintenance, and medical gas therapy will be covered.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 3112",
+            "course_name": "Pharmacology",
+            "course_desc": "A comprehensive study of pharmacology principles. Receptor theory, clinical applications of medications, and historical analysis of first-generation medications will be covered. Current medication trends and recommendations are also examined.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 3125",
+            "course_name": "Pulmonary Function Testing",
+            "course_desc": "This course examines the most common pulmonary function tests, their techniques, and the pathohysiology that may be evaluated by each test. Pulmonary function equipment, calibration, and the American Thoracic Society guidelines will be discussed. Laboratory practice of performing the tests will be provided to develop skills for testing patients.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 3313",
+            "course_name": "RC Clinical Practice I",
+            "course_desc": "This course provides an introduction to respiratory care clinical skills, including vital signs, chest assessment, infection control, aerosolized medication delivery, oxygen therapy, hyperinflation therapy, and airway clearance. This course prepares the student for direct patient care to be performed in more advanced courses. Direct patient care is performed under close supervision.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n16 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 3314",
+            "course_name": "Respiratory Care Instrumentation",
+            "course_desc": "Through lectures and lab exercises, students are acquainted with concepts of design, function, and operation of basic respiratory care equipment. Oxygen cylinders, regulators, flowmeters, oxygen analyzers, oximeters, oxygen adjuncts, humidifiers, nebulizers, airways, and pressure cycled ventilators will be covered. The course also covers respiratory pharmacology, decontamination of equipment, and arrhythmia recognition.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 3315",
+            "course_name": "Cardiopulmonary - Renal Anatomy & Physiology",
+            "course_desc": "This course provides an in-depth human gross anatomy study of the cardiac, respiratory, and renal systems. Clinical application of pulmonary anatomy and physiology will also be explored.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 3316",
+            "course_name": "Fundamentals of Respiratory Care",
+            "course_desc": "This course provides a study of theories and modalities utilized in delivering, monitoring, and evaluating basic respiratory therapeutics to patients with compromised respiratory function in various healthcare settings. Aspects of artificial ventilation, arterial blood gas analysis, lung volume diagnostics, and hyperinflation intervention will be covered in patient scenarios.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 3321",
+            "course_name": "Cardiopulmonary Pathology",
+            "course_desc": "As an introduction to the assessment, treatment, and pathophysiology of respiratory diseases, this course focuses on the signs, symptoms, etiology, pathophysiology, diagnosis and treatment of selected diseases.  Utilizing clinical simulation software to develop critical thinking regarding assessment, diagnostic data gathering. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 3322",
+            "course_name": "Critical Care Concepts",
+            "course_desc": "This course provides students with an in-depth study of selected respiratory care techniques with an emphasis on the care of critically ill patients. Critical skills and knowledge of mechanical ventilation, bedside diagnostic techniques, patient monitoring, and rehabilitation are explored in the critical care setting.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 3323",
+            "course_name": "RC Clinical Practice II",
+            "course_desc": "Students perform clinical procedures and interact with patients and professional personnel in a healthcare institution under the supervision of a respiratory therapist. Students gain direct patient care experience as presented in medical/surgical and pediatric clinical situations. Preparatory instruction is provided for mechanical ventilation and other critical care procedures.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n16 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 3324",
+            "course_name": "Critical Care Instrumentation",
+            "course_desc": "A comprehensive study of advanced equipment and technology utilized in the critical care, homecare, pulmonary rehabilitation and blood gas lab settings. Lectures and class activities will detail hardware for hemodynamic monitoring, supplemental oxygen administration, noninvasive monitoring, blood gas measurement, quality control and assurance and mechanical ventilator concepts.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 3332",
+            "course_name": "Hemodynamics",
+            "course_desc": "This course is an advanced study of cardiovascular hemodynamic measurements. Normal cardiovascular physiology and measures are examined, as well as variations caused by disease. Current clinical trends and practices in hemodynamic procedures are also explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 3333",
+            "course_name": "RC Clinical Practice III",
+            "course_desc": "A supervised clinical education experience in which the student administers advanced respiratory therapeutics to patients in the adult critical care setting. Diagnostic and monitoring procedures, including arterial blood gases, bedside physiologic monitoring, airway care, advanced pulmonary function testing, ventilator management will be performed according to physician orders.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n16 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 3334",
+            "course_name": "Neonatal Respiratory Care",
+            "course_desc": "An in-depth study of neonatal utero development, fetal lung development, fetal circulation, and cardiovascular changes at birth. Neonatal respiratory emergencies, neonatal respiratory diseases and management, congenital defects, and respiratory care procedures specific to the neonate will be discussed.  A specific emphasis on neonatal mechanical ventilation will be included.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4211",
+            "course_name": "Respiratory Care Research",
+            "course_desc": "This course provides an introduction to applied experimental design, research ethics, and data analysis focusing on the respiratory care profession. Students will participate in each step the research process from developing a personal research hypothesis and research design through IRB submission. Prerequisite: HP 3302 or equivalent.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4216",
+            "course_name": "Disease Management",
+            "course_desc": "The course offers an in-depth description of common therapeutic modalities and treatment protocols used to offset the anatomic alterations and pathophysiologic mechanisms activated by selected disorders. Students will develop an understanding of how therapies work to offset the anatomic alterations of lungs caused by disease. Prerequisite: Instructor approval.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4221",
+            "course_name": "Leadership and Management for Respiratory Care Professionals",
+            "course_desc": "This course is designed to comprehensively examine the dynamic evolution of respiratory care as a profession. The role of the respiratory care professional in the areas of leadership, management, and professional ethics will be explored with regards to the professions impact on legislation, regulation, and politics. (WI).",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4223",
+            "course_name": "ICU Internship",
+            "course_desc": "Through affiliations with agencies, hospitals and selected treatment centers, the student interns in the intensive care setting by providing patient care and administering critical care therapeutics. Analysis and clinical application of advanced ventilator care of patients is emphasized along with patient care diagnostics and management in the ICU.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "RC 4224",
+            "course_name": "Research Seminar",
+            "course_desc": "This course is a study of the research process from a review of research design to methodology implementation including data collection, statistical analysis, and presentation of a research proposal on a topic in the respiratory care discipline. The course provides direct research experience culminating in a research paper and presentation. Prerequisite: RC 4211 with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4225",
+            "course_name": "Specialization Internship",
+            "course_desc": "This course provides the student with an internship opportunity to gain clinical experience in sub-specialty areas including pediatrics, adult intensive care, neonatal intensive care, pulmonary function testing, home care/durable medical equipment, subacute care, pulmonary rehabilitation, polysomnography, education, and research. Specific specialty offerings will be based on clinical availability.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "RC 4309",
+            "course_name": "Pulmonary Diagnostics",
+            "course_desc": "The course examines various pulmonary diagnostic techniques and the pathophysiology associated with each diagnostic measurement in disease management and clinical research.  The course will provide an in-depth presentation of clinical indications for various diagnostic analyses including the ethical responsibilities associated with clinical research.   Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4311",
+            "course_name": "Interdisciplinary Healthcare",
+            "course_desc": "This course introduces the respiratory care student to the role that respiratory therapists play within the interdisciplinary healthcare team. The course will allow students to gain experience in developing and applying strategies to improve patient outcomes through the inclusion of the respiratory therapist with various appropriate healthcare disciplines.    Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4312",
+            "course_name": "Critical Care Clinical Simulation",
+            "course_desc": "Students will analyze concept review in preparation for national board examinations and evidence-based care.  Classroom and laboratory instruction will demonstrate cumulative review of the Therapist Multiple Choice and the Clinical Simulation Examination national board exams. Clinical simulation case studies will be assessed reflecting real-life patient scenarios.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4314",
+            "course_name": "Advanced Ventilator Concepts",
+            "course_desc": "This course provides an in-depth study of specific adult mechanical ventilators addressing traditional and proposed ventilator classification, various methods of operation, parameter interrelationships and ventilator patient monitoring. Lectures and class activities will focus on ventilator analysis of several contemporary volume-, time-, pressure- and flow-cycled ventilators with advanced graphics interpretation required.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4316",
+            "course_name": "RC Clinical Practice IV",
+            "course_desc": "This course provides an advanced intensive care clinical education requiring students to monitor and administer critical care therapeutics on assigned patients in the adult and neonatal critical care setting. Cardiopulmonary diagnostic experience will be gained through arterial blood gas and co-oximetry assessment with ventilator graphic analysis.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n16 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4317",
+            "course_name": "Pulmonary Rehabilitation",
+            "course_desc": "This course is designed to introduce students to the medical, ethical, and insurance reimbursement issues of pulmonary rehabilitation, homecare, and sleep diagnostic facilities. The role of therapists in case management, treatment requirements, and discharge planning along with the impact of legislation, regulations, and politics will be explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4318",
+            "course_name": "Independent Study in Respiratory Care",
+            "course_desc": "This course provides the student an in-depth study on a topic or healthcare problem impacting respiratory care. The course may be repeated for credit with a different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4322",
+            "course_name": "RC Practitioner Seminar",
+            "course_desc": "Students will research and present selected case studies by students to physicians, therapists, and colleagues. Presentations will emphasize total patient management with etiology, symptoms, pathophysiology, diagnosis, and treatment of specific diseases including asthma, pulmonary embolism, CHF, COPD, ARDS, neurologic diseases, inhalational injury, pneumonia, sleep disordered breathing, AIDS, and drug overdose. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4324",
+            "course_name": "Sleep Medicine and Polysomnography",
+            "course_desc": "This course introduces the respiratory care student to sleep medicine and polysomnography. The course will present topics on sleep stages, sleep architecture, and sleep disorders. Basic and advanced treatment options of selected sleep disorders will be discussed.  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4333",
+            "course_name": "Neonatal Critical Care",
+            "course_desc": "This course will provide the Respiratory Care student with advanced knowledge on the management of the neonatal patient in the critical care environment. The course will expose the student to advanced therapeutics and mechanical ventilation strategies. Course content will prepare the student for the role of neonatal specialist.   Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 4334",
+            "course_name": "Adult Critical Care",
+            "course_desc": "This course provides professional enrichment for practitioners with a conceptual foundation for adult critical care medicine. The course will provide an in-depth presentation of advanced respiratory therapy therapeutics and procedures caring for adults in the intensive care unit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5211",
+            "course_name": "Polysomnography Instrumentation",
+            "course_desc": "Designed to teach the function, operation, and design of electroneurodiagnostic equipment. Monitoring devices, electrode application, and patient connection will be covered in detail. Prerequisite: Instructor approval.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5214",
+            "course_name": "Sleep Staging and Diagnostics",
+            "course_desc": "Advanced study of waveform characteristics and montage development, filters, and PSG electronics. Signal pathways, reference electrodes, impedance checking and filter settings in calibration waves will be covered. Prerequisite: Instructor approval.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5215",
+            "course_name": "Clinical Polysomnography-Sleep Staging",
+            "course_desc": "Advanced clinical education in sleep staging rules, light, delta and REM sleep scoring and analysis. EEG, EMG, ECG and respiratory events will be discussed in depth and are components of the polysomnogram report. A research project and presentation will be assigned by the faculty. Prerequisite: Instructor approval.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5301",
+            "course_name": "Advanced Cardiopulmonary  Physiology",
+            "course_desc": "An in-depth study of cardiovascular and respiratory physiology. This course investigates pathologic physiological changes, adaptive mechanisms, and interrelationships of the cardiopulmonary systems. Students will apply advanced cardiopulmonary physiology to the management of patients requiring respiratory care services.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5302",
+            "course_name": "Clinical Practice Guidelines and Respiratory Care Protocols",
+            "course_desc": "An examination of the roles of clinical practice guidelines and protocols in the continuum of patient care. Analysis of the development, modification, initiation, and evaluation of patient outcomes will be covered. Barriers to protocol practice and strategies for implementation will be explored. Evidence-based outcomes will be summarized through literature reviews.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5303",
+            "course_name": "Respiratory Care Research Methods and Design",
+            "course_desc": "Provides an in-depth study of medical research including evaluation of published, peer-reviewed research designs. Students examine research articles and evaluate evidence-based research findings. Topics include: research ethics, sampling and research design, test statistics, conclusions, and practical verses statistical significance. Students will explore research protocol development, research proposals, and project management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5304",
+            "course_name": "Cardiopulmonary Disease Patient Education",
+            "course_desc": "A comprehensive study of patient education and self-management  of  cardiopulmonary  disease  exacerbations  including disease information, prevention and treatment. Programs for patient self-assessment , treatment efficiency, adjustment of drug regimen, behavior modification, and nicotine addiction will be examined. Methods for documenting outcomes and patient behavior\nmodification will be covered.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5305",
+            "course_name": "Respiratory Care Applied Research",
+            "course_desc": "This course offers an opportunity to apply research methods and design concepts. Students will design and submit a research proposal to the Texas State University's Institutional Review Board (IRB) for approval. Prerequisite: RC 5303 with a grade of \"B\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5306",
+            "course_name": "Academic Leadership in Respiratory Care",
+            "course_desc": "Introduction to the foundations necessary to build a strong understanding of academic administration, fiscal planning, curriculum development, and outcomes assessment for respiratory therapist programs. Topics include preparation of annual accreditation reports, organization of clinical practice rotations, the role of advisory committees, and integration of didactic, laboratory, and clinical experiences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5307",
+            "course_name": "Advanced Respiratory Care Seminar",
+            "course_desc": "In-depth discussion of topics related to current issues and trends in the profession and the impact on patient care services. Includes journal review, group discussion, project development, and online presentation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5308",
+            "course_name": "Advanced Cardiopulmonary Diagnostics and Therapeutics",
+            "course_desc": "An overview of advanced cardiopulmonary diagnostic and therapeutic procedures addressing selected disorders including asthma, chronic obstructive lung diseases, restrictive lung diseases, pulmonary edema, congestive heart failure, and cardiac disorders. International disease standards and classifications established by the World Health Organization with appropriate treatment protocols will be discussed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5309",
+            "course_name": "Advanced Respiratory Care Practice",
+            "course_desc": "This course is an exploration of advanced Respiratory Care topics to optimize practice in the healthcare environment. The course will address best practice recommendations and evidence-based research to enhance and expand the role of respiratory therapists. Topics will be presented through a translational medicine lens to bridge the gap between theory and practice.  Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5310",
+            "course_name": "Fundamentals of Polysomnography",
+            "course_desc": "Introduction to the physiology of sleep, including sleep neurology, sleep architecture, and classification of sleep disorders. Review of basic cardiac physiology and ECG arrhythmia recognition. Sleep pathologies will be discussed according to etiology, pathophysiology, symptoms, diagnosis, treatment, and prognosis. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5311",
+            "course_name": "Advanced Mechanical Ventilation Practice",
+            "course_desc": "This course is an exploration of advanced mechanical ventilation in the acute care setting. This course will consist of in-depth review of current and emerging mechanical ventilation strategy and protocol. Mechanical ventilation content will be focused on invasive and non-invasive support mechanisms with a goal of bridging theory and practice. Evidence-based research, patient case studies, and video waveform analysis will be used to reinforce learning. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5313",
+            "course_name": "Polysomnographic Therapeutic Intervention",
+            "course_desc": "In-depth study of the treatments available for sleep apnea including, CPAP, BiPAP, oxygen therapy, patient adjunctive fitting, surgical intervention, and the role of the sleep tech in titration. Special attention will be given to titration algorithms, nocturnal seizure disorder studies, REM behavior disorder studies, MSLTs, and MTWs. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RC 5316",
+            "course_name": "Respiratory Care Curriculum Development",
+            "course_desc": "This course prepares the respiratory therapist for a role as an educator in an academic and industry setting. The course focuses on building foundational knowledge of respiratory care curriculum and instruction. Topics include adult learning theory, writing objectives, online and in-person instruction, exam preparation, item analysis, and providing feedback. National organization curriculum recommendations will be integrated into the course content.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

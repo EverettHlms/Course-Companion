@@ -1,0 +1,102 @@
+{
+    "name": "Health Sciences",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/hs/",
+    "courses": [
+        {
+            "course_code": "HS 1310",
+            "course_name": "Introduction to Health Professions",
+            "course_desc": "This course introduces students to various healthcare fields and their roles as health care providers.  Students will examine the history of the respective fields, educational and credentialing requirements, job functions, perspective job outlooks and salaries.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HS 3331",
+            "course_name": "Healthcare Systems In The US",
+            "course_desc": "This course provides students with the knowledge and skill related to access and barriers to healthcare.  Additionally, the healthcare providers role in past and current health policy and healthcare delivery will be emphasized. Evaluation of quantitative global and U.S. healthcare data in relation to healthcare systems and evidence-based practices will be analyzed. Ethical topics will be discussed. This course is for non-nursing majors.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HS 3350",
+            "course_name": "Foundations in Interprofessional Education and Collaborative Practice",
+            "course_desc": "This course introduces students to the foundational principles of interprofessional education and collaborative practice in healthcare. Students will examine the history, purpose, and best practices of team-based client and patient care, including the enabling, reinforcing, and interfering factors related to interprofessional education and practice. (WI) Prerequisite: [HA 3308 or HI 3301] and HS 1310 all with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HS 3374",
+            "course_name": "Principles of Accounting for Healthcare Managers",
+            "course_desc": "This course provides an introduction to accounting useful in healthcare facilities and agencies, and demonstrates the application of accounting principles and techniques in the healthcare field.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HS 4300",
+            "course_name": "International Healthcare and Wellness",
+            "course_desc": "This course provides an introduction to the culture of a foreign country, with an emphasis on wellness, the health care environment, and language in the healthcare setting. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HS 4315",
+            "course_name": "Capstone for Bachelor of Science in Health Sciences",
+            "course_desc": "This course will provide students with the opportunity to reflect on their studies as a whole and explore how they will use the knowledge they have obtained in their future career.  Students will investigate career opportunities available to them after graduation and develop professional skills to ensure success post-graduation.  Prerequisite: HS 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HS 4327",
+            "course_name": "Legal Concepts of Healthcare",
+            "course_desc": "This course provides an overview of legal, regulatory, and ethical issues in healthcare.  Topics include patient consent, privacy, confidentiality, torts, contract law, corporate liability, employment, labor, malpractice, antitrust, fraud and abuse, and key federal regulations. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HS 4379",
+            "course_name": "Introduction to Financial Management for Health Sciences",
+            "course_desc": "This course is designed to prepare health professionals for managerial positions in healthcare organizations by providing sufficient knowledge of industry financial matters so they can provide input to the organization's chief executive officer.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HS 5200",
+            "course_name": "International Healthcare and Wellness",
+            "course_desc": "This course provides an introduction to the culture of a foreign country, with an emphasis on wellness, the healthcare environment, and language in the healthcare setting. Prerequisite: Instructor approval.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HS 5315",
+            "course_name": "Principles of Healthcare Finance for Clinical Leaders",
+            "course_desc": "This course is designed to prepare allied health professionals in a leadership degree program for managerial positions in healthcare organizations by providing sufficient knowledge of industry financial matters so they can provide input to the organization's chief executive officer.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HS 7200",
+            "course_name": "International Healthcare and Wellness",
+            "course_desc": "This course provides an introduction to the culture of a foreign country, with an emphasis on wellness, the healthcare environment, and language in the healthcare setting. Prerequisite: Instructor approval.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HS 7356",
+            "course_name": "Policy Development in the Healthcare Arena",
+            "course_desc": "Students will analyze changing healthcare paradigms to determine decision-points where policies can be affected. Course allows students to apply existing skills to real world policy issues at state and national levels and to analyze policy development from numerous stakeholders viewpoints.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

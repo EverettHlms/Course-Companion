@@ -1,0 +1,230 @@
+{
+    "name": "School Psychology",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/spsy/",
+    "courses": [
+        {
+            "course_code": "SPSY 5178",
+            "course_name": "Independent Study",
+            "course_desc": "This course includes individual problems or research topics designed to place emphasis on selected areas of study.  It may be repeated for additional credit at the discretion of the department chair.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SPSY 5181",
+            "course_name": "Independent Study",
+            "course_desc": "This course provides an opportunity for individual work on problems or research topics of interest to the student and relevant to the field of school psychology. Course may be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SPSY 5281",
+            "course_name": "Independent Study",
+            "course_desc": "This course provides an opportunity for individual work on problems or research topics of interest to the student and relevant to the field of school psychology. Course may be repeated twice for credit.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SPSY 5300",
+            "course_name": "Interviewing, Counseling, and Consulting in School Psychology",
+            "course_desc": "This course includes acquisition of skills for conducting interviews, counseling, consulting, and collaborating with children, adolescents, and adults. The emphasis is upon the development of basic communication skills that can be applied by the school psychologist in a variety of multicultural contexts, with an emphasis on family-school collaboration. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5355",
+            "course_name": "Assessment of Culturally and Linguistically Diverse Students",
+            "course_desc": "This course will focus on the psychoeducational assessment of students from culturally and linguistically diverse backgrounds for purposes of special education eligibility and for instructional decision making. A major emphasis is placed on learning nonbiased assessment methods and procedures to assess language proficiency, intelligence, academic skills and personality-behavioral functioning. (MULT) Restricted to students in the School Psychology SSP Program. Prerequisite: SPSY 5394 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5356",
+            "course_name": "Psycholinguistics of Second Language Acquisition",
+            "course_desc": "This course will focus on the linguistic and psycholinguistic underpinnings of the bilingual brain. It will provide a comprehensive introduction to the foundations of bilingualism, covering language processing, and language acquisition. Topics will include simultaneous and sequential bilingualism, language selection and switching, cognitive consequences of bilingualism, and the bilingual brain. Prerequisite: SPSY 5355 and SPSY 5394 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5360",
+            "course_name": "Crisis Prevention, Intervention, and Response in the Schools",
+            "course_desc": "This course provides access to core knowledge related to fostering school safety and healthy learning environments, preventing school violence, preparing for crisis events that may impact the school community, and responding to school crises. It emphasizes research that informs best practices and provides fundamental information to promote leadership on school safety teams.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5376",
+            "course_name": "Psychoeducational Assessment",
+            "course_desc": "This  course  is  designed  to  teach  the  selection,  administration,  scoring,  and  interpretation of selected standardized, individual tests of general intelligence and achievement for children and dolescents of varying abilities and from diverse racial/ethnic and linguistic backgrounds. The main focus of the course is on theories and measurement of intelligence and academic abilities, the administration and interpretation of selected tests, integrated report writing, and the development of recommendations to address limitations and strengths. (MULT)  Prerequisites: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5377",
+            "course_name": "Social, Emotional, and Behavioral Assessment",
+            "course_desc": "This course covers the evaluation of personality, mental status, and behavior. This includes the theoretical bases, construction, administration, scoring, and interpretation of structured and projective personality tests with integrative report writing emphasizing the assessment of emotional disturbance and behavior disorders. Prerequisite: SPSY 5376 with a grade of a \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5378",
+            "course_name": "Problems - School Psychology",
+            "course_desc": "This course includes individual problems not related to thesis or research problems. It is designed to place emphasis on selected areas of study.  It may be repeated for credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5379",
+            "course_name": "Prevention and Treatment of Child and Adolescent Psychological Disorders: Individual, Group, and Sch",
+            "course_desc": "This course is an advanced investigation into the prevention and treatment of child and adolescent psychopathology. This course includes features of common childhood psychological disorders and empirically based strategies for preventing and treating these disorders. This course will cover individual, group, and schoolwide techniques by emphasizing culturally responsive Cognitive Behavioral Therapy (CBT), Acceptance and Commitment Therapy (ACT), and Social and Emotional Learning (SEL) approaches. Prerequisite: SPSY 5377 and SPSY 5380 both with grades of a \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5380",
+            "course_name": "Individual and Group Counseling Techniques for School Psychology",
+            "course_desc": "This course focuses on the acquisition and practice of techniques used in counseling interventions with children and adolescents in school settings. Individual and group counseling techniques are emphasized, along with a review and refinement of techniques for interviewing and consulting with parents. (MULT) Prerequisite: SPSY 5300 with a grade of a \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5381",
+            "course_name": "Independent Study",
+            "course_desc": "This course provides opportunity for individual work on problems or research topics of interest to the student and relevant to the field of school psychology. Course may be repeated once for credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SPSY 5385",
+            "course_name": "Ethics, Standards, and Procedures in Professional School Psychology",
+            "course_desc": "This course includes the presentation of historical foundations, role and functions, and procedures used by psychologists in the school setting. Emphasis includes ethical and legal issues, professional standards, state and federal law, and organization and operation of the schools as applied to the mental health and education of exceptional learners. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5386",
+            "course_name": "Consultation and Professional Issues in School Psychology",
+            "course_desc": "This course presents models of consultation as they apply to the professional development and ethical position of the school psychologist. The course emphasizes the consultative role in relation to school administrators, guidance and counseling personnel, teachers, parents, students, and referral sources. (MULT)  Prerequisite: SPSY 5300 and SPSY 5385 both with grades of \"B\" or better.  Corequisite: SPSY 5389 with a grade of \"CR\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5387",
+            "course_name": "Data-Based Decision-Making in Evaluation and Intervention",
+            "course_desc": "This course covers advanced techniques for assessment of special populations, including early childhood, and integration of information from a variety of sources for the development of educational interventions. A problem solving approach that focuses on linking evaluation and intervention processes will be utilized throughout the course. (MULT)  Prerequisite: SPSY 5376 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5388",
+            "course_name": "Psychometrics for School Psychologists",
+            "course_desc": "This course covers measurement theory and applications for school psychologists. Topics include the statistical foundations of psychological measurement, interpretation of standardized scores, test development, reliability, validity, factor analysis, and bias and fairness in testing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5389",
+            "course_name": "Practicum in School Psychology",
+            "course_desc": "Three practicum experiences occur in a school or agency setting with supervision by on-site and university supervisor. This course must be repeated for a total of nine credit hours. (MULT)  Prerequisite: SPSY 5376 and SPSY 5385 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SPSY 5390",
+            "course_name": "Applied Behavior Analysis for School Psychologists",
+            "course_desc": "This course will cover behavior-analytic assessment strategies and intervention techniques used to prevent and address challenging behavior and teach prosocial behaviors that support successful academic functioning of students with and without disabilities. The primary goal for the course is for learners to become familiar with the role of school psychologists in conducting functional behavior assessments and utilizing that information to develop individualized plans to meet the needs of different learners. Prerequisite: SPSY 5387 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5391",
+            "course_name": "Research Seminar",
+            "course_desc": "This course provides students with knowledge of the nature and techniques of social science research.  Students will develop research literacy through critical reading and examination of both quantitative and qualitative research.  Additional emphasis is given to the relationship and application of science to professional practice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5394",
+            "course_name": "Multicultural Issues in School Psychology",
+            "course_desc": "The course provides a broad overview of the psychosocial, psychoeducational and multicultural issues surrounding the delivery of psychoeducational services to students in school systems. The course will help the student develop cross-cultural sensitivity when conducting assessments, providing consultation and performing other interventions. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5395",
+            "course_name": "Basic Psychopharmacology",
+            "course_desc": "This course introduces  knowledge of psychopharmacology with children and adolescents, including brain-behavior relationships, psychopathology, and research methods, with application to childhood disorders for which medication is often prescribed. Emphasis is placed on informed consultation with parents, teachers, and medical professionals regarding children prescribed psychotropic medications. Prerequisite: SPSY 5300 and SPSY 5376 and SPSY 5377 and SPSY 5382 and SPSY 5385 all with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5396",
+            "course_name": "Biological Bases of Behavior",
+            "course_desc": "This course covers atypical disorders of brain development or function, particularly those likely to be encountered in the practice of school psychology. It includes an overview of neuropsychological and other tests with emphasis on development of a comprehensive assessment and intervention model through interpretation and critique or case studies. Prerequisite: SPSY 5376 and SPSY 5377 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5398",
+            "course_name": "Alternative Evaluation, Intervention, and Student Outcomes",
+            "course_desc": "This course introduces students to the practice of curriculum based assessment in the context of a problem solving model of psychological services in the schools.  Lectures, assignments, and activities develop competencies in the areas of non-traditional assessment, development of academic interventions, and the evaluation of student outcomes. Prerequisite: SPSY 5387 with a grade of B or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 5399B",
+            "course_name": "Essentials for the Assessment of Autism",
+            "course_desc": "This course will focus on evidence-based practices in the assessment of autism spectrum disorder. This is an experiential course in which students will apply relevant assessment skills under faculty supervision in a clinic-based setting [i.e., Clinic for Autism Research, Evaluation and Support (CARES)]. Prerequisite: SPSY 5376 and SPSY 5377 and SPSY 5388 and SPSY 5387 all with grades of a B or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SPSY 5399C",
+            "course_name": "Fostering Self-Care and Wellness in School Communities",
+            "course_desc": "This course will cover experiential strategies for promoting self-care and wellness among school professionals (e.g., school psychologists, administrators, school counselors, teachers). Students will become familiar with the literature on stress and burn-out among educators and the empirically based strategies for promoting emotional, physical, and mental well-being. In this course, students will engage in a wellness assessment, identify wellness goals, and implement personal self-care strategies throughout the course. Students will also work together to develop individual, social, and systemic plans for integrating self-care and wellness practices in their school communities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPSY 6301",
+            "course_name": "Professional Internship in School Psychology",
+            "course_desc": "Professional internship may be a continuation of the supervised school based experience or a placement in an appropriate alternative setting with supervision by a licensed psychologist. A minimum of 600 clock hours of experience is required. Prerequisite: SPSY 5389 with a grade of \"CR\" or better and a grade of B or better in all SPSY program coursework.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SPSY 6302",
+            "course_name": "Professional Internship in School Psychology",
+            "course_desc": "Professional internship may be a continuation of the supervised school based experience or a placement in an appropriate alternative setting with supervision by a licensed psychologist. A minimum of 600 clock hours of experience is required. Prerequisite: SPSY 5389 with a grade of \"CR\" or better and grades of B or better in all SPSY program coursework.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

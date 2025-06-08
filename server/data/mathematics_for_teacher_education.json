@@ -1,0 +1,70 @@
+{
+    "name": "Mathematics for Teacher Education",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/mte/",
+    "courses": [
+        {
+            "course_code": "MTE 5301E",
+            "course_name": "Visual Models for Middle School Mathematics",
+            "course_desc": "This course uses visual models to motivate understanding of the fundamental concepts underlying middle school mathematics. Pedagogical techniques to engage middle school students will also be addressed including inquiry-based\ninstructional methods utilizing these visual models.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MTE 5301F",
+            "course_name": "Implementing New Mathematics Curriculum",
+            "course_desc": "In this course we will investigate the keys to successfully implementing new curriculum. Two main aspects considered are: 1) the mathematical content knowledge required for a new curriculum and 2) how to build a community of\npractice which provides support during the implementation process.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MTE 5301G",
+            "course_name": "Mathematics for Teaching",
+            "course_desc": "A study of the current trends and topics found in the secondary school mathematics curriculum taught from an advance perspective. Course context will be flexible and topics will be selected on the basis of student needs and interests.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MTE 5302A",
+            "course_name": "Quantitative Reasoning",
+            "course_desc": "This course covers current pedagogy, curriculum, and methods related specifically to the teaching of middle school mathematics. Some of the topics explored are curriculum theory, instructional theory, learning theory, problem solving, national and state standards and assessment, discovery learning, assessment methods, manipulative, and technology in the classroom.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MTE 5313",
+            "course_name": "Geometry and Measurement",
+            "course_desc": "This course will focus on using spatial reasoning to investigate the concepts of direction, orientation, shape and structure; using mathematical reasoning\nto develop and prove geometric relationships; using logical reasoning and proof in relation to the axiomatic structure of geometry; using measurement of geometry concepts to solve real-world problems. 5315 Algebraic Reasoning. (3-0) This course will focus on using algebraic reasoning to.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MTE 5315",
+            "course_name": "Algebraic Reasoning",
+            "course_desc": "This course will focus on using algebraic reasoning to investigate patterns, make generalizations, formulate mathematical models, and make predications;\nusing properties, graphs, and applications of relations and function to analyze, model and solve problems; and making connections among geometric, graphic, numeric and symbolic representation of functions and relations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MTE 5321",
+            "course_name": "Probability and Statistics",
+            "course_desc": "This course will deal with using graphical and numerical techniques to explore date, characterize patterns, and describe departures from patterns; designing experiments to solve problems; understanding the theory of probability and its relationship to sampling and statistical inference and its use in making and evaluating predication. Prerequisite: MTE 5315 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MTE 5323",
+            "course_name": "Logic and Foundations of Mathematics",
+            "course_desc": "This course will consist of an introduction to fundamental mathematical structures and techniques of proof. Topics will include: logic, set theory, number theory, relations, and functions. Emphasis will be placed on communication about mathematics and construction of well-reasoned explanations. Prerequisite: MTE 5313 and MTE 5319 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

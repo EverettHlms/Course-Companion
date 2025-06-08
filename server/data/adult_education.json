@@ -1,0 +1,342 @@
+{
+    "name": "Adult Education",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/aded/",
+    "courses": [
+        {
+            "course_code": "ADED 4321",
+            "course_name": "Introduction to Adult Learning",
+            "course_desc": "This course will cover a range of topics of interest to professionals working with adult learners in a variety of settings, including characteristics and motivations of adult learners, theories of adult learning and intelligence, and modes of adult cognitive and psychosocial development. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 4322",
+            "course_name": "Foundations of Human Resources Development",
+            "course_desc": "This course examines the primary role of human resources development in the organization to help people and organizations effectively manage change. It focuses on strategies for implementing training and organizational development efforts that positively impact the performance of the individual and the work group. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 4325",
+            "course_name": "Methods for Teaching Adults",
+            "course_desc": "This course addresses methods and techniques for effective instruction of adults across a variety of settings and content. Emphasis is on concepts, theories, and principles relevant to the selection, use, and evaluation of instructional strategies. Participants will have an opportunity to practice strategies that expand their teaching repertoire. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 4330",
+            "course_name": "Adult Education Program Planning and Management",
+            "course_desc": "This course introduces skills and concepts needed to plan, evaluate, and manage adult education programs within various settings. This course addresses principles and procedures, utilization of assessment, goal setting, and other effective strategies for developing learning opportunities and programs responsive to human, professional, and community needs. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 4343",
+            "course_name": "Organization Development",
+            "course_desc": "This course addresses a range of topics, including the effects of change, methods of organizational change, and factors influencing organizational development success. Students learn the roles of internal and external organizational development consultants and the tools and processes for helping organizational members identify problems, gather and analyze information, and implement solutions. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 4345A",
+            "course_name": "Applied Linguistics for ESL/EFL Teachers of Adults",
+            "course_desc": "This course is designed to provide language students an introduction to the elements of the English language as applied to the teaching of ESL in adult settings; specifically, the course covers English syntactic structure, morphology, and phonology. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 4384",
+            "course_name": "Internship in Human Resource Development",
+            "course_desc": "This course requires an 80-hour internship as well as reflexive writing activities connecting internship experiences to content from previous courses. The experience will involve orientation to the roles, responsibilities, and functions of professionals in human resource development. Prerequisite: [ADED 4325 and ADED 4330] OR [ADED 4325 and 4322] OR [ADED 4325 and ADED 4343] OR [ADED 4330 and 4322] OR [ADED 4330 and ADED 4343] OR [ADED 4322 and ADED 4343] with grades of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ADED 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ADED 5314",
+            "course_name": "Community Development for Educators",
+            "course_desc": "Educators in community organizations and higher education will develop a theoretical and practical understanding of the role of learning, teaching, and leading within a community development framework. They will develop an awareness of self as change agent and community builder, as well as the importance of tapping into community assets.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5321",
+            "course_name": "Adult Learning and Development",
+            "course_desc": "This seminar will cover a range of topics of interest of professionals working with adult learners in a variety of settings, including characteristics and motivations of adult learners; theories of adult learning and intelligence; modes of adult cognitive and psychosocial development.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5322",
+            "course_name": "Human Resources and Professional Development",
+            "course_desc": "This course examines the primary role of human resources development in the organization to help people and organizations effectively manage change. It focuses on strategies for implementing training and organizational development efforts that positively impact the performance of the individual and the work group.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5325",
+            "course_name": "Teaching Adults: Principles and Practices",
+            "course_desc": "This seminar addresses methods and techniques for effective instruction of adults across a variety of settings and content. The emphasis is on concepts, theories, and principles relevant to the selection, use, and evaluation of instructional strategies. Participants will have an opportunity to practice strategies that expand their teaching repertoire.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5330",
+            "course_name": "Planning, Evaluating, and Managing Programs in Adult Education",
+            "course_desc": "This seminar course introduces skills and concepts needed to plan, evaluate, and manage adult education programs within various settings. This course addresses principles and procedures, utilization of assessment, goal setting, and other effective strategies for developing learning opportunities and programs responsive to human, professional, and community needs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5334",
+            "course_name": "Family Literacy",
+            "course_desc": "Family literacy is an intergenerational program that integrates adult literacy and emergent literacy education. This course will provide students with the knowledge and abilities to manage family literacy program. Students will analyze related learning theories, population needs, program structures, and policy issues, including diversity and accountability.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5335",
+            "course_name": "Applied Research in Adult Education",
+            "course_desc": "An examination of purpose, principles, and methods of current research in adult education. Quantitative, qualitative, and mixed methods research design will be investigated as used in applied research including action research, evaluation research, and needs assessment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5337",
+            "course_name": "Adult Literacy",
+            "course_desc": "The course is designed to provide students with a broad foundation about the needs of undereducated adults, including adult English language learners. Students will analyze and evaluate adult literacy legislation, instruction, research, and delivery systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5338",
+            "course_name": "Applied Linguistics for ESL Teachers of Adults",
+            "course_desc": "This course is designed to provide language teachers a practical introduction to the elements of the English language as applied to the teaching of ESL in adult settings; specifically, the course covers English syntactic structure, morphology, and phonology. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5339",
+            "course_name": "Adult Literacy ESL Assessment and Evaluation",
+            "course_desc": "This course is an introduction to assessment of adult students with emphasis on literacy and ESL populations. It is an overview of assessment constructs and social and historical movements in student literacy assessment and evaluation traditional assessment and evaluation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5340",
+            "course_name": "Adult Second Language Acquisition",
+            "course_desc": "This course covers topics related to contemporary adult second language acquisition practices. It also examines the complexities of adult second language acquisition and the ways in which limited English-proficient adults learn more efficiently. Class readings and projects address a variety of issues dealing with adult second language acquisition.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5342",
+            "course_name": "Adult ESL Methods and Materials",
+            "course_desc": "This course reviews traditional and contemporary adult language teaching methodologies. It focuses on the design of lessons that integrate listening, speaking, reading, writing, culture and all language skills. This course provides strategies for choosing, adopting, and adapting textbooks that integrate teaching material appropriate to different adult language learning settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5343",
+            "course_name": "Organizational Learning and Development",
+            "course_desc": "The course addresses a range of topics, including the effects of change, methods of organizational change, and factors influencing organizational development success. Students learn the roles of internal and external organizational development consultants, tools and processes for helping organizational members identify problems, gather and analyze information, and implement solutions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5344",
+            "course_name": "Multicultural Perspectives in Postsecondary Education and Adult Education",
+            "course_desc": "This seminar covers a broad range of topics related to diversity within postsecondary and adult education. Course readings and projects relate to a wide variety of settings including colleges and universities, adult literacy programs, the workplace, and community-based organizations. Students taking ADED 5344 may not take ADED 7344 for doctoral level credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5345",
+            "course_name": "Current Issues in Adult, Continuing and Professional Education",
+            "course_desc": "A seminar style course focusing on current issues in continuing and professional education including research and professional practice. Specific emphasis will vary depending on changes in contemporary issues. Students taking ADED 5345 may not take ADED 7345 for doctoral level credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5346",
+            "course_name": "Adult and Nontraditional Students in Higher Education",
+            "course_desc": "This seminar focuses on the \"nontraditional student\" in higher education, with emphasis on undergraduates 25 and older. Also considered are other nontraditional students facing similar challenges to participation in higher education. Topics include student characteristics, motivations, barriers, persistence, and outcomes as well as institutional and programmatic responses to this population.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5357",
+            "course_name": "Advanced Studies in Action Research",
+            "course_desc": "This course examines underlying theory, practice, skills, and issues in action research. Students will be introduced to various educational research methods used in action research and review the components and processes of action research. They will develop a plan for an action research project focused on a specific educational problem.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5364",
+            "course_name": "Team Development in Education",
+            "course_desc": "This course addresses the development and use of educational teams to improve educational organizations, teaching, and learning. Team development instruction focuses on managing teams, identifying leadership roles. Study topics include: the importance of shared leadership, product teams, and team decision-making.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5378",
+            "course_name": "Problems in Adult Education",
+            "course_desc": "This course is designed to examine topical problems faced by practitioners in adult education. The topic of the course may change. Course may be repeated for credit with different topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5379",
+            "course_name": "Independent Study",
+            "course_desc": "Individual problems or research topics designed to place emphasis on selected areas of study. May be repeated once for additional credit at the discretion of the department chair.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5382",
+            "course_name": "Foundations of Adult Education",
+            "course_desc": "This course will provide an overview of the field of adult education in its various forms and settings. Topics include (1) historical origins of adult education as a field of study and practice, (2) philosophical perspectives, (3) organization and delivery of adult education, and (4) emerging developments and issues in the profession.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 5384",
+            "course_name": "Internship in Adult Education",
+            "course_desc": "This course is an 80-clock hour internship is required of all Adult Education majors. The experience involves instruction and/or administration in an adult education setting and includes orientation to the roles, responsibilities, and functions of professionals in adult education.    Prerequisite: ADED 5321 and ADED 5330 and ED 7324 and ADED 7325 all with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ADED 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in Adult Education 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ADED 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ADED 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ADED 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ADED 7325",
+            "course_name": "Teaching Adults: Principles and Practices",
+            "course_desc": "Seminar that addresses methods and techniques for effective instruction of adults across a variety of settings and content. Emphasis on concepts, theories, and principles relevant to the selection, use, and evaluation of instructional strategies. Participants will have an opportunity to practice strategies that expand their teaching repertoire.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 7337",
+            "course_name": "Adult Literacy",
+            "course_desc": "This course is designed to provide students with a broad foundation about the needs of undereducated students with a broad foundation about the needs of undereducated adults, including adult English language learners. Students will analyze and evaluate adult literacy legislation, instruction , research, and delivery systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 7342",
+            "course_name": "Adult ESL Methods and Materials",
+            "course_desc": "This course reviews traditional and contemporary adult language teaching methodologies. It focuses on the design of lessons that integrate listening, speaking, reading, writing, culture and all language skills. This class provides strategies for choosing, adopting, and adapting textbooks that integrate teaching material appropriate to different adult language learning settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 7343",
+            "course_name": "Organizational Learning and Development",
+            "course_desc": "The course addresses a range of topics, including the effects of change, methods of organizational change, and factors influencing organizational development success. Students learn the roles of internal and external organizational development consultants, tools and processes for helping organizational members identify problems, gather and analyze information, and implement solutions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 7344",
+            "course_name": "Multicultural Perspectives in Postsecondary Education and Adult Education",
+            "course_desc": "This seminar covers a broad range of topics related to diversity within postsecondary and adult education. Course readings and projects relate to a wide variety of setting including colleges and universities, adult literacy programs, the workplace, and community based organizations. Students who have completed ADED 5344 may not take this course for doctoral credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 7345",
+            "course_name": "Current Issues in Adult, Continuing and Professional Education",
+            "course_desc": "A seminar style course focusing on current issues in continuing and professional education including research and professional practice. Specific emphasis will vary depending on changes in contemporary issues. Students who have completed ADED 5345 may not take this course for doctoral credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ADED 7346",
+            "course_name": "Adult and Nontraditional Students in Higher Education",
+            "course_desc": "This seminar focuses on the \"nontraditional student\" in higher education, with emphasis on undergraduates 25 and older. Also considered are other nontraditional students facing similar challenges to participation in higher education. Topics include student characteristics, motivations, barriers, persistence, and outcomes as well as institutional and programmatic responses to this population.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

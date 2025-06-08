@@ -1,0 +1,222 @@
+{
+    "name": "Religion",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/rel/",
+    "courses": [
+        {
+            "course_code": "REL 1300",
+            "course_name": "World Religions",
+            "course_desc": "This course is a survey and comparative study of some of the major religious traditions and practices of the world including Judaism, Christianity, Islam, Hinduism, Buddhism, Taoism, Confucianism, and the Indigenous Religions. Students learn to analyze problems from different perspectives, and gain skills useful for working with diverse populations. Recommended as an entry course for religious studies minors. (MULT)(WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 2310",
+            "course_name": "Introduction to the Hebrew Bible",
+            "course_desc": "An introduction to the contemporary academic study of the Hebrew Bible (Old Testament) and related Near Eastern and Second Temple Jewish literature. Representative texts will be examined using the historical and literary methods of scholarship. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 2315",
+            "course_name": "Introduction to the New Testament",
+            "course_desc": "An introduction to the contemporary academic study of the New\nTestament, including apocryphal and post-canonical works.\nRepresentative texts will be examined using the historical\nand literary methods of scholarship.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 2321",
+            "course_name": "Founders, Prophets and Saints",
+            "course_desc": "Critical analysis of the life, works, and thought of a major religious figure, e.g., Jesus, Paul, Luther, St. Teresa, Maimonides, the Baal Shem Tov, Mohammad, al-Ghazzali, Rumi, Buddha, Gandhi. May be repeated for credit. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 2330",
+            "course_name": "What is Religion?",
+            "course_desc": "In this course, students examine different theories and claims about what religion is and does. Participants examine competing views and approaches to see what is persuasive. Students are introduced to methodologies in religious studies, learn to analyze problems from different perspectives, develop critical thinking competencies, and gain skills useful for working with diverse populations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 2350",
+            "course_name": "Mediterranean and European Religions",
+            "course_desc": "This course is a survey of religions that originated in the Near East, Mediterranean, and Europe, with emphasis on the ancient to medieval periods. The course includes Judaism, Christianity, and Islam, in the contexts of Egyptian, Persian, Greco-Roman, and old European traditions. Students learn to analyze problems from different perspectives, and gain skills useful for working with diverse populations. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 2360",
+            "course_name": "Asian Religious Traditions",
+            "course_desc": "This course is a survey of the major religious traditions originating in Asia: Hinduism, Buddhism, Taoism, and others. Basic doctrines and practices will be covered in an historical framework. Students learn to analyze problems from different perspectives, and gain skills useful for working with diverse populations. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3320",
+            "course_name": "Judaism",
+            "course_desc": "This course surveys the history, practices, core texts, and major movements of Rabbinic Judaism, from the destruction of the Second Temple to the contemporary global scene. Some attention is also given to earlier Israelite religion, dissident movements, mysticism, and Jewish communities beyond the Euro-American zone.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3330",
+            "course_name": "Religious Controversy in America",
+            "course_desc": "Students in this course analyze religious controversies and crises in America from the colonies to the present in order to interpret the role of religion in American history, culture, law, and politics. Topics include the Salem Witch Trials, the Jim Jones massacre, and Ten Commandments monuments on government property.  Students develop communication competencies and learn to critically interpret data (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3335",
+            "course_name": "Cults and New Religious Movements",
+            "course_desc": "This course investigates New Religious Movements (NRMs) primarily within the contemporary American context. Controversial and emerging religions can be approached from many angles. Accordingly, the course introduces students to a variety of theoretical perspectives and approaches for studying NRMs. Students are encouraged to develop communication competencies and to learn to critically interpret data (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3340",
+            "course_name": "Religion, Literature, and the Arts",
+            "course_desc": "The course features a thematic selection of literary and artistic works in order to examine the connections and disconnections between the aesthetic and religious aspects of human culture. Students develop communication competencies. May be taken twice for credit with different topics. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3342",
+            "course_name": "The Homeric Epic: The Illiad and the Odyssey",
+            "course_desc": "A close reading of the Iliad and the Odyssey in English translation,\nwith emphasis on philosophical and religious issues.\nProminent topics include the gods, religious rituals, heroic\nethics, and the human condition. The course also considers\nthe concept of a classic in religion and literature. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3361A",
+            "course_name": "Religion and Film",
+            "course_desc": "This course examines how religions are reflected in film and how films have taken on some of the functions of religion. Students develop communication competencies. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3361B",
+            "course_name": "Mysticism",
+            "course_desc": "This course explores the dimension of mysticism that pervades both Western and Eastern religious traditions. We will analyze the nature of mystical experiences through a study of key figures and texts, and examine its peculiar relationship to language, arts, and human subjectivity and its place in the wider social context. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3361C",
+            "course_name": "Philosophical Issues in Judaism, Christianity, and Islam",
+            "course_desc": "This course provides a comparative perspective on philosophical issues that arise in Judaism, Christianity, and Islam, including the nature of God, reason and revelation, and religious ethics. Readings are drawn from both classical and contemporary sources. Students learn to analyze problems from different perspectives, develop critical thinking competencies, and gain skills useful for working with diverse populations. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3370",
+            "course_name": "Mythology and Cosmology",
+            "course_desc": "This course examines human efforts to address questions of cosmic origins, with a global, comparative survey of cosmogonic (creation) myths and a historical approach to modern cosmology. It examines the features and functions of mythopoetic and scientific thought, and reflects philosophically on questions of origin and meaning. Students gain skills useful for working with diverse populations and learn to analyze problems from different perspectives. May be taken twice for credit with different topics. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3372",
+            "course_name": "Apocalypticism",
+            "course_desc": "An historical-cultural survey of end-of-the-world literature, art, and thought in Western Civilization, from ancient Judaism and Christianity to\nthe present. Historical and scientific methods provide the\nframework for this course. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3381",
+            "course_name": "The Philosophical and Spiritual Heritage of India",
+            "course_desc": "Indian philosophers predominantly present a spiritual, multi-dimensional outlook on the nature of reality and human consciousness; they combine reason, experience, yoga and meditation as methods of inquiry. This course explores Indian spiritual philosophy from the time of the ancient Vedas to the contribution of modern sages. Students gain skills useful for working with diverse populations. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3383",
+            "course_name": "An Introduction to Chinese Religions",
+            "course_desc": "This course examines the religious history of China from 3000 BCE to the present-day. It covers beliefs, practices, and histories of the four major religious communities in ChinaBuddhism, Daoism, Confucianism, and Popular Religionas well as expressions of minority religions in China such as Islam and Christianity.  Students gain skills useful for working with diverse populations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3385",
+            "course_name": "Buddhism",
+            "course_desc": "This course surveys the main ideas, myths, symbols and practices of the diverse forms of Buddhism. Students explore and evaluate the manner in which Buddhist perspectives have influenced social values and arts in the South East and East Asian cultures. Students gain skills useful for working with diverse populations. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3386",
+            "course_name": "Yoga: Principles and Practice",
+            "course_desc": "This course is an in-depth study of the principles and the practice of yoga. Students explore the yogic conception of the mind and the body and how it relates to psychoanalytic and neuroscientific frameworks. Students also examine the parallels between the discipline of yoga and practices in other religious traditions. Students gain skills useful for working with diverse populations and learn to analyze problems from different perspectives.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 3390",
+            "course_name": "Religion, Health, and Embodiment",
+            "course_desc": "This course is a survey of religious beliefs and practices relevant to embodiment, health, disease, disability, aging, and death. The approach is comparative, with non-exclusive emphasis on Jewish and Christian primary material. Students develop critical thinking and communication competencies, and gain skills useful for working with diverse populations. Prerequisite: [PHIL 1305 or PHIL 1320] and REL 1300 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 4300",
+            "course_name": "Advanced Methods in Religious Studies",
+            "course_desc": "This course provides a rigorous grounding in the intellectual tradition of academic religious studies. It includes the major theorists and a sustained examination of the problem of method. This course is strongly urged for RS minors and students intending graduate work in the field. Prerequisite: ANTH 3305 or ANTH 3322 or ANTH 3326 or ANTH 3332 or ANTH 3349 or ANTH 4320 or ARTH 2301 or ARTH 2302 or ENG 3329 or HIST 3312 any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 4388",
+            "course_name": "Issues in Religion",
+            "course_desc": "Independent study of specific topics in religion. Open to students on an individual or small group basis. May be repeated for credit with different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 5300",
+            "course_name": "Advanced Methods in Religious Studies",
+            "course_desc": "This course provides a rigorous grounding in the intellectural tradition of academic religious studies. It includes the major theorists and a sustained examination of the problem of method. The graduate course prepares students to position themselves within the field, construct robust research questions, and apply appropriate methods in their scholarship.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 5365",
+            "course_name": "Philosophical Issues in Judaism, Christianity, and Islam",
+            "course_desc": "A comparative perspective on philosophical issues that arise in Judaism, Christianity, and Islam, including the nature of God, reason and revelation, and religious ethics. Readings will draw on both classical and contemporary sources, in dialogue with the secondary literature and methological issues in religious studies. Prerequisite: PHIL 4300 or PHIL 5300 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "REL 5388",
+            "course_name": "Independent Study",
+            "course_desc": "Independent graduate study of topics in religious studies. Only available with approval of a faculty member. Topics vary. Repeatable for credit with different topics and instructors. Permission of instructor required to enroll. Prerequisite: REL 4300 or REL 5300 either with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

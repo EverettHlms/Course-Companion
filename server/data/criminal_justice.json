@@ -1,0 +1,878 @@
+{
+    "name": "Criminal Justice",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/cj/",
+    "courses": [
+        {
+            "course_code": "CJ 1310",
+            "course_name": "Introduction to Criminal Justice",
+            "course_desc": "History and philosophy of criminal justice: ethical considerations, crime defined, overview of criminal justice system, law enforcement, court system, prosecution and defense, trial process, and corrections.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 2310",
+            "course_name": "Police Systems and Practices",
+            "course_desc": "Police profession: organization of law enforcement systems, the police role, police discretion, ethics, police-community interaction, and current and future issues. Prerequisite: CJ 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 2350",
+            "course_name": "The Courts and Criminal Procedure",
+            "course_desc": "Judiciary in the criminal justice system: structure of American court system, prosecution, right to counsel, pre-trial release, grand juries, adjudication process, types and rules of evidence, and sentencing. Prerequisite: CJ 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 2355",
+            "course_name": "Correctional Systems and Practices",
+            "course_desc": "Corrections in the criminal justice system: organization of correctional systems, correctional role, institutional operations, alternatives to institutionalization, treatment and rehabilitation, and current and future issues. Prerequisite: CJ 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 2360",
+            "course_name": "Fundamentals of Criminal Law",
+            "course_desc": "A study of the nature of criminal law: philosophy and historical developments, major definitions and concepts, classification of crime, elements of crimes and penalties using Texas Statutes as illustrations, and justifications of and defenses to criminal responsibility.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 3300",
+            "course_name": "Juvenile Justice",
+            "course_desc": "A study of the juvenile justice process to include both the specialized juvenile law and the role of the courts, police and corrections in juvenile justice. Prerequisite: CJ 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 3322",
+            "course_name": "Race, Ethnicity and Criminal Justice",
+            "course_desc": "This course examines the relationship between race/ethnicity and the criminal justice system. Theories of race/ethnicity and crime, the criminal justice system, and social systems including media, politics and economics are examined to form a comprehensive understanding of the social construction of race as it pertains to a racially disproportionate system. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 3323",
+            "course_name": "Mid-Level Management in Criminal Justice Agencies",
+            "course_desc": "Introduction and overview of the organizational theories of classical behavioral, and systems management concepts. Included in the course content are analyses of the functions of management in modern CJ organizations, internal and external environmental factors, individual & group dynamics, motivation, and leadership styles. Prerequisite: CJ 2310 or CJ 2355 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 3325",
+            "course_name": "Incarceration in America",
+            "course_desc": "This course focuses on the role of the institution in the process of incarceration including the philosophy of imprisonment, the inmate subculture and special problems and programs in institutions. Prerequisite: CJ 2355 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 3329",
+            "course_name": "Forensic Evidence",
+            "course_desc": "Investigators role in collecting, preparing and presenting evidence in criminal trials. Special attention will be given to electronic evidence in addition to traditional physical evidence. Prerequisites: CJ 2350 and CJ 2360 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 3346",
+            "course_name": "Research in Criminal Justice",
+            "course_desc": "This course covers the analysis of criminal justice research, survey methods, and the utilization of research in criminal justice. (WI) Prerequisite: CJ 1310 and [CJ 3347 or PSY 2301 or SOCI 3307] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 3347",
+            "course_name": "Statistics For Criminal Justice",
+            "course_desc": "This course focuses on the theory and application of statistical inferential techniques and correlation and regression for behavioral science data and its applications in Criminal Justice. Emphasis is placed on the collection, analysis, and interpretation of statistical data in criminal justice settings. Prerequisites: CJ 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4301",
+            "course_name": "Internship I",
+            "course_desc": "Field service training in public and private criminal justice agencies at the federal, state and local levels. The internship is designed to provide actual work experience, observation, and analysis in the students chosen career field. (WI) Prerequisite: CJ 2310 and CJ 2350 and CJ 2355 and CJ 2360 and CJ 3346 and minimum 2.25 Texas State GPA and minimum 2.5 Major GPA.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 4302",
+            "course_name": "Internship II",
+            "course_desc": "Field service training in public and private criminal justice agencies at the federal, state and local levels. The internship is designed to provide actual work experience, observation, and analysis in the students chosen career field. (WI) Prerequisite: CJ 2310 and CJ 2350 and CJ 2355 and CJ 2360 and CJ 3346 and minimum 2.25 Texas State GPA and minimum 2.50 Major GPA.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 4309K",
+            "course_name": "Intelligence Analysis",
+            "course_desc": "This course provides an overview of the importance of intelligence gathering in the global and domestic war on terrorism, and critically examines issues involved with the gathering of intelligence, techniques for the gathering of intelligence, methods of collecting, collating, analyzing and disseminating intelligence, and a review of current terrorist threats.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4309L",
+            "course_name": "Gangs and the Criminal Justice System",
+            "course_desc": "This course offers an introduction to street gangs and crime in the United States. Topics covered include the definition of gangs, gang members and gang activity, the history and development of gangs, the structure of gangs and gang members, the nature of gang activity, theoretical explanations of gangs, and the criminal justice system's response to gangs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4309M",
+            "course_name": "Active Shooter Response Experiential Learning",
+            "course_desc": "This experiential learning course connects training to respond to active shooter events to relevant research. Students will complete the ALERRT Level I Active Shooter Response Course, and then examine the research literature that underlies the training with an emphasis on identifying discrepancies and gaps and areas for improvement. Prerequisite: CJ 1310 and CJ 2310 both with a grade of \"D\" or better and instructor approval. Corequisite: CJ 3346 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4309O",
+            "course_name": "Use of Force Experiential Learning",
+            "course_desc": "This course uses experiential learning to connect use of force training to research. Students examine the research literature, take part in use of force training, and participate in scenarios with an emphasis on connecting their experiences to the literature. The course is physically demanding and involves close personal contact. Prerequisite: CJ1310 and CJ 2310 both with a grade of D or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4309P",
+            "course_name": "Investigations",
+            "course_desc": "This course explores research related to police investigations. Topics covered include the process and different types of investigations, bias in investigations, different types of evidence (physical, technological, human), victims, interviewing, profiling, and investigative failures and safeguard methods. This course is designed to familiarize students with the theory and empirical research that surround the investigative process. The course does not  teach you how to conduct investigations Prerequisite: CJ 2310 with a grade of \"D\" or better and CJ 3346 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4310",
+            "course_name": "Special Problems in the Criminal Justice System",
+            "course_desc": "This course is a study of contemporary problems in the administration, management, organization and operation of criminal justice agencies. (Capstone Course). (WI) Prerequisite: CJ 2310 and CJ 2350 and CJ 2355 and CJ 2360 all with grades of \"D\" or better. Corequisite: CJ 3346 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4314",
+            "course_name": "Terrorism in the United States",
+            "course_desc": "Terrorist groups operating in the U.S. are examined with special emphasis on the far-right (militia, Christian identity, neo-nazi, other racist groups). Analyzed are their belief systems and structures, organizational structure, tactics and targets, and weapons. Future trends are discussed, including the threat posed by nuclear, biological, and chemical terrorism. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4316",
+            "course_name": "Treatment in Community and Institutional Corrections",
+            "course_desc": "This course is a study of community based programs for adult and juvenile offenders, treatment modalities in various correctional settings, administration, legal issues, and future trends associated with community-based and institutional based treatment. Prerequisite: CJ 2355 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4321",
+            "course_name": "Occupational Crime",
+            "course_desc": "A study of the problems of organized and upper social status criminal activities with emphasis on statutes and their application to fraud, embezzlement, deceptive trade practices and illegal trade practices.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4323",
+            "course_name": "Special Operation Units in Law Enforcement and Corrections",
+            "course_desc": "This course introduces students to the basic principles of Special Operations Units (SOUs) within criminal justice agencies.  Topics include the necessity for such units, the changing nature of communities and policing in America, the principles of crisis management, the development/implementation of SOUs, selection/training/operationalizing of personnel, and types of SOUs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4325",
+            "course_name": "Media and Crime",
+            "course_desc": "This course explores the nature of public knowledge of social problems and their solutions related to crime and justice, and the media's role in facilitating those outcomes. Using an interdisciplinary scholarship drawn from a wide range of empirical and theoretical perspectives, the course addresses the relationship between crime, media, and public opinion in an ever evolving media landscape. The course challenges students to think critically and to consider innovative ways to improve the intersection between crime, the media and criminal justice policy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4326",
+            "course_name": "Women and Criminal Justice",
+            "course_desc": "This course explores womens involvement in three primary areas of criminal justice - as victims, criminals and practitioners employed in criminal justice agencies. Topics covered include the impact of sex and gender on criminological theory, sentencing, prison subcultures, victimization and career choices. (MULT) (WI) Prerequisite: CJ 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4329",
+            "course_name": "Organized Crime",
+            "course_desc": "Survey of organized crime in contemporary society. Includes attention to crime types and methods, motivation, affiliations, and the effects of this type of criminality. Related legal and law enforcement perspectives will be covered, along with international and cyberspace issues. Prerequisite: CJ 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4331",
+            "course_name": "Serial Murder",
+            "course_desc": "This course covers the phenomenon of serial murder and the police investigative response.  Theories, concepts, and law enforcement analytic methods are covered in detail.  Emphasis is placed on understanding the reality versus the myth of serial murder, serial killers, and criminal profiling.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4332",
+            "course_name": "Advanced Criminal Justice Management",
+            "course_desc": "A critical analysis of the nature of organizations within the criminal justice system. An analysis of theories of organizations and of organizational changes within law enforcement agencies. An examination of the quantitative data gathered by the Criminal Justice System and its effective use and presentation. Prerequisite: CJ 2310 or CJ 2355 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4334",
+            "course_name": "The Death Penalty in the United States",
+            "course_desc": "This course examines the contemporary controversies that surround the death penalty, including its administration, modes of execution, disparities in application, deterrent effect, related social/economic costs, impact on international relations, and the potential for miscarriages of justice. The history of the death penalty, including Supreme Court developments, are also reviewed. Prerequisite: CJ 2350 and CJ 2360 both with grade of D or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4335",
+            "course_name": "The Psychology of Antisocial Behavior",
+            "course_desc": "This course examines how psychological perspectives are used to explain antisocial behavior, by drawing on the intersection between theory and research in the following areas of psychology: developmental, child psychopathology, biological, personality, cognitive, and social.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4336",
+            "course_name": "Wrongful Convictions",
+            "course_desc": "This course examines factors contributing to wrongful convictions and the criminal justice systems response from an interdisciplinary perspective using research from the disciplines of law, criminology, and cognitive and social psychology as a foundation for examining how wrongful convictions occur and might be prevented in the future.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4338",
+            "course_name": "Sexual Offenses",
+            "course_desc": "This course examines the social and individual mechanisms responsible for the onset, persistence, and desistance of sexual offending using a criminological perspective. The current state of risk assessment, treatment, and responses from the police, community, and legal system are also examined. Prerequisite: CJ 1310 and CJ 2310 both with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4340",
+            "course_name": "Crime Theory and Victimization",
+            "course_desc": "This course examines the causes of crime, crime victimization and competing explanations for crime and the impact of crime on crime victims. The course draws on perspectives advanced by a number of diverse fields of inquiry, for example, biology, psychology, sociology, and the political and economic sciences. (WI) Prerequisite: CJ 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4350",
+            "course_name": "Contemporary Legal Issues in Law Enforcement",
+            "course_desc": " An in-depth study of recent developments in criminal law and procedure. Their effects upon the criminal justice agency official in society will be given special attention. Includes specific case studies with emphasis on analyzing factual situations and legal issues. (WI) Prerequisite: CJ 2310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4352",
+            "course_name": "Contemporary Legal Issues in Corrections",
+            "course_desc": "A study of the developing body of law defining the rights and duties of persons confined in penal institutions with equal emphasis on legal issues associated with probationers, parolees, and similar statuss within the corrections branch of the criminal justice system. (WI) Prerequisite: CJ 2355 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4362",
+            "course_name": "Readings in Criminal Justice",
+            "course_desc": "An individualized readings course tailored to the academic and professional interests and needs of the student. Emphasis is placed on developing in-depth knowledge of selected criminal justice subjects through directed research. Repeatable for credit with different emphasis. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4363",
+            "course_name": "Independent Studies in Criminal Justice",
+            "course_desc": "Independent study and research on topics in criminal justice related to a students primary area of interest. Work may include individual research, critical reviews or integration of existing body of knowledge. Course may be repeated with different emphasis once for credit with approval of department chair.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 4365",
+            "course_name": "Comparative Criminal Justice",
+            "course_desc": "A survey of the organizational, administrative and philosophical principles of criminal justice systems around the world. (WI) Prerequisite: CJ 2310 or CJ 2355 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5101",
+            "course_name": "Graduate Assistant Supervision",
+            "course_desc": "Prepares graduate student teaching and instructional assistants to perform effectively in diverse instructional settings and in their assigned instructional support roles. The course provides for regular and planned opportunities for continuing evaluation of instructional and assistive responsibilities. This course does not earn graduate degree credit. Repeatable with different emphasis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CJ 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 5301",
+            "course_name": "Graduate Instructional Assistant Training",
+            "course_desc": "This course prepares graduate instructional assistants (GIAs) to perform effectively in diverse instructional settings and in their assigned instructional support roles. In addition to familiarizing themselves with essential Texas State University policies and procedures, GIAs will learn about teaching strategies, ethical classroom behavior, and effective communication. This course is required as a condition of employment for GIAs at the School of Criminal Justice and Criminology, and does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CJ 5310",
+            "course_name": "Administration of Justice",
+            "course_desc": "Introduction to the study of crime; explanations of criminal behavior; typologies of criminal behavior; the criminal justice system; and social reaction to crime and the criminal justice system.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5315",
+            "course_name": "Advanced Research Methods in Criminal Justice",
+            "course_desc": "The study of scientific research methods as used in the criminal justice system to include a review and critique of research on crime causation, law enforcement, courts, and corrections.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5316",
+            "course_name": "Quantitative Data Analysis",
+            "course_desc": "This course provides an introduction to quantitative data analysis in criminal justice and makes extensive use of statistical software via command line interface. For the purposes of research and exploratory data analysis in criminal justice, topics include data construction and cleaning, variable coding, descriptive and inferential statistics, summary measures, and visual presentations of data.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5319",
+            "course_name": "Crime Analysis",
+            "course_desc": "This course focuses on the evaluation, synthesis and dissemination of crime data to multiple audiences. Topics include the identification of local crime trends, the development of usable crime maps, and the assessment of practical police responses.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5320",
+            "course_name": "History and Philosophy of Justice",
+            "course_desc": "An exploration of historical approaches to social control of nonconforming behavior. The principal contributions of architects and theorists of systems of social justice are examined with emphasis on major Western European schools of thought.  Special emphasis given to the development of the scientific method and its role in the contemporary system of justice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5321",
+            "course_name": "Current Legal Issues in Criminal Justice",
+            "course_desc": "Case law and legislation, both state and federal, which have contemporary impact on practices and policies of criminal justice agencies will be examined in this course. Topics may vary to include such matters as civil rights liability, substance\nabuse and the law, juvenile crime, organized crime, tactics of enforcement, unionization, and other legal issues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5322",
+            "course_name": "Police in Society",
+            "course_desc": "This course provides an in-depth assessment of policing and the various types of community crime control. Core topics include the history of police, organizational and individual police discretion, police culture, use of force, minorities and the police, community oriented policing, and police problem-solving.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5323",
+            "course_name": "Special Operation Units",
+            "course_desc": "A course designed to acquaint students with basic principles of Special Operation Units (SOUs) within law enforcement, including the necessity for such units in the changing nature of policing communities. The principles of crisis management, the development of SOUs, selection/training/operationalizing of personnel and other strategic planning issues are emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5324",
+            "course_name": "Investigations",
+            "course_desc": "This course explores issues related to investigations.  Topics covered include the history and state of investigations, investigative theory, interviewing, interrogation, polygraph, geographic profiling, serial crimes, and investigative failures.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5325",
+            "course_name": "Statistics for Criminal Justice",
+            "course_desc": "The study of basic and advanced descriptive and inferential statistics, with an emphasis on applications in the criminal justice system will be taught.  Focus will be given to various multivariate statistical procedures.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5330",
+            "course_name": "Management Principles in Criminal Justice",
+            "course_desc": "The study of behavior in complex bureaucratic or administrative organizations with an emphasis on organizational behavior, group processes, and the managerial function. Concepts and practices of managing criminal justice agencies\nwithin the United States will be stressed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5333",
+            "course_name": "Race, Class, and Crime",
+            "course_desc": "This course addresses issues related to racial/ethnic minorities, socioeconomic status, crime trends, perceptions of crime and criminal behaviors. The social/historical constructions of race and class are covered as well as their intersectionality within the criminal justice system. Topics include racial/ethnic and socioeconomic disparities in offending, victimization, law enforcement and sentencing. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5334",
+            "course_name": "Sex Offenders and the Criminal Justice System",
+            "course_desc": "This course explores sex offenders and the criminal justice system, and the issues faced by criminal justice professionals. Recent trends in assessment tools, sex offender treatment approaches, and legal responses to sex offenders are emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5335",
+            "course_name": "Advanced Crime Theory",
+            "course_desc": "This course will develop and apply analytical skills surrounding a wide range of theoretical concepts, assumptions, propositions, and variables aimed at explaining crime-related outcomes. In the process, students will learn how social scientists empirically (i.e., quantitatively and qualitatively) access theory and how theory influences public policy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5340",
+            "course_name": "Personnel Practices in Criminal Justice",
+            "course_desc": "The study of personnel decisionmaking within the criminal justice agency. Topics emphasized will include recruitment and selection, promotion, training, performance evaluation, and human resource allocation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5350",
+            "course_name": "Current Issues in Criminal Justice",
+            "course_desc": "An in-depth presentation and discussion of vital contemporary issues in criminal justice, including research, process, procedure, and substance.  General issues addressed remain constant and specific emphasis will vary depending on changes in contemporary issues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5355",
+            "course_name": "Intelligence Gathering and Operational Issues As Applied to Terrorism and Counterterrorism Operation",
+            "course_desc": "This course provides an overview of the importance of intelligence gathering in the global and domestic war of terrorism, and critically examines issues involved with the gathering of intelligence, techniques for the gathering of intelligence, methods of collecting, collating, analyzing and disseminating intelligence, and a review of current terrorist threats.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5360",
+            "course_name": "Independent Studies in Criminal Justice",
+            "course_desc": "Student will work directly with a faculty member and develop in-depth knowledge in a specific topic area of Criminal Justice. Repeatable for credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 5370",
+            "course_name": "Professional Paper",
+            "course_desc": "Students in the non-thesis option will complete their professional paper while enrolled in this course.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5380A",
+            "course_name": "Ethics and the Criminal Justice System",
+            "course_desc": "This special topics course will explore ethical issues that are faced by criminal justice professionals, basic ethical systems, and applications to dilemmas of criminal justice professionals.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5380C",
+            "course_name": "Drugs in Society",
+            "course_desc": "This special topics course will explore issues related to the War on Drugs. Topics covered include theories of addiction, legal and philosophical issues of\ngovernment response to drug use, and treatment strategies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5380F",
+            "course_name": "Police Problem-Solving Practicum",
+            "course_desc": "This course applies contemporary police problem-solving tools and techniques (including SARA, COMPSTAT, crime mapping, intelligence led policing and computer enhanced problem solving) to real world problems with practicum problems derived from situations commonly facing police practitioners such as common law enforcement problems such as noise abatement, property offenses and traffic violations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5380H",
+            "course_name": "Police Problem Solving Methodologies",
+            "course_desc": "This course addresses police problem solving methodologies. The course covers the history, state, and theory of police problem solving.  Emphasis is placed on using problem solving methodologies to address real issues facing the community.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5380L",
+            "course_name": "Geospatial Intelligence and Geographic Profiling",
+            "course_desc": "This course addresses the use of geospatial intelligence and geographic profiling in the military and intelligence environments.  The course covers the theory, concepts, methods, and analysis of human geographic information.  Emphasis is placed on understanding how geospatial knowledge can inform decision making and action plans.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5380N",
+            "course_name": "Applied Research Practicum",
+            "course_desc": "This course provides structured assistance to students who are preparing for significant independent research projects (i.e. Thesis, Professional Paper) by exposing them to the organizational tools, processes and techniques used by productive scholars. Ideally, students should expect to complete a viable research prospectus by the end of the semester.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 5380Q",
+            "course_name": "Qualitative Research Methods and Data Analysis",
+            "course_desc": "This course provides students with a detailed and participatory introduction to the principles and use of common qualitative methods and data analysis used in social science research with a particular focus on the field of criminal justice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5380R",
+            "course_name": "Criminal Justice Policy",
+            "course_desc": "This course covers contemporary public policies designed to prevent and reduce crime and criminal offending. There is also an emphasis on different levels of evaluation that should be used to address specific criminal justice issues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5380S",
+            "course_name": "Criminal Justice Leadership",
+            "course_desc": "This course provides an examination and critical analysis of the important theories, concepts, and current issues relevant to the field of public leadership in general, and criminal justice agency leadership in particular.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5380T",
+            "course_name": "Crime, Criminal Justice and the Media",
+            "course_desc": "This course focuses on the relationship between crime, the criminal justice system (CJS), and the media. The role of the media in shaping knowledge about crime- and CJS-related issues is explored in depth, using examples from current events.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5380U",
+            "course_name": "Cold Case Investigations",
+            "course_desc": "This course introduces students to the concepts and issues of cold cases and their investigation.  The major causes of uncleared crimes will be examined. The nature of crime and criminality will be explored with an emphasis on serial sexual crime, stranger offenders, and victim risk. Solving cold cases, evidence structure, relevant forensic methodologies, and interviewing approaches are discussed. The issue of missing persons and its relationship to cold cases is examined. Methods of crime linkage analysis, behavioral profiling, and geographic profiling are outlined and explained.  The course will use a number of case studies and in-class exercises.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 5390",
+            "course_name": "Criminal Justice and Security Internship",
+            "course_desc": "This course provides students with experiential learning opportunities with selected public and private external employers in the fields of criminal justice and security. The internship promotes the integration of academic and professional experience and provides a deeper knowledge of the issues faced by criminal justice agencies, security firms, and other organizations/companies that respond to crime problems. Prerequisite: CJ 5315 and CJ 5325 and CJ 5335 all with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. Credit is not awarded until student has completed the thesis in Criminal Justice 5399B.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 7199",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in criminal justice to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester for at least three dissertation hours.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 7299",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in criminal justice to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester for at least three dissertation hours.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 7301",
+            "course_name": "Instructional Assistant Supervision",
+            "course_desc": "This course prepares doctoral students employed as research or teaching assistants to perform effectively in diverse instructional settings. The course provides for regular and planned opportunities for continuing evaluation of students. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CJ 7309",
+            "course_name": "Proseminar",
+            "course_desc": "This course introduces students to information that is useful to their success as Ph.D. students and after graduation. Topics include the criminal justice discipline, teaching, publishing, grants and fellowships, writing dissertations, and post-doctoral employment. Emphasis is placed on identifying and coordinating opportunities for research and scholarship among faculty and students. Must have completed 12 hours of doctoral credit in Criminal Justice to enroll in this course.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7310",
+            "course_name": "Philosophy of Law, Justice, and Social Control",
+            "course_desc": "A current, thorough, and comprehensive review of the criminal justice system focused on how the system functions, and its current needs and future trends. Students submit extensive critiques and participate in panel discussions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7311",
+            "course_name": "Advanced Criminological Theory",
+            "course_desc": "An overview of the major criminological paradigms is presented focusing on the causes of crime and deviant behavior. The course includes a discussion of criminological theories from a philosophy of science perspective focusing on such issues as theory construction, theoretical integration, and the formal evaluation of theory and policy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7313",
+            "course_name": "Race and Ethnicity in Crime and Criminal Justice",
+            "course_desc": "An exploration of how issues related to racial and ethnic minorities and criminal behaviors impact criminal justice reactions.  Topics include racial disparities related to law enforcement and sentencing, and policy implications related to policing, probation, pre-sentencing and post-release issues. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7314",
+            "course_name": "Policing",
+            "course_desc": "This course examines current problems in American policing and the role of research in their examination and solution. Official crime and victimization statistics and measure of police performance are explained, with a focus on their collection, development, limitations, and utility. Methods and issues in policing research are explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7315",
+            "course_name": "Corrections",
+            "course_desc": "This course examines the history, forms, and functions of correctional institutions, their programs and policies, as well as theories of punishment. Topics include the structure and functions of prisons and jails, community corrections, intermediate sanctions, reentry, supermax prisons, and the death penalty.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7320",
+            "course_name": "Quantitative Research Methods",
+            "course_desc": "A course that demonstrates the practical aspects of conducting criminal justice research that uses quantitative methodologies and design. Topics include the philosophy of science; research ethics; methodological designs in establishing causation; nonexperimental/descriptive research; sampling techniques; secondary data sources and data gathering techniques.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7321",
+            "course_name": "Linear Regression for Criminal Justice Research",
+            "course_desc": "Instruction on the use of advanced linear modeling techniques in criminal justice research is addressed. After completing this course, students should be able to evaluate quantitative research articles in the major criminal justice journals and be prepared to complete a major quantitative research project of their own.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7322",
+            "course_name": "Advanced Research for Planning and Evaluation",
+            "course_desc": "An introduction to evaluation and research design methodologies, assessment techniques including modeling and case studies, agency management issues, and on-going policy implications. Course gives students an understanding of the principles and techniques commonly used to evaluate the effectiveness and\nefficiency of criminal justice interventions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7323",
+            "course_name": "Applied Statistics and Quantitative Data Analysis",
+            "course_desc": "This is a course in statistics and data analysis for the purposes of original quantitative research. Topics include descriptive statistics, statistical inference for single and multivariable analysis, and principles underlying the techniques. This course makes extensive use of statistics software and data preparation techniques.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7330",
+            "course_name": "Qualitative Research Methods",
+            "course_desc": "A discussion of the methods and techniques used for achieving interpretable qualitative results in social research. Topics covered include ethnography, focus groups, in-depth interviewing and case studies. Students will be trained in inductive reasoning and coordinating qualitative with quantitative methods.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7331",
+            "course_name": "Law and Behavioral Science",
+            "course_desc": "A review of the issues addressed in the application of the behavioral sciences to the criminal law system. Topics include criminal sanctions and diminished responsibility, civil commitment, victimology, psychology in the courtroom, the role of media, drugs, and alcohol to violence, and how the justice system reacts to violent offenders.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7336",
+            "course_name": "Survey Research Methods for Criminal Justice",
+            "course_desc": "This course addresses the procedures and techniques used to create social surveys including question formulation, metrics, and question scaling. Students learn how to prepare face-to-face, telephone, and mail surveys, and are\ntrained in sampling procedures related to survey administration.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7350A",
+            "course_name": "Forecasting, Trend Analysis, and Data Interpretation",
+            "course_desc": "A review of quantitative approaches to public policy analysis, the diverse conceptions of the goals and objectives that should be served by policy, and the appropriate role of the policy analyst. Policy consequences are traced to indirect and subtle incentives and disincentives.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7350B",
+            "course_name": "Academic Scholarship and Communication",
+            "course_desc": "A course on conducting academic research, interpreting results and how to prepare manuscripts for publication in refereed journals. Included is a survey of the audiences, topical focus, and submission requirements of the major \ncriminal justice, criminology, and law publications, along with specialized knowledge on achieving success in the scholarship environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7350C",
+            "course_name": "Qualitative Data Collection, Coding and Analysis",
+            "course_desc": "This course takes a structured approach to understanding and implementing the various information collection methods used in qualitative research, including formatting the information for coding, coding schemes, and information interpretation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7350E",
+            "course_name": "Discrete Multivariate Models",
+            "course_desc": "This course focuses on regression models for discrete outcome variables, sometimes called limited or categorical dependent variables. Topics include maximum likelihood estimation, binary and multinomial logistic models and negative binomial models. Prerequisite: CJ 7321 with a grade of \"B\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7350F",
+            "course_name": "Environmental Criminology",
+            "course_desc": "Crime distributes unevenly in space/time. As such, the course examines such questions as (1) What places are dangerous? (2) Why do we study specific crime types? (3) Where do crime types concentrate? (4) Where do offenders go in their normal activities? (5) What are the temporal patterns for crime? Prerequisite: CJ 7311 with a grade of \"B\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7350G",
+            "course_name": "Seminar in Macro Criminology",
+            "course_desc": "This course has a macro focus, examining criminological theory and research that takes cities, geographical regions, states, and nations as the units of comparison. The importance and relevance of macro criminology for understanding the causes of crime and key criminal justice issues, such as police resources, are explored in depth. Prerequisite: CJ 7311 with a grade of \"B\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7350I",
+            "course_name": "Introduction to Structural Equation Modeling",
+            "course_desc": "The course provides an introduction to structural equation modeling, which is sometimes called mean and covariance structure analysis or latent variable analysis. Topics include recursive and non-recursive models, path analysis, measurement models, and factor analysis. Prerequisite: CJ 7321 with a grade of \"B\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7350K",
+            "course_name": "Criminal Justice Forecasting and Policy Analysis",
+            "course_desc": "This course examines the inputs and outputs of criminal justice programs.  It covers forecasting methods using statistical bootstrapping techniques including line fitting methods, moving averages, cohort propagation matrixes, and systems simulations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7350L",
+            "course_name": "Sex Offenders: Theory, Research & Policy",
+            "course_desc": "This course will focus on application of theory to explain sexual offenses, research design issues related to researching this salient population of offenders (e.g., ethical issues, gaining IRB approval, research design limitations, social desirability problems in self-report data, and examining available data sources), and examining policy related issues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7350N",
+            "course_name": "Cold Case Investigations",
+            "course_desc": "This course introduces students to the concepts and issues of cold cases and their investigation.  The major causes of uncleared crimes will be examined.  The nature of crime and criminality will be explored with an emphasis on serial sexual crime, stranger offenders, and victim risk.  Solving cold cases, evidence structure, relevant forensic methodologies, and interviewing approaches are discussed.  The issue of missing persons and its relationship to cold cases is examined.  Methods of crime linkage analysis, behavioral profiling, and geographic profiling are outlined and explained.  The course will use a number of case studies and in-class exercises.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CJ 7360",
+            "course_name": "Independent Study",
+            "course_desc": "Students will work closely with a particular doctoral faculty member and develop in-depth knowledge in a specific topic area of criminal justice.  Topics vary according to a student's program needs.  Repeatable once for credit with different emphasis.  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 7399",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in criminal justice to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester for at least three dissertation hours.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 7599",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in criminal justice to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester for at least three dissertation hours.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 7699",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in criminal justice to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester for at least three dissertation hours.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CJ 7999",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in criminal justice to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester for at least three dissertation hours.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

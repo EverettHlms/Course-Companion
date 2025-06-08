@@ -1,0 +1,614 @@
+{
+    "name": "Psychology",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/psy/",
+    "courses": [
+        {
+            "course_code": "PSY 1300",
+            "course_name": "Introduction to Psychology",
+            "course_desc": "A survey of the major principles derived from research on human and animal behavior. Topics studied include learning, thinking, motivation, emotion, personality, the senses, perception, and the form and functions of the nervous system. PSY 1300 with a grade of \"C\" or better is required for most other Psychology courses.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Soc & Behav Sciences Core 080",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 2100",
+            "course_name": "Professional Seminar",
+            "course_desc": "This course examines the characteristics of Psychology as a discipline and profession. Coverage includes current trends in Psychology and its subfields, degree options in Psychology and its subfields as they relate to professional and/or career issues, and how to be an intelligent consumer of discipline-specific data and information. Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 2101",
+            "course_name": "Introduction to Statistics Laboratory",
+            "course_desc": "This statistics laboratory course provides an introduction to descriptive and inferential statistics used in psychological research with an emphasis on data analysis techniques through the use of computer applications (ex., SPSS, R, etc.).   Prerequisite: PSY 1300 with a grade of \"C\" or better. Corequisite: PSY 2301 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 2301",
+            "course_name": "Introduction to Statistics",
+            "course_desc": "The course provides an introduction to statistical methods in behavioral sciences with special emphasis on application to psychological research. The topics covered include descriptive statistics, principles of statistical inference and common hypothesis testing techniques such as z-test, t-tests, analysis of variance, correlation and regression, and selected non-parametric tests. Prerequisite: PSY 1300 and [MATH 1312 or MATH 1315 or MATH 1317 or MATH 1319 or MATH 2321 or MATH 2417 or MATH 2471] both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 2311",
+            "course_name": "Psychology of Human Sexuality",
+            "course_desc": "A psychological and physiological examination of the human sexual experience from conception through old age. Current research findings serve as a basis for study. Major consideration is given to the human sexual system, the sexual act, sexual attitudes and behavior, and sexual complications. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3300",
+            "course_name": "Lifespan Development",
+            "course_desc": "Survey of the psychology of human development from the pre-natal period through\nadulthood. Emphasis placed on cognitive, motivational, and physiological processes of development in childhood and adolescence. Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3312",
+            "course_name": "Adolescent Psychology",
+            "course_desc": "A developmental psychology course designed to examine the complex characteristics of human cognitive and emotional life during the period of\nadolescence. Emphasis is directed toward the basis of behavior, interpersonal relationships, development, growth, and motivation.  Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3313",
+            "course_name": "Psychology of Adulthood and Aging",
+            "course_desc": "The development of individuals in the post-adolescent period, particularly after \nmiddle age. Topics studied include social, psychological, and physiological changes and problems associated with the aging process. Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3314",
+            "course_name": "Psychology of Consciousness",
+            "course_desc": "This course is an introduction to the study of consciousness from the perspective of psychology, neuroscience, and the natural sciences. Topics reviewed included philosphical foundations, cognitive and neuroscientific approaches, the physical correlates of consciousness, introspection, sleep and dreaming and altered states of consciousness. (WI) Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3315",
+            "course_name": "Psychopathology",
+            "course_desc": "An introduction to the study of psychopathology: (1) issues in defining and evaluating it, (2) examples, (3) theories and research attempting to categorize, describe, and explain it, and (4) approaches used to prevent or change it when it is deemed a problem by the individual and/or society. Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3316",
+            "course_name": "Personality Psychology",
+            "course_desc": "A comprehensive introduction to research, theory, and application in the field of personality. Individual differences and situation influences are examined concerning authoritarianism, achievement motivation, anxiety, intelligence, self-concept, interpersonal attraction, aggression, sexuality, and altruism. An integrative model is suggested for describing and predicting human behavior.  Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3321",
+            "course_name": "Sensation and Perception",
+            "course_desc": "An introduction to the processes of perception. Topics will include perceptual measurement, the physiological bases of perception, basic visual processes, and basic haptic, olfactory, and gustatory processes.   Prerequisite: PSY 1300 and PSY 3402 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3322",
+            "course_name": "Brain and Behavior",
+            "course_desc": "This course covers research findings and theoretical concepts concerned with the physiological, anatomical, and pharmacological bases of behavior. Topics include sensory systems, the physiological mechanisms of motivation, and the physiological correlates of associate processes such as learning. Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3323",
+            "course_name": "Evolution and Behavior",
+            "course_desc": "The course provides a contemporary understanding of human behaviors, emotions, and cognitions through an examination of Darwins theories of natural selection, sexual selection, and mental evolution. Relevant interdisciplinary perspectives from philosophy, history, anthropology, archaeology, biology, ethology, and genetics are incorporated. Prerequisites: PSY 1300 and PSY 3300 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3325",
+            "course_name": "Psychology of Persuasion",
+            "course_desc": "This course uses a socio-psychological perspective to understand the dynamics of persuasion and propaganda.  It applies selected theories and research on social influence, persuasion and attitude change to such areas as political and educational campaigns, product advertising, mass media and public opinion. Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3331",
+            "course_name": "Social Psychology",
+            "course_desc": "The study of how people influence each other. The course covers such topics as conformity, inter-personal attraction, prejudice, and aggression. Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3332",
+            "course_name": "Psychology of Women",
+            "course_desc": "The special problems and demands made on the woman within modern western culture. Topics studied include status, roles, values, opportunities, expectations, stress, and self-realization of the modern woman. (MULT) (WI) Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3333",
+            "course_name": "Industrial Psychology",
+            "course_desc": "The study of applying psychological knowledge and techniques to the modern industrial environment. Topics studied include employee needs, attitudes, selection, testing, boredom, motivation, anxiety, and job satisfaction. Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3334",
+            "course_name": "Psychology of Human Diversity",
+            "course_desc": "Explanations about how the environment, genetics and culture shape human differences, and how these differences are linked to world progress and understanding are addressed. (WI) (MULT) Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3335",
+            "course_name": "Forensic Psychology",
+            "course_desc": "Examines the relationships between psychology and the processes of the American courtroom. Sample issues to be addressed include; (a) What psychological theories are used to explain jury decisionmaking? (b) How accurate is the memory of eyewitnesses? (c) How do characteristics of defendants influence juries? Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3336",
+            "course_name": "Sport Psychology",
+            "course_desc": "This course examines the relationships, psychological concepts, and individuals thoughts regarding sports, health and exercise. Sample topics include (1) current theoretical perspectives of personality factors at sports and exercise, (2) why people engage in sports, (3) exercise adherence, (4) mental skills, and (5) the psychological effects of sports and exercise. Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3337",
+            "course_name": "Psychology of Prejudice, Discrimination, and Hate",
+            "course_desc": "This course will explore psychological theories and factors that underlie prejudice, discrimination, and hate. Although the course will focus primarily on these issues as they have developed and influence realities in the United States, global issues will also be explored. (MULT) Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3338",
+            "course_name": "Service Learning: Protecting the Vulnerable",
+            "course_desc": "This course examines clinical, legal and psychosocial conditions of adults who, due to mental illness, developmental impairments, brain injuries or aging, are declared incapacitated and have court-appointed guardians. Students will serve as the probate court representatives who inspect living conditions and services for individuals under the court-ordered guardianships. Prerequisite: PSY 1300 with a grade of \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3341",
+            "course_name": "Cognitive Processes",
+            "course_desc": "This course covers the acquisition and use of knowledge, contemporary research on perception, pattern recognition, memory, thinking, problem solving, and language comprehension. (WI) Prerequisite: PSY 1300 and PSY 3402 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3350",
+            "course_name": "Cognitive Behavioral Therapies",
+            "course_desc": "The course provides theory, research, and application of psychological principles that affect humans in education, business, and personal life. Emphasis is placed on effective use of reinforcement, classroom management, self-control, relaxation, and assertiveness. (WI) Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3361",
+            "course_name": "Health Psychology",
+            "course_desc": "Surveys contemporary theory and research on body/mind interaction in physical and mental health. Emphasis on personality, psychosocial, and stress factors in physical health. Other topics include the effects of physical health on psychological well being, pain management, longevity and aging, and coping with illness and dying. (WI) Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3402",
+            "course_name": "Experimental and Research Methods",
+            "course_desc": "This course introduces students to basic instruction in experimental design, data collection, and technical report writing in Psychology. By examining applications of various methodologies, this course provides information on the steps involved in crafting and executing empirical research projects as well as instruction on procedures and software. (WI) Prerequisite: PSY 1300 and PSY 2101 and PSY 2301 all with grades of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 3404",
+            "course_name": "Advanced Research Methods",
+            "course_desc": "The course provides students with the opportunity to conduct original research in psychology using best practices in research methods.  Course requirements include obtaining IRB approval, conducting research, analyzing results and presenting findings in a professional setting. (WI) Prerequisite: PSY 1300 with a grade of \"C\" or better and PSY 3402 with a grade of \"B\" or better and instructor approval.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4318",
+            "course_name": "Psychological Tests and Measurements",
+            "course_desc": "The course provides an introduction to basic principles, research, and theories on testing and measurement of psychological constructs. It includes validity, reliability, item analysis, administration, scoring, and interpretation of existing tests and measures, and construction of new measures including surveys and other psychological instruments. Prerequisites: PSY 1300 and PSY 2101 and PSY 2301 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4342",
+            "course_name": "Learning and Memory",
+            "course_desc": "A study of memory and learning in humans and animals. Attention is given to comparative cognition, cognitive and neuropsychological aspects of memory, and memory deficits. (WI) Prerequisite: PSY 1300 and PSY 3402 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4350",
+            "course_name": "Reality Therapy/Choice Theory",
+            "course_desc": "This course focuses on Glassers concepts of Choice Theory and Reality Therapy. This course explores how the total behaviors and choices we make impact our lives, the kinds of relationships we want to have with others, health and quality of the life.  (WI) Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4352",
+            "course_name": "Introduction to Clinical Psychology",
+            "course_desc": "Overview of clinical psychology. Emphasis on current theories and methods\nof individual psychotherapy. Class discussions of readings, films, audiotapes, and live examples illustrating approaches. Experiential learning via class exercises in pairs and small groups and by role-playing both therapist and client in a series of helping sessions.  (WI) Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4390B",
+            "course_name": "Emotion and Human Behavior",
+            "course_desc": "This course will provide an advanced understanding of the multifaceted\nphenomenon of emotion and its effect on human behavior. Students will be introduced to the philosophical and theoretical underpinnings of emotion, the various individual emotions (e.g. fear, anger, happiness) and will learn how\nemotion can affect physical and psychological health.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4390N",
+            "course_name": "Psychopharmacology",
+            "course_desc": "This course reviews psychopharmacology topics including: neuronal and chemical\nmechanisms underlying drug action; environmental factors modulating the impact of drugs on emotion, cognition, perception and behavior; the processes underlying drug dependency, tolerance, and withdrawal; and the implications for drug abuse treatment and prevention strategies, especially concerning adolescents. Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4390P",
+            "course_name": "Human Factors and Ergonomics",
+            "course_desc": "This course examines characteristics of people that are applicable to the design of systems and technological devices.  This course will illustrate how methods and principles of human factors and ergonomics enhance the usability, safety and performance of human-machine systems. Prerequisite: PSY 1300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4390Q",
+            "course_name": "Introduction to Developmental Disabilities",
+            "course_desc": "This course will provide students with perspectives on the causes, manifestations, and treatment of developmental disabilities throughout the lifespan.  Historical views and societal issues will be investigated along with current practices and research. Prerequisite: PSY 1300 and PSY 3315 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4390R",
+            "course_name": "Intermediate Statistics",
+            "course_desc": "This course introduces statistical methods designed for psychological research with multiple independent variables. Topics include factorial analysis of variance and multiple regression. Interpreting interaction effects is a main focus. This is a practice-based course that will cover both the theoretical contructs and also step-by-step computer procedures. Prerequisite: PSY 1300 and PSY 2101 and PSY 2301 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4390S",
+            "course_name": "Latinx Psychology",
+            "course_desc": "This course examines psychological perspectives of the Latinx experience. The importance of culture and its links with the mental health, educational attainment, sexuality, gender expression, and the health of Latinos will be explored.  Additionally, the course will address the impact of prejudice, discrimination, and acculturation on Latinxs. Students are expected to gain an appreciation and understanding of the influence of Latinx culture on human behavior, an enhanced awareness of challenges facing Latinxs, and critical thinking skills in evaluating the validity of psychological knowledge about Latinxs.   Prerequisite: PSY 1300 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4391",
+            "course_name": "History and Theory",
+            "course_desc": "Study of the evolution of psychology as a science through a systematic review of the principal scientific and philosophic antecedents of modern psychology, and analysis of the status of the major contemporary theoretical schools. (WI) Prerequisite: PSY 1300 and PSY 3402 both with grades of \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4393",
+            "course_name": "International Psychology",
+            "course_desc": "The course focuses on the history, status, and future directions of scientific and professional psychology throughout the world. It requires reading about, discussing, and writing about the relatively new specialty area of international psychology. The objective is to deepen students knowledge of psychologys relevance to the solution of global problems. Prerequisite: PSY 1300 with a grade of \"C\" or better. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4395",
+            "course_name": "Individual Study",
+            "course_desc": "Students design and execute original research, or engage in extensive fieldwork, in the field of psychology under the supervision of a faculty member. All students planning to attend Graduate School are advised to enroll in the course. May be repeated once for additional credit.  Prerequisite: PSY 1300 and PSY 3402 both with grades of \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 4396",
+            "course_name": "Internship in Psychology",
+            "course_desc": "Extensive field work in a professional setting related to psychology. May be repeated once for additional credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5105",
+            "course_name": "Practicum in Teaching Psychology",
+            "course_desc": "This course will examine processes and strategies designed to improve the teaching and learning process. Students will be introduced to learning and instructional theory and selected concepts, issues, and strategies of instructional planning, delivery, management, and evaluation. This course does not earn graduate degree credit. Repeatable with different emphasis. Prerequisite: Instructor approval.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "PSY 5198",
+            "course_name": "Research Seminar",
+            "course_desc": "Taken in two consecutive semesters, this seminar provides an orientation to the graduate program and the steps required for thesis completion. Topics include the discussion of research interests, critiquing literature, and topic selection; developing and submitting a research proposal; selecting a thesis committee; and thesis completion and submission.  Restricted to M.A. students in Psychological Research.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuous thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PSY 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuous thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PSY 5306",
+            "course_name": "Psychological Development: Theories & Research",
+            "course_desc": "This course is an advanced coverage of biological, social, and cognitive development throughout the lifespan.  Topics include cognitive developmental theory, sensory/perceptual development, language development, infant attachment, the development of gender roles, moral development, and issues related to aging. Prerequisite: PSY 3300 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5310",
+            "course_name": "Advanced Psychopathology",
+            "course_desc": "This course offers a critical analysis of the definition and classification of psychopathology and experiences and an in-depth study of theories and research on causes, remediation, and prevention. Prerequisite: PSY 3315 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5311",
+            "course_name": "Univariate and Bivariate Statistics",
+            "course_desc": "This course introduces students to univariate and bivariate statistical concepts and techniques used in psychology research (e.g., probability, sampling distributions, t-tests, and analysis of variance, correlation).  Emphasis is placed on developing skills in data analysis including the selection of appropriate techniques, using data analysis software, and interpretation of statistical results.  Prerequisite: PSY 2301 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5318",
+            "course_name": "Assessment in Psychology",
+            "course_desc": "The course will provide an overview of assessment instruments commonly used by psychologists and neuropsychologists in research and practice.  Basic psychometrics such as validity and reliability also will be covered.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5320",
+            "course_name": "Principles of Measurement and Statistics",
+            "course_desc": "The course emphasizes classical measurement theory, including reliability and validity of measurement instruments commonly used in psychology, and reviews descriptive statistics with a focus on correlation and regression. Prerequisite: Course in undergraduate statistics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5321",
+            "course_name": "Multivariate Statistics",
+            "course_desc": "This course introduces students to multivariate statistical techniques commonly used in psychological research such as analysis of variance and covariance, multiple regression, and factor analysis.  Emphasis is placed on developing applied skills in data analysis:  selection of appropriate statistical techniques, using data analysis software, and interpretation of statistical results.  Prerequisite: PSY 5311 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5324",
+            "course_name": "Biological Bases of Behavior",
+            "course_desc": "This course provides an overview of the nervous system structure and function appropriate to the overall field of Psychology in order to foster an appreciation of the biological determinants of behavior.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5326",
+            "course_name": "Neuropsychological Assessment",
+            "course_desc": "This course will introduce principles of neuropsychological assessment including assessment procedures, interpretation of results, neuropathology, and the range of neuropsychological functions to be assessed. This course will also cover the characteristics and administration of several neuropsychological assessment\ninstruments.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5335",
+            "course_name": "Foundations of Health Psychology",
+            "course_desc": "This course will utilize a biopsychosocial approach to understand the psychology of wellness and disease.  Topics include stress, coping, pain, social support, and chronic illness.  Special emphasis will focus on physiological responses, psychoneuroimmunology, and somatization.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5345",
+            "course_name": "Psychopharmacology",
+            "course_desc": "This course explores: (1) the reasons that humans and animals consume mind altering substances called psychoactive drugs, (2) the neuronal, chemical, and\nhormonal mechanisms underlying drug action, and (3) the environmental factors that modulate the impact of psychoactive drugs on emotional, cognitive, perceptual and behavioral expression in humans and animals.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5348",
+            "course_name": "Health Psychology: Prevention and Intervention",
+            "course_desc": "This course will focus on primary, secondary and tertiary prevention and intervention strategies to enhance health and wellness.  Topics will include health-promoting behaviors, risky health behaviors, theories of health behavior change, the process of medical care, and treatment adherence.  Special emphasis will be on planning, implementation, and assessment of interventions.  Prerequisites: PSY 5335 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5352",
+            "course_name": "Psychological Therapies",
+            "course_desc": "This survey course on evidence-based psychological interventions focuses on the active mechanisms by which therapies work and their application to specific diagnostic categories and conditions.  Interpersonal, behavioral, cognitive-behavioral, and dialectical behavior therapies will be highlighted along with newer empirically-based therapies such as Acceptance and Commitment Therapy and mindfulness approaches.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5360G",
+            "course_name": "Forensic Psychology",
+            "course_desc": "Examination of the relationships between psychology and the Criminal Justice system.  Emphasis is placed on how psychology variables influence how individuals carry out their duties within the system.  Sample topics include: (a) psychology and jury decision-making, (b) accuracy/impact of eyewitnesses testimony, and (c) how characteristics of defendants influence juries.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5360H",
+            "course_name": "Psychology of Women",
+            "course_desc": "The course includes an in-depth examination of the development of women's roles and gender differences as well as a consideration of women's relationships, sexuality, employment, and diversity.  Special topics such as women and violence will also be covered. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5360N",
+            "course_name": "Advanced Statistical Methodology",
+            "course_desc": "An overview of commonly used statistical methods in scientific research, with a core focus on generalized linear mixed models for individual studies and meta-analysis for study aggregation. Analyses will be implemented primarily in the R statistical programming environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5360O",
+            "course_name": "Applied Biostatistics in Health Research",
+            "course_desc": "This course will examine methodological approaches and applied biostatistics in health research. Emphasis on non-parametric univariate and multivariate statistical tests. Prerequisite: PSY 5311 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5360P",
+            "course_name": "Psychology of Culture and Diversity",
+            "course_desc": "This course provides a graduate level introduction to psychological theories and methods that examine the links between culture and human behavior, affect and cognitions.  The course explores the relevance of these links to life development, mental health, social and gender identity, and sexuality.  The student is expected to gain critical thinking skills in evaluating the validity of psychological knowledge within a cultural context. More importantly, the students are expected to gain an appreciation and understanding for cultural variation in human behavior across different cultures and an enhanced awareness and ability to work with a culturally diverse and multicultural population.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5362",
+            "course_name": "Cognitive Neuroscience",
+            "course_desc": "This course provides a comprehensive introduction to cognitive neuroscience: the study of the biological basis of cognitive processes such as perception, attention, memory, language, and decision-making.  This is a seminar course that will cover theoretical constructs, methods, and current research findings in cognitive neuroscience. Prerequisite: PSY 3322 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5366",
+            "course_name": "Individual Study",
+            "course_desc": "Students design and execute original research or engage in extensive fieldwork in the field of psychology under the supervision of a faculty member. May be repeated once for credit. Prerequisite: PSY 5391 with a grade of \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5367",
+            "course_name": "Research Seminar in Social Psychology",
+            "course_desc": "The course provides an in-depth examination of selected topics in social psychology. The focus of student commitment and responsibility is learning about social psychology and actively producing psychological knowledge. The course covers the research process and concludes with each student developing a research proposal.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5370",
+            "course_name": "Learning, Cognition, and Motivation",
+            "course_desc": "Basic problems in the acquisition of responses, treating with such constructs as reinforcement, extinction, retention, forgetting, problem solving, motivation, and punishment. Major theories are treated through attention to classical experiments, but greatest emphasis is given to contemporary research. See Educational Psychology 5370.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5373",
+            "course_name": "Human Memory and Memory Disorders",
+            "course_desc": "This course provides a comprehensive overview of topics in human memory including different types of memory and the brain structures involved. Special emphasis will be given to problems with memory including aging memory, amnesia, and Alzheimer's disease. This course will cover current theories of memory with discussions of cutting-edge research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5374",
+            "course_name": "The Psychology of Language",
+            "course_desc": "This course provides a grounding in the cognitive theories/models of the major areas of language research: acquisition, comprehension, and production. It also provides an overview of the cognitive processes involved in several specific topic areas in language, such as syntax, semantics, discourse, prosody, bilingualism, neuro-linguistics, sign language, and reading.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5381",
+            "course_name": "Introduction to Psychophysiology",
+            "course_desc": "This course will provide an overview of the principles, theory, and applications of using physiological measures to study mental processes. This course will illustrate how the use of psychophysiological measurements can enhance our understanding of brain/mind/behavior relationships.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5391",
+            "course_name": "Research Methods & Experimental Design",
+            "course_desc": "Problems in psychology, emphasis on research procedures. A research project is required of each student.  Restricted to M.A. students in Psychological Research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5398",
+            "course_name": "Internship in Psychology",
+            "course_desc": "Students engage in extensive field work in a professional setting related to psychology. Prerequisite: PSY 5311 and PSY 5321 and PSY 5391 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PSY 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until the student has completed the thesis in PSY 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PSY 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuous thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PSY 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuous thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PSY 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuous thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

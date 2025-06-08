@@ -1,0 +1,30 @@
+{
+    "name": "Health Informatics",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/hi/",
+    "courses": [
+        {
+            "course_code": "HI 3310",
+            "course_name": "Health Informatics",
+            "course_desc": "This course provides an introduction to health informatics and information management to include hardware components, systems architecture, operating systems, languages, software applications, tools, electronic health record systems, and related concepts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HI 3311",
+            "course_name": "Databases in Healthcare",
+            "course_desc": "This course provides an overview and introduction to healthcare databases and data management. Topics in the course will include database theory, information infrastructure, and data analytics. Implementing healthcare information systems and decision making will also be examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HI 4401",
+            "course_name": "Advanced Health Informatics and Security",
+            "course_desc": "This course includes the integrated use of health information technology throughout the healthcare organization. Students will evaluate how technology impacts the overall hospital operations from both clinical and administrative perspectives. Students will also use planning and assessment tools to simulate health information technology system implementation and explore securing those systems.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

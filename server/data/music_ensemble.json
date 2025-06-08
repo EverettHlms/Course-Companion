@@ -1,0 +1,502 @@
+{
+    "name": "Music Ensemble",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/muse/",
+    "courses": [
+        {
+            "course_code": "MUSE 3009",
+            "course_name": "Opera Production",
+            "course_desc": "Opera production is a performance class where practical skills are applied in a production setting. The class is designed to produce and perform a fully staged opera or opera scenes program. Concurrent enrollment in Applied Voice is recommended.  Prerequisite: MUSE 3106 with a grade of C or better.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3026",
+            "course_name": "Student Chamber Music",
+            "course_desc": "Small student organized and led performing groups coached by area faculty as necessary.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3027",
+            "course_name": "Jazz Seminar",
+            "course_desc": "Jazz faculty and guest artists meet with Jazz Performance majors to address topics outside the scope of the student's other daily coursework. The seminar will provide lectures and performance opportunities that focus on skills related to professional jazz performance practices. (MULT).",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3028",
+            "course_name": "Latin Music Studies Seminar",
+            "course_desc": "Latin music faculty and guest artists meet with Latin music majors to address topics outside the scope of the students' other daily coursework. The seminar will provide lectures and performance opportunities that focus on skills related to professional Latin performance practices. Corequisite: MUSP 1220 or MUSP 2220 or MUSP 3220 or MUSP 4220 or MUSP 1230 or MUSP 2230 or MUSP 3230 or MUSP 4230 or MUSP 1240 or MUSP 2240 or MUSP 3240 or MUSP 4240 or MUSP 1250 or MUSP 2250 or MUSP 3250 or MUSP 4250 or MUSP 1260 or MUSP 2260 or MUSP 3260 or MUSP 4260 or MUSP 1170 or MUSP 2170 or MUSP 3170 or MUSP 4170.",
+            "course_credits": "\n0 Credit Hours \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3099",
+            "course_name": "Concert Ensemble",
+            "course_desc": "This is a major ensemble that provides experience for music majors to improve their performance skills in a mixed ensemble setting.  May be repeated for credit.  Restricted to full majors in Music.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3100",
+            "course_name": "Mariachi Lince de Oro",
+            "course_desc": "This course is an introduction to the mariachi genre. Traditional mariachi repertoire is distributed, rehearsed, memorized, and performed.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3101",
+            "course_name": "Bobcat Basketball Band",
+            "course_desc": "The Bobcat Basketball Band performs for all home mens and womens basketball games that do not fall over a university break. The group travels for all postseason tournaments. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3102",
+            "course_name": "Salsa Del Rio",
+            "course_desc": "Performing ensemble specializing in Latin and South American music. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3103",
+            "course_name": "Mariachi Nueva Generacion",
+            "course_desc": "This course is a performing ensemble specializing in Mexican folk music.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3104",
+            "course_name": "Panorama Steel Drum Band",
+            "course_desc": "A performing ensemble specializing in Caribbean steel drum band music. May be repeated for credit. (MULT).",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3105",
+            "course_name": "VocaLibre",
+            "course_desc": "A select vocal ensemble specializing in chamber music, including madrigal and jazz literature. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3106",
+            "course_name": "Opera Workshop",
+            "course_desc": "Opera Workshop is a skills-based class designed for developing opera singers to learn and apply skills that prepare them for professional performance. This course may be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3107",
+            "course_name": "Opera Theatre",
+            "course_desc": "This course is designed to take the knowledge and skills learned in MUSE 3106-Opera Workshop class and build on those skills while applying those skills to more advanced work. Students will learn and perform operatic roles, chamber opera pieces, or one-act operas.  Prerequisite: MUSE 3106 with a grade of \"B\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3108",
+            "course_name": "Orquesta del Rio",
+            "course_desc": "Performing ensemble specializing in Latin and South America music.  May be repeated for credit. (MULT).",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Lab Required|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3109",
+            "course_name": "Opera Production",
+            "course_desc": "Opera Production is a performance class where practical skills are applied in a production setting. The class is designed to produce and perform a fully staged opera or opera-scenes program. Concurrent enrollment in Applied Voice is recommended.  Prerequisite: MUSE 3106 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3120",
+            "course_name": "Bobcat Marching Band",
+            "course_desc": "This ensemble performs at all home and select away football games utilizing traditional and corps-style marching. The ensemble is focused on delivering entertaining and high-powered halftime shows while supporting Bobcat Football. The band also performs in exhibitions for high school band events. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3122",
+            "course_name": "Aurora Voce",
+            "course_desc": "Aurora Voce is a highly selective chamber chorale ensemble that is open by audition to all treble singers across campus. Performing in this ensemble provides the singers opportunities to explore high quality and challenging repertoire that spans a wide variety of styles, historical periods, and genres.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3123",
+            "course_name": "Concert Band",
+            "course_desc": "This ensemble provides playing experiences for non-music majors and music majors who want to improve their skills and serve as a lab ensemble for conducting students. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3124",
+            "course_name": "Treble Voice Choir",
+            "course_desc": "This is a performing ensemble course, specializing in choral literature for treble voices. This course may be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3125",
+            "course_name": "Men's Choir",
+            "course_desc": "Performing ensemble specializing in choral literature for mens voices. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3126",
+            "course_name": "Chamber Music",
+            "course_desc": "Small group performing ensembles focusing on chamber literature of mixed and similar instrumental music. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3127",
+            "course_name": "Jazz Combo",
+            "course_desc": "A small performance ensemble designed to develop improvisational skills and individual musical creativity through performance of standard jazz literature. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n4 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3130",
+            "course_name": "Wind Symphony",
+            "course_desc": "Major instrumental ensemble comprised of the most outstanding wind and percussion students who are selected by audition. The group is dedicated to the performance of the finest wind repertoire, whether a contemporary works for winds, or transcriptions from the orchestral repertoire. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3131",
+            "course_name": "Symphonic Winds",
+            "course_desc": "Major instrumental ensemble consisting primarily of music majors and talented non-music majors. This ensemble performs a broad range of full ensemble repertoire, representative of all historical periods and styles. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3140",
+            "course_name": "Texas State Chorale",
+            "course_desc": "Auditioned major choral ensemble specializing in performances of literature from the Renaissance and 20th Century. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3141",
+            "course_name": "University Singers",
+            "course_desc": "Major choral ensemble that performs a variety of literature, including masterworks, from the 17th Century to the present. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3150",
+            "course_name": "Texas State Symphony Orchestra",
+            "course_desc": "A full symphony orchestra that performs standard orchestra literature, as well as oratorio, concerto, and opera accompaniments. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3151",
+            "course_name": "Chamber Orchestra",
+            "course_desc": "Auditioned orchestra designed to perform advanced level symphonic literature with repertoire representing several of historical periods and styles. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3160",
+            "course_name": "Jazz Ensemble",
+            "course_desc": "The jazz based ensemble performs advanced arrangements of contemporary popular music in various styles. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3161",
+            "course_name": "Jazz Orchestra",
+            "course_desc": "The jazz based ensemble performs intermediate arrangements of contemporary popular music in various styles. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3162",
+            "course_name": "Jazz Lab Band",
+            "course_desc": "The jazz based ensemble performs beginning arrangements of contemporary popular music in various styles. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3170",
+            "course_name": "Accompanying",
+            "course_desc": "A coaching seminar for pianists to develop reading and accompanying skills. May be repeated for credit. Prerequisite: Piano major.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3180",
+            "course_name": "Mysterium for Contemporary Music Ensemble",
+            "course_desc": "An ensemble course focusing on the performance and analysis of contemporary music in all styles and media. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 3190",
+            "course_name": "Guitar Ensemble",
+            "course_desc": "Chamber guitar ensemble designed to provide interaction with fellow guitarists, develop musicianship as ensemble performer, and to familiarize student with music from different periods through a variety of literature.  May repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5101",
+            "course_name": "Bobcat Basketball Band",
+            "course_desc": "The Bobcat Basketball Band performs for all home mens and womens basketball games that do not fall over a university break. The group travels for all postseason tournaments. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5102",
+            "course_name": "Salsa Del Rio",
+            "course_desc": "Performing ensemble specializing in Latin and South American music. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5103",
+            "course_name": "Mariachi Nueva Generacion",
+            "course_desc": "This course is a performing ensemble specializing in Mexican folk music.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5104",
+            "course_name": "Panorama Steel Drum Band",
+            "course_desc": "A performing ensemble specializing in Caribbean steel drum band music. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5105",
+            "course_name": "VocaLibre",
+            "course_desc": "A select vocal ensemble specializing in chamber music, including madrigal or jazz literature. May be repeated for credit.  Prerequisite: Enrollment in major choral ensemble.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5106",
+            "course_name": "Opera Workshop",
+            "course_desc": "Opera Workshop is a skills-based class designed for developing opera singers to learn and apply skills that prepare them for professional performance.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5107",
+            "course_name": "Opera Theatre",
+            "course_desc": "Students will learn and perform operatic roles, chamber opera pieces, or one-act operas. Concurrent enrollment in Applied Voice is recommended.  Prerequisite: MUSE 5106 with a grade of \"B\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5108",
+            "course_name": "Orquesta del Rio",
+            "course_desc": "Performing ensemble specializing in Latin and South American music.  May be repeatable for credit. (MULT).",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Lab Required|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5109",
+            "course_name": "Opera Production",
+            "course_desc": "This course is designed for students to participate as performers in a full opera production or in the production of opera scenes. It will also prepare students for future professional opera performance engagements. Concurrent enrollment in Applied Voice is recommended.   Prerequisite: MUSE 5106 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5122",
+            "course_name": "Aurora Voce  Auditioned Treble Voice Choir",
+            "course_desc": "Aurora Voce is a highly selective chamber chorale ensemble that is open by audition to all treble singers across campus. Performing in this ensemble provides the singers opportunities to explore high quality and challenging repertoire that spans across a wide variety of styles, historical periods, and genres.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5123",
+            "course_name": "Concert Band",
+            "course_desc": "This ensemble provides playing experiences for non-music majors and music majors who want to improve their skills and serve as a lab ensemble for conducting students.  May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5124",
+            "course_name": "Women's Choir",
+            "course_desc": "Performing ensemble specializing in choral literature for womens voices. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5125",
+            "course_name": "Men's Choir",
+            "course_desc": "Performing ensemble specializing in choral literature for mens voices. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5126",
+            "course_name": "Chamber Music",
+            "course_desc": "Small group performing ensembles focusing on chamber literature of mixed and similar instrumental music. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5127",
+            "course_name": "Jazz Combo",
+            "course_desc": "A small performance ensemble designed to develop improvisational skills and individual musical creativity through performance of standard jazz literature. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5128",
+            "course_name": "Conducting Seminar",
+            "course_desc": "A seminar based course focusing on conducting technique, musicality, score reading, literature and performance in the conducting area, and rehearsal preparation with special emphasis on analysis and musical styles. May be repeated for additional credit.  Prerequisite: Conducting Major or permission by the instructor.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5129",
+            "course_name": "Afro-Caribbean Lab",
+            "course_desc": "This course is an experimental ensemble of flexible size and instrumentation that specializes in advanced arranging, performance, and improvisation involving Afro-Caribbean styles and rhythms.  An audition is required for placement in this ensemble. (MULT).",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5130",
+            "course_name": "Wind Symphony",
+            "course_desc": "Major instrumental ensemble comprised of the most outstanding wind and percussion students who are selected by audition. The group is dedicated to the performance of the finest wind repertoire, whether a contemporary works for winds, or transcriptions from the orchestral repertoire. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5131",
+            "course_name": "Symphonic Winds",
+            "course_desc": "Major instrumental ensemble consisting primarily of music majors and talented non-music majors. This ensemble performs a broad range of full ensemble\nrepertoire, representative of all historical periods and styles. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5140",
+            "course_name": "Texas State Chorale",
+            "course_desc": "Auditioned major choral ensemble specializing in performances of literature from the Renaissance and 20th Century. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5141",
+            "course_name": "University Singers",
+            "course_desc": "Major choral ensemble that performs a variety of literature, including masterworks from the 17th Century to the present. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5150",
+            "course_name": "Texas State Symphony Orchestra",
+            "course_desc": "A full symphony orchestra that performs standard orchestra literature, as well as oratorio, concerto, and opera accompaniments. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5160",
+            "course_name": "Jazz Ensemble",
+            "course_desc": "The jazz-based ensemble performs advanced arrangements of contemporary popular music in various styles. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5161",
+            "course_name": "Jazz Orchestra",
+            "course_desc": "The jazz-based ensemble performs intermediate arrangements of contemporary popular music in various styles. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5162",
+            "course_name": "Jazz Lab Band",
+            "course_desc": "The jazz-based ensemble performs beginning arrangements of contemporary popular music in various styles. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5170",
+            "course_name": "Accompanying",
+            "course_desc": "A coaching seminar for pianists to develop reading and accompanying skills. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5180",
+            "course_name": "Mysterium for Contemporary Music Ensemble",
+            "course_desc": "An ensemble course focusing on the performance and analysis of contemporary music in all styles and media. May be repeated for credit. Prerequisite: Music (Composition Specialization) major status.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSE 5190",
+            "course_name": "Guitar Ensemble",
+            "course_desc": "Chamber guitar ensemble designed to provide interaction with fellow guitarists, develop musicianship as an ensemble performer, and to familiarize the student with music from different periods through a variety of literature. May be repeated for credit. Prerequisite: Music (Guitar Performance Specialization) major status.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

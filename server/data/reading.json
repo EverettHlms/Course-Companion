@@ -1,0 +1,430 @@
+{
+    "name": "Reading",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/rdg/",
+    "courses": [
+        {
+            "course_code": "RDG 3215",
+            "course_name": "Residency-Based Assessing Literacy: Early Childhood Through Grade Six",
+            "course_desc": "This course will examine principles of literacy assessment to guide literacy instruction for all children, including culturally and linguistically diverse students, and plan appropriate instruction in a residency-based setting. As this is part of a multi-course, residency-based experience, students must apply in advance for placement and meet program-specific prerequisite requirements. Prerequisite: Admittance to Educator Preparation Program and A minimum 2.75 overall GPA and Departmental Approval.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 3221",
+            "course_name": "Residency-Based Literacy Instruction for EC-6",
+            "course_desc": "This course will allow students to critically analyze and apply current literacy methods and materials with a focus on ESL theories and methodologies. As this is part of a multi-course, residency-based experience, students must apply in advance for placement and meet program-specific prerequisite requirements. Prerequisite: Admittance to Educator Preparation Program and 2.75 Overall GPA and Departmental Approval.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 3311",
+            "course_name": "Teaching English Phonology, Orthography, and Morphology",
+            "course_desc": "This course focuses on what educators need to know about the English language in order to teach phonics, spelling, and vocabulary effectively.  The course is rooted in a linguistic and historical exploration of language change through usage, but focuses on applied understanding of these concepts in PK-12 reading and writing instruction. Topics include the linguistic underpinnings of decoding instruction, the structure of English orthography and its influence on spelling instruction, and the role of etymology/morphology in generative vocabulary instruction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 3312",
+            "course_name": "Reading and Writing Instruction for Children with Special Needs",
+            "course_desc": "Course focuses on classroom reading instruction for children not making average progress in literacy. Course topics: nature and identification of literacy difficulties, including dyslexia; modification of instruction for children with special needs; diagnostic teaching, teacher/program effectiveness and legal requirements of special populations.  Prerequisite: RDG 3311 with grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 3315",
+            "course_name": "Assessing Literacy: Early Childhood Through Grade Six",
+            "course_desc": "This course examines principles of literacy assessment to guide literacy instruction for all children, including culturally and linguistically diverse students, and plan appropriate instruction in a field-based setting. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and 2.75 overall GPA and Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 3320",
+            "course_name": "Integrating Reading and Writing",
+            "course_desc": "This course focuses on the integration of reading and writing with other subject areas, especially social studies, with special attention given to ESL methodologies for language arts instruction. The workshop approach for reading and writing is emphasized. (WI) (MULP) Prerequisite: RDG 4320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 3321",
+            "course_name": "Literacy Instruction for Early Childhood Through Grade Six",
+            "course_desc": "This course engages students in the critical analysis and application of current literacy methods and materials, with a focus on ESL theories and methodologies. Course is taught in a field-based setting.  As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. (WI) (MULT) Prerequisite: Admittance to Educator Preparation Program and 2.75 Overall GPA and Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 3323",
+            "course_name": "Teaching Literacies in the Content Areas",
+            "course_desc": "This course focuses on content-specific literacies in secondary teaching fields with an emphasis on reading, writing, and other 21st Century literacies in support of content-area learning. Topics include strategies for differentiating instruction across a variety of content areas, honoring socio-cultural dimensions of literacy, writing to learn, assessing literacies using various methods, and adapting instruction to meet student learning needs. Numerous content areas will be addressed. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and 2.75 overall GPA and Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 4310",
+            "course_name": "Content Reading",
+            "course_desc": "This course provides information about instruction in the elementary content areas with emphasis on the effective use of textbooks and tradebooks. Course topics include: nature and purpose of content instruction and reading, text selection, use of tradebooks, comprehension, inquiry learning and problem solving, and assessment and meeting individual needs in content reading. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and 2.75 overall GPA and Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 4315",
+            "course_name": "Critical Media Literacy for Educators",
+            "course_desc": "This course examines critical media literacy and how to critically engage with, and make sense of, the media, including social media. This course helps students develop the analytic tools needed to examine media content and make more informed choices as an active audience. Students develop the critical skills to analyze, deconstruct, and reconstruct media messages, and develop lessons to help their middle school students to do the same. As this is part of a multi course, field based experience, students must apply in advance for placement and meet program specific prerequisite requirements. Prerequisite: Admittance to Educator Preparation Program and a minimum 2.75 overall GPA and departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 4320",
+            "course_name": "Language and Literacy in Diverse Communities",
+            "course_desc": "This course includes the examination of sociolinguistic theories and an introduction to culturally responsive teaching of literacy. Topics address social identity factors, ethnicity, language variation, bilingualism, and the acquisition of Standard American English with implications for effective literacy instruction. (MULT)   Prerequisite: CI 2310 or CI 2311 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 4330",
+            "course_name": "Teaching Reading/Language Arts in Middle School",
+            "course_desc": "This course examines how the teaching of reading/language arts is informed by theory and research. Students will analyze the foundations of reading and language arts as disciplines, reading/language arts curricular issues, reading/language arts pedagogy, controversial issues in reading/language arts pedagogy, and the construction of conceptual, inquiry-based units. Prerequisites: RDG 4320 and (RDG 3311 or RDG 3312 or RDG 3320) both with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 4380",
+            "course_name": "Independent Study in Reading Instruction",
+            "course_desc": "Analysis and interpretation of selected topics of special interest in reading and language arts instruction. Topics and instructors will vary from semester to semester. Repeatable for credit with different emphasis. Prerequisites: Admittance to the Educator Preparation Program; 2.75 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5310",
+            "course_name": "Teaching Literacy with Childrens and Young Adult Literature",
+            "course_desc": "Course focuses on current research and methods for using childrens and young adult literature, including multicultural literature for literacy instruction in grades\nEC-12. Students will explore different genres and evaluate and select literature for instruction across the curriculum.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5320",
+            "course_name": "Foundations of Literacy Instruction",
+            "course_desc": "Course surveys reading and writing theories, processes, and models; theoretical bases of literacy instruction, stages of literacy development; the relationship between oral language and literacy; and classic and current quantitative and qualitative literacy research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5321",
+            "course_name": "Literacy Teaching and Learning in the Early Years: EC-Grade 3",
+            "course_desc": "This course focuses on effective literacy instruction in early childhood through third grade. Topics covered include early literacy skills, science of reading, culturally and linguistically relevant practices with young children, literacy-play connections, and engagement. The course examines reading curricula, early literacy assessment, and selection of diverse material.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5322",
+            "course_name": "Teaching Reading in the Elementary and Middle Schools",
+            "course_desc": "Course focuses on effective literacy instruction in elementary and middle schools, including the following areas: word identification, spelling, word study, vocabulary instruction, comprehension strategy instruction, fluency, critical literacy, and engagement. The course examines reading curricula, instructional assessment, and selection of material.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5324",
+            "course_name": "Developing Content Area Literacy in Middle and Secondary Schools",
+            "course_desc": "Course examines literacy development in middle and secondary school content areas. Topics include classroom assessment, development of strategic literacy, fluency, critical thinking, lifelong attitudes, interests, study strategies, and literacy in multiple sources of narrative and information text ranging from textbooks to electronic texts. Prerequisite or corequisite: CI 5363.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5326",
+            "course_name": "Developmental Literacy in the Middle and Secondary Schools",
+            "course_desc": "Course focuses on effective literacy instruction for middle- and secondary-school students who struggle with literacy.  The course also addresses reading curricula and instruction, assessment, and materials selection. RDG Majors, Minors, and MRT candidates only, or with permission of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5331",
+            "course_name": "Literacy Methods for Linguistically and Culturally Diverse Students",
+            "course_desc": "Course topics include linguistic and literacy challenges unique to students whose native language or dialect is not English and innovative methods for teaching literacy to linguistically and culturally diverse students. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5334",
+            "course_name": "Family Literacy",
+            "course_desc": "Family literacy is an intergenerational program that integrates adult literacy and emergent literacy education. This course will provide students with the knowledge and abilities to manage a family literacy program. Students will analyze related learning theories, population needs, program structures, and policy issues, including diversity and accountability. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5335",
+            "course_name": "Basic Academic Literacy",
+            "course_desc": "This course examines basic literacy needs and appropriate instructional strategies for traditional and non-traditional students entering college. Content covers basic to academic literacy, analysis of instructional strategies, comprehension, fluency, vocabulary, decoding, and phonemic awareness.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5340",
+            "course_name": "Connecting Reading and Writing in the Classroom",
+            "course_desc": "This course focuses on the relationships between reading and writing; the connections among written language, oral language, and thinking; and the organization of integrated reading and writing instruction in grades EC-12, including workshop techniques and thematic teaching.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5341",
+            "course_name": "Writing Pedagogy in the P-12 Classroom",
+            "course_desc": "In this course, students will examine theories, research, and practice in writing instruction in P-12 classrooms. Students will reflect on  process and subsequently use this information for their own practice and instruction. They will also examine and develop standards, curricula, and policies at district, state, and national levels.  Prerequisite: RDG 5340 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5345",
+            "course_name": "Assessment-Driven Literacy Instruction",
+            "course_desc": "Course focuses on classroom literacy assessment, interpretation of assessment results, and designing and implementing effective literacy instruction based on assessment results. Course concentrates on the special needs of individual readers within the classroom setting and includes interpretation of formal assessments. Prerequisite: RDG 5322 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5350",
+            "course_name": "Literacy as Sociocultural Practice",
+            "course_desc": "Using a social constructivist lens, this course examines broadening conceptions of literacy and what it means to be literate in the 21st century.  Students learn about current research, theory and practice pertaining to sociocultural models of literacy and literacy instruction. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5370A",
+            "course_name": "New Literacies",
+            "course_desc": "Course is an in-depth study of research and theory pertaining to the New Literacy Studies (NLS). Repeatable for credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5370B",
+            "course_name": "Social, Cultural, and Political Contexts of Literacy Instruction",
+            "course_desc": "This course explores implications of social, cultural, and political contexts for literacy instruction/policy. Students examine how literacy policies are created, shaped, and implemented and the impact of policies on how literacy is defined. Repeatable for credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5370C",
+            "course_name": "Foundations of Integrated Reading & Writing Pedagogy",
+            "course_desc": "The purpose of this course is to develop, explore and reflect on literacy as social practices within a community.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5370D",
+            "course_name": "Community Literacy",
+            "course_desc": "The purpose of this course is to explore and reflect on literacy as social practices within a community, informing effective curriculum and instruction for K-16 school settings, adult literacy programs, and informal environments.  Students will explore ethnographic research as a means to inform instruction and complete a service learning project. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5371",
+            "course_name": "Foundations of Postsecondary Integrated Reading & Writing Pedagogy",
+            "course_desc": "This course examines the theory, research, and practice of an integrated reading and writing approach to postsecondary literacy instruction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5372",
+            "course_name": "New Literacies Studies in Developmental Education",
+            "course_desc": "This course focuses on the research and instructional practice of New Literacies Studies for post-secondary developmental education. It includes an examination of diverse ways in which multiple digital technologies broaden and change the demands on those literacies necessary for communicating within the academic and workplace communities of the 21st century.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5374",
+            "course_name": "Foundations of Postsecondary Developmental Reading and Writing Theory",
+            "course_desc": "This course examines core theories of postsecondary literacy. Emphasis will be placed on historical, theoretical, and pedagogical models relevant to methods of teaching postsecondary developmental reading and writing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5375",
+            "course_name": "Postsecondary Developmental Reading and Writing Assessment",
+            "course_desc": "This course examines the history, theory, research, policy, and practice related to reading and writing assessment at the postsecondary level. Students will survey various placement, diagnostic, informal, affective and non-cognitive, and exit-level measures.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5376",
+            "course_name": "Postsecondary Disciplinary Literacies",
+            "course_desc": "This course examines core principles of disciplinary literacy. Students will examine the theory, research and pedagogical practices of literacy across the disciplines with an emphasis on understanding the potential for postsecondary learners and developmental education practices.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5380",
+            "course_name": "Independent Study in Reading Research",
+            "course_desc": "In-depth analysis and interpretation of selected research topics of great current interest in reading and language arts. Topics and instructors will vary from semester to semester. May be repeated with different topics for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 5381",
+            "course_name": "Internship in Postsecondary Developmental Literacy Education",
+            "course_desc": "This course is designed for students to gain experiences working in postsecondary developmental literacy contexts. Students must complete a one-semester, 150-hour internship at a site approved by their instructor and the site supervisor. Students develop an individualized learning plan and submit a comprehensive portfolio documenting their internship activities.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n16 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "RDG 5395",
+            "course_name": "Teaching Academic Literacy to Adults",
+            "course_desc": "Course focuses on teaching academic literacy to older students and adults in post-secondary settings. Topics include: the literacy needs of adult learners in formal schooling; appropriate assessment strategies; instructional methodologies,\nmaterials, and resources; and the school-based groups, schools, and agencies that serve these students.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 6330",
+            "course_name": "Language Acquisition and Development for Literacy Instruction",
+            "course_desc": "Course topics include first and second language learning; dialect acquisition and development; theories and stages of language development; language diversity; and language disorders. Students read and interpret research and study language development of EC-12 children from varying linguistic backgrounds.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 6333",
+            "course_name": "Reading Specialist Capstone: Professionalism and Professional Development",
+            "course_desc": "Course will focus on using interpretations of assessment data, literacy research, and state/national curriculum/assessment requirements to demonstrate leadership and design/deliver professional development/coaching for literacy assessment and instruction. Capstone students will also work in approved educational settings to demonstrate the roles of the Reading Specialist (including literacy teacher, interventionist, leader, and coach) in a 160-hour supervised internship. Reading Specialist Candidates only.  Prerequisites: Departmental Approval.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 6336",
+            "course_name": "Reading Specialist Internship I: Designing and Evaluating Literacy Research in Schools",
+            "course_desc": "This course focuses on designing, conducting, and interpreting quality, school-based research to guide literacy instructional decision-making. Internship students will work in approved educational settings to demonstrate the roles of the Reading Specialist including literacy teacher, leader, coach, and researcher. Prerequisites: RDG 5310, RDG 5320, RDG 5322, and RDG 5326. Corequisites: RDG 5310, RDG 5320, RDG 5322, and RDG 5326.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 7301",
+            "course_name": "Theory and Research of Literacy",
+            "course_desc": "This course examines the current theories and basic research of literacy development from psychological, cultural, linguistic, educational, and epistemological frameworks.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 7302",
+            "course_name": "Theory and Research of College Basic Literacy",
+            "course_desc": "This course examines basic literacy needs and instructional strategies for students within postsecondary institutions. Topics include comparison of basic and academic literacy, research and theory relevant to literacy development in college contexts, analyses of historical and current curricular approaches, and evaluation of instructional strategies and materials.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 7303",
+            "course_name": "Theory and Research of College Academic Literacy",
+            "course_desc": "This course examines academic literacy needs and instructional strategies for students in college. Topics include comparisons of academic, workplace, and new literacies and instructional strategies and materials for developing vocabulary, comprehension, and critical and strategic reading in multiple sources of information.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 7304",
+            "course_name": "Theory and Research of Literacy Instruction for Culturally and Linguistically Diverse Readers",
+            "course_desc": "This course examines the historical and contemporary understandings of language acquisition and instruction; foundational knowledge of literacy research and cultural and linguistic difference; instructional practices, including culturally responsive instruction, linguistic differences, and creating supportive literacy environments; curriculum, assessment, and evaluation; and critical literacy perspectives. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 7305",
+            "course_name": "Theory and Research of College Literacy Assessment",
+            "course_desc": "This course reviews literacy assessment theory, research, policy, and practice in postsecondary contexts. Topics include accountability, standards-based curricula, cultural and linguistic effects, assessment-driven instruction, reliability and validity, interpretation, and different types of instruments (high-stakes, placement, diagnostic, classroom tests, and qualitative instruments).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 7306",
+            "course_name": "Literacy Research Seminar",
+            "course_desc": "This course explores research and policy papers in literacy and literacy education, examines methodology and conclusions, and considers additional research questions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 7307D",
+            "course_name": "Multimodal Critical Discourse Studies",
+            "course_desc": "This course introduces students to multimodal critical discourse analysis as both a theoretical framework stemming from multimodal semiotics and a set of analytic tools for uncovering dominant ideologies in print language and visual representations. Through a survey of critical discourse analysis approaches and methods including transitivity analysis, deixis, multimodal metonymy and metaphor analysis, and visual analysis, students will examine underlying assumptions perpetuated by representations of developmental education from external policy-driving organizations. Additionally, students will explore the potential for developmental educators to harness multimodal representations of their students and practice in order to reclaim the narrative of developmental education.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 7307E",
+            "course_name": "Theory, Research, and Practice of Disciplinary Literacies",
+            "course_desc": "This course examines core principles of disciplinary literacies. Students will examine the theory, research, and pedagogical practices of literacies across the disciplines with an emphasis on understanding the potential for postsecondary learners and Developmental Education practices.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 7307F",
+            "course_name": "Curriculum Design in Developmental Education",
+            "course_desc": "This course focuses on principles and processes of curriculum design and implementation in developmental education contexts, including examination of emerging research and issues. The course pedagogy also engages students in independent curriculum research, planning, and problem-solving.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 7371",
+            "course_name": "Theory and Research of Postsecondary Integrated Reading and Writing",
+            "course_desc": "This course examines the theory, research, and practice of an integrated reading and writing approach to postsecondary literacy instruction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 7372",
+            "course_name": "Theory and Research of New Literacies Studies in Developmental Education",
+            "course_desc": "This course focuses on the theory and research of New Literacies Studies, which affects instructional practice in postsecondary Developmental Education. It includes an examination of diverse theories and models of multiple digital technology literacies necessary for communicating within the academic and workplace communities of the 21st century.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RDG 7373",
+            "course_name": "Community Literacies",
+            "course_desc": "This course focuses on exploring, understanding, refining, and reflecting on literacy as social practices within a community that informs effective curriculum and instruction for K-16 school settings, adult literacy programs, and informal environments. Students will explore ethnographic research as a means to inform instruction and complete a service learning project. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

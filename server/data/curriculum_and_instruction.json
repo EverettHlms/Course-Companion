@@ -1,0 +1,886 @@
+{
+    "name": "Curriculum and Instruction",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ci/",
+    "courses": [
+        {
+            "course_code": "CI 2310",
+            "course_name": "Education for Change",
+            "course_desc": "In this course students will increase their understanding of education, teaching, and learning from a social justice perspective. They will learn about pedagogy as a form of cultural politics and how teachers serve as cultural workers. The course also includes a survey of learning theories and the foundational knowledge bases for schooling, teaching, and learning.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 2311",
+            "course_name": "Education and Equity in a Diverse Society",
+            "course_desc": "This course will examine elementary education from a sociocultural, sociopolitical, and sociohistorical lens to reveal the need for equity in the current American schooling system. Students will question, analyze, and evaluate key issues and connections between schooling, community, society and policy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 2355",
+            "course_name": "STEM in Early Childhood and Elementary Education",
+            "course_desc": "This course provides an overview of STEM (Science, Technology, Engineering, Mathematics) teaching and learning, including science and engineering practices. Students will participate in and learn how to facilitate asset-based, culturally responsive, inclusive, inquiry-based, and design-based learning experiences that promote the STEM literacy and identity of early childhood and elementary students. Prerequisite: [PHYS 1310 or PHYS 1315 or PHYS 1320 or PHYS 1325 or PHYS 1360 or PHYS 1365 or PHYS 1370 or PHYS 1410 or PHYS 1420] and [GS 2310 or GS 3310 or GS 3320 or BIO 1320 or BIO 1330] both with grades of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 3300",
+            "course_name": "Middle School Curriculum and Instruction",
+            "course_desc": "Overview of developmentally appropriate curriculum adhering to state and national standards for grades 4-8. Includes the application of learning theory in a safe classroom environment with a focus on cooperative learning, direct instruction, discovery learning, technology, and learner-centered instruction. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. (WI) Prerequisite: Admittance to Educator Preparation Program and 2.75 Overall GPA and Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 3322",
+            "course_name": "The Design and Application of Curriculum in School Settings",
+            "course_desc": "This course focuses on design and application of curriculum including content, instructional methodologies, assessment, data-informed decision making, and technology integration.  Students will apply foundational theories of human development, learning, and social justice as they focus on the organization of content, instructional planning, classroom environment, and assessment.  Prerequisite: A minimum 2.75 overall GPA and departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 3325",
+            "course_name": "Adolescents and Society",
+            "course_desc": "This course involves a study of contemporary biological, cognitive, and psychological theories and processes of adolescence that prepares prospective teachers to understand abilities, behaviors, and needs of learners and teachers within the context of teacher-student relationships. Roles of family, peer groups, and culture are examined with the aid of contemporary adolescent literature.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 3332",
+            "course_name": "Foundations of Bilingual and ESL Education",
+            "course_desc": "This course examines the rationale, history, and philosophy of bilingual and ESL education and develops students understanding of the cultural and psychological influences that mediate the learning process. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisites: Admittance to Educator Preparation Program and 2.75 Overall GPA and Departmental approval. (MULT & MULP).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 3338",
+            "course_name": "Social Studies in the Elementary and Middle School",
+            "course_desc": "The course provides learner-centered approaches to social studies knowledge, instruction, equity, communication, and professional development and prepares educators with strong foundations for powerful social studies teaching and learning practices including: (a)  deep understanding/appreciation, (b) increased awareness of non-traditional approaches, (c) practical methods and applications, and (d) daily integration into teaching.  Prerequisite: A minimum 2.75 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 3340",
+            "course_name": "Teaching for Linguistic Diversity",
+            "course_desc": "This course provides pre-service content-area teachers a foundation to address the needs of multilingual learners in their classes. The course includes fundamental knowledge about language and communication, language acquisition, differentiated instruction and assessment, and ESL program types for pre-service teachers to implement appropriate and effective strategies to support the academic success of English learners. Prerequisite: CI 2310 or CI 2311 with a grade of a \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 3632",
+            "course_name": "Foundations, Methods, and Materials for Teaching ESL in the Content Areas",
+            "course_desc": "This course examines the rationale, history, and philosophy of bilingual and ESL education and develops students understanding of the cultural and psychological influences that mediate the learning process. Students will develop expertise in the content, methods, and materials of elementary ESL classroom instruction, including curricula and strategies for meeting the needs of English language learners in academic content areas. This course includes a field-based experience in a local elementary school that requires prior admittance into the Educator Preparation Program. Prerequisite: Admittance into Educator Preparation Program and Overall GPA 2.75 and [CI 2311 or CI 2310] and ECE 4300 both with a grade of  a \"C\" or better.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4270",
+            "course_name": "Residency-Based Building Relationships in the Secondary Classroom",
+            "course_desc": "This course focuses on the development of appropriate classroom relationships based on current theory and research. This includes culturally responsive practices, social emotional practices, positive behavior interventions and supports, analysis of legal and ethical issues as they relate to classroom relationships, and field experiences in a variety of secondary environments. As this is part of a multi-course, residency-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and 2.75 Overall GPA and Department Approval.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4272",
+            "course_name": "Residency-Based Teaching in Communities",
+            "course_desc": "This course will engage students in collaborative critical analysis and development of culturally responsive practices to respond to the educational needs of diverse learners in communities. Data-driven practices will be used to discuss issues of equity and access as well as to develop the ability to make evidence-based curricular choices. As this is part of a multi-course, residency-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and 2.75 Overall GPA and Departmental Approval.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4300",
+            "course_name": "Middle Level Philosophy and Schooling",
+            "course_desc": "Physical, social, emotional, cognitive, and moral characteristics of young adolescents in contexts of family, community, school, society. History and philosophy of middle school as a developmentally appropriate environment for young adolescents. Continued study of instruction that is affectively and cognitively appropriate for young adolescents. (WI) Prerequisite: A minimum 2.75 overall GPA and departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4325",
+            "course_name": "Classroom Management and Teacher-Student Relationships",
+            "course_desc": "This course will focus on classroom management theories and models. Personal philosophy, beliefs, and style of teaching will be examined as they relate to the various methods of classroom management, student discipline, and teacher-student relationships. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and 2.75 Overall GPA and Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4332",
+            "course_name": "Secondary Teaching: Curriculum and Technology",
+            "course_desc": "This course investigates secondary curriculum, its history, organization, development, and representation in instructional materials. Students learn how curriculum is decided, impacted, and assessed, and the role of technology in curriculum. Topics include local, state, and national standards, trends, and roles of culture and technology in teaching and learning.  Junior classification required.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4338",
+            "course_name": "Social Studies Curriculum & Pedagogy for the Middle School",
+            "course_desc": "This course examines how the teaching of social studies is informed by theory and research.  In this course students will analyze the foundations of social studies as a discipline, social studies curricular issues, social studies pedagogy, controversial issues pedagogy, and the construction of conceptual, inquiry-based units. (MULT) (WI) Prerequisites: 2.75 Overall GPA; Junior classification; must be declared as seeking 4-8 grade teacher certification.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4343",
+            "course_name": "Instructional Strategies for the Secondary Teacher",
+            "course_desc": "This course focuses on research-based instructional strategies to engage diverse secondary student populations in rigorous and relevant learning. Preservice teachers develop instructional decision-making skills by creating, implementing, and reflecting on lesson plans that integrate technology and assessment of learning.  Prerequisite: CI 2310 and CI 3325 and CI 4332 all with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4345",
+            "course_name": "Teaching Mathematics to Diverse Children in Early Childhood through 2nd Grade Classrooms",
+            "course_desc": "This course provides opportunities to develop knowledge and skills to elicit, understand, and extend childrens thinking from early childhood to second grade. Through directed field experiences, students will participate in problem-solving and assessment practices that support inclusive, culturally sustaining mathematics teaching to racially, linguistically, and socioeconomically diverse children.  Prerequisite: Admittance to Educator Preparation Program and 2.75 Overall GPA and MATH 2311 with grade of \"C\" or better. Corequisite: ECE 4310 or ECE 3610 or BILG 3332 or BILG 4325 with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4348",
+            "course_name": "Teaching Mathematics to Diverse Children in EC-6th grade classrooms",
+            "course_desc": "This course focuses on providing instruction on and assessing the mathematical thinking of racially, linguistically, and socioeconomically diverse children in early childhood through sixth grade. Through directed field experiences, students will participate in problem-solving and assessment practices that support inclusive and evidence-based mathematics instruction. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and MATH 2311 with grade of \"C\" or better and 2.75 Overall GPA and Departmental Approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4350",
+            "course_name": "Teaching Mathematics to Diverse Children in 3rd - 6th Grade Classrooms",
+            "course_desc": "This course focuses on understanding and using childrens mathematical thinking to inform teaching in third to sixth grade. Through directed field experiences, students will participate in problem-solving and assessment practices that support inclusive, culturally sustaining mathematics teaching to racially, linguistically, and socioeconomically diverse children. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and 2.75 Overall GPA and CI 4345 with grade of \"C\" or better and Departmental Approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4351",
+            "course_name": "Middle School Mathematics Methods Course",
+            "course_desc": "This course will explore the methods of teaching mathematics in intermediate and middle grades. Emphasis is placed on the equity principle (mathematics for all) and development of conceptual understanding of topics such as real numbers and operations on real numbers, geometry, statistics and probability, and algebra (patterns, variables, and functions). Prerequisites: 2.75 Overall GPA; Junior classification required; must be declared as seeking 4-8 grade teacher certification; MATH 1315 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2417 or MATH 2471 with grades of \"C\" or better must be earned in all prerequisites.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4355",
+            "course_name": "Science in Elementary Education",
+            "course_desc": "Course provides an overview of science standards and content, research-based science pedagogy, and the scientific process skills required for a developmentally appropriate, inquiry-driven science curriculum that facilitates the development of scientific literacy for all students, including second language learners. Prerequisite: [PHYS 1310 or PHYS 1315 or PHYS 1320 or PHYS 1325 or PHYS 1360 or PHYS 1365 or PHYS 1370 or PHYS 1410 or PHYS 1420] and [GS 2310 or GS 3310 or GS 3320 or BIO 1320 or BIO 1330] and CI 2355, all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4360",
+            "course_name": "Methods and Materials for Teaching ESL in the Content",
+            "course_desc": "This course addresses content, methods, and materials of elementary ESL classroom instruction, including curricula, strategies, and materials for meeting the needs of English language learners in all academic content areas. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. (MULT & MULP) Prerequisites: Admittance to Educator Preparation Program and 2.75 Overall GPA and Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4370",
+            "course_name": "Building Relationships in the Secondary Classroom",
+            "course_desc": "This course focuses on the development of appropriate classroom relationships based on current theory and research. This includes culturally responsive practices, social emotional practices, positive behavior interventions and supports, analysis of legal and ethical issues as they relate to classroom relationships, and field experiences in a variety of secondary environments. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and 2.75 Overall GPA and Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4372",
+            "course_name": "Teaching in Communities",
+            "course_desc": "In this course students will engage in critical analysis and development of culturally responsive curriculum for their content and their pedagogical content knowledge. They will develop critical analyses of the educational community from cultural, historical, and social standpoints in order to more effectively respond to the educational needs of diverse learners in communities.  Data-driven practices will be used to discuss issues of equity and access as well as to develop the ability to make evidence-based curricular choices. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite requirements. Prerequisite: Admittance to Educator Preparation Program and 2.75 Overall GPA and Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 4378",
+            "course_name": "Problems in Education",
+            "course_desc": "Individual problems related to areas of selected study for the undergraduate student, designed to meet individual differences for the purpose of certification. A letter following the course title on the permanent record will indicate the area of emphasis according to this code: (i) Elementary, (j) Secondary, and (l) Bilingual. Repeatable for credit with different emphasis. Prerequisite: Admittance to the Educator Preparation Program; 2.75 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CI 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CI 5301",
+            "course_name": "Methods for Teaching Middle School Mathematics",
+            "course_desc": "This course will explore the methods of teaching mathematics in intermediate and middle grades. Emphasis is placed on the equity principle (mathematics for all) and development of conceptual understanding of topics such as real numbers and operations on real numbers, geometry, statistics and probability, and algebra (patterns, variables, and functions).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5302",
+            "course_name": "Practical Statistics for Educators",
+            "course_desc": "This course uses graphical and numerical techniques to explore school related data, characterize patterns, and describe departures from patterns. The study of statistics will allow teachers to critically evaluate students, their teaching, and the results of educational research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5303",
+            "course_name": "Teaching Math in the Elementary School",
+            "course_desc": "This course is an in-depth study of the mathematics content and methodology derived from principles of learning and research. The course will explore the skills needed in cooperative planning, provide methods of organizing mathematical\nprinciples into lessons for pupils, and examine techniques for evaluating pupil progress.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5304",
+            "course_name": "Science, Technology, Engineering, and Mathematics for Elementary Teachers",
+            "course_desc": "The importance of problem solving in elementary mathematics and science is explored. Class activities emphasize the role of mathematics in collecting, recording, analyzing, and communicating scientific observations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5305",
+            "course_name": "Methods in Geometry for Elementary Math Teachers",
+            "course_desc": "This course focuses on study of congruency, similarity, transformations, coordinate geometry, and measurement using cognitively guided instruction. Van Hieles model will be used, and the importance of modeling relationships with and without technology will be taught. This course is designed for elementary school teachers with a mathematics specialization. Justification: This course addresses competencies required for this certificate as delineated by the Texas Education Agency.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5307",
+            "course_name": "Probability and Statistics Methods for Elementary Math Teachers",
+            "course_desc": "This course for elementary math teachers covers graphical and numerical techniques to explore data and describe patterns and departures from patterns using cognitively guided instruction. The course focuses on statistical inference, making and evaluating predictions, and designing problems to solve using the theory of probability and its relationship to sampling.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5308",
+            "course_name": "Emerging Frameworks for Gifted and Talented Education",
+            "course_desc": "This course focuses on emerging frameworks for gifted and talented education, including practical applications for teaching practices, program policies, and what a gifted education could be.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5309",
+            "course_name": "Rethinking Talent and Transformation",
+            "course_desc": "In this course, students rethink talent and transformation in school and community contexts using various practices, frameworks, and research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5310",
+            "course_name": "Creativity: Theories, Research, Practices, and Issues",
+            "course_desc": "In this course, students examine creativity in relation to associated theories, research, practices, and contemporary issues. Relationships between creativity and topics such as education, everyday life, and social change are explored. Students may not take both CI 5310 and CI 5351 for credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5311",
+            "course_name": "Practicum in Talent Development",
+            "course_desc": "This course is a capstone course in which students develop and apply knowledge and skills in talent development in an educational setting.  Prerequisites: CI 5310 and CI 5308 or CI 5309; CI 5319 or CI 5383; and one of the following: CI 5324 or CI 5359 or CI 5368, all with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CI 5312",
+            "course_name": "Elementary Language Arts: Current Trends",
+            "course_desc": "A study of current trends in methods of instruction in the language arts, a study of research findings, and an examination of selected media and materials. Also identifies the relation of language arts to other aspects of the elementary school curriculum and the most effective diagnostic techniques for the language arts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5313",
+            "course_name": "Research Seminar in Human Growth and Development",
+            "course_desc": "Training for teachers (elementary or secondary), counselors, supervisors, and administrators to improve their professional effectiveness through the direct study of individual students according to an organizing framework of scientific\nknowledge of human growth and development; emphasis on the physical processes, the affective processes, and peer relationships.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5314",
+            "course_name": "Human Growth and Development II",
+            "course_desc": "For teachers (elementary or secondary), counselors, supervisors, and administrators to increase their understanding of the motivation, the developmental level, and the abilities of individual students by a direct study of\nindividuals in the classroom; emphasis on increasing scientific knowledge of culture, self-development, and self-adjustive areas of development.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5315",
+            "course_name": "Coaching Skills for Elementary Math Mentors",
+            "course_desc": "This course focuses on using guidance and feedback to help teachers improve math instruction. Specific attention is given to roles and responsibilities of math content coaches, including their function in coaching a professional learning community, and the roles of math mentors in helping new and experienced teachers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5316",
+            "course_name": "Problem-Solving, Reasoning, and Modeling for Elementary Math Teachers",
+            "course_desc": "This course examines numerical reasoning and problem-solving with particular attention to heuristics, strategies, and modeling. Students will learn methods for mental computation and computational estimation, and algorithmic processes. The course is for elementary math teachers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5317",
+            "course_name": "Teaching Strategies for Elementary Teachers: Alternative Models",
+            "course_desc": "Alternative teaching models based on learning theory. Course designed to assist the elementary teacher in selecting appropriate strategies for meeting student learning styles and to broaden the scope of elementary school methodology. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5319",
+            "course_name": "Nonacademic and Contextual Factors in Advanced/Gifted Education",
+            "course_desc": "This course explores the interplay of academic, nonacademic, and contextual factors on the growth of youth. Related practices for advanced/gifted educational ecologies are included. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5322",
+            "course_name": "Middle School Instructional Strategies and Practices",
+            "course_desc": "Course topics include middle school curriculum, state and national standards, developmentally and culturally responsive instructional strategies, assessment, and classroom management. Students are required to complete 30 clock hours of field experience in 4-8 school settings.  Prerequisite: Admittance to Educator Preparation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5323",
+            "course_name": "Middle School Philosophy and Learning",
+            "course_desc": "Middle school philosophy focusing on young adolescents cognitive, emotional, social, and physical needs. Instructional delivery strategies and assessments that are developmentally responsive and adhere to state and national standards.\nPositive learning environments that include family and community collaboration. Philosophical and historical foundations of the middle school movement. Prerequisite: CI 5322.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5324",
+            "course_name": "Systems and Models for Gifted and Talented Education",
+            "course_desc": "This course examines systems, organizational models, strategies and assessment approaches that facilitate gifted and talented education in K-12 school settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5325",
+            "course_name": "Comparative Education Systems",
+            "course_desc": "This course will compare global educational systems with the American education system. Students will observe classes, interview non-American educators and students, analyze research, and teach lessons in a school outside of the U.S. context.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5326",
+            "course_name": "Curriculum & Management in the Elementary & Middle School",
+            "course_desc": "Course topics include principles of curriculum development, the EC-8 curriculum, lesson and unit planning, instructional strategies that promote student learning, and classroom management. Students are required to complete 30 clock hours of field experience in EC-8 school settings. Prerequisite: Admittance to Educator Preparation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5327",
+            "course_name": "Principles and Practices in the Elementary School",
+            "course_desc": "Defines and interprets the newer trends in elementary school practices; the philosophy and objectives of the elementary school,and procedures for implementing these objectives; classroom organization and management; the\nprinciples of unified learning as applied to school experiences, procedures for planning and developing experiences, meeting individual needs, and evaluation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5328",
+            "course_name": "Elementary Social Studies: Curriculum Problems",
+            "course_desc": "Development and purposes of the social studies curriculum; contributions of the social sciences to the social studies curriculum; relation of the social studies to the total elementary program; curriculum construction, supervision, and\nevaluation; current issues and trends.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5329",
+            "course_name": "The Elementary School Science Curriculum",
+            "course_desc": "An intensive study of the philosophies of discovery and inquiry as they relate to the elementary school science curriculum; laboratory experiences related to the objectives, content, methods, and materials of selected innovative programs. Examples: Inquiry Development Program, Elementary Science Study, Science-A Process Approach, Introductory Science Study, Science Curriculum Improvement Study, Minnesota Mathematics, and Science Teaching Project.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5330",
+            "course_name": "Multicultural Teaching and Learning",
+            "course_desc": "Course topics include multicultural education theory and principles; research; current issues and trends; culturally responsive curriculum, teaching methods and materials, and teaching English language learners. Students will explore their cultures and other cultures to develop knowledge and sensitivity needed to teach  in a multicultural multilingual society. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5332",
+            "course_name": "Multicultural Teaching and Learning of Mathematics",
+            "course_desc": "This course will acquaint students with current learning theories that conceptualize interaction and participation as crucial to learning mathematics in contexts that include English Language Learners (ELLs). Students will make practical/meaningful connections to classroom instruction by designing learning environments that include tools to support ELLs in learning mathematics with understanding.  (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5333",
+            "course_name": "The Secondary Curriculum",
+            "course_desc": "A brief history of curriculum development with special emphasis on the Texas curriculum program; basic principles and techniques of curriculum construction and implementation; aims and purposes of the curriculum as a function in perpetuating and improving democratic ideals; and attention to significant research in curriculum development.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5336",
+            "course_name": "Methods and Materials for Teaching English as a Second Language",
+            "course_desc": "Identification and use of English as a Second Language (ESL) material and teaching strategies for teaching ESL as an integrated process including first and second language acquisition. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5337",
+            "course_name": "Language Acquisition and Development",
+            "course_desc": "This course addresses the foundations for first and second language learning acquisition. Central concepts in child language development with special emphasis on language-minority issues will be presented and discussed. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5339",
+            "course_name": "Project-Based Instruction",
+            "course_desc": "This course will examine a theory driven perspective accounting for how adolescents and young adults learn and how project-based instruction (PBI) may be our best choice for bridging the gap between theory and practice. Students will observe secondary PBI classes, participate in a project and design a PBI unit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5340A",
+            "course_name": "Teaching History for Young Learners: Issues, Purposes, and Possibilities",
+            "course_desc": "This seminar-based course consists of the study of current trends, issues, and pedagogical applications specific to the teaching of history for young learners. The course examines the history of history education, issues in the teaching of history, and how to teach history from multiple perspectives.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CI 5340C",
+            "course_name": "Introduction to Specially Designed Instruction for Students with Disabilities",
+            "course_desc": "This course covers instructional principles for designing and implementing specially designed instruction (SDI) to meet students individual needs. This course prepares students to design, teach, and evaluate a variety of instructional approaches. All approaches have empirical evidence for improving outcomes for students with disabilities, including dyslexia.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5340D",
+            "course_name": "Inclusive and Responsive Learning Environments in the Secondary Classroom",
+            "course_desc": "This course focuses on approaches and strategies secondary teachers use to effectively manage instruction in the classroom. Specific issues related to adolescent development, learning theories, student diversity, and community involvement will be covered. Students will reflect on how these issues inform professional practices such as establishing inclusive classroom communities, managing student behavior and learning, and communicating effectively with parents and colleagues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5340E",
+            "course_name": "Content and Instructional Knowledge in the Secondary Classroom",
+            "course_desc": "This course focuses on frameworks and strategies for designing and implementing effective instruction in secondary classrooms. Topics include standards-based curriculum design, content literacy, collaborative learning, and student motivation. Students will also discuss evidence-based best practices for effective instruction and learning in secondary content areas.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5340F",
+            "course_name": "Assessment, Differentiation, and Reflection in the Secondary Classroom",
+            "course_desc": "This course focuses on approaches to and strategies for assessing student learning needs and outcomes, and reflecting on teaching practices in the secondary classroom. Topics include differentiating instruction for diverse student populations, analyzing teacher feedback and student assessment data to inform future instructional choices, and reflecting on teaching practices for professional growth.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5350",
+            "course_name": "The Dual Credit Partnership",
+            "course_desc": "This course analyzes the collaboration between and practices of institutes of higher education and independent school districts that impact dual credit courses offered on secondary campuses. The course content focuses on theoretical, historical and policy contexts of the dual credit partnership, as well as the unique expectations of each institution and the needs of the students they serve. Students will examine curricular and programmatic strategies for implementing effective dual credit partnerships in the K-12 setting.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5351",
+            "course_name": "Creative Teaching, Learning, and Leading in Advanced/Gifted Education",
+            "course_desc": "This course focuses on the practical application of creativity research and theories to advanced/gifted education teaching, learning, and leading. Students may not take both CI 5351 and CI 5310 for credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5352",
+            "course_name": "Research and Current Topics in Talent Development and Creativity",
+            "course_desc": "This course focuses on current topics, emerging issues, and recent research related to talent development and creativity, with both theoretical and practical applications. Current topics and specific research approach emphases will vary. The course is repeatable for credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5354",
+            "course_name": "Leadership in Gifted and Talented Education",
+            "course_desc": "This course focuses on leadership in gifted and talented education, including leading through the coordinator role and efforts toward transformative change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5359",
+            "course_name": "Curriculum for Rigor, Depth, and Complexity",
+            "course_desc": "This course focuses on the understanding and design of K-12 curricula with rigor, depth, and complexity.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5363",
+            "course_name": "Strategies for Improving Secondary Teaching",
+            "course_desc": "This course focuses on the development and implementation of instructional strategies for the secondary education classroom. Students are required to complete 30 clock hours of field experience in a secondary school setting.  Prerequisite: Admittance to Educator Preparation; CI 5333 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5364",
+            "course_name": "Advanced Instructional Strategies for Secondary Education Teachers",
+            "course_desc": "This seminar-based course consists of the study of instructional strategies for experienced secondary education teachers. The course examines the research and theory that correspond to the development and implementation of advanced instructional strategies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5368",
+            "course_name": "The Politics and Creativity of Being and Becoming",
+            "course_desc": "This course examines different senses of politics and creativity in relation to contemporary questions of being and becoming. Implications for education, perception, and a different future are explored through research, philosophy, and art. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5370",
+            "course_name": "Classroom Management, Discipline, and Legal Issues",
+            "course_desc": "Course topics include the development of an appropriate management and discipline system based on in-depth study of current theory and research. Students will study Texas School Law as it relates to classroom teachers and\nstudents. Some field work, school and state agency visitation may be required.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5371",
+            "course_name": "Advanced Classroom Management: Perspectives and Strategies for the Practicing Teacher",
+            "course_desc": "This course consists of the study of classroom management strategies for experienced teachers. Students will examine philosophical assumptions, research, and theory that correspond to the development and implementation of classroom management strategies, paying specific attention to the increasing racial, ethnic, language, gender, and social-emotional diversity among student populations. Additionally, it examines local, state, and federal policies that influence classroom management practices. Specific attention will be paid to current trends in the research and their potential impact in the individual classroom. Prerequisite: CI 5370 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5372",
+            "course_name": "Philosophical Foundations of Education",
+            "course_desc": "An overview of the field of educational philosophy as related to the spectrum of human events and the educative process in particular. Designed for masters degree students without previous graduate work in philosophy or philosophy of education.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5373",
+            "course_name": "Professional Development for Teachers: Models, Research, and Theory",
+            "course_desc": "This seminar-based course consists of the study of current models, research, and theory of professional development for PK-12 teachers. The course examines the research and theory that informs current models of professional development that are implemented by schools to promote professional growth among teachers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5375",
+            "course_name": "Problems in Elementary Education",
+            "course_desc": "A workshop in innovative techniques or materials offered either on campus or off campus in approved sites. Designed to give elementary classroom teachers college credit for in-service type training; course gives an opportunity for teachers to upgrade their skills and knowledge.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5376",
+            "course_name": "Problems in Secondary Education",
+            "course_desc": "A workshop in innovative techniques or materials offered either on campus or off campus in approved sites. Designed to give secondary classroom teachers college credit for in-service type training; course gives an opportunity for teachers to upgrade their skills and knowledge.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5378",
+            "course_name": "Problems in Education",
+            "course_desc": "Individual problems not related to Thesis or Research Problems. Designed to place emphasis on selected areas of study. A number following the course title on the permanent record will indicate the area of emphasis according to this code (2) counseling (7) Supervision (8) elementary (9) secondary.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5381",
+            "course_name": "Curiosity, Reimagination, and the Radical Imagination",
+            "course_desc": "In this course, students examine curiosity, reimagination, and the radical imagination in relation to associated research, practices, frameworks, and contemporary issues in schools and society.  (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5383",
+            "course_name": "Mentoring Across the Life Span",
+            "course_desc": "This course examines mentoring types and processes across the life span, with emphases on mentoring teachers and students in school and community contexts. Talent development purposes for mentoring are included. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5387",
+            "course_name": "Bilingual Education: Principles and Practices",
+            "course_desc": "A study of the current trends in bilingual education and elementary school practices, the philosophy and objectives of the bilingual elementary school program, classroom organization and management, and procedures for meeting individual needs. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5389",
+            "course_name": "Action Research for Practitioners",
+            "course_desc": "This course prepares practicing teachers to conduct action research in educational settings. Students will design and implement an action research project based on a self-selected topic. Prerequisites:  CI 5390 and CI 5302, plus 6 credit hours in the major, all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5390",
+            "course_name": "Research Seminar in Education",
+            "course_desc": "Study of problems in the education of children in the schools. Topics include basic research procedures needed in the preparation of thesis or other research reports and development or skill in reading, analysis, and application of educational and behavioral research. A research paper is required of each student. CI 5390 must be completed prior to the semester of the comprehensive exam.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5392",
+            "course_name": "Inclusive and Responsive Learning Environments in the Secondary Classroom",
+            "course_desc": "This course focuses on approaches and strategies secondary teachers use to effectively manage instruction in the classroom. Specific issues related to adolescent development, learning theories, student diversity, and community involvement will be covered. Students will reflect on how these issues inform professional practices such as establishing inclusive classroom communities, managing student behavior and learning, and communicating effectively with parents and colleagues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5393",
+            "course_name": "Content and Instructional Knowledge in the Secondary Classroom",
+            "course_desc": "This course focuses on frameworks and strategies for designing and implementing effective instruction in secondary classrooms. Topics include standards-based curriculum design, content literacy, collaborative learning, and student motivation. Students will also discuss evidence-based best practices for effective instruction and learning in secondary content areas.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5394",
+            "course_name": "Assessment, Differentiation, and Reflection in the Secondary Classroom",
+            "course_desc": "This course focuses on approaches to and strategies for assessing student learning needs and outcomes, and reflecting on teaching practices in the secondary classroom. Topics include differentiating instruction for diverse student populations, analyzing teacher feedback and student assessment data to inform future instructional choices, and reflecting on teaching practices for professional growth.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5395",
+            "course_name": "Capstone for Education Students",
+            "course_desc": "This course focuses on the research and theories that correspond to effective teaching, professionalism, and professional development. Students will analyze their understanding of effective teaching to develop a professional development plan for improving their teaching in the future.  Prerequisite: CI 5314 and CI 5333 and CI 5363 and CI 5370 and CI 5390 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in Curriculum and Instruction 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CI 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CI 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The\nstudent continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CI 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The\nstudent continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CI 7101",
+            "course_name": "Introduction to the Research Experience",
+            "course_desc": "This course is designed to introduce students to the program and to the ongoing research activities of its faculty. Emphasis is placed on identifying and coordinating opportunities for joint research and scholarship among faculty and students. Students must enroll in the course for three semesters before dissertation.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7302",
+            "course_name": "Research Methods and Measurement in Education",
+            "course_desc": "This course provides a comprehensive introduction to educational research with a focus on research design, research methods and methodology, and fundamental measurement issues in quantitative, qualitative, and mixed-methods research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7303",
+            "course_name": "Educational and Psychological Measurement and Assessment",
+            "course_desc": "Philosophical and empirical foundations of measurement, assessment, testing, and evaluation. Topics include philosophical and mathematical foundations in research; empirical levels and measurement description; test construction; observational rating scales; measurement interpretation; social, legal, and ethical implications; item analysis/refinement for scale performance; reliability and validity evidence; and standardized and placement tests.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7310",
+            "course_name": "Teaching in College",
+            "course_desc": "Teaching strategies for teaching/instructional assistants focused on creating syllabi, adapting to diverse student populations, collaborating with colleagues and staff, implementing active learning strategies, fostering assigned reading, assessing learning, and integrating technology. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CI 7326",
+            "course_name": "Grant Development and Management",
+            "course_desc": "This course focuses on developing competitive grant proposals and understanding grant management resources. Strategies will encompass locating funding sources, evaluating proposals, developing proposals and budgets, and methods of meeting accountability requirements.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7351",
+            "course_name": "Beginning Quantitative Research Design and Analysis",
+            "course_desc": "This course introduces students to quantitative research design and analysis. Topics include descriptive statistics; sampling techniques; statistical inference, including the null hypothesis, significance tests, and confidence intervals; and causal-comparative analyses, including t-test and ANOVA. Corequisite: CI 7302 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7352",
+            "course_name": "Beginning Qualitative Design and Analysis",
+            "course_desc": "This course introduces students to the qualitative paradigm. Topics include distinctive features, alternative qualitative traditions, purposeful sampling, common data collection methods, inductive analysis, the role of the researcher, and evaluation of qualitative research. Corequisite: CI 7302 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7353",
+            "course_name": "Intermediate Quantitative Research Design and Analysis",
+            "course_desc": "This course focuses on intermediate quantitative research design and statistical methods of data analysis related to problems in education, psychology, sociology, and biological sciences. The general linear model based univariate and selected multivariate statistical techniques are examined including theory/purpose, logic, practical implications, and interpretation of various analytic techniques.  Prerequisite: CI 7351 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7354",
+            "course_name": "Intermediate Qualitative Design and Analysis",
+            "course_desc": "This course focuses on issues in design and implementation of qualitative research. Topics include influence of alternative traditions, literature in qualitative research, access to the field and ethical issues, researcher-participant relationships, purposeful sampling strategies, inductive analysis procedures, developing theory, and reporting research.  Prerequisite: CI 7352 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7355",
+            "course_name": "Mixed Methods in Research and Evaluation",
+            "course_desc": "This course will cover mixed methods research designs that can be used in the evaluation of educational interventions and programs. Topics include mixed methods research designs, program evaluation models, quantitative and qualitative data analysis and interpretation, reading mixed methods research articles, and writing mixed methods research proposals and evaluation reports. Prerequisite: CI 7351 and CI 7352 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7358",
+            "course_name": "Theoretical and Conceptual Frameworks in Qualitative Research",
+            "course_desc": "This course is intended for those versed in current paradigmatic and epistemological states of human inquiry and presents an opportunity to design a research project and address the major issues of a research career. Prerequisite: CI 7352 and CI 7354 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7359",
+            "course_name": "Seminar in Quantitative Research",
+            "course_desc": "This course is a small-group seminar that focuses on analytic strategies specific to the doctoral students dissertation topic. Examples include structural equation modeling, hierarchical linear modeling, log linear modeling, non-parametric analyses, factor analysis, factorial analysis of variance, and other multivariate statistical methods. Prerequisite: CI 7351 and CI 7353 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7360",
+            "course_name": "Designing Educational Research",
+            "course_desc": "Students identify problems in Developmental Education, develop a strategic proposal to apply to these problems, and create an evaluation plan to assess the implementation of their proposal. Students also develop skills in critiquing research reports and in synthesizing research from Developmental Education. Prerequisite: CI 7353 or CI 7354 or CI 7355 any with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7378",
+            "course_name": "Independent Study",
+            "course_desc": "Individual problems or topics will be designed and completed to emphasize selected areas of study in the Department of Curriculum and Instruction. May\nbe repeated for additional credit at the discretion of the program coordinator.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7386",
+            "course_name": "Directed Research",
+            "course_desc": "Students will participate in an authentic research experience, either by working as part of a doctoral faculty member's research team or developing an original research project.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7388",
+            "course_name": "Educational Leadership for Social Justice",
+            "course_desc": "This course provides an in-depth study of the theories and practices related to educational leadership in PreK-12 educational contexts through a social justice lens. Students will examine current social justice issues in schools and develop strategies for conceptualizing and implementing institutional change that works toward a more equitable education.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7389A",
+            "course_name": "Topics in Instructional Technology",
+            "course_desc": "This topic offers an in-depth study of systematic instructional design emphasizing the selection and use of appropriate media for delivering instruction to maximize student learning. Special emphasis in this topic is on the leaders role in\ninfluencing the use of technology.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CI 7389C",
+            "course_name": "Special Topics: Race Theory in Educational Research",
+            "course_desc": "This course will explore racial theories and paradigms applicable to the study of race in K-20 educational settings. Students will analyze foundational scholarship in the formation of racial theories, research methodology, key tenets of race research, and literature pertinent to current trends in educational research regarding race. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

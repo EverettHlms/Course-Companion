@@ -1,0 +1,38 @@
+{
+    "name": "Latin",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/lat/",
+    "courses": [
+        {
+            "course_code": "LAT 1410",
+            "course_name": "Beginning Latin I",
+            "course_desc": "Introduction to reading and writing skills in Latin with a Latin cultural framework. Students who take LAT 1410 toward degree requirements must also complete LAT 1420. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LAT 1420",
+            "course_name": "Beginning Latin II",
+            "course_desc": "Continued practice in reading and writing skills in Latin within a Latin cultural framework. Students who take LAT 1410 toward degree requirements must also complete LAT 1420. (MULT) Prerequisites: LAT 1410 with a grade of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LAT 2310",
+            "course_name": "Intermediate Latin I",
+            "course_desc": "Introduction to complex grammatical structures and syntax of Latin. Focus on the application of the rules of grammar and syntax to the translation of original classical texts. Some attention given to the diction and written styles of individual authors. (MULT) Prerequisites: LAT 1420 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LAT 2320",
+            "course_name": "Intermediate Latin II",
+            "course_desc": "Continued acquisition of complex grammatical structures and syntax. Introduction to reading Latin poetry. Some attention given to meter and scansion as needed. (MULT) Prerequisite: LAT 2310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

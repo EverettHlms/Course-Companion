@@ -1,0 +1,382 @@
+{
+    "name": "Nutrition and Foods",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/nutr/",
+    "courses": [
+        {
+            "course_code": "NUTR 1162",
+            "course_name": "Food Systems Laboratory",
+            "course_desc": "This course provides for application of the management techniques and concepts of planning, preparation, cost analysis, and evaluation covered in NUTR 1362. Corequisite: NUTR 1362 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 1362",
+            "course_name": "Food Systems",
+            "course_desc": "Nutrition, food science, and management principles in planning, procuring, preparing, preserving, evaluating, and serving food to fulfill dietary requirements of individuals and diverse cultural groups. Includes federal legislation, environmental issues, and culinary principles. (MULT) Corequisite: NUTR 1162 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 2162",
+            "course_name": "Food Science Laboratory",
+            "course_desc": "Students engage in laboratory techniques and exercises related to food, chemistry, microbiology, nutrition, food palatability, and food safety. Corequisite: NUTR 2362 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 2360",
+            "course_name": "Nutrition Science",
+            "course_desc": "The science of human nutrition with emphasis on nutrient digestion, absorption, and excretion; nutrient metabolism, requirements, and sources. Prerequisite: BIO 1330 or CHEM 1341 with a grade of  \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 2361",
+            "course_name": "Nutritional Assessment",
+            "course_desc": "This course focuses on the principles and techniques of assessing nutritional status, presentation of interviewing and nutrition counseling theories, development of individualized nutrition diagnoses, and introduction to educational tools and community nutrition resources. Practical application is provided through assignments and in-class experiences. Prerequisite: NUTR 2360 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 2362",
+            "course_name": "Food Science",
+            "course_desc": "Students learn the scientific principles underlying the relationships among food, chemistry, microbiology, nutrition, and food safety as related to the major food groups. Co- or prerequisite: NUTR 2162 with a grade of \"C\" or better. Prerequisite: BIO 1330 or CHEM 1341 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 3303",
+            "course_name": "Research Methods in Nutrition Science",
+            "course_desc": "This course will focus on the evaluation of research concepts, methods, and strategies used in nutrition research. Topics include epidemiological, community, clinical, animal, and cell culture models, study design, statistical analysis and dissemination of research findings. Students will locate, read, and evaluate scientific literature.  Prerequisites: BIO 2430 or [BIO 2451 and BIO 2452] all with grades of \"C\" or better and CHEM 1342 and CHEM 1341 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 3362",
+            "course_name": "Nutrition and Health",
+            "course_desc": "For non-science majors. Involves the study of the nutrients and their function in promoting health throughout the life span. Includes standards for consumer selection of a proper diet and analysis of nutrition-related health problems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 3363",
+            "course_name": "Nutrition for Wellness and Fitness",
+            "course_desc": "Students will study the causes and treatment of overweight and obesity and the effects of dietary and lifestyle choices on attainment and maintenance of health and prevention of chronic diseases. Basic exercise physiology is introduced and dietary recommendations for sports, fitness and prevention of eating disorders are also presented. Prerequisite: NUTR 2361 and NUTR 3367 both with grades of \"C\" or  better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 3364",
+            "course_name": "The Science of Nutrition and Exercise",
+            "course_desc": "This course focuses on basic nutritional science, with emphasis on the physiological and biochemical importance of nutrition to physical performance, health, and fitness. The use and efficacy of ergogenic aids will be investigated. The course requires reading and interpreting the scientific literature.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 3367",
+            "course_name": "Nutrition and Physiology",
+            "course_desc": "This course integrates the study of nutrition with other biological sciences, focusing on cellular and molecular physiological processes related to digestion, absorption, transport, and metabolism of nutrients and other dietary components. Prerequisite: NUTR 2360 and [BIO 2430 or BIO 2451 or BIO 2452 or BIO 3421] both with grades of \"C\" or better and CHEM 1341 and CHEM 1342 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 4167",
+            "course_name": "Food Systems-Production & Management Laboratory",
+            "course_desc": "This course provides for the application of the management techniques and concepts of institutional food production covered in NUTR 4367. Prerequisite: NUTR 1362 and NUTR 2360 both with grades of \"C\" or better. Corequisite: NUTR 4367 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 4301",
+            "course_name": "Career Exploration in Nutrition and Foods",
+            "course_desc": "Students engage in applied experience under the supervision of a professional mentor in nutrition and foods-related professions, services, businesses, and/or research. (Capstone Course). Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 4350",
+            "course_name": "Hospitality",
+            "course_desc": "Focus on the principles underlying operations in the hospitality industry. Concepts include residential and lodging operations, guest expectations, food, beverage, and maintenance services, promotions, budget control, personnel and security.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 4360",
+            "course_name": "Medical Nutrition Therapy",
+            "course_desc": "This course explains the physiological and biochemical abnormalities of certain disease states of human body systems with emphasis on diet modification as a therapeutic measure. Prerequisite: NUTR 4365 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 4361",
+            "course_name": "Biochemical Nutrition",
+            "course_desc": "A study of the biochemical and physiological foundations of nutrition. Information pertaining to cytology, biochemical structure of nutrients, energy transformations, nutrient-drug interactions, and the anatomy, physiology, and nutrient metabolism of major organ systems is covered. Prerequisite: NUTR 3367 with a grade of \"C\" or better. Corequisite: [CHEM 2150 and CHEM 2350] or CHEM 3375 or CHEM 4375 any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 4362",
+            "course_name": "Nutrition and Genetics",
+            "course_desc": "This course will examine the specific processes in intermediary nutrient metabolism and their genetic regulation. The effects of nutrients on gene expression, cell signaling, cell physiology, and disease processes will also be explored. Prerequisite: NUTR 3367 and BIO 1330 and BIO 1130 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 4363",
+            "course_name": "Nutrition Counseling and Education",
+            "course_desc": "Study of teaching/learning styles and development of counseling skills to improve the nutritional status of individuals, families, and groups. Development of effective nutrition education materials and media communications. Prerequisite: NUTR 4365 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 4365",
+            "course_name": "Nutrition in the Life Span",
+            "course_desc": "This course provides for the in-depth study of the normal growth, development, and nutritional requirements associated with pre-pregnancy, pregnancy, infancy, childhood, adolescence, and the older adulthood. (WI) Prerequisite: NUTR 2361 and NUTR 3367 and NUTR 3303 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 4366",
+            "course_name": "Equity and Policy in Nutrition",
+            "course_desc": "This course addresses the influence of government, interest groups, media, and industry on nutrition policy decisions, public and private funding, nutrition education, the food supply and food choices, and includes discussion of equity and ethical considerations that have an impact on public health. (WI) Prerequisite: NUTR 3303 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 4367",
+            "course_name": "Food Systems-Production & Management",
+            "course_desc": "Students study the principles, policies, and procedures for planning, procurement, staffing, production, evaluation, and research in institutional food service. Topics include systems design, decision hierarchy, organizational structure, and personnel selection, training, and management. Prerequisite: NUTR 1362 and NUTR 2360 both with grades of \"C\" or better. Corequisite: NUTR 4167 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 4391",
+            "course_name": "Independent Study in Nutrition and Foods",
+            "course_desc": "Independent reading and/or research on a specific topic related to students primary area of interest. Work may consist of research, reviews, and integration of existing literature, or other appropriate independent work. May be repeated once for credit with approval of instructor. (WI).",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5199B",
+            "course_name": "Thesis",
+            "course_desc": "Continuing thesis enrollment. Focus is on data collection, analysis and writing of the thesis. The student continues to enroll in this course until the thesis is defended.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NUTR 5299B",
+            "course_name": "Thesis",
+            "course_desc": "Continuing thesis enrollment. Focus is on data collection, analysis and writing of the thesis. The student continues to enroll in this course until the thesis is defended.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NUTR 5300",
+            "course_name": "Foundation Studies in Human Nutrition",
+            "course_desc": "This course is designed for students who do not have a sufficient background in the foundations of nutrition and food science to be successful in graduate level courses. This course does not earn graduate degree credit. Course is repeatable. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "NUTR 5302F",
+            "course_name": "Nutritional Supplements",
+            "course_desc": "An advanced study of the efficacy of dietary supplements. Both nutrient and non-nutrient supplement components will be discussed. Clinical trials, epidemiological data and molecular mechanisms of action of dietary supplements will be compared to manufacturers claimed action. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5302G",
+            "course_name": "Pediatric Obesity",
+            "course_desc": "An advanced study of pediatric obesity, including causes, economic and health related consequences, evidence-based treatment and prevention strategies. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5305",
+            "course_name": "Seminar in Nutrition and Disease",
+            "course_desc": "An advanced study of a selected topic in nutrition concerning nutrients and functional foods and their role in disease prevention or treatment. Class topics will enter on clinical trials, epidemiological data and molecular mechanisms of action concerning the ability of nutrients to prevent or treat disease. Repeatable for credit when topic varies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5306",
+            "course_name": "Seminar in Nutrition in the Lifespan",
+            "course_desc": "An advanced study of a selected topic in nutrition and the lifespan from a multidisciplinary perspective, including review of scientific literature in nutrition, physiology, biochemistry, sociology, exercise sports science, epidemiology, endocrinology and genetics. Repeatable for credit when topic varies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5320",
+            "course_name": "Diet Therapy and Pathophysiology",
+            "course_desc": "This course will study the physiological and biochemical abnormalities of certain disease states as they relate to the human bodys systems placing emphasis on diet modification as a therapeutic measure.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5350",
+            "course_name": "Research Methods in Nutrition and Food Science",
+            "course_desc": "Evaluation of research concepts, methods, and strategies used in nutrition and food science research. Topics include the nature of scientific research, sampling, measurement, data collection, types of research methodology, use of data analysis and management software, and evaluation of research reports.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5355",
+            "course_name": "Advanced Independent Study in Nutrition",
+            "course_desc": "Individual work with specific guidance from graduate nutrition faculty. Work may include participation in research, professional practice, and/or critical review of the scientific literature. Course may be repeated once for credit when topics vary.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5360",
+            "course_name": "Practicum for Dietetic Internship",
+            "course_desc": "Students observe and engage in the practice of dietetics under the supervision of practitioners in facilities for health care, public health, and food systems.  Repeated twice to meet requirements to complete the dietetic internship program. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NUTR 5361",
+            "course_name": "Advanced Food Systems Administration",
+            "course_desc": "Techniques and procedures for management, service, and marketing of meals in commercial and noncommercial food service facilities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5362",
+            "course_name": "Advanced Medical Nutrition Therapy",
+            "course_desc": "Advanced study of medical nutrition therapy with emphasis on application of principles and techniques of nutritional assessment emphasizing current clinical nutrition practices. Current scientific literature will be used extensively to discuss most recent advances in the area of medical nutrition therapy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5363",
+            "course_name": "Advanced Community Nutrition",
+            "course_desc": "Assessment of the nutritional needs of the community and of programs that serve the needs. Experiences include survey techniques, nutritional education, and management of programs to meet specific nutritional needs through community agencies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5364",
+            "course_name": "The Science of Nutrition and Exercise",
+            "course_desc": "An advanced course focusing on the physiological and biochemical impact of nutrient intake on physical performance, health and fitness.  Special emphasis will be placed on the investigation of a variety of dietary supplements, including\npurported ergogenic aids. The course requires significant reading and interpreting of the scientific literature.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5366",
+            "course_name": "Macronutrient Metabolism",
+            "course_desc": "An advanced study of the biochemical and physiological foundations of nutrition and metabolism and its relevance to health and wellness. Scientific literature pertaining to biochemical structure, metabolism and physiological regulation of macronutrients and water-soluble vitamins.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5367",
+            "course_name": "Micronutrient Metabolism",
+            "course_desc": "An advanced study of the biochemical and physiological foundations of nutrition with emphasis on fat-soluble vitamins and minerals. Current scientific information pertaining to structure, metabolism and physiological regulation of these micronutrients.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5371",
+            "course_name": "Externship in Human Nutrition",
+            "course_desc": "Structured practical experience in human nutrition, food science, food biotechnology. Supervision provided by a member of the graduate faculty and a designated individual at the work site. Requires a minimum of 150 hours of supervised experience. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5372",
+            "course_name": "Advances in Nutrition Policy and Ethics",
+            "course_desc": "This course considers the disparate influences on the US food supply, on federal and state nutrition and food-related policies, and ultimately, on individual dietary intake. Potential influences, including current state and federal policies, industry, interest groups, and the media, driven by economics and ethical consideration, will be addressed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5374",
+            "course_name": "Advanced Nutrition and Genetics",
+            "course_desc": "This course will examine the specific processes in intermediary nutrient metabolism and their genetic regulation. The effects of nutrients on gene expression, cell signaling, cell physicology, and disease processes will also be explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5375",
+            "course_name": "Advances in Life Span Nutrition",
+            "course_desc": "An advanced study of the nutritional requirements throughout the life span involving a multidisciplinary approach including, biochemistry, endocrinology and genetics, and perspectives of human psychological and social development. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NUTR 5399A",
+            "course_name": "Thesis",
+            "course_desc": "Initial thesis enrollment. Focus is on identification of thesis topic, review of literature, research design and preparation of thesis proposal. No thesis credit is awarded until completion of NUTR 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NUTR 5399B",
+            "course_name": "Thesis",
+            "course_desc": "Continuing thesis enrollment. Focus is on data collection, analysis and writing of the thesis. The student continues to enroll in this course until the thesis is defended.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NUTR 5599B",
+            "course_name": "Thesis",
+            "course_desc": "Continuing thesis enrollment. Focus is on data collection, analysis and writing of the thesis. The student continues to enroll in this course until the thesis is defended.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NUTR 5999B",
+            "course_name": "Thesis",
+            "course_desc": "Continuing thesis enrollment. Focus is on data collection, analysis and writing of the thesis. The student continues to enroll in this course until the thesis is defended.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

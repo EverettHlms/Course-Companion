@@ -1,0 +1,1606 @@
+{
+    "name": "Anthropology",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/anth/",
+    "courses": [
+        {
+            "course_code": "ANTH 1312",
+            "course_name": "Cultural Anthropology",
+            "course_desc": "In this course students examine the nature of cultural variation of populations in the present and recent past. Its subjects include social, political, economic, and ideological aspects of human cultures. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Soc & Behav Sciences Core 080|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 2101",
+            "course_name": "Biological Anthropology Laboratory",
+            "course_desc": "This laboratory course accompanies Biological Anthropology. It provides students with hands-on experience with the materials and methods of biological anthropology. Students examine human genetic and anatomical variability, anatomical and behavioral similarities and differences among living primates, human skeletal anatomy, and evidence for human evolution from the fossil record.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 2102",
+            "course_name": "Introduction to Archaeology Laboratory",
+            "course_desc": "This laboratory course accompanies Introduction to Archaeology. It provides students with hands-on experience with the materials and methods of archaeology, and covers topics such as stratigraphy, site maps, lithic and ceramic analysis, and ethics. Corequisite: ANTH 2302 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 2301",
+            "course_name": "Biological Anthropology",
+            "course_desc": "This lecture and accompanying laboratory course examine fundamental aspects of the biological nature of humans. Course content is divided into topics devoted to explaining the scientific method, evolutionary theory, genetics, speciation, variation and adaptation, nonhuman primates, and human evolution.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 2302",
+            "course_name": "Introduction to Archaeology",
+            "course_desc": "This lecture and accompanying laboratory course examine the basic principles of archaeology. It includes a study of the kinds of sites; classification of stone artifacts; methods of archaeological survey and excavation; methods of dating by geological, faunal, and radiometric means; and the theoretical approach to archaeology. Corequisite: ANTH 2102.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3101",
+            "course_name": "Writing Anthropology",
+            "course_desc": "This course offers tutelage in professional scholarly writing, word processing software, library research, scientific and ethnographic writing styles, and effective use of anthropological literature.  Because it provides core skills presupposed by advanced anthropology courses, students should enroll in it alongside their first writing-intensive anthropology electives.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3102",
+            "course_name": "Skeletal Processing, Preparation, and Curation Techniques",
+            "course_desc": "In this laboratory-based course students will learn human skeletal processing techniques used in forensic anthropological casework and gain an introduction to human skeletal anatomy and variation. Prerequisite: ANTH 3381 with a grade of a \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3201",
+            "course_name": "Professionalization in Anthropology",
+            "course_desc": "This course surveys the breadth of careers open to people holding anthropology degrees. Issues discussed include professional ethics, specialized skill sets, the transferable skills of liberal arts degrees, broad trends in the labor market, and steps toward pursuing relevant careers.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3301",
+            "course_name": "Principles of Cultural Anthropology",
+            "course_desc": "This course is an ethnographically-based analysis of major theoretical positions and debates in contemporary anthropology. (WI) Prerequisites: ANTH 1312 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3302",
+            "course_name": "Introduction to Linguistic Anthropology",
+            "course_desc": "This course provides an introduction to the study of linguistic anthropology. We will focus on the origin of language and its evolution and diversity, the interactions between language, culture and society, and modes of communication. This course will enhance a students awareness of the complex interrelationships between language and other aspects of culture. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3303",
+            "course_name": "Applied Cultural Anthropology",
+            "course_desc": "In this course students learn the methods applied cultural anthropologists use to address social problems such as poverty, sustainable development, conflict, climate change, community health, workplace and product design, education, and cultural heritage, as well as the value thinking anthropologically has for a wide range of careers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3304",
+            "course_name": "Bioarchaeology",
+            "course_desc": "Bioarchaeology is the study of human skeletal remains in relation to the archaeological record. In this course students will study theories and methods used in the analysis of human skeletal remains in bioarchaeology to reconstruct patterns of subsistence, diet, disease, demography, biological relatedness, and physical activity of past populations.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3305",
+            "course_name": "Magic, Ritual and Religion",
+            "course_desc": "An examination of magic and religion in cultures of the world with an emphasis on recent works dealing with mysticism and the occult. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3306",
+            "course_name": "World Prehistory",
+            "course_desc": "This course presents a survey of the prehistoric human record throughout the world. It focuses upon the achievements of early and modern humans, world colonization events, and the development of complex societies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3307",
+            "course_name": "History of Evolutionary Thought",
+            "course_desc": "This course discusses the impact of evolutionary discourse within the context of its history.  Students will develop a thorough understanding of evolution and its importance to anthropology, as well as to other scientific disciplines. (WI) Prerequisites: ANTH 2301 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3308",
+            "course_name": "Cultural Resource Management and Archaeology",
+            "course_desc": "This course surveys Cultural Resource Management (CRM) archaeology, the conservation and investigation of archaeological remains as mandated by federal and state laws.  The course covers the history of CRM and its legal and regulatory framework, organization, methods, funding, employment prospects, and ethical and practical dilemmas.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3309",
+            "course_name": "Cultures Through Film",
+            "course_desc": "Through films, lectures, and discussions, students explore the various ways that ethnographic film interprets the cultural environment and social interactions of small-scale cultures around the world. We will also discuss anthropological interpretations of how historically U.S. (American) culture has dealt with concepts of the other and supernatural phenomena through film. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3311",
+            "course_name": "Disease and Society",
+            "course_desc": "In this course students examine infectious diseases and the effect they have on human societies. The course is organized into case studies of specific infectious diseases, which focus on the biology and epidemiology of a disease as well its social impact.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3313",
+            "course_name": "Aztec: Native Americans and Empire",
+            "course_desc": "This course presents an understanding of Aztec culture through archaeology, the interpretation of art, religion, and architecture, and the formation of a highly specialized and stratified society with an imperial administration.  The course will emphasize an intellectual and religious outlook in intimate contact with the earth, sky, and the seasons.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3314",
+            "course_name": "Latin American Cultures",
+            "course_desc": "This course examines different aspects of Latin American indigenous cultures from a variety of theoretical perspectives in anthropology. Emphasis is on the Maya, and different theoretical perspectives provide different interpretations of data. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3315",
+            "course_name": "Archaeology of the Southwest",
+            "course_desc": "An examination of the prehistory and early cultures of the Greater Southwest from the first arrival of humans as early as 20,000 years ago to the coming of the Spaniards in the 16th century. The course covers several mammoth kill sites at the end of the Pleistocene; the emergence of Archaic hunters and gatherers and the appearance of agriculture about two thousand years ago, leading to the three major cultures in the southwest-the Mogollon, the Hohokam and the Anasazi, the last in multistoried pueblos and cliff dwellings. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3316",
+            "course_name": "The Origin and Evolution of Human Behavior",
+            "course_desc": "This course presents our current understanding of Old World Paleolithic Archaeology. The origin and evolution of hominid behavior, the initial colonization of the Old World, and the development of modern human behavior will be discussed for each continent. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3317",
+            "course_name": "Rock Art Field Methods",
+            "course_desc": "This course will train students in rock art field methods. They will gain first-hand experience recording rock art sites through photography, field sketches, mapping, and written inventories. Students will generate a visual and written description of the art, which they will use to infer and explain past human behavior.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3318",
+            "course_name": "Ancient Cultures of the Texas Crossroads",
+            "course_desc": "This course will present our current understanding of Texas archaeology. The environmental and social contexts of prehistoric, protohistoric, and historic records of Native American and Spanish occupations in Texas are discussed. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3322",
+            "course_name": "Peoples and Cultures of Africa",
+            "course_desc": "This course is a general introduction to the contemporary peoples and cultures of Africa. Students will examine the social structure, economy, political systems, and religions of African cultures in the context of the radical economic and social transformations affecting the area. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3324",
+            "course_name": "Mexican American Culture",
+            "course_desc": "This course provides exploration of Mexican American culture with an emphasis on the US-Mexico transborder region. The course integrates history, anthropology, and ethnic studies to capture the broad diversity of Mexican American experiences. Some of the topics covered include identity, social movements, Chicana feminism, transnational migration, spirituality, and cultural expressions such as visual art, film, music, and performance. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3325",
+            "course_name": "Medical Anthropology",
+            "course_desc": "This course focuses on how illness identities are culturally constructed, how adaptations or maladaptations to local environments affect health, how political and economic forces influence health and health behaviors, and how the practice of medical anthropology can contribute to solving urgent health issues around the world.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3327",
+            "course_name": "Anthropology of Religion and Fundamentalism",
+            "course_desc": "This course provides students with current and historical approaches to the anthropology of religion with a particular emphasis on fundamentalism.  It focuses on the development of religious fundamentalism in different cultural contexts, geopolitical situations, and religious traditions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3330",
+            "course_name": "Archaeological Curation and Collections Management",
+            "course_desc": "This course provides technical training in and an understanding of the principles and methods of curating and managing archaeological collections. Students review the history of archaeological curation in the United States as well as relevant laws and regulations. Additional topics covered include types of repositories and storage facilities, costs of curation, policies, collection rehabilitation, archival processing, basic preventative conservation strategies, and using archaeological collections to educate the public.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3331D",
+            "course_name": "Dental Anthropology and Oral Biology",
+            "course_desc": "The biological development of the cranio-facial structures will be presented with emphasis on hard tissue anatomy and diseases. Dental traits will be discussed in relation to human evolutionary concepts. Forensic methods that support identification of human remains are emphasized. This course is appropriate for anthropology students and pre-professional dentistry. Prerequisite: ANTH 2301 or [BIO 1130 and BIO 1330] any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3331E",
+            "course_name": "Anthropology and the Law",
+            "course_desc": "This course explores the role of law as an instrument of social change, justice, and human rights. Topics include law as a social system, understanding legal reasoning, identifying key actors, how law influences change, how law is depicted in popular culture, and how law influences anthropological research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3331F",
+            "course_name": "Body Talk: Gestures, Communication, and Society",
+            "course_desc": "Communication involves the use of invisible words and gestures, or visible actions.  This course focuses on gestures, what they are, how they are used, what role they play in communication and in thinking, and their cultural underpinning. Students will learn the theoretical and methodological issues involved in studying different gestures across societies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3331G",
+            "course_name": "The Archaeology of Cannibalism and Sacrifice",
+            "course_desc": "Students in this course explore kinds of violence in past societies considered especially shocking or controversial in the contemporary, developed West: human sacrifice and the consumption of the human dead. Avoiding exoticism and suspending moral evaluation in favor of anthropological inquiry, we will consider cannibalism and sacrifice as cultural expressions of universal human drives and preoccupations and as historically specific solutions to common problems in social organization. We will examine archaeological and ethnohistoric case studies drawn from a wide range of time periods, cultures, and regions in an effort to identify and explain diversity and commonalities among such practices.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3331I",
+            "course_name": "Design + Anthropology",
+            "course_desc": "This course will begin by exploring the anthropology of design, including the practices, implications, and expansion of design under contemporary capitalism. Students will then use this knowledge to examine the growing field of design anthropology and learn how anthropologists provide actionable insights and research for design work today.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3331J",
+            "course_name": "Race and Biological Anthropology",
+            "course_desc": "In this course students will learn where race concepts originated, examining the worldview and scientific mindsets that guided biological anthropology into the 21st century. We will explore how social race has become biological, put forth pragmatic solutions in the context of anthropology research, and help develop an informed scientific practice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3331L",
+            "course_name": "Social Impact: Anthropology of Innovation, Entrepreneurship, & Business",
+            "course_desc": "This course explores the nature of innovation under late capitalism via entrepreneurship. Drawing on the anthropology of business, design, organizations, economics and technology, students will review with a critical lens how people strive for better futures and what anthropology can do to improve these efforts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3332",
+            "course_name": "Myths and Moundbuilders",
+            "course_desc": "This course presents an anthropological approach to Native Americans of the Southeastern United States, their culture and beliefs. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3335",
+            "course_name": "The Anthropology of Native American Belief Systems",
+            "course_desc": "In this course students use anthropological approaches to investigate past and present Native American belief systems in order to determine the temporal range and evolving complexity of Native American religious and ritual expression.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3336",
+            "course_name": "Locally Engaged Research",
+            "course_desc": "This course will provide students the opportunity to conduct hands-on anthropological research on a variety of topics in local communities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3337",
+            "course_name": "Language and Linguistics",
+            "course_desc": "This course is concerned with the theoretical and methodological study of language, what constitutes the knowledge of a language, how this knowledge is acquired, and how it is used. Other areas of interest include the properties of human language, its representation in the mind, learnability, origin, and change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3338",
+            "course_name": "Geoarchaeology",
+            "course_desc": "This course will teach students how to interpret sediments and the nature of sediment accumulation at archeological sites. Course topics include sedimentology, natural depositional environments, weathering processes and soil development, stratigraphic analysis, and archaeological site formation processes. (WI) Prerequisite: ANTH 2302 or GEOL 1410 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3339",
+            "course_name": "Contemporary Film and Global Culture",
+            "course_desc": "This course examines the relationship of recent film to both national culture and our increasingly globalized world culture. It focuses on the relationship between the creators of film, their intended audiences and the cultural context of both of these. It explores the way that film relates to current issues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3340",
+            "course_name": "Human and Primate Origins",
+            "course_desc": "An examination of the long and diverse record of human and nonhuman biological adaptations as viewed from the fossil record. It examines the functional and ecological challenges that may have been responsible for the path of human development.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3342",
+            "course_name": "Primate Behavior",
+            "course_desc": "In this course, students will learn about the behavior, ecology and conservation of nonhuman primates (lemurs, lorises, monkeys, and apes).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3343",
+            "course_name": "Human Variation and Adaptation",
+            "course_desc": "This course examines the physical variation observable within and between human populations. It emphasizes a functional approach whereby variation is examined in relation to biological adaptation. It explores the biological mechanisms responsible for change and evaluates the potential of biological components in human behavior.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3345",
+            "course_name": "Archaeology of Mesoamerica",
+            "course_desc": "This course examines the development of culture from early hunters and gatherers through the appearance of agriculture to the rise of civilization. The focus of the course is on the emergence of complex society among groups such as the Olmec, Aztec, and Maya. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3347",
+            "course_name": "Archaeology of North America",
+            "course_desc": "This course describes human settlement of North America from the end of the Pleistocene to European discovery. It considers early occupation of arctic, plains, and forested regions and development during archaic times of Adena, Hopewell, and Mississippian societies in the Southeast and Mogollon, Hohokam, and Anasazi in the Southwest.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3348",
+            "course_name": "Primate Conservation: Adapting to Rapidly Changing Landscapes",
+            "course_desc": "This course provides instruction on the ecology and conservation of primates and the flora and fauna in their ecosystems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3349",
+            "course_name": "The Incas",
+            "course_desc": "The Incas were the largest Pre-Columbian empire in the Americas and this course will explore the origins of this civilization and how they conquered such a large\narea of South America. Using archaeological and historic information the class will examine various aspects of Inca society including religion, economics, and kingship.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3350",
+            "course_name": "Gender and Sexuality in Cross-cultural Perspective",
+            "course_desc": "This course explores historical and contemporary issues related to gender and sexuality from cross-cultural perspectives. It will focus on cultural constructions of gender and sexuality and explore key themes in queer anthropology as well as US minority and Global South feminisms through expressive and documentary forms including music, film, art and performance. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3351",
+            "course_name": "Anthropology of Peace and Violence",
+            "course_desc": "This class explores anthropological perspectives on peace and violence.  It focuses on understanding violent practices within both traditional and current day societies including everyday violence and warfare.  It explores the contributions of social structure, gender, religion, race, and ethnicity to violence.  It examines efforts to build peace and reconciliation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3352",
+            "course_name": "Language and the Body",
+            "course_desc": "This class focuses on how language shapes our identities and deeply held beliefs about our bodies. Students will have an opportunity to engage in discourse analysis of media representations as well as collect and analyze their own conversational data using the methods of linguistic and cultural anthropology.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3353",
+            "course_name": "Human Structure and Function",
+            "course_desc": "Students study the structure and basic function of the human body with emphasis on the skeletal, muscular, and nervous systems. This course provides a basis for other courses in biological anthropology.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3356",
+            "course_name": "Archaeology of Andean Civilizations",
+            "course_desc": "This course examines the cultures of the Andes Region of South America with an emphasis on pre-Columbian and contemporary peoples of the area.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3357",
+            "course_name": "Historical Archaeology",
+            "course_desc": "This course is designed to provide students with an intensive overview of historical archaeology method, theory, and artifacts in Texas and North America. Using the methods and theories of historical archaeology, students analyze historical narratives, which incorporates research, documents, and material culture from historic period sites.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3358",
+            "course_name": "Human Evolutionary Anatomy",
+            "course_desc": "This course is designed to give students an anatomical background to the study of human evolution with a focus on the comparative anatomy of apes, living humans, and fossil hominins.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3359",
+            "course_name": "Skeletal Processing, Preparation, and Curation Techniques",
+            "course_desc": "This course is laboratory based and students will learn human skeletal processing techniques used in forensic anthropological casework and gain an introduction to human skeletal anatomy and variation. Prerequisite: ANTH 3381 with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3360",
+            "course_name": "Economic Anthropology",
+            "course_desc": "Reviews central issues in economic anthropology, using both case studies and theoretical writings. Analyzes production, exchange, distribution, consumption,property, economic surplus, inheritance, and types of economic structure. Materials will cover huntergatherer societies, simple agricultural societies, pre-capitalist complex state societies, and issues of development in nonindustrialized countries. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3361",
+            "course_name": "Archaeological Field Methodology",
+            "course_desc": "In this course students will learn about planning, organizing, and carrying out archaeological field investigations from survey to excavation to specialized data recovery. The focus is on the research strategies, techniques and logistics necessary to design and accomplish successful field research. (WI).",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3363",
+            "course_name": "The Art and Archaeology of the Olmec",
+            "course_desc": "This course will present our current understanding of the art and archaeology of the Olmec culture, the earliest known civilization in North America. The Olmec culture is considered the influential foundation for later Mesoamerican civilizations\nsuch as the Maya and the Aztec.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3366",
+            "course_name": "Social Impact through Applied Research",
+            "course_desc": "This course introduces students to how research in anthropology and other disciplines can be used to create social impactsolutions to public problems. Students will explore what social impact is, barriers that prevent social impact from occurring, and how social impact can be created through the application of applied research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3367",
+            "course_name": "Applied Statistics",
+            "course_desc": "This course will teach students basic statistical concepts through an anthropological lens. Students will learn to engage with data and statistics in everyday topics related to anthropology, the foundations of statistical analysis, and how to use the statistical programming language and software to explore and communicate data to the public.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3377",
+            "course_name": "Anthropology of Youth",
+            "course_desc": "This class will provide an overview of issues in adolescent and emerging adult health and development in national and international contexts. Drawing from several disciplines including anthropology, education, public health, psychology, and sociology, we will critically examine existing research on youth and discuss underlying assumptions, research methodologies, and findings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3380",
+            "course_name": "Forensic Anthropology",
+            "course_desc": "Forensic Anthropology is the recovery and analysis of human skeletal remains for modern legal inquiry. This course is an overview of the field of Forensic Anthropology illustrated with real forensic cases.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3381",
+            "course_name": "Human Osteology",
+            "course_desc": "The foundation of biological anthropology is the study of the human skeleton. This is a lab-intensive course in which students will learn how to identify skeletal elements, both whole and fragmentary.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 3382",
+            "course_name": "Archaeology of Ice Age America",
+            "course_desc": "Precisely when the first people arrived in the Americas, where they came from, and how they got here are the subjects of longstanding debate. This class will draw upon archaeological, biological, linguistic, and environmental evidence to reconstruct the earliest human prehistory of the New World.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4303",
+            "course_name": "Human Speech Sounds",
+            "course_desc": "This course is an introductory overview of human speech production and perception from an anthropological perspective.  It describes speech anatomy and pays particular attention to the description of the acoustic and articulatory properties of speech as it occurs in real time.  Students will study articulatory, acoustic, and auditory phonetics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4304",
+            "course_name": "Language, Culture and Society",
+            "course_desc": "This course seeks to introduce students to the fundamentals of linguistic anthropology, and the use of linguistics in anthropological fieldwork through lecture, discussion, and \"hands on\" class exercises.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4309",
+            "course_name": "Culture, Medicine and the Body",
+            "course_desc": "This course explores how the human body, functions of the body, and the practices of medicine and healing are situated and contextualized within cultural frameworks. Case studies cover body and health-related topics over the life course, from birth to death. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4310",
+            "course_name": "Theories and Issues in Anthropology",
+            "course_desc": "This course explores major theoretical and historical developments in anthropology, highlighting the disciplines unique four-field perspective that includes archaeology, biological and cultural anthropology, and anthropological linguistics. Topics stress the importance of anthropological thought in key scientific discoveries and cultural debates. Prerequisites: ANTH 1312 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4315",
+            "course_name": "Archaeological Artifact Identification and Analysis",
+            "course_desc": "This course will train students to describe and analyze artifacts commonly recovered from archaeological sites. Current theories covering the production and analysis of chipped and ground stone tools, ceramics, bone and other materials will be presented, and scientific analytical methods discussed. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4320",
+            "course_name": "Rise of Civilization",
+            "course_desc": "This course consists of a definition of civilization and its components, its geographic setting, and the roles of religion, art, and the institution of the Divine King in the development of dynamic state societies in Egypt, Sumeria, the Indus Valley, and China in the Old World and that of the Olmec in Mexico and Chavin in Peru. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4326",
+            "course_name": "Field Methods in Forensic Anthropology",
+            "course_desc": "In this course students will learn how to locate, excavate and recover human remains, associated personal effects, and other materials in order to ensure legal credibility for all recoveries. Prerequisite: ANTH 3381 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4337",
+            "course_name": "Theory in Linguistic Anthropology",
+            "course_desc": "In this course students will be introduced to the major theories of linguistics through reading and discussing classic and contemporary literatures. Particular attention will be given to how the various theories have influenced linguistic anthropology. (WI) Prerequisites: ANTH 1312 or ANTH 3302 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4339",
+            "course_name": "Theoretical Concepts in Archaeology",
+            "course_desc": "This course provides a broad survey of theory in archaeology as it is practiced throughout the world. It includes both historical perspectives and contemporary usage. (WI) Prerequisite: ANTH 2302 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4360",
+            "course_name": "Directed Study",
+            "course_desc": "A one-semester course of independent reading, tutorial sessions, and individual research projects. Open to superior students by invitation of the professor and with the consent of the chair of the department. May be repeated for credit with permission of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4361",
+            "course_name": "Qualitative Research Methods",
+            "course_desc": "This course provides instruction on qualitative research methods through lectures and hands-on activities, including designing qualitative research projects, collecting and analyzing qualitative data,  and presenting qualitative results.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4363",
+            "course_name": "Methods in Primate Research",
+            "course_desc": "In this course, students will learn about the methods used to study primates in captive and field settings.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4381",
+            "course_name": "Paleopathology",
+            "course_desc": "This course focuses on the study of diseases and maladies of ancient populations, and will survey the range of pathology on human skeletons from trauma, infection, syphilis, tuberculosis, leprosy, anemia, metabolic disturbances, arthritis, and tumors. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4382",
+            "course_name": "Methods in Skeletal Biology",
+            "course_desc": "This course is for students who wish to advance their osteological skills. Students will learn how to identify isolated and fragmentary skeletal remains to estimate age, sex, ancestry, stature, and health of an individual in past and present contexts. Prerequisite: ANTH 3381 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4390",
+            "course_name": "Internship in Anthropology",
+            "course_desc": "This course provides students with professional development through work or research-related experience. After consulting the internship coordinator, students choose placements matching their interests and develop individualized internship contracts. Interns meet to discuss career preparation and anthropological topics related to each interns activities, keep a journal, and submit a final report. Prerequisites: Minimum 2.5 Major GPA and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4600",
+            "course_name": "Bioarchaeology Field and Laboratory Methods",
+            "course_desc": "In this course students will be trained in the documentation, contextual assessment, and recordation of human skeletal remains in bioarchaeological settings. Students will engage in research projects, gaining practical laboratory and field experience. Prerequisite: ANTH 3381 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n6 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 4630",
+            "course_name": "Archaeological Field School",
+            "course_desc": "This course is designed to train students in the skills and techniques of modern archaeological survey and excavation of prehistoric sites. May be repeated for credit, but only six hours may be applied toward the major.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no credit (F) basis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANTH 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no credit (F) basis.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANTH 5301",
+            "course_name": "Advanced Principles of Cultural Anthropology",
+            "course_desc": "This course is an ethnographically-based analysis of major theoretical positions and debates in contemporary anthropology. (Stacked course with ANTH 3301.).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5302",
+            "course_name": "Practicum in Teaching Anthropology",
+            "course_desc": "An introduction to key concepts and practices in the teaching of college-level Anthropology. The course provides training in the practical aspects of classroom instruction. Required for first-year teaching and instructional assistants in the\nAnthropology Department. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ANTH 5303",
+            "course_name": "Speech Analysis",
+            "course_desc": "The focus of this course is the analysis of human speech sounds.  It includes description of the acoustic properties of speech sounds, transcription of sounds using the International Phonetic Alphabet system, an understanding of the acoustic theories of speech, and practical experience in forensic speakers' identification.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5304",
+            "course_name": "Sociolinguistics",
+            "course_desc": "The focus of this course is on the complex interrelationships between language and other aspects of culture.  Methods of sociolinguistics, theories of sociolinguistics, and current issues regarding the nature of language variation and change will be emphasized. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5305",
+            "course_name": "Anthropological Statistics",
+            "course_desc": "In this course students will learn how to statistically analyze anthropological data.  Students will gain a firm understanding of basic quantitative statistics, will be able to evaluate quantitative methods presented in anthropological research papers, and will be prepared for classes in more advanced statistical methods.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5306",
+            "course_name": "Anthropology and Art",
+            "course_desc": "In this course students will investigate the function of art and symbolism in pre-literate archaeological cultures that existed at the tribal and chiefdom levels of political and social development.  A multidisciplinary focus will use anthropology and art historical approaches as research tools.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5307",
+            "course_name": "History of Evolutionary Thought",
+            "course_desc": "This course discusses the impact of evolutionary discourse within the context of its history.  Students will develop a thorough understanding of evolution and its importance to anthropology, as well as to other scientific disciplines.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5308",
+            "course_name": "Cultural Resource Management and Archaeology",
+            "course_desc": "In this course students will examine various topics relevant to cultural resource management including state and federal laws, survey, testing, mitigation, and developing final reports.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5309",
+            "course_name": "Culture, Medicine and the Body",
+            "course_desc": "This course explores how the human body, functions of the body, and the practices of medicine and healing are situated and contextualized within cultural frameworks. Case studies cover body and health-related topics over the life course, from birth to death.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5310",
+            "course_name": "Theories and Issues in Anthropology",
+            "course_desc": "This course explores major theoretical and historical developments in anthropology, highlighting the disciplines unique four-field perspective that includes archaeology, biological and cultural anthropology, and anthropological linguistics. Topics stress the importance of anthropological thought in key scientific discoveries and cultural debates.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5311",
+            "course_name": "Seminar in Cultural Anthropology",
+            "course_desc": "In this course, students will learn the historical foundations of cultural anthropology, its key theories and methods, and examples of its contemporary practice. Topics will include evolutionism, functionalism, structuralism, ethnoscience, neo-Marxism, postmodernism, and modernity.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5312",
+            "course_name": "Seminar in Biological Anthropology",
+            "course_desc": "In this course, students will learn the historical foundations of biological anthropology, its key theories and methods, and examples of its contemporary practice in evolutionary theory, human variation, paleoanthropology, primatology, and skeletal biology.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5313",
+            "course_name": "Seminar in Archaeology",
+            "course_desc": "In this course, students will learn the historical foundations of archaeology, its key theories and methods, and examples of its contemporary practice in New World and Old World archaeology.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5314",
+            "course_name": "Latin American Cultures",
+            "course_desc": "Comprehensive study of cultures from Latin America.  (Stacked course with ANTH 3314.) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5315",
+            "course_name": "Archaeological Artifact Identification and Analysis",
+            "course_desc": "This course will provide students with the skills, knowledge and ability to describe, characterize, and analyze artifacts commonly recovered from archaeological sites. Current theories covering the production and analysis of chipped\nand ground stone tools, ceramics, bone and other materials will be presented, and scientific analytical methods discussed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5316",
+            "course_name": "The Origin and Evolution of Human Behavior",
+            "course_desc": "This course presents our current understanding of Old World Paleolithic Archaeology. The origin and evolution of hominid behavior, the initial colonization of the Old World, and the development of modern human behavior will be\ndiscussed for each continent. (Stacked course with ANTH 3316).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5317",
+            "course_name": "Rock Art Field Methods",
+            "course_desc": "This course will train students in rock art field methods.  They will gain first-hand experience recording rock art sites through photography, field sketches,\nmapping, and written inventories. Students will generate a visual and written description of the art, which they will use to infer and explain past human behavior. (Stacked course with ANTH 3317).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5318",
+            "course_name": "Texas Archaeology",
+            "course_desc": "This course will present our current understanding of Texas archaeology. The environmental and social contexts of prehistoric, protohistoric, and historic records of Native American and Spanish occupations in Texas are discussed. (Stacked course with ANTH 3318.) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5320",
+            "course_name": "Rise of Civilization",
+            "course_desc": "This course examines the components that led to the dynamic state societies in Egypt, Sumeria, the Indus Valley, and China in the Old World and that of the Olmecin Mexico and Chavin in Peru. (Stacked course with ANTH 4320.).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5322",
+            "course_name": "Peoples and Cultures of Africa",
+            "course_desc": "This course is a general introduction to the contemporary peoples and cultures of Africa. Students will examine the social structure, economy, political systems, and religions of African cultures in the context of the radical economic and social transformations affecting the area. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5324",
+            "course_name": "Mexican American Culture",
+            "course_desc": "This class is an exploration of Mexican American culture with an emphasis on the US-Mexico transborder region. The course integrates history, anthropology, and ethnic studies to capture the broad diversity of Mexican American experiences. Some of the topics covered include identity, social movements, Chicana feminism, transnational migration, spirituality, and cultural expressions such as visual art, film, music, and performance. (Stacked course with ANTH 3324.) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5325",
+            "course_name": "Medical Anthropology",
+            "course_desc": "This course focuses on how illness identities are culturally constructed, how adaptations or maladaptations to local environments affect health, how political and economic forces influence health and health behaviors, and how the practice of medical anthropology can contribute to solving urgent health issues around the world.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5326",
+            "course_name": "Field Methods in Forensic Anthropology",
+            "course_desc": "In this course students will learn how to locate, excavate and recover human remains, associated personal effects, and other materials in order to ensure legal credibility for all recoveries.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5330",
+            "course_name": "Curation of Archaeological Materials",
+            "course_desc": "This course provides students with the skills to prepare archaeological materials for curation, which includes the processes and techniques used to stabilize and preserve organic and inorganic materials. This training can be used to gain certification in the field of archaeological curation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5332",
+            "course_name": "Myths and Mound Builders",
+            "course_desc": "This course presents an anthropological approach to the iconography of the Native Americans of the Southeastern Ceremonial Complex. (Stacked course with ANTH 3332.) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5333",
+            "course_name": "Research Design in Biological Anthropology",
+            "course_desc": "This course provides students with an introduction to the principles and processes by which research projects in biological anthropology are devised and executed.  It focuses on the issues of finding a topic to research, defining its scope and limitations, developing a research bibliography, and elaborating a research design.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5335",
+            "course_name": "The Anthropology of Native American Belief Systems",
+            "course_desc": "In this course students use anthropological approaches to investigate past and present Native American belief systems in order to determine the temporal range and evolving complexity of Native American religious and ritual expression.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5336",
+            "course_name": "Community Research Project",
+            "course_desc": "This course gives students the opportunity to conduct hands-on anthropological research on a variety of topics in local communities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5337",
+            "course_name": "Theory in Linguistics Anthropology",
+            "course_desc": "In this course students will be introduced to the major theories of linguistics through reading and discussing classic and contemporary literatures. Particular attention will be given to how the various theories have influenced linguistic anthropology.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5338",
+            "course_name": "Geoarchaeology",
+            "course_desc": "This course will provide students with the knowledge and ability to interpret sediments and the nature of sediment accumulation at archaeological sites. The\ncourse will provide students with a foundation in sedimentology, natural depositional environments, weathering processes and soil development, stratigraphic analysis, archaeological site formation processes. (Stacked course with ANTH 3338).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5339",
+            "course_name": "Theoretical Concepts in Archaeology",
+            "course_desc": "This course provides a broad survey of theory in archaeology as it is practiced throughout the world. It includes both historical perspectives and contemporary usage.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5340",
+            "course_name": "Paleoanthropology",
+            "course_desc": "Critical review of the human fossil record from the appearance of the earliest hominins to the appearance of modern human forms. (Stacked course with\nANTH 3340.).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5341",
+            "course_name": "Gross Anatomy",
+            "course_desc": "Students in this course examine the macroscopic structure of organs and soft and hard tissues in the human body. The course is divided into these units: back and thorax, neck and head, and upper and lower limb. Cadaver-based dissection labs accompany lecture topics.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n4 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5342",
+            "course_name": "Primate Behavior",
+            "course_desc": "An organized course that examines current research in nonhuman primate studies from an anthropological perspective. (Stacked course with ANTH 3342.).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5343",
+            "course_name": "Human Variation and Adaptation",
+            "course_desc": "An organized course that examines human physical variation and adaptation from an evolutionary perspective.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5345",
+            "course_name": "Archaeology of Mesoamerica",
+            "course_desc": "This course examines the development of early huntergatherers through the appearance of agriculture to the rise of civilization in Mesoamerica. (Stacked course with ANTH 3345.) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5346",
+            "course_name": "Bioarchaeology",
+            "course_desc": "Bioarchaeology is the study of human skeletal remains in relation to the archaeological record. In this course students study theories and methods used in the analysis of archaeologically derived human skeletal remains to reconstruct patterns of subsistence, diet, disease, demography, biological relatedness, and the funerary activities of past populations. Prerequisite: ANTH 3381 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5347",
+            "course_name": "Archaeology of North America",
+            "course_desc": "This course examines human settlement of North America from the end of the Pleistocene to European discovery. (Stacked course with ANTH 3347.).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5349",
+            "course_name": "The Incas",
+            "course_desc": "The Incas were the largest Pre-Columbian empire in the Americas.  This course will explore the origins of this civilization and how they conquered such a large area of South America. Using archaeological and historic information the class will examine various aspects of Inca society including religion, economics, and kingship. (Stacked course with ANTH 3349). (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5350",
+            "course_name": "Gender and Sexuality in Cross Cultural Perspective",
+            "course_desc": "This course examines the relationships between women and men in societies around the world. (Stacked course with ANTH 3350.) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5351",
+            "course_name": "Anthropology of Peace and Violence",
+            "course_desc": "This class explores anthropological perspectives on peace and violence.  It focuses on understanding violent practices within both traditional and current day societies including everyday violence and warfare.  It explores the contributions of social structure, gender, religion, race, and ethnicity to violence.  It examines efforts to build peace and reconciliation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5353",
+            "course_name": "Applied Cultural Anthropology",
+            "course_desc": "This class focuses on how anthropology can solve practical problems in various disciplines, including behavioral health, education, human rights, community development, and business. Students will learn about client development, contract negotiations, project design, proposal writing, preparing deliverables, communicating results to a variety of stakeholders, teamwork, networking, and navigating ethical issues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5355",
+            "course_name": "Seminar in Culture Theory",
+            "course_desc": "An intensive examination of the principal theoretical positions in cultural anthropology, with an emphasis on the preparation of students with ethnographic analysis and fieldwork. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5356",
+            "course_name": "Andean Civilizations",
+            "course_desc": "This course is a survey of civilizations in the Andean region of South America.  Using archaeological data the class will examine cultural developments in the region from the earliest hunters and gatherers to the Inca Empire, the largest state in the Americas at the time of European contact. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5357",
+            "course_name": "Historical Archaeology",
+            "course_desc": "This course is an advanced survey of historical archaeology methods and theories that will intensively examine current trends in historical archaeology. Students will also be exposed to the material culture from historic period archaeological sites in Texas and North America.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5361",
+            "course_name": "Qualitative Methods",
+            "course_desc": "This course provides instruction on qualitative methods and analysis. Students will learn through a combination of lecture and hands-on activities how to design qualitative research projects; collect qualitative data through methods such as interviews, focus groups and observations; analyze this data; and present qualitative results.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5363",
+            "course_name": "The Art and Archaeology of the Olmec",
+            "course_desc": "This course will present our current understanding of the art and archaeology of the Olmec culture, the earliest known civilization in North America. The Olmec culture is considered the influential foundation for later Mesoamerican civilizations such as the Maya and the Aztec. (Stacked course with ANTH 3363.) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5373G",
+            "course_name": "Research Design and Proposal Writing in Cultural Anthropology",
+            "course_desc": "This course will familiarize students with the basic principles and practices of effective research design and proposal writing in cultural anthropology. Students will acquire a practical experience in formulating a feasible and creative research project, performing a rigorous literature review, planning to protect human research subjects, and giving/receiving constructive peer reviews.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5373I",
+            "course_name": "Anthropology in Practice",
+            "course_desc": "This course introduces students to the application of anthropological ideas, methods, and skills in multiple employment sectors. Students will develop key job skills in communication, team work, networking, professional development, and project management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5373J",
+            "course_name": "Dental Anthropology and Oral Biology",
+            "course_desc": "The biological development of the cranio-facial structures will be presented with emphasis on hard tissue anatomy and diseases. Dental traits will be discussed in relation to human evolutionary concepts. Forensic methods that support identification of human remains are emphasized. This course is appropriate for anthropology students and pre-professional dentistry.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5373K",
+            "course_name": "Nonverbal Communication-Gestures",
+            "course_desc": "Communication involves the use of invisible words and gestures, or visible actions.  This course focuses on gestures, what they are, how they are used, what role they play in communication and in thinking, and their cultural underpinning. Students will learn the theoretical and methodological issues involved in studying different gestures across societies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5373L",
+            "course_name": "Cultural Heritage Management",
+            "course_desc": "This course introduces students to current problems and methods in the stewardship of cultural heritage, tangible and intangible, national and international. We will explore topics including ethics and law, development, tourism, public outreach and opinion, and ongoing threats to cultural heritage.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5373M",
+            "course_name": "Design + Anthropology",
+            "course_desc": "This course will begin by exploring the anthropology of design, including the practices, implications, and expansion of design under contemporary capitalism. Students will then use this knowledge to examine the growing field of design anthropology and learn how anthropologists provide actionable insights and research for design work today.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5373O",
+            "course_name": "Seminar on Race in Biological Anthropology",
+            "course_desc": "In this course students will learn where race concepts originated, examining the worldview and scientific mindsets that guided us into the 21st century. Students will explore how social race has become biological, drawing on literature from biological anthropology. Most importantly, students will explore pragmatic solutions in the context of anthropology research. Students will leave the course with an in-depth understanding of the role anthropology has played in current concepts of race and develop an informed scientific practice that they can apply.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5373P",
+            "course_name": "Science, Technologies, & Organizations",
+            "course_desc": "This course explores the intersection of science, technology, and organizations through foundational theories in science and technology studies (STS) and organizational anthropology. Students will examine concepts like objectivity, facts, authority, policy, infrastructure, and organizational power. The course highlights feminist STS perspectives to investigate how culture and power influence knowledge, technology, and organizations. By understanding these relationships, students will learn to apply and advocate for anthropology in multidisciplinary teams and organizations, extending their expertise beyond academic settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5374Y",
+            "course_name": "Human Evolutionary Anatomy",
+            "course_desc": "This course is designed to give students an anatomical background to the study of human evolution with a focus on the comparative anatomy of apes, living humans, and fossil hominins.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5374Z",
+            "course_name": "Curation of Archaeological Materials",
+            "course_desc": "This course will examine the phenomenon or fundamentalism in a variety of religious traditions, both present and historical. Students will explore the political and social ramifications of fundamentalism in a world characterized by multiculturalism and globalization.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5375",
+            "course_name": "Advanced Methods in Skeletal Biology, Part I",
+            "course_desc": "This course focuses on laboratory analytical techniques and data collection methods used to estimate the biological profile of modern, historic, or prehistoric human skeletal remains.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5376",
+            "course_name": "Advanced Methods in Skeletal Biology, Part II",
+            "course_desc": "This course focuses on technical case report writing and evidentiary best practices in forensic anthropological analysis of human skeletal remains. In addition to biological profile estimation techniques, research methods and theoretical foundations used for trauma analysis and taphonomic interpretation will be reviewed. Prerequisite: ANTH 5375 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5381",
+            "course_name": "Paleopathology",
+            "course_desc": "Paleopathology is the study of ancient diseases and is an important tool for understanding of past populations.  In this course we will survey the range of pathology on human skeletons such as trauma, infection, syphilis, tuberculosis, leprosy, anemia, metabolic disturbances, arthritis, and tumors.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5382",
+            "course_name": "Archaeology of the Earliest Americans",
+            "course_desc": "This course focuses on the scientific story of the first Americans: where they came from, when they arrived, and how they met the challenges of moving across the vast, unknown landscapes of North America. Topics include exploring the hemisphere's oldest sites and how people coped with changing global climates.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5385",
+            "course_name": "Seminar in Anthropology",
+            "course_desc": "This course introduces students to specialized areas of anthropological inquiry.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5390",
+            "course_name": "Directed Study",
+            "course_desc": "Course of independent study open to individual students at the invitation of the faculty member with the approval of the department chair and the graduate advisor.  Repeatable for credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5395",
+            "course_name": "Internship",
+            "course_desc": "Under the direction of the thesis advisor and/or the internship coordinator, a student will conduct supervised work or research, related to a students professional development, at a public or private organization. This course may be repeated once for credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's initial thesis enrollment. No thesis credit is awarded until the student has completed their thesis proposal.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANTH 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANTH 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANTH 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANTH 7199",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Applied Anthropology to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANTH 7299",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Applied Anthropology to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANTH 7300A",
+            "course_name": "Methods in Historical Archaeology",
+            "course_desc": "This course is an advanced survey of historical archaeology methods and theories that will intensively examine current trends in historical archaeology. Students will also be exposed to the material culture from historic period archaeological sites in Texas and North America.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7300B",
+            "course_name": "Histological Analysis of Bone",
+            "course_desc": "Biomechanical adaptations and important metabolic processes, such as growth and development, are recorded in bone microstructure, and can be observable long after death and the decomposition of other tissues. Histological analysis provides a way to access this record, and is therefore integral to research in forensic anthropology, bioarchaeology, and paleopathology.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7300C",
+            "course_name": "Introductory Qualitative Methods",
+            "course_desc": "This course provides instruction on qualitative methods and analysis. Students will learn through a combination of lecture and hands-on activities how to design qualitative research projects; collect qualitative data through methods such as interviews, focus groups and observations; analyze this data; and present qualitative results.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7300D",
+            "course_name": "Advanced Methods in Primatology",
+            "course_desc": "In this course, students will learn about the methods used to study primates in captive and field settings, including observational and experimental methods. They will read and discuss recent publications on methods used by primatologists and apply their knowledge to provided examples as well as their own research. Related topics for discussion include research design, ethics, and inclusion in regards to methodology and primatology. Students will emerge from this course with an extensive knowledge of how to apply the appropriate methods to specific questions and hypotheses in primatology, both in the lab and in the field.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7300E",
+            "course_name": "Curation of Archaeological Materials",
+            "course_desc": "This course introduces students to current techniques and issues in the curation of museum and archaeological collections, combining discussion and presentations with applied work using Texas States collections. Topics include the conservation, storage, and handling of artifacts; registering, documenting, and illustrating objects; and managing risk. We will also consider issues in the history, ethics, and governance of collections, as well as aspects of public outreach including exhibit design and education.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7300F",
+            "course_name": "Gross Anatomy I",
+            "course_desc": "In this class, students will master the gross human anatomy of the back, upper limb, lower limb, head and neck. Students will dissect human cadavers in the lab each day, and will learn the muscles, blood vessels, nerves, and organs of these areas.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7300G",
+            "course_name": "Gross Anatomy II",
+            "course_desc": "This course will allow students to learn the gross anatomical structures of the thorax, abdomen, pelvis and perineum. Students will dissect human cadavers in the lab each day, and will learn the muscles, blood vessels, nerves, and organs of these areas. Prerequisite: ANTH 7300F with a grade of a \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7301A",
+            "course_name": "Seminar in Forensic Anthropology",
+            "course_desc": "This seminar course is a critical survey of past and current research by forensic anthropologists. Through intensive review of the literature, students will understand the development of the discipline, current best practices, and new research directions within the field, and master the methods and theory used in forensic skeletal analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7301B",
+            "course_name": "Primate Conservation",
+            "course_desc": "This course introduces students to the diversity, distribution, and abundance of nonhuman primates. We will use principles from the field of conservation biology to examine the biological, abiotic, and anthropogenic factors related to primate extinction risk. Specifically, we will examine the various threats facing primate populations today, the ways that scientists define and monitor threatened/endangered populations, and the steps that are being taken to increase the likelihood of their survival.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7301C",
+            "course_name": "Design + Anthropology",
+            "course_desc": "This course will begin by exploring the anthropology of design, including the practices, implications, and expansion of design under contemporary capitalism. Students will then use this knowledge to examine the growing field of design anthropology and learn how anthropologists provide actionable insights and research for design work today.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7301D",
+            "course_name": "Cultural Heritage Management",
+            "course_desc": "This course introduces students to current problems and methods in the stewardship of cultural heritage, tangible and intangible, national and international. We will explore topics including ethics and law, development, tourism, public outreach and opinion, and ongoing threats to cultural heritage.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7301E",
+            "course_name": "The Archaeology of Hunter-Gatherers",
+            "course_desc": "This course is an overview of the development of hunter-gatherers as a focus of research in archaeology. Current methodological and theoretical approaches, especially the use of ethnographic and environmental data, will be demonstrated in an ecologically oriented survey of prehistoric hunter-gatherer research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7301G",
+            "course_name": "Mortuary Analysis: Perspectives on Death and Burial in the Past",
+            "course_desc": "This course on mortuary analysis examines the role of the dead within past human societies to understand social structures, cultural practices, and traditional beliefs. It integrates bioarchaeological evidence with anthropological theory, emphasizing the theoretical foundations of mortuary studies derived from archaeology, cultural anthropology, and skeletal biology. Through critical discussions and case studies, this course explores the dynamic relationship between the living and the deceased, highlighting the significance of the dead in human history.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7301I",
+            "course_name": "Medical Anthropology",
+            "course_desc": "This course examines the field of Medical Anthropology, reviews its primary theoretical orientations, and explores some of the health-related issues studied by medical anthropologists. The class also considers the practical nature of health-related research and how anthropologists can contribute to things like policy, treatment, and community interventions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7301J",
+            "course_name": "Applied Statistics Using R",
+            "course_desc": "This course introduces data science with the R language and environment. The goal is to develop foundations for statistical analysis, with special emphasis placed on the fundamentals of data science. Topics will include data organization and visualization, descriptive statistics, hypothesis testing, statistical modeling, and machine learning.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7301K",
+            "course_name": "Language in Society",
+            "course_desc": "This course examines the complexity of language variation, the social reciprocates of variation, and the significance of variation. Students will explore and correlate theoretical concepts with inclusive empirical case studies and use ethnographic methods to broadly engage the diverse use of language by individuals within society.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7301L",
+            "course_name": "Linguistic Anthropology",
+            "course_desc": "This course enhances participants' understanding of essential topics, questions, theories, and methods in studying language and culture dynamics. Participants will learn about the crucial role that language plays in producing, reflecting, or furthering culture, and in orchestrating diverse social relations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7301M",
+            "course_name": "Science, Technologies & Organizations",
+            "course_desc": "This course explores the intersection of science, technology, and organizations through foundational theories in science and technology studies (STS) and organizational anthropology. Students will examine concepts like objectivity, facts, authority, policy, infrastructure, and organizational power. The course highlights feminist STS perspectives to investigate how culture and power influence knowledge, technology, and organizations. By understanding these relationships, students will learn to apply and advocate for anthropology in multidisciplinary teams and organizations, extending their expertise beyond academic settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7302",
+            "course_name": "Teaching Anthropology",
+            "course_desc": "This course is an introduction to key concepts and practices in the teaching of college-level Anthropology. It provides training in the practical aspects of classroom instruction, and is required for first-year teaching assistants. The course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ANTH 7305",
+            "course_name": "Anthropological Statistics",
+            "course_desc": "In this leveling course, students learn basic quantitative statistics, how to evaluate quantitative methods presented in anthropological research papers, and be prepared for more advanced statistical methods classes. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANTH 7308",
+            "course_name": "Cultural Resource Management",
+            "course_desc": "Students will examine topics relevant to cultural resource management (CRM), especially archaeology, but also history, architecture, and cultural anthropology, done in compliance with historic preservation and environmental laws. Topics include the history of CRM, legal and regulatory framework, organization, methods, funding, and ethical and practical dilemmas.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7310",
+            "course_name": "Advanced Theory in Anthropology",
+            "course_desc": "In this course students examine advanced theory in anthropology, drawing from one or more of the sub-disciplines. It includes both historical perspectives and contemporary usages.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7310F",
+            "course_name": "Ethnography of the US-Mexico Borderlands",
+            "course_desc": "This course examines the history, cultural development, and contemporary politics of the US-Mexican border region from interdisciplinary perspectives with a focus on critical theory and ethnography. Topics discussed will include labor migration, transnationalism, structural violence, religion and spirituality, gender, social movements, political ecology, and creative expression.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7311",
+            "course_name": "Seminar in Cultural Anthropology",
+            "course_desc": "In this leveling course, students learn the historical foundations of cultural anthropology, key theories and methods, and examples of contemporary practice. Topics include evolutionism, functionalism, structuralism, ethnoscience, neo-Marxism, postmodernism, modernity, and ethno-racial formation. The course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ANTH 7312",
+            "course_name": "Seminar in Biological Anthropology",
+            "course_desc": "In this leveling course, students learn the historical foundations of biological anthropology, its key theories and methods, and examples of its contemporary practice in evolutionary theory, human variation, paleoanthropology, primatology, and skeletal biology. The course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ANTH 7313",
+            "course_name": "Seminar in Archaeology",
+            "course_desc": "In this leveling course, students learn the historical foundations of archaeology, its key theories and methods, and examples of its contemporary practice in New World and Old World archaeology. The course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ANTH 7315",
+            "course_name": "Advanced Archaeological Techniques",
+            "course_desc": "The focus of this methods course is the analyses of archaeological materials, such as ceramics, lithics, or the images and symbols of pre-historic cultures. This course may be repeated once for credit, but no more than 6 hours will apply towards the doctoral degree.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7326",
+            "course_name": "Technical Methods in Anthropology",
+            "course_desc": "Technical field and laboratory methods provide a suite of tools for anthropologists and related disciplines to collect and analyze data from archaeological, bioarchaeological, forensic, and other contexts. This class focuses on practical aspects of data acquisition, analysis, and management for the various instruments (geophysical, geospatial, and imaging).",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7341",
+            "course_name": "Professional Ethics In Anthropology",
+            "course_desc": "Anthropologists face a variety of ethical issues as they engage in research with human and animal subjects. In this course, students will focus on many topics including review boards (IRB, IACUC), collaboration with human groups, bioethics, advocacy and activism, repatriation, intellectual property and publication, cultural heritage preservation, and workplace ethics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7344",
+            "course_name": "Proposal Writing",
+            "course_desc": "In this course, students will develop the expert skills necessary to write competitive research grants and contracts for applied anthropology projects. The goal of this course is for students to write a submission-ready grant to fund their PhD dissertation research.  Prerequisite: ANTH 7341 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7351",
+            "course_name": "GIS in Anthropology",
+            "course_desc": "Geographic Information Systems (GIS) provide a suite of tools for anthropologists. This class focuses on practical aspects of GIS for the acquisition, analysis and interpretation of anthropological data.  Students will engage in a hands-on approach to learning GIS applications through data acquisition, thematic mapping, data analysis, and spatial analysis.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7352",
+            "course_name": "Advanced Qualitative Methods",
+            "course_desc": "Instruction in this course includes methods necessary to conduct applied cultural anthropology research in interdisciplinary settings. Topics include contextual interviewing, diary studies, free listing, pile sorting, panel studies and surveys. Students will also learn how to design methodologies for different types of projects, including rapid qualitative inquiries.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7353",
+            "course_name": "Applied Anthropology Methods",
+            "course_desc": "This class focuses on how anthropology can solve practical problems in various disciplines, including behavioral health, education, human rights, community development, and business. Students will learn about client development, contract negotiations, project design, proposal writing, preparing deliverables, communicating results to a variety of stakeholders, teamwork, networking, and navigating ethical issues.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7374",
+            "course_name": "Advanced Human Osteology",
+            "course_desc": "This course is a detailed study of the human skeleton, with focus on individuals at all life stages. Topics include biomechanics, embryology, and histology. Students will learn to identify hard tissue features and landmarks on whole and fragmentary bones and relate these to the associated soft tissue anatomy.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7376",
+            "course_name": "Forensic Analysis of Human Skeletal Remains",
+            "course_desc": "This course focuses on technical case report writing and evidentiary best practices in forensic anthropological analysis of human skeletal remains. In addition to biological profile estimation techniques, research methods and theoretical foundations used for trauma analysis and taphonomic interpretation will be reviewed.  Prerequisite: ANTH 5375 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7385",
+            "course_name": "Seminar in Anthropology",
+            "course_desc": "This course introduces students to specialized areas of anthropological inquiry.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7395",
+            "course_name": "Professional Externship",
+            "course_desc": "Under the direction of the dissertation advisor, students will conduct supervised work or research, related to their professional development, at a public or private organization.  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7397",
+            "course_name": "Directed Research",
+            "course_desc": "Under the direction of the dissertation committee chair, students will prepare for their candidacy exams by developing a reading list of the theory and methods used in their anthropological sub-discipline. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANTH 7398",
+            "course_name": "Collaborative Research",
+            "course_desc": "In this course doctoral students initiate, conduct, and participate in collaborative research with graduate faculty. This course may be repeated once for credit, but not more than 6 hours will apply towards the doctoral degree.  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7399",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Applied Anthropology to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANTH 7599",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Applied Anthropology to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ANTH 7695",
+            "course_name": "Professional Externship",
+            "course_desc": "Under the direction of the dissertation advisor, students will conduct supervised work or research, related to their professional development, at a public or private organization.  Prerequisite: Instructor approval.",
+            "course_credits": "\n6 Credit Hours \n1 Lecture Contact Hour \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7699",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Applied Anthropology to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7995",
+            "course_name": "Professional Externship",
+            "course_desc": "Under the direction of the dissertation advisor, students will conduct supervised work or research, related to their professional development, at a public or private organization.  Prerequisite: Instructor approval.",
+            "course_credits": "\n9 Credit Hours \n1 Lecture Contact Hour \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ANTH 7999",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Applied Anthropology to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

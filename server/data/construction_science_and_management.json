@@ -1,0 +1,478 @@
+{
+    "name": "Construction Science and Management",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/csm/",
+    "courses": [
+        {
+            "course_code": "CSM 1260",
+            "course_name": "Introduction to the Construction and Concrete Industry",
+            "course_desc": "This is an introductory course for Construction and Concrete Industry Management (CIM) majors.  Residential, commercial, heavy, civil, and highway construction is explored including the concrete industry.  The role of the contractor, architect/engineer, and owner are covered including contracts, careers, sustainability, and economic importance of the construction industry.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 1360",
+            "course_name": "Introduction to the Construction Industry",
+            "course_desc": "This is an introductory course to the Construction and Concrete Industry.  Major construction sectors are explored including: Residential; Building Construction; Heavy, Civil and Highway; and Industrial and Offshore, along with common construction materials used in the industry.  The role of the Construction Owner, Architect/Engineer and Constructor are covered in addition to Contracts, Construction Documents, sustainability, and the economic and historical importance of the Construction Industry. Degree requirements, course sequencing and Construction Careers are also covered .",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 2160",
+            "course_name": "Introduction to Construction Surveying and Site Layout",
+            "course_desc": "Common construction surveying and site layout techniques are studied using both optical levels and total stations.  Benchmarks, building lines, property lines, differential and profiling are discussed in lecture with applied exercises performed in the laboratory.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 2262",
+            "course_name": "Construction Lab",
+            "course_desc": "This lab provides hands-on experience for students to apply technical construction processes, equipment safety, and teamwork by building components using industry-standard materials and equipment.  Practical application of techniques used in residential and commercial construction will be performed, as well as the use of innovative technology associated with the Virtual Design & Construction (VDC) movement in the industry.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 2313",
+            "course_name": "Architecture Design I - Construction Documents",
+            "course_desc": "This course is an introduction to the language and process of producing architectural construction documents in residential projects utilizing computers and CAD software.  Site plans, floor plans, sections, elevations, and details are drawn individually and as a team as orthographic projection theory and its importance in resolving complex building geometry are covered.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 2342",
+            "course_name": "Construction Materials and Processes",
+            "course_desc": "This course will introduce students to various types of construction materials including ceramics, ferrous, non-ferrous, and organic materials used in construction.  Their properties, working characteristics and processes used to manufacture and assemble these materials are studied.  Laboratory activities are used to reinforce lecture material. Prerequisites: [PHYS 1115 and PHYS 1315] or [PHYS 2325 and PHYS 2125] with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 2360",
+            "course_name": "Residential I: Construction Practices",
+            "course_desc": "This course deals with the process of constructing a home on an improved lot, including residential plan and specification interpretation, cost centers, profit and overhead, construction phases, subcontractor sequencing, materials, estimating, scheduling, building codes, permits, and mechanical, electrical and plumbing home requirements.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 2361",
+            "course_name": "Construction Surveying",
+            "course_desc": "This course covers practical construction surveying and site layout applications for Construction Management. Topics covered include surveying terminology, the use of surveying equipment, grade, distance, and angular measurements, construction site layout and project control, surveying documentation with fieldwork conducted in the laboratory portion of the course. It also covers current technology in surveying equipment and processes. Prerequisite: MATH 2321 or MATH 2417 or MATH 2471 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 3360",
+            "course_name": "Structural Analysis",
+            "course_desc": "This course is a structural engineering fundamentals class to include design loads, reactions, force systems, functions of a structure, and both the analysis and design of determinate structures by classical and modern techniques. Prerequisite: TECH 2351 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 3361",
+            "course_name": "Commercial Building Construction Systems",
+            "course_desc": "This is a commercial building construction systems class that deals with soils, site work, heavy foundations, steel, reinforced concrete and pre-cast structures along with common assemblies.  Commercial MEPs are studied along with CSI master format, as-built and shop drawings, schedule of values, AIA documents and appropriate building codes. Corequisite: CSM 2360 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 3363",
+            "course_name": "Heavy, Civil and Highway Construction Systems",
+            "course_desc": "Selection, acquisition and capabilities of heavy construction equipment are presented.  Applications of economics to performance characteristics and production of equipment is discussed.  Sector-specific construction management methods are covered, including unit price estimating, equipment fleet design, repetitive scheduling and major components of highways, bridges and engineered facilities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 3366",
+            "course_name": "Soils and Foundations",
+            "course_desc": "The properties of subsurface materials and the principles of subsurface construction are studied.  Topics include soil classification and testing, soil mechanics, and foundation systems, including site layout, excavation, caissons, piles, slurry wall, slab, and spread footings. Prerequisite: TECH 2351 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 3367",
+            "course_name": "Mechanical, Electrical and Plumbing Systems",
+            "course_desc": "This course covers typical Mechanical, Electrical and Plumbing (MEPs) systems found in residential and commercial construction along with design and installation methods used to conserve both energy and water in new and remodeled structures.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 3368",
+            "course_name": "Construction Finance",
+            "course_desc": "This course provides an introduction to financial analysis and financing of construction-related companies and projects.  Topics include analysis of financial statements, contractor payment methods, construction loans, and project cost controls. Prerequisite: ACC 2301 or ACC 2362 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 3369",
+            "course_name": "Residential II: Construction Business Practices",
+            "course_desc": "This course will prepare students in the business practices used by residential land developers and home-builders.  Technical skills are applied to the work process inside conventional home-building departments and how those collaborating departments and co-workers operate to become an efficient and sustainable new home-building company. Prerequisite: CSM 2360 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 4313",
+            "course_name": "Architectural Design II - Technology in Construction",
+            "course_desc": "In this course students create individual and group commercial projects which include plans, elevations, sections, details, and 3D drawings utilizing 3D building information modeling (BIM) and other current technologies used in the industry.  Structural, mechanical, electrical, plumbing, accessibility, and sustainable building issues are discussed. Prerequisite: CSM 2313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 4360",
+            "course_name": "Senior Construction Management Capstone",
+            "course_desc": "In this course students work in groups, preparing a bid proposal based on a real-life construction project involving contract negotiations, construction documents interpretation, estimating, bidding, scheduling, safety, and quality control plans.  Emphasis is on developing leadership, team building, and written and oral communication skills.  Students will be prepared to sit for the AIC Level 1 Examination after this course. Prerequisites: CSM 4313 and CSM 4361 and CSM 4364 and CSM 4369 and TECH 2190 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 4361",
+            "course_name": "Construction Estimating",
+            "course_desc": "This course covers the fundamentals of construction estimating, including feasibility and constructability, quantities, units, labor, equipment productivity, and different types of estimates such as preliminary, engineering, range, and contractors detail bids. Plans and specifications are used along with estimating software to develop estimates commonly used in the construction industry. Prerequisite: CSM 3361 or CIM 3340 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 4364",
+            "course_name": "Construction Project Management and Scheduling",
+            "course_desc": "This course covers the concepts of construction management beginning with contract documents through the effective management of manpower, machines, material, and money necessary to complete construction projects on time and within budget.  Gantt Charts and PERT/CPM schedules are developed using contemporary software. Prerequisite: CSM 2360  with a grade of \"C\" or better. Corequisite: CSM 4361 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 4368",
+            "course_name": "Sustainable & Lean Construction Practices",
+            "course_desc": "This course covers environmentally sustainable and lean management practices in building design and construction.  The LEED system will be used to guide the course on sustainable practices, which covers aspects of sustainable sites, water efficiency, energy and atmosphere, materials and resources, indoor environmental quality, and the CAD design process. It will also cover the integration and relationship between lean and sustainable construction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 4369",
+            "course_name": "Construction Contracts, Risks, and Ethics",
+            "course_desc": "Legal aspects of design and construction contract documents are presented, including contract formation, interpretation, rights and duties and changes.  Legal liabilities are explored in the context of professional ethics for design firms and constructors. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 4370",
+            "course_name": "Residential Capstone",
+            "course_desc": "This is a course in residential construction related to developing communities and building homes. Students work in groups to develop proposals to select and develop raw land into buildable lots, design and schedule site-specific homes, and develop a marketing plan. Students will be prepared to sit for the AIC Level 1 Examination after this course. Prerequisite: TECH 2190 and CSM 3369 and CSM 4313 and CSM 4364 and CSM 4369 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 4380",
+            "course_name": "Construction Safety",
+            "course_desc": "This course is an introduction to the fundamentals of occupational safety and health for the construction industry. Topics include Occupational Safety and Health Administration (OSHA) policies and compliance, governmental regulations, standards, laws, workers compensation, record keeping, environmental safety and health hazard identification, the hierarchy of controls to mitigate hazards, and creation of a written Safety Management Plan (SMP). (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CSM 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CSM 5302",
+            "course_name": "Fundamentals of Construction Contracts and Liability Issues",
+            "course_desc": "This course introduces students to the legal aspects of design and construction contract documents, including dispute resolution methods and professional ethics commonly used in the construction industry.  This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CSM 5304",
+            "course_name": "Fundamentals of Construction Estimating",
+            "course_desc": "This course provides the student with a comprehensive introduction to the principles, techniques, technologies, and basic concepts involving methodologies and strategies used in the preparation of various types of construction estimates and bids.  This course does not count as degree credit.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CSM 5306",
+            "course_name": "Fundamentals of Commercial Building Construction Systems",
+            "course_desc": "This course is a commercial building construction systems class dealing with soils, site work, heavy foundations, steel, reinforced concrete, pre-cast structures and common assemblies.  Commercial MEPs are studied along with CSI master format, as-built/shop drawings, schedule of values, AIA documents, and appropriate building codes. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CSM 5313",
+            "course_name": "Building Information Modeling",
+            "course_desc": "This course covers understanding the supervisory role of construction professionals in the design process including, directing a design team in the integration of construction documents for commercial buildings, coordination of site work, structural, architectural, mechanical, electrical, plumbing plans and contemporary CAD software for 2D& 3D design including Building Information Modeling. Prerequisite: CSM 2313 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5314",
+            "course_name": "Technology Management in Construction",
+            "course_desc": "This course covers the supervisory role of construction professionals in the Virtual Design and Construction (VDC) process. Topics covered include directing a VDC team in the integration of construction documents for construction (architectural, structural, mechanical, electrical, and plumbing plans), coordination of site work, implementation of current CAD software for 2D and 3D design, the Building Information Modeling (BIM) process, and other technologies that have an impact on the construction industry.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5360",
+            "course_name": "Construction Company Financial Control",
+            "course_desc": "Financial accounting and cost controls used at the company level in construction companies are studied.  Topics include accounting systems, construction project profit calculations, and financial analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5362",
+            "course_name": "Pre-Construction Services",
+            "course_desc": "The course will introduce students to designer/contractor interactions, including conceptual estimating and scheduling, the RFQ/RFP process and legal, insurance, risk allocation issues, along with procurement and selection.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5363",
+            "course_name": "Construction Project Delivery and Leadership",
+            "course_desc": "This course covers methods of construction project delivery in detail and focuses on analyzing data to assess its impact on project outcomes.  Construction project delivery is covered along with contract strategies. An owner approach to a method selection is developed within this class.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5364",
+            "course_name": "Decision Making in Construction Management",
+            "course_desc": "This course focuses on the application of systems engineering and statistics used in solving construction and civil engineering problems. Topics covered include network and linear programming models, construction and evaluation of decision trees to clarify a proper course of action considering uncertainty, probability distributions, sample statistics, linear regression models, risk analysis, and sampling plans for quality assurance. Personal computer usage emphasized for problem solving.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5365",
+            "course_name": "Construction Project Controls",
+            "course_desc": "This course covers construction management cost and schedule concepts, cost/schedule management information systems, variance analysis, forecasting, resource management, project recovery strategies, and application of theory to practical problems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5366",
+            "course_name": "Soils in Construction",
+            "course_desc": "This course provides students with an in-depth examination of geotechnical principles as they apply to soil construction activities. Topics covered include geological formations of natural soils, soil mineralogy, soil sampling, classification, soil testing, dewatering, safety and sustainability in soil construction, soil contamination and remediation, recycled content used in soil construction and innovative technologies in soil stabilization.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5367",
+            "course_name": "Principles of Leadership in Construction",
+            "course_desc": "This course covers individual, organizational, and process/structure styles of leadership using a transformational model.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5368",
+            "course_name": "Sustainable Construction",
+            "course_desc": "This course examines a breadth of sustainable construction techniques, including material production, material selection, sustainable design, the ecology model for design, life cycle cost analysis, and sustainable construction. The sustainable construction techniques are discussed relative to advanced sustainable framing, waste minimization techniques, LEED, and green roofs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5369",
+            "course_name": "Construction Dispute Resolution",
+            "course_desc": "This course focuses on different mechanisms of dispute resolution in the industry. They are presented from the perspective of owner, designer, and contractors liability/risk assessment. The course is comprised of best practices and pitfalls of negotiation, mediation and arbitration. Finally, a perspective on litigation is discussed, along with the fast changing world of case law. The course uses a collaborative model of contemporary research and industry case studies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5380",
+            "course_name": "Construction Safety Management",
+            "course_desc": "This course covers the administration and application of 29CFR 1926 OSHA Construction Industry Regulations for the construction industry along with applicable state and federal construction safety laws related to construction, alterations, or repair work at construction sites.  The roles of all participants at the construction job site concerning construction safety are discussed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5384A",
+            "course_name": "Construction Failure",
+            "course_desc": "This course covers a breadth of causes of construction failure, including how past failures can improve current construction practices and litigation is a likely response to failures in construction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5390",
+            "course_name": "Research in Construction",
+            "course_desc": "This course examines research methods used for construction, including such topics as designing experiments, scientific principles, problem solving techniques, producing a proposal, executing research, acquiring and managing data, statistical analysis methods, reporting results, and publishing. The course highlights up-to-date discussions on debates and concerns within the construction research community.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in Construction Management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CSM 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CSM 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CSM 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CSM 7199",
+            "course_name": "Dissertation",
+            "course_desc": "This course includes original research and writing in construction science and management, to be accomplished under direct supervision of the PhD research advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CSM 7299",
+            "course_name": "Dissertation",
+            "course_desc": "This course includes original research and writing in construction science and management, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CSM 7300",
+            "course_name": "Research Methods",
+            "course_desc": "This course focuses on the research enterprise around construction management. Methods and procedures required to complete research in construction management will be discussed. Specific topics covered are research topics, research techniques/methods, data analysis, data management, statistical approaches to analyze data, technical writing, presenting, and publishing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 7310",
+            "course_name": "Leadership in the Construction Industry",
+            "course_desc": "This course provides an in-depth investigation into leadership in construction corporations. The course covers topics including strategic planning, business planning, organizational theory, competition analysis, risk management, financial analysis, human resources, management information systems, leadership, codes of ethics, and best practices.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 7315",
+            "course_name": "Emerging Construction Technologies",
+            "course_desc": "This course is focused on covering new and emerging construction technologies for the 21st century and beyond. Specific topics covered are theoretical, practical, and strategic development in contemporary construction systems, exploration of state-of-the-art innovations in environmental control systems, sustainability, structural principles and practices, integration of innovations with information technologies, 3D printing, artificial intelligence, virtual reality, and other development of additional insights.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 7320",
+            "course_name": "Advanced Productivity and Lean Construction",
+            "course_desc": "This course offers students insight into advanced production techniques through lean construction.  Specific topics include an introduction to lean construction, concepts and methods, deduction of basic training models in lean project delivery, and application of lean management in construction projects.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 7325",
+            "course_name": "Construction Risk Management",
+            "course_desc": "This course provides students with technical depth and understanding of how decisions are made based on available data. This course covers big data, big data management, big data analytics and visualization, data collection, analysis, interpretation, and advanced statistical analysis required for decision making and risk analysis in the construction industry.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 7330",
+            "course_name": "Constructability of Structures",
+            "course_desc": "This course provides students with the opportunity to evaluate the design and constructability of all major construction materials. The course investigates practical applications of structural materials and how they are used in construction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CSM 7380",
+            "course_name": "Construction Externship",
+            "course_desc": "This course provides students the opportunity to participate in a construction externship to advance their knowledge of leadership in a modern construction company. The externship will allow students to shadow multiple leaders within a construction company, gaining experience leading multiple personnel and large-scale construction projects.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CSM 7399",
+            "course_name": "Dissertation",
+            "course_desc": "This course includes original research and writing in construction science and management, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CSM 7599",
+            "course_name": "Dissertation",
+            "course_desc": "This course includes original research and writing in construction science and management, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CSM 7699",
+            "course_name": "Dissertation",
+            "course_desc": "This course includes original research and writing in construction science and management, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CSM 7999",
+            "course_name": "Dissertation",
+            "course_desc": "This course includes original research and writing in construction science and management, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

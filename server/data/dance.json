@@ -1,0 +1,430 @@
+{
+    "name": "Dance",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/dan/",
+    "courses": [
+        {
+            "course_code": "DAN 1113",
+            "course_name": "Conditioning for Dancers",
+            "course_desc": "In this course students will study body conditioning exercises and overall wellness. Topics include an introduction to, and practical application of, body conditioning methods based upon principles of functional fitness, in addition to Pilates, Aerobics, and Yoga techniques. Emphasis is placed on anatomical terminology and safe exercise.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 1212",
+            "course_name": "Careers in Dance",
+            "course_desc": "This course familiarizes incoming students with careers in dance in numerous social, cultural, and professional contexts.  The course introduce students to the artistic, philosophical, and cognitive implications of Dance, while examining a variety of dance-related careers.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 1260",
+            "course_name": "Jazz I",
+            "course_desc": "This course focuses on a beginning level of Jazz dance technique.  Course content includes application of terminology specific to a beginning/intermediate Jazz technique, performance of  movement phrasework, and exploration and application of elements of dynamic performance.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 1280",
+            "course_name": "Ballet I",
+            "course_desc": "This course focuses on an introductory level of Ballet technique.  Course content includes introduction to terminology specific to beginning level Ballet technique, body conditioning, performance and choreographic approaches, and critical analysis skills.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 1290",
+            "course_name": "Modern/Contemporary I",
+            "course_desc": "In this course students explore beginning level modern and contemporary dance techniques. Topics include introduction to and application of modern and contemporary terminology and somatic approaches to movement. It focuses on body alignment, technical development and proper execution of exercises and combinations, including center combinations, progressions and repertory.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 2115",
+            "course_name": "Pilates I",
+            "course_desc": "In this course students will be introduced to the Pilates method of body conditioning and an exploration of its six basic principles of Concentration, Control, Center, Fluidity, Precision and Breath. The focus is on the matwork as a study of sound movement principles and body alignment with an application of principles and exercises of the method to dance and sport specific activities.  Study of the method emphasizes and encourages the importance of the mind-body connection as it relates Pilates principles to dance training.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 2116",
+            "course_name": "Yoga for Dancers I",
+            "course_desc": "In this course students will examine Hatha Yoga for dancers with exploration of the asanas (postures), pranayama (breathing techniques), and meditation with an emphasis on mindfulness and relaxation. Students focus on the physical practice and proper alignment, balanced with a somatic understanding of yoga principles and philosophy.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 2201",
+            "course_name": "Dance Composition I",
+            "course_desc": "In this course students will utilize improvisation as a creative dance technique in designing new movements for choreography. Using current trends in improvisational materials, this course places emphasis on designing original movement, while facilitating students in maintaining aesthetic forms and developing artistic discrimination. Prerequisite: DAN 1290 or DAN 2291 or DAN 3293 any with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 2202",
+            "course_name": "Dance Composition II",
+            "course_desc": "This course explores the basic principles of dance composition as it pertains to solo choreography, and the use of space, dynamics, and rhythm to build artistic compositions. Exploration of crafting materials in authentic expression will be facilitated. Prerequisite: DAN 2201 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 2210",
+            "course_name": "Contact Improvisation",
+            "course_desc": "In this course students will cover improvisational movement techniques that explore weight-sharing, non-verbal communication, sensory awareness, risk-taking, and physical and emotional trust. Students will gain the physical and perceptual skills to enhance performance in all areas of creative expression. Principles will be applied through movement training, discussion, and performance.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 2261",
+            "course_name": "Jazz II",
+            "course_desc": "This course focuses on a beginning/intermediate level of Jazz dance technique.  Course content includes application of terminology specific to a beginning/intermediate Jazz technique, performance of  movement phrasework, and exploration and application of elements of dynamic performance.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 2270",
+            "course_name": "Hip-Hop I",
+            "course_desc": "In this course students explore hip-hop culture through dance. Course content will include an introduction to the core elements, history, and basic hip-hop dance foundation through physical practice, video assignments, and research.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 2281",
+            "course_name": "Ballet II",
+            "course_desc": "This course focuses on a beginning/intermediate level of Ballet technique.  Course content includes application of terminology specific to a beginning/intermediate Ballet technique, performance of  movement phrasework, and exploration and application of elements of dynamic performance.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 2291",
+            "course_name": "Modern/Contemporary II",
+            "course_desc": "In this course students study modern and contemporary dance techniques at a beginning/intermediate level. Topics focus on body alignment, technical development, and proper execution of exercises and combinations, including vocabulary and methodologies from several modern dance techniques and contemporary movement practices, exposing students to self and communal awareness.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 2313",
+            "course_name": "Introduction to Fine Arts",
+            "course_desc": "An introductory course designed to give the student a fundamental understanding of the creation and appreciation of diverse modes of expression through the visual and performing arts. This course may not be repeated for credit by taking ART 2313 or MU 2313 or TH 2313. (MULP) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Creative Arts Core 050|Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 2365",
+            "course_name": "Creative Movement for Children",
+            "course_desc": "This course uses rhythmical movement exploration and creative movement as both an art form and as a teaching tool. Through class activities, students develop effective facilitator skills and incorporate innovative strategies for teaching traditional material in non-traditional ways. (MULT) Prerequisites: DAN 2201 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 2368",
+            "course_name": "World Dance and Cultures",
+            "course_desc": "World Dance and Cultures exposes students to the varied and rich traditions of dance in a wide range of historical and cultural contexts. Through lectures, group discussions, video analysis, live performance, movement exploration, and writing projects, students develop a broad appreciation of dance that encompasses a variety of dance practices. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3111",
+            "course_name": "Dance Activities",
+            "course_desc": "This course is designed to provide credit for participation in dance activities. It typically involves working on a departmental production.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3115",
+            "course_name": "Pilates II",
+            "course_desc": "In this course students will study the Pilates method of body conditioning and an exploration of its six basic principles of Concentration, Control, Center, Fluidity, Precision and Breath designed by Joseph H. Pilates. Course content includes a variety of Pilates apparatuses such as the Cadillac, the Reformer, the Chair and the Ladder Barrel and incorporates the use of props such as towels, balls, pillows, rollers, discs and therabands. Prerequisite: Instructor approval.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3116",
+            "course_name": "Yoga for Dancers II",
+            "course_desc": "In this course students will explore the material presented in DAN 2116, with the introduction of intermediate level understanding of asanas (postures), pranayama (breathing techniques) and meditation practices of Hatha Yoga. Students practice Hatha Yoga beyond the general scope, providing more in-depth anatomical, physiological, and somatic awareness for dance practices. Prerequisite: Instructor approval.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3171",
+            "course_name": "Musical Theatre Dance I",
+            "course_desc": "This course involves the study of dance as it applies to musical theatre performance. It covers some of the styles that make up musical theatre including character dancing, the Charleston, and various ballroom dances. Prerequisite: DAN 2181 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3262",
+            "course_name": "Jazz III",
+            "course_desc": "This course focuses on an intermediate/advanced level of Jazz dance technique. Course content includes application of terminology specific to a intermediate/advanced Jazz technique, performance of movement phrasework, and exploration and application of elements of dynamic performance. While exploration of movement is central to Jazz III, this course also focuses on body conditioning, investigation of performance and choreography, and development of critical analysis skills.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3271",
+            "course_name": "Hip-Hop II",
+            "course_desc": "In this course students focus on complex weight shifts, directional and level changes, movement coordination in the vernacular, and musical accuracy. Practice activities are designed to challenge and improve motor skills, while enhancing the knowledge and practice of the proper foundation in form and technique.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3282",
+            "course_name": "Ballet III",
+            "course_desc": "This course focuses on an intermediate/advanced study of ballet technique.  Course content includes application of terminology specific to intermediate/advanced, performance of technical phrasework, and exploration and application of elements of dynamic performance.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3293",
+            "course_name": "Modern/Contemporary III",
+            "course_desc": "In this course students will study modern and contemporary dance techniques at an intermediate/advanced level. This course focuses on technical development, performance quality, complex movement sequences, center combinations, progressions and repertory.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3330",
+            "course_name": "Dance Curriculum Development",
+            "course_desc": "This course builds on a requisite knowledge of basic educational theory and lesson plan structure with an emphasis on developing and implementing a successful dance curriculum. Practical and effective strategies for teaching middle school and high school dance will be examined. Prerequisites: [DAN 1260 or DAN 2261 or DAN 3262 or DAN 4263] and [DAN 1280 or DAN 2281 or DAN 3282 or DAN 4283] and [DAN 1290 or DAN 2291 or DAN 3293 or DAN 4293] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3331",
+            "course_name": "Theory and Practice of Teaching Dance",
+            "course_desc": "This course is an introduction to child/adolescent development as it applies to the teaching of codified dance techniques in a dance studio setting.  Students in this course study multiple genres, teaching/learning approaches, ability levels, ownership and directing roles, and methods for creating age appropriate lesson plans in Modern Dance, Ballet, Hip Hop and Jazz.  Course content includes readings, videos, observations at local studios, peer activities and assignments.\n  Prerequisite: [DAN 1260 or DAN 2261 or DAN 3262 or DAN 4263] and [DAN 1280 or DAN 2281 or DAN 3282 or DAN 4283] and [DAN 1290 or DAN 2291 or DAN 3293 or DAN 4293] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3332",
+            "course_name": "Dance Concert Production",
+            "course_desc": "In this course students develop skills required to plan and execute dance concerts in standard educational institutions, as well as professional venues.  The course will include an introduction to technical theatre and design concepts for performance: lighting, stage management, make-up, costuming, and music selection.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3340",
+            "course_name": "Dance Touring Ensemble",
+            "course_desc": "Learning and performing dances from the repertory of current faculty members,\nartists-in-residence, and from the repertory of historic modern dancers. Dances performed locally and regionally. Enrollment by audition only. May be repeated for credit with different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3342",
+            "course_name": "Performance Workshop",
+            "course_desc": "In this course students will experience being a member of a professional performance company. Students practice learning and retaining complex choreography, rehearsing and creating movement vocabulary, and cultivating an engaging performance presence. Experimentation, technique, and personal expression focuses the shared, collaborative art work created through the rehearsal process. This work is performed in a concert at the end of the semester. Corequisite: DAN 1260 or DAN 1280 or DAN 1290 or DAN 2261 or DAN 2281 or DAN 2291 or DAN 3262 or DAN 3282 or DAN 3292 or DAN 4263  or DAN 4283 or DAN 4293 any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3345",
+            "course_name": "Screendance",
+            "course_desc": "In this course students create and edit choreographic work for the camera in video format. The class is geared towards dancers, choreographers, and filmmakers. The course includes analysis and discussion of a selection of international screendance works; as well as applying practical skills in choreography, editing, and camera techniques.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3350",
+            "course_name": "Dance Team Directing",
+            "course_desc": "This course is an introduction to dance team directing in middle and high school programs. Students develop skills in choreography, administrative organization, public relations, marketing, finance and communication.  Prerequisite: DAN 3330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3368",
+            "course_name": "World Dance and Culture",
+            "course_desc": "World Dance and Culture exposes students to the varied and rich traditions of dance in a wide range of historical and cultural contexts. Through lectures, group discussions, video analysis, live performance, movement exploration, and writing projects students develop a broad appreciation of dance that encompasses a variety of dance practices and traditions, including religious dance, folk dance, court dance, and social dance. Students develop tools for cross-cultural comparison to better understand the human impulse to dance and the social, political, and cultural conditions that support or repress dance expression.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3370",
+            "course_name": "Dance Composition III",
+            "course_desc": "In this course students will investigate dance composition elements as they relate to group forms, theme, development, and phrase manipulation. Prerequisite: DAN 2202 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3380",
+            "course_name": "Business and Marketing for Dance Artists",
+            "course_desc": "In this course students are introduced to  business and marketing concepts geared towards the performing arts. Students will identify and explore how to carefully craft a personal brand and marketing platform that is specifically shaped for the dance community. The basic principles of business practices will form both the foundation of the course as well as the lens through which all classwork is viewed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 3390",
+            "course_name": "Dance in the Community",
+            "course_desc": "This course combines community service (creating dance for or with non-profit community organizations that serve at-risk populations) with readings, discussions, and collaboration on societal applications of performing arts.  May be repeated once for credit when topics vary.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4263",
+            "course_name": "Jazz IV",
+            "course_desc": "This course focuses on an advanced level of Jazz dance technique.  Course content includes advanced technique and performance of movement phrasework, and exploration and application of elements of performance process.  While exploration of movement is central to Jazz IV, this course also focuses on critical reflection on jazz choreography, investigation of performance and choreography, and development of conditioning regimen. Prerequisite: Instructor approval.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4271",
+            "course_name": "Dance Internship",
+            "course_desc": "This course provides hands-on experience and career exploration and development in the dance industry, including but not limited to, arts management, dance studio administration, pre-professional dance company administration and Study Abroad/Study in America administration.  This course requires a minimum of 150 hours of off-campus experience, a written agreement with internship coordinator and portfolio of completed work.  Dance Internship offers students a professional learning experience that grants meaningful, practical work related to the dance field. Prerequisite: Instructor approval.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4272",
+            "course_name": "Hip-Hop III",
+            "course_desc": "This course advances the foundation of Breaking and Hip-Hop as a cultural dance form, and challenges the dancers musicality, form, technique, flow, foundation, finesse, and demands more advanced creativity to discover original movement vocabularies. In this course students explore advanced concepts of original movement creation in the vernacular, complex movement patterns, polyrhythms, seamless directional, level changes and apply a wide spectrum of dynamic qualities into their dance practice.  Prerequisite: DAN 3271 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4283",
+            "course_name": "Ballet IV",
+            "course_desc": "This course focuses on an advanced study of ballet technique. Course content includes application of terminology specific to advanced performance of technical phrasework, and exploration and application of elements of dynamic performance.   This course also focuses on body conditioning, application of performance process, exposure to complex choreographic structures and development of critical analysis skills.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4292",
+            "course_name": "Somatic Principles in Dance",
+            "course_desc": "In this course students will analyze and perform somatic principles as applied to dance training. Students develop a high level of conceptual mastery and physical skill for their teaching and performing preparation.  Prerequisite: DAN 1290 or DAN 2291 or DAN 3293 or DAN 4293 any with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4293",
+            "course_name": "Modern/Contemporary IV",
+            "course_desc": "In this course students explore advanced levels of modern and contemporary dance techniques. This course focuses on dynamics, performance process and technical development through repertory including and incorporating methodologies from a variety of modern dance techniques and contemporary movement practices.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4330",
+            "course_name": "Dance Kinesiology",
+            "course_desc": "This course is an experiential study of the human body in rest and in motion. Emphasis will be on the skeletal and muscular systems in consideration of applications to dance performance, teaching and creative processes, and injury prevention and rehabilitation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4350",
+            "course_name": "Musical Concepts for Dance Performance",
+            "course_desc": "This course provides dance majors with a working knowledge of the essential vocabulary of music-rhythm, melody, form and harmony, together with an overview of musical styles throughout both time and geography.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4360",
+            "course_name": "Dance Independent Study",
+            "course_desc": "Designed to give supervised experience to qualified advanced students in dance.\nIndependent study on research problems or actual production problems may be chosen. May be repeated with different emphasis for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4366",
+            "course_name": "Writing and Reading About Dance",
+            "course_desc": "Surveys dance literature including an opportunity for students to familiarize\nthemselves with resources, current publications, theoretical materials, and professional organizations in dance. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4367",
+            "course_name": "Advanced Choreography: Theory and Practice",
+            "course_desc": "In this course, students engage in choreography, costuming, and lighting design for a group dance of substantial length, justifying artistic choices in an accompanying documented paper. Prerequisite: DAN 2202 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4369",
+            "course_name": "Dance in the 20th and 21st Centuries",
+            "course_desc": "Exposure to a wide variety of literature in the area of dance, the arts and\nsciences which specifically address the development of dance as an art-form and cultural phenomena in the 20th and 21st Centuries. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4370",
+            "course_name": "Contemporary Issues in Dance",
+            "course_desc": "This upper-level theory course is designed to provide opportunities to investigate the current moment in contemporary concert dance. Current trends in choreography will be explored in a variety of genres.  Culturally relevant themes of gender, sexuality, social justice, commercialism, racism, and beauty will be examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4371",
+            "course_name": "Dance Internship",
+            "course_desc": "This course provides hands-on experience and career exploration and development in the dance industry, including but not limited to, arts management, dance studio administration, pre-professional dance company administration and Study Abroad/Study in America administration.  This course requires a minimum of 175 hours of off-campus experience, a written agreement with internship coordinator and portfolio of completed work.  Dance Internship offers students a professional learning experience that grants meaningful, practical work related to the dance field. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4380",
+            "course_name": "Professional Development for Dancers",
+            "course_desc": "This course prepares students to work as professionals in the field of Dance. They will learn the skills necessary to create a Dance-specific resume and portfolio for use upon graduation, to seek and secure employment, and seek funding for Dance projects.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4470",
+            "course_name": "BFA Senior Concert",
+            "course_desc": "In this course students choreograph, perform, and produce a dance concert, while applying feedback from faculty and peers throughout the process. Students engage in the creative, administrative, and promotional aspects of production.  Prerequisite: DAN 3370 or DAN 4367 either with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DAN 4471",
+            "course_name": "Dance Internship",
+            "course_desc": "This course provides hands-on experience and career exploration and development in the dance industry, including but not limited to, arts management, dance studio administration, pre-professional dance company administration and Study Abroad/Study in America administration.   Prerequisite: Instructor approval.",
+            "course_credits": "\n4 Credit Hours \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

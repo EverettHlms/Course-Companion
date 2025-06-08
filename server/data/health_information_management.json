@@ -1,0 +1,350 @@
+{
+    "name": "Health Information Management",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/him/",
+    "courses": [
+        {
+            "course_code": "HIM 2360",
+            "course_name": "Medical Terminology",
+            "course_desc": "Recognizing and understanding the vocabulary of the health care professions. Emphasis on medical prefixes, suffixes, and word roots as used in oral and written communications.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 3301",
+            "course_name": "Hospitals and Health Systems",
+            "course_desc": "This course will explore the organizational structure and delivery of healthcare in hospitals and health systems and the associated roles of HIM professionals.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 3350",
+            "course_name": "Legal Aspects of HIM",
+            "course_desc": "A study of the legal issues of Health Information Management with focus on statutory and regulatory requirements, case law and practical applications. Special legal problems associated with access to patient information, disposition of records, confidentiality and privacy, reporting requirements and compliance with current state and federal legislation are emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 3364",
+            "course_name": "Coding and Classification Systems",
+            "course_desc": "This course provides an introduction to ICD, CPT and other classifications and nomenclatures. Emphasis will be placed on the assignment of diagnosis and procedure codes. Management and use of encoding systems is examined. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 3367",
+            "course_name": "Disease and Medical Science",
+            "course_desc": "This course provides an introduction to the general disease process.  Stress is placed upon the occurrence of disease, the signs and symptoms of disease, the test values and findings of disease, and the therapeutic treatment of disease.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 3380",
+            "course_name": "Quality Management for HIM",
+            "course_desc": "This course provides an overview of regulatory agency requirements for quality improvement, utilization management, and risk management. Methods for integrating these procedures for credentialing and peer review are explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 3390",
+            "course_name": "Principles of Management in HIM",
+            "course_desc": "This course provides a study of the principles of management in healthcare and related organizations. The course provides the opportunity to apply the fundamentals of management including ethical decision making and human resources in the expanded role of the HIM Professional.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 3463",
+            "course_name": "Foundations of Health Information Management",
+            "course_desc": "This course is an introduction to the foundational principles of health information management. The content, structure, processing, use, analysis, and management of the health record will be explored. Instruction will include the use of the electronic health record and other common health information management software applications.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 4101",
+            "course_name": "Problems in Health Information Management",
+            "course_desc": "Comprehensive study of selected problems related to professional practice issues and changes in the health information management field. Emphasis will be on problem solving and application of management skills. May be repeated with permission of department chair.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 4320",
+            "course_name": "Principles of Information Governance",
+            "course_desc": "This course applies the principles of Information Governance to guide the HIM professional's evolving role in the transition from paper to electronic health records and managing the increasing volume of electronic health data. Topics include data architecture, analytics, integrity, quality and decision support; enterprise content management; and consumer informatics. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 4331",
+            "course_name": "Research and Data Analytics for HIM",
+            "course_desc": "This course provides an introduction to research methods and experimental inquiry to acquaint the student with skills to critique and conduct studies in the health information management domains. The course will also provide the foundation for compiling, analyzing, and displaying statistics related to the delivery of healthcare.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 4363",
+            "course_name": "Comparative Record Systems",
+            "course_desc": "Theory and procedures for the maintenance and regulation of patient health information records in non-hospital medical care facilities to include long term care, ambulatory care, psychiatric care, rehabilitation and prison record keeping systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 4364",
+            "course_name": "Coding and Compliance for HIM",
+            "course_desc": "This course provides a continued study of coding and classification systems including the role of mapping among clinical terminologies.  Compliance activities and methods will be covered for HIM topics to include code audits, fraud and abuse, and clinical documentation improvement.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 4370",
+            "course_name": "Finance and Reimbursement Methodologies for HIM",
+            "course_desc": "Course will address the reimbursement cycle from patient registration to claims billing with an emphasis on federal regulations and the role of HIM regarding payment systems. Topics will include accounting principles, budget processes, cost/benefit analysis, healthcare finance, compliance strategies, charge-master and casemix management, and payment systems and plans.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 4383",
+            "course_name": "Seminar in Health Information Management",
+            "course_desc": "Problem-solving course designed to assimilate actual internship encounters and theory. Emphasis is on integration of knowledge and making transition to the applications required to function as a health information manager.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 4385",
+            "course_name": "Health Information Management Practicum",
+            "course_desc": "Assignments made to promote uniformity and competency levels required of entry-level health information management professionals with practical application of administrative, management, and problem-solving skills required to complete projects and portfolio material. (WI).",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 4388",
+            "course_name": "Practicum",
+            "course_desc": "Faculty-led administrative training for the associate degree health information progression student. Emphasis is placed on analysis of HIM personnel functions, interdepartmental relations, use of health information technology, and committee assignments.  Full-time participation of the student is required.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Lab Required|Time Conflicts Permitted|Writing Intensive",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIM 4389",
+            "course_name": "Professional Practice Experience",
+            "course_desc": "Supervised management experience and training in a healthcare or related setting. Student will participate in administrative, management, and problem-solving activities in the institutional setting. Full-time participation is required.  Option for health information associate degree and post-baccalaureate students. (WI).",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n40 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Lab Required|Time Conflicts Permitted|Writing Intensive",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIM 4390",
+            "course_name": "Contemporary Leadership Principles for HIM",
+            "course_desc": "An analysis of the expanded role of the Health Information Management professional in the healthcare environment and application of the principles involved. Topics include strategic planning and forecasting, marketing, entrepreneurialism, leadership, motivation, consensus building, workforce diversity, change management, work redesign/reengineering, and project management. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 4393",
+            "course_name": "Project Management for Health Information Management",
+            "course_desc": "This course provides pragmatic guidance in the management of HIM projects by analyzing critical success factors and skills required to organize, plan, monitor, and control projects in healthcare settings. Cost and schedule estimation techniques are presented together with proposal writing, negotiation, communication, risk management, HIM technology assessment, and quality measurement. (WI) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 4501",
+            "course_name": "Professional Practice Experience",
+            "course_desc": "Supervised management experience and training in a healthcare or related setting. Student will participate in administrative, management, and problem-solving activities in the institutional setting. Full-time participation is required in addition to scheduled campus visits. (WI).",
+            "course_credits": "\n5 Credit Hours \n1 Lecture Contact Hour \n40 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIM 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIM 5300",
+            "course_name": "Advanced Independent Study in Health Information Management",
+            "course_desc": "This course provides an in-depth independent study of a singular problem or related problem in the rapidly changing field of health information management.  Special emphasis will be placed on the problem's current relevance and the value to the participant. May be repeated for credit with a different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5301",
+            "course_name": "Health Information Technology for Managers",
+            "course_desc": "This course provides an in-depth analysis of the concept of health information technologies. A major focus will be on the analysis of how technology impacts overall hospital operations from both a clinical and administrative perspective.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5302",
+            "course_name": "Clinical Foundations of Health Information Management",
+            "course_desc": "This course provides clinical foundations for graduate students studying Health Information Management. Course content varies based on academic preparation and may include topics such as pathophysiology and pharmacology, medical terminology, anatomy and physiology, computing and statistics in a modular format. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "HIM 5311",
+            "course_name": "Health Informatics and Data Visualization",
+            "course_desc": "This course provides an introduction to the fundamental concepts of health informatics, data analytics, data visualization, and decision support. Emphasis will be on quality-driven data-based decision making systems for business intelligence, clinical decision support, and consumer informatics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5320",
+            "course_name": "Research Methods for HIM",
+            "course_desc": "This course provides an introduction to research study design, methods, descriptive and inferential statisitcs need to conduct research studies in the Health Information Management domains. The foundation for compiling, analyzing, and displaying healthcare statistics needed to report and monitor healthcare statistics in the workplace will also be covered. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5340",
+            "course_name": "Healthcare Informatics",
+            "course_desc": "This course provides an overview and introduction to healthcare informatics. Topics in the course will include the information infrastructure, data needs, implementing healthcare information systems, decision making, privacy and security, consumer informatics and emerging technologies. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5341",
+            "course_name": "Healthcare Terminologies and Vocabularies",
+            "course_desc": "This course will provide an overview of healthcare terminologies, code sets and classification schemes, and associated standards. Mapping and the relationship of Systematized Nomenclature of Medicine (SNOMED) to an administrative classification system such as International Classification of Diseases (ICD) will be explored. The purpose and differences encountered in mapping a terminology to a classification will be examined. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5342",
+            "course_name": "Information Systems and Technology",
+            "course_desc": "This course provides an introduction to the fundamental concepts of health information technologies and information management strategic planning. A major focus will be design and selection of data-driven systems that offer strategic advantages, facilitate compliance and provide a return on investment. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5343",
+            "course_name": "Advanced Data Analytics in Healthcare",
+            "course_desc": "This course introduces advanced concepts of healthcare data analytics. Students will explore, visualize, and analyze healthcare data sets. Topics include data manipulations, data transformations, developing data queries, visualizing data, and exploring data relationships with predictive modeling.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5344",
+            "course_name": "Healthcare Database Management Systems",
+            "course_desc": "This course introduces methods for healthcare database management. The focus is on the physical data modeling for healthcare decision making. Topics include database creation, populating databases, data query optimization, enforcing database integrity, designing database security systems, and exploring data relationships with database reporting.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5351",
+            "course_name": "Data Security, Privacy, and Confidentiality",
+            "course_desc": "This course provides a detailed assessment of how state laws and federal regulations influence the development and management of policies and technology to protect date security, privacy, and confidentiality of protected health information. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5352",
+            "course_name": "Introduction to Healthcare Information Security",
+            "course_desc": "Students are introduced to the concepts, principles, and applications of healthcare information security including privacy, security, and infrastructure necessary to protect health information. Topics will include confidentiality, integrity, availability, authentication, fraud, eavesdropping, traffic analysis, intrusion detection and prevention, hacking, viruses, cryptography, and risk management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5353",
+            "course_name": "Risk Analysis of Healthcare Systems",
+            "course_desc": "By examining computer systems, network, and security tools designed to discover vulnerabilities, students gain an understanding of how to protect electronic health record systems. In this course, students learn the techniques and methods required to perform computer and network security risk analyses in a healthcare environment. Security best practices and audit requirements for specific environments will be studied. Topics to be covered include internal and external penetration tests, wireless security technology, risk analysis methodology, and security audits.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5363",
+            "course_name": "Health Data Content Structure and Standards",
+            "course_desc": "This course provides an in-depth study of the components and use of health records. Interoperability and healthcare informatics standards for collecting, maintaining and transferring healthcare data will be examined. The role of the HIM professional in developing an effective information governance program will be analyzed. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5370",
+            "course_name": "Healthcare Finance and Revenue Cycle Management",
+            "course_desc": "This course will focus on healthcare financial and revenue cycle/reimbursement management issues that impact the practice of Health Information Management. Specific topics covered include financial management, coding compliance, case mix index, revenue cycle, and reimbursement methods. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5380",
+            "course_name": "Assessing Healthcare Quality",
+            "course_desc": "This course provides an in-depth study on quality improvement methodology to include data retrieval, display, outcomes analysis and the aspect of risk management for various sectors of healthcare. Mechanisms for promoting facility-wide participation in achieving optimum patient care as delineated in accreditation and government standards will be analyzed. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5382",
+            "course_name": "Compliance for HIM Topics",
+            "course_desc": "Compliance activities and methods will be covered for HIM topics to include HIPAA, fraud and abuse, coding auditing, severity of illness, data analytics, fraud surveillance, and clinical documentation improvement. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5390",
+            "course_name": "Contemporary Leadership Principles for HIM",
+            "course_desc": "This course explores the expanded role of the Health Information Management professional in the healthcare environment. Topics include public policy development, executive decision making, strategic business alliances, change management, enterprise wide strategic planning, stakeholder engagement, training and development, information governance, cultural diversity and ethics. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIM 5397",
+            "course_name": "HIM Directed Practicum",
+            "course_desc": "This course provides a one semester, part-time practicum experience in a healthcare or related organization. Included is an orientation to the organization and completion of a project suitable for implementation at the site. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIM 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's initial thesis enrollment to initiate the thesis project. No thesis credit is awarded until completion of HIM 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIM 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course is a student's continued enrollment in the thesis. The student continues to enroll in this course until the thesis is submitted for binding. This course is repeatable for credit until the thesis is completed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

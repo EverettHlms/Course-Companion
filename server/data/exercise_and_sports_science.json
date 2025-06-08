@@ -1,0 +1,662 @@
+{
+    "name": "Exercise and Sports Science",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ess/",
+    "courses": [
+        {
+            "course_code": "ESS 1100",
+            "course_name": "Lifetime Fitness and Wellness",
+            "course_desc": "This course introduces students to the concepts of health-related physical fitness. Emphasis is placed on learning how to teach these concepts. Students will design and implement an exercise program for enhancing health-related physical fitness. Restricted to majors or minors in Exercise and Sports Science, Athletic Training, or Health and Fitness Management.",
+            "course_credits": "\n1 Credit Hour \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 1101",
+            "course_name": "Seminar in Exercise and Sport Science",
+            "course_desc": "This course provides students with an introduction to the various areas of exercise science, including interventions for healthy versus clinical populations, professional opportunities, individual awareness of professional responsibilities, familiarization with current trends and issues, and professional literature.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 1128",
+            "course_name": "Aquatic Therapy",
+            "course_desc": "The course addresses basic principles and concepts of aquatic therapy and aquatic emergency management. This course prepares students for the American Red Cross Basic Water Rescue Certification.",
+            "course_credits": "\n1 Credit Hour \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 1172",
+            "course_name": "Beginning Field Sports",
+            "course_desc": "This course prepares students to become proficient instructors of field sports, including softball and soccer. Emphasis is on skill development, instructional practices, peer coaching, rules, terminology, offensive and defensive strategies, team organization, game play, referee skills, skills assessment, and conditioning for field sports. Restricted to majors or minors in Exercise and Sports Science, Coaching, or Health and Fitness Management.",
+            "course_credits": "\n1 Credit Hour \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 1173A",
+            "course_name": "Practicum for Teaching Individual Sports",
+            "course_desc": "This course provides for real-life application of concepts learned in ESS 1310. This practicum aligns with an accompanying section of an approved Team Sports ESS/PFW Activity course. Pre-Service teachers seeking All-Level Physical Education teacher certification will gain valuable experience in planning and teaching lessons from a models-based teaching perspective. Prerequisite: ESS 1310 with grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 1173B",
+            "course_name": "Practicum for Teaching Team Sports",
+            "course_desc": "This course provides for real-life application of concepts learned in ESS 1310. This practicum aligns with an accompanying section of an approved Team Sports ESS/PFW Activity course. Pre-Service teachers seeking All-Level Physical Education teacher certification will gain valuable experience in planning and teaching lessons from a models-based teaching perspective. Prerequisite: ESS 1310 with grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 1173C",
+            "course_name": "Practicum for Teaching Conditioning",
+            "course_desc": "This course provides for real-life application of concepts learned in ESS 1310. This practicum aligns with an accompanying section of an approved Team Sports ESS/PFW Activity course. Pre-Service teachers seeking All-Level Physical Education teacher certification will gain valuable experience in planning and teaching lessons from a models-based teaching perspective. Prerequisite: ESS 1310 with grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 1175",
+            "course_name": "Beginning Jogging and Conditioning",
+            "course_desc": "This course presents the proper biomechanics of jogging, safety rules, and conditioning principles relevant to the activity. Course topics include warming-up and cooling-down, hydration, monitoring and modifying intensity, training for road races, and jogging-related injuries. Students will also learn how to train individuals entering into a jogging program. Restricted to majors or minors in Exercise and Sports Science or Health and Fitness Management.",
+            "course_credits": "\n1 Credit Hour \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 1176",
+            "course_name": "Beginning Tennis, Badminton, and Other Racket Sports",
+            "course_desc": "This course prepares Exercise and Sports Science majors to be proficient instructors of racket sports, including tennis and badminton, The emphasis is on the fundamentals of racket sports and program development for the beginner. Restricted to majors or minors in Exercise and Sports Science, Health and Fitness Management, or Coaching.",
+            "course_credits": "\n1 Credit Hour \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 1178",
+            "course_name": "Beginning Volleyball and Basketball",
+            "course_desc": "This course prepares students to become proficient instructors of volleyball and basketball. Emphasis is on skill development, instructional practices, peer coaching, rules, terminology, offensive and defensive strategies, team organization, communication, game play, referee skills, skills assessment, and conditioning for volleyball and basketball. Restricted to majors or minors in Exercise and Sports Science, Health and Fitness Management, or Coaching.",
+            "course_credits": "\n1 Credit Hour \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 1179",
+            "course_name": "Beginning Weight Training",
+            "course_desc": "This course prepares students to be proficient instructors of all forms of resistance training. Emphasis is on understanding the proper, safe, and effective techniques of weight lifting. Students will learn how to develop resistance-training programs for untrained individuals with a variety of conditions.",
+            "course_credits": "\n1 Credit Hour \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 1201",
+            "course_name": "Group Exercise Instructor Training",
+            "course_desc": "This course is for students interested in becoming certified group exercise instructors. Students will learn how to safely and effectively conduct group exercise classes. Students will be trained to teach a variety of formats, such as high- and low-impact aerobics, step aerobics, kickboxing, yoga, and resistance training. Prerequisite: Major in Health and Fitness Management or consent of the instructor.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 1298",
+            "course_name": "Foundations of Sports Medicine",
+            "course_desc": "This introductory course provides an essential foundation for students beginning their course of study in the field of sports medicine. Students will understand key principles of professionalism, responsibilities, ethics and legal aspects, scope of practice, and health care job opportunities in the careers of sports medicine.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 1310",
+            "course_name": "Introduction to Teaching Physical Education",
+            "course_desc": "This course is designed to provide pre-service physical educators an introduction to fundamental principles of teaching physical education in K-12 settings. Progressive steps in developing a basic understanding of pedagogical skills, physical education curriculum, and professional attributes needed to pursue the teaching profession.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 2320",
+            "course_name": "Motor Development",
+            "course_desc": "This course provides the exercise science and physical education student with a knowledge base in the study of changes in motor behavior across the lifespan, the processes that underlie these changes, and factors that affect them. Prerequisite: Major or minor in Exercise and Sports Science.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 2321",
+            "course_name": "Curriculum Design & Implementation in Physical Activity Settings",
+            "course_desc": "This course is designed to teach students how to design and implement a comprehensive physical education program in school settings.  Concepts from the course can be extended to include before or after school programs as well for all grade levels (K-12).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 3117",
+            "course_name": "Laboratory in Exercise Physiology",
+            "course_desc": "In this laboratory course, students perform experiments that highlight the physiological responses to exercise. This course also introduces students to basic techniques in the assessment of health and human performance, including the assessment of maximal oxygen consumption, body composition, anaerobic power and capacity, muscular fitness, movement economy, and dietary intake. Prerequisite: BIO 2430 or [BIO 2451 and BIO 2452] or [BIO 3425 and BIO 3426] any with grades of \"C\" or better and a minimum 2.0 Overall GPA. Corequisite: ESS 3317 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 3180",
+            "course_name": "Cardiopulmonary Resuscitation (CPR), First Aid, and Basic Life Support (BLS)",
+            "course_desc": "This course will teach the fundamentals of Cardiopulmonary Resuscitation (CPR) and First Aid.  An extension of the class will include Basic Life Support (BLS) i.e. epinephrine injection, supplemental oxygen administration, and automated defibrillation administration.",
+            "course_credits": "\n1 Credit Hour \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 3303",
+            "course_name": "Assistant Dive Instructor",
+            "course_desc": "This course provides students with the technical knowledge necessary to prepare for the Assistant Diver Instructor Scuba Certification. Topics include advanced diving physiology, air station operations, assisting instructors with beginning open-water dive students, and boat diving operations. Prerequisite: PFW 1201 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 3304",
+            "course_name": "Divemaster",
+            "course_desc": "This course provides students with the technical knowledge necessary to prepare for the National Association of Underwater Instructors Divemaster Scuba Certification. Topics include advanced diving physiology, organizing open-water dives, air station operations, assisting instructors with beginning and advanced open-water dive students, and boat diving operations. Prerequisite: Assistant Instructor Certification.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 3317",
+            "course_name": "Exercise Physiology",
+            "course_desc": "Students learn the acute and chronic physiological responses to exercise. Emphasis is on muscle bioenergetics, muscle contractile properties, performance improvement through training and supplementation, as well as cardiopulmonary and endocrine responses to exercise. Prerequisite: BIO 2430 or [BIO 2451 and BIO 2452] or [BIO 3425 and BIO 3426] any with grades of \"C\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 3319",
+            "course_name": "Introduction to Cardiopulmonary Exercise Physiology",
+            "course_desc": "This course introduces students to the cardiovascular and pulmonary systems, discusses the physiological dynamics, control mechanisms, and system interrelationships of the cardiovascular and pulmonary systems, and explores the effects of exercise on these systems, including the physiological factors that limit exercise tolerance across the spectrum of health and chronic disease.  Prerequisite: BIO 2430 or [BIO 2451 and BIO 2452] and ESS 1101 all with grades of \"C\" or better a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 3320",
+            "course_name": "Biomechanics",
+            "course_desc": "This course provides an introduction to the mechanical foundations of anatomical function and human movement. Qualitative and quantitative biomechanical analyses of human movement are introduced to inform the prescription of technique, equipment, and training interventions. Prerequisite: BIO 2430 or [BIO 2451 and BIO 2452] or [BIO 3425 and BIO 3426] all with grades of \"C\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 3321",
+            "course_name": "Teaching Elementary Children Physical Activity",
+            "course_desc": "This course introduces students majoring in Elementary Education and/or Exercise and Sports Science to physical education knowledge and movement concepts. It provides innovative techniques for incorporating physical activity within the elementary school setting. The course presents theory and then guides the students in applying those theories in a practical way.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 3323",
+            "course_name": "Psychosocial Aspects of Exercise and Sport Science",
+            "course_desc": "This course examines the psychological and social theories and and research related to physical activity. Emphasis is on the determinants that influence exercise behavior and sport participation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 3325",
+            "course_name": "Applied Assessment of Physical Activity",
+            "course_desc": "This course is designed to provide students with a theory to practice approach in the assessment of physical activity within the physical education setting. Particular emphasis is placed on empowering students to use relevant and meaningful physical activity assessments in K-12 schools. Prerequisites: ESS 1310 and ESS 2320.  Restricted to majors seeking all level Teacher Certification in Physical Education.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 3329",
+            "course_name": "Motor Learning",
+            "course_desc": "This course provides students with an understanding of the physiological, neurological, and psychological factors affecting performance and acquisition of motor skills. Students will examine the structural components underlying the learning of motor skills an draw upon examples from sport, physical activities, and rehabilitation. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 3340",
+            "course_name": "Theory and Principles of Coaching",
+            "course_desc": "This course examines the theories and principles of effective coaching, including philosophy, ethics, strategies, team motivation and organization, coah-athlete relationships, performance analysis, and the administration of facilities, personnel, and contests.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4100",
+            "course_name": "Professional Development in Health and Fitness Management",
+            "course_desc": "This course prepares students to obtain a health and fitness internship and to actively participate in professional development activities including conferences, development of resumes, and interaction with health and fitness professionals. Must be taken the last long semester before internship. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4101",
+            "course_name": "Professional Development in Clinical Exercise Science",
+            "course_desc": "This course prepares students to obtain an internship related to clinical exercise science and to actively participate in professional development activities including conferences, development of professional materials, and interaction with clinical exercise professionals. Must be taken the last long semester before internship. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4317",
+            "course_name": "Fitness Assessment and Programming for Healthy Populations",
+            "course_desc": "Students are presented with current information on fitness assessment and exercise programming for healthy individuals of all ages and fitness levels. Emphasis is placed on preparation for multiple certifications offered by relevant professional organizations. Prerequisites:  ESS 3117 and ESS 3317 both with grades of \"C\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4318",
+            "course_name": "Fitness Assessment and Programming Practicum for Healthy Populations",
+            "course_desc": "During this 80-hour practicum, students will acquire advanced knowledge and skills associated with appraising health risk, assessing fitness levels, and designing exercise programs for diverse populations through on-line, classroom, and laboratory settings as well as through field-based experiences by working in a variety of venues.  Prerequisite: ESS 3117 and ESS 3317 with grades of C or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4319",
+            "course_name": "Fitness Assessment and Programming in Clinical Exercise Science",
+            "course_desc": "This course provides students with an opportunity to develop knowledge, skills, and competence required to assess and prescribe exercise for clinical populations and to gain knowledge related to managed care and rehabilitation with clinical patients. Prerequisites: ESS 3117 and ESS 3317 both with grades of C or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4320",
+            "course_name": "Resistance Training and Conditioning",
+            "course_desc": "This course discusses the development and evaluation of training principles and programs for diverse populations. Emphasis is placed on physiological adaptations and mechanical principles related to the application of resistance training. Prerequisites: ESS 3317 and ESS 3117 both with grades of \"C\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4321",
+            "course_name": "Fitness Assessment and Programming Practicum in Clinical Exercise Science",
+            "course_desc": "This course presents current exercise and sports science information on testing and programming for clinical populations. This course provides fundamental knowledge, competence, and skills necessary to conduct safe and valid assessments, interventions, and rehabilitation programs for patients with health problems. Students will spend 80 hours at a practicum site. Prerequisite:  ESS 1101 and ESS 3117 and ESS 3317 and ESS 3319 all with grades of C or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n5 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4323",
+            "course_name": "Adapted Physical Education",
+            "course_desc": "This introductory course provides All-Level teacher certification candidates in Exercise and Sports Science with content knowledge on legal mandates, evidence-based practices, and the characteristics of selected disabilities and their considerations when designing meaningful individualized physical activity experiences to meet the students with disabilities in school settings. Prerequisites:  ESS 1310, ESS 2320 and 2.75 overall GPA. (WI).",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4324",
+            "course_name": "Adapted Physical Activity",
+            "course_desc": "This course introduces students to the field of adapted physical activity, including sport and leisure for persons with disabilities. This course provides content knowledge on how to instruct physical activities to individuals with unique needs in various settings. (WI).",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4333",
+            "course_name": "Fitness Assessment and Programming for Populations Requiring Special Considerations",
+            "course_desc": "This course provides practical information on fitness assessment and programming for persons requiring special considerations due to their age, pregnancy, obesity, diabetes, low back pain or other health conditions.   Prerequisite: ESS 1101 and ESS 3117 and ESS 3317 all with grades of C or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4337",
+            "course_name": "Independent Study in Exercise and Sports Science",
+            "course_desc": "This course is for students who are interested in research related to Exercise and Sports Science. Students develop a research study, collect data, and analyze the results. Repeatable for credit with different emphasis. Prerequisites: A minimum GPA of 3.00 and special approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ESS 4340",
+            "course_name": "Internship in Coaching",
+            "course_desc": "This 220-hour internship provides students with work-related experience. Students will strengthen their coaching-related knowledge, skills, and abilities by observing and shadowing coaches as well as assisting with a range of tasks, including training athletes, managing the facilities, and organizing practices, Prerequisites: completion of all coursework required for the minor in Coaching and special approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n15 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ESS 4351",
+            "course_name": "Measurement & Evaluation in Exercise and Sports Science",
+            "course_desc": "This course introduces students to the fundamental principles and techniques of measuring human performance related to Exercise and Sports Science, as well as evaluating and interpreting the results of exercise science and human performance tests in children and adults. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4357",
+            "course_name": "Water Safety Instruction for Service Learning",
+            "course_desc": "This course is designed for students to obtain the Red Cross Water Safety Instruction (WSI) certification, and learn how to teach using a Mastery Motivational Climate/TARGET approach. More than half of the semester will involve providing swim lessons to students grades K-6 from a San Marcos school. Students must be able to perform the following skills: front crawl, back crawl, breaststroke, elementary backstroke and sidestroke for 25 yards; butterfly for 15 yards; back float and tread water for 1 minute. Students with a current WSI certification will be exempt from the required WSI lab at the beginning of the semester.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4624",
+            "course_name": "Principles and Practices for Teaching Physical Education",
+            "course_desc": "This course provides students with an in-depth study of theory and curriculum encompassing the design and imlementation of developmentally appropriate and culturally responsive physical education programs for children and adolescents. Emphasis is on implementing evidenced-based curricula that promote youths' enjoyment of and participation in lifelong physical activity. Prerequisites:  ESS 1310 and ESS 2320 and ESS 3325, all with a grade of \"D\" or better, and 2.75 overall GPA.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4660",
+            "course_name": "Exercise and Sports Science Internship",
+            "course_desc": "In this 400-hour internship, students will apply theoretical health and fitness management principles and concepts to an organizational setting. This course requires students to participate in a health and fitness organization/agency and complete a semester-long planning and evaluation project. (WI) Prerequisite: A minimum 2.0 Overall GPA and department approval.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n25 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 4661",
+            "course_name": "Internship in Clinical Exercise Science",
+            "course_desc": "This course places the student in a professional work environment to apply the concepts of exercise rehabilitation in a cardiac care, respiratory therapy, or other healthcare setting, under the supervision of professionals in the field. Students are required to spend 400 hours in this internship position.  Prerequisite: Department approval and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5101",
+            "course_name": "Graduate Assistant Development",
+            "course_desc": "This course is required of all graduate teaching and instructional assistants in the department. This course provides regular in-service and planned periodic evaluations of instructional and professional responsibilities. This course does not earn graduate degree credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ESS 5110",
+            "course_name": "Research Seminar",
+            "course_desc": "The focus of this course engages students in research and professional development in Exercise and Sports Science. This seminar will allow students to gain exposure to a variety of scholarly activities in an interdisciplinary setting.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the completed thesis is submitted for binding. Prerequisite: ESS 5399A.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ESS 5201",
+            "course_name": "Graduate Assistant Development",
+            "course_desc": "This course is required of all graduate teaching and instructional assistants in the department. This course provides regular in-service and planned periodic evaluations of instructional and professional responsibilities. This course does not earn graduate degree credit.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ESS 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the completed thesis is submitted for binding. Prerequisite: ESS 5399A.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ESS 5304",
+            "course_name": "Motor Learning and Performance",
+            "course_desc": "This course is designed to provide students the foundation for understanding the principles involved in enhancing motor skill acquisition, and physiological, neurological, and psychological factors affecting motor learning and performance. Inquiry is made into the various motor learning theories and concepts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5305",
+            "course_name": "Advanced Fitness Assessment and Exercise Prescription",
+            "course_desc": "This course provides an intensive study of current scientifically based exercise testing and prescription procedures. Students will learn how to evaluate fitness and prescribe exercise through laboratory experiences.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5306",
+            "course_name": "Advanced Exercise Physiology",
+            "course_desc": "This advanced course will provide students with a thorough understanding of the acute responses to exercise and the physiological adaptations that occur in response to exercise training. Additional topics to be covered include environmental influences, aging, and sex differences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5307",
+            "course_name": "Advanced Resistance Training and Conditioning",
+            "course_desc": "This course will include the development, instruction, and evaluation of resistance training exercises and programs for diverse populations and settings.  Physiological and mechanical principles related to resistance training will be applied to study human performance, injury prevention, and rehabilitation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5308",
+            "course_name": "Physical Activity, Disease Prevention and Treatment",
+            "course_desc": "This course will provide students with opportunities to examine the role of physical inactivity in the development of chronic diseases and the benefits of activity in prevention efforts. A special emphasis will be placed on activity assessment and intervention research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5309",
+            "course_name": "Biomechanics for Exercise & Sports Science",
+            "course_desc": "Review of current research and research techniques in the biomechanics of exercise and sport science. Students will developskills in reviewing, planning, and conducting biomechanical research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5310",
+            "course_name": "Cardiopulmonary Exercise Physiology",
+            "course_desc": "The course will provide studetns with a thorough understanding of the structure, function, neural mechanisms, and integrated responses of the human cardiopulmonary system to acute and chronic exercise. In addition, basic cardiopulmonary pathology, pharmacology, and electrocardiography will be introduced.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5311",
+            "course_name": "Applied Neuromuscular and Skeletal Muscle Physiology",
+            "course_desc": "The course will provide students with a thorough understanding of the structure and function of neuromuscular and skeletal muscle physiology. This course will examine mechanisms that regulate skeletal muscle force production and human performance in response to acute and chronic exercise. In addition, advanced laboratory techniques will be introduced.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5312",
+            "course_name": "Applied Exercise Metabolism",
+            "course_desc": "This course will provide students a thorough understanding of exercise metabolism. Students will develop advanced knowledge of the influence of various environmental and physiological factors on metabolism during exercise and the impact on physical performance and recovery. Students will also examine the relationships between metabolic factors and chronic diseases.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5313",
+            "course_name": "Proprioception and Neuromuscular Control in Rehabilitation",
+            "course_desc": "This course provides for an advanced study of the concepts, theories, and current research related to proprioception and neuromuscular control as applied to the prevention, diagnosis, and clinical management of sport-related musculoskeletal injuries, neuromuscular disease, and concussions.  Prerequisite: Department approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5314",
+            "course_name": "Biomechanics of Musculoskeletal Injury",
+            "course_desc": "This course focuses on the application of biomechanical principles to the pathoetiology, diagnosis, and physiological capacity for healing of injuries to bone, ligament, tendon, cartilage, and other human tissues, with an emphasis on current injury research.  Prerequisite: Department approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5317",
+            "course_name": "Exercise Physiology",
+            "course_desc": "This leveling course provides an overview of the acute and chronic physiological responses to exercise. Emphasis is on muscle bioenergetics, muscle contractile properties, optimizing human performance through training and supplementation, as well as cardiopulmonary and endocrine responses to exercise. This course does not earn graduate degree credit. Prerequisite: BIO 2430 or equivalent. Corequisite: ESS 5117.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Lab Required|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ESS 5320",
+            "course_name": "Biomechanics",
+            "course_desc": "This leveling course provides an introduction to the mechanical foundations of anatomical function and human movement. Qualitative and quantitative biomechanical analyses of human movement are introducted to inform the prescription of technique, equipment, and training interventions. This course does not earn graduate degree credit. Prerequisite:  BIO 2430 or equivalent with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ESS 5322",
+            "course_name": "Inclusion and Diversity in Physical Activity and Sport",
+            "course_desc": "This course is designed to prepare physical activity and sport educators with knowledge, skills, and strategies to create inclusive learning environments. Culturally responsive teaching strategies that best accommodate the individual needs of children, adolescents, and adults, with diverse ethnic, racial, cultural, socio-economic, physical, and cognitive needs will be emphasized. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5327",
+            "course_name": "Application of Strength and Conditioning Principles",
+            "course_desc": "Strength and conditioning programming techniques will be the focus, including appropriate assessment  and exercise prescription for improved sport performance and injury prevention. This course will include both classroom instruction and hands-on experience utilizing  advanced technologies and traditional and non-traditional equipment in the field of strength and conditioning.  This course will also cover methods of evaluating athletic abilities to monitor progress of training that will guide exercise prescription.  Prerequisite: ESS 5307 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5328",
+            "course_name": "Principles of Endurance Training",
+            "course_desc": "This course explores and critiques both established and novel exercise testing and training practices for athletes competing in endurance sports. Emphasis is on demonstrating an ability to develop testing and training procedures using evidence-based methods for endurance athletes.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5329",
+            "course_name": "Motor Learning",
+            "course_desc": "This leveling course provides students with an understanding of the physiological, neurological, and psychological factors affecting performance and acquisition of motor skills. Students will examine the structural components underlying the learning of motor skills and draw upon examples from sport, physical activities, and rehabilitation.  This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ESS 5344",
+            "course_name": "The Science of Teaching in Health and Human Performance",
+            "course_desc": "This course is designed to enhance instructional skills for professionals working in educational, sport, clinical, and community settings.  Students incorporate evidence-based instructional practices and assess teaching using systematic, reliable, and valid measures. Students will be able to apply course concepts to implement effective instruction in diverse venues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5346",
+            "course_name": "Research Methods in Health and Human Performance",
+            "course_desc": "A study of research methods related to techniques for searching the professional research literature, understanding, planning, and conducting professional research projects, as well as development of skills for writing research proposals related to human performance.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5347",
+            "course_name": "Independent Study in Exercise Science",
+            "course_desc": "The course allows students to receive individualized instruction while working on a professional project with a supervising faculty member. This course will require students to enhance their writing, research, teaching, and/or presentation skills. Repeatable once for credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5353",
+            "course_name": "Curriculum Design, Implementation and Evaluation in Diverse Physical Activity Settings",
+            "course_desc": "This course is designed to explore evidence-based curricula across Exercise and Sport Science settings including, but not limited to clinical, strength and conditioning, community physical activity, and sports.  Students will gain knowledge and understanding about the curriculum design process and program evaluation using current theory to practice models.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5354",
+            "course_name": "Developmental Sports Education: Youth Participants",
+            "course_desc": "This course is designed to provide sport educators with theory, research, and application strategies to implement developmentally appropriate sports programs for youth participants. Social, psychological, pedagogical, philosophical, and physical variables impacting youth in sport are examined. Emphasis is placed on promoting positive youth development by applying evidence-based practices.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5355",
+            "course_name": "Developmental Sports Education: High-Level Athletes and Coaching Effectiveness",
+            "course_desc": "This course is designed to provide sport educators with theory, research, and practical strategies to implement developmentally appropriate sports programs for high-level athletes. Psychological, social, and physical aspects related to athletes success and well-being are examined. Research on coaching effectiveness is also explored with emphasis on applying evidence-based practices.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5356",
+            "course_name": "Applied Statistics in Health and Human Performance",
+            "course_desc": "A study of quantitative statistical methods for planning and conducting experimental and correlational research, as well as techniques for statistical data analysis and interpretation applicable to health and human performance.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5357",
+            "course_name": "Water Safety Instruction for Service Learning",
+            "course_desc": "This course is designed for students to obtain the Red Cross Water Safety Instruction (WSI) certification, and learn how to teach using a Mastery Motivational Climate/TARGET approach. More than half of the semester will involve providing swim lessons to students grades K-6 from a San Marcos school. Students must be able to perform the following skills: front crawl, back crawl, breaststroke, elementary backstroke and sidestroke for 25 yards; butterfly for 15 yards; back float and tread water for 1 minute. Students with a current WSI certification will be exempt from the required WSI lab at the beginning of the semester.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5398",
+            "course_name": "Internship in Exercise and Sports Science",
+            "course_desc": "This 240-hour internship provides students with work-related experience with children, adults, older individuals, or athletes in exercise settings. Students are provided an opportunity to prescribe and supervise age- and fitness-appropriate exercise programs and perform exercise tests. Prerequisite: ESS 5306 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's initial thesis enrollment. No thesis course credit is awarded until the student has completed the entire thesis required in ESS 5399B. Prerequisites: ESS 5346 and ESS 5356 all with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ESS 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the completed thesis is submitted for binding.  Prerequisite: ESS 5399A.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ESS 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the completed thesis is submitted for binding. Prerequisite: ESS 5399A.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ESS 5698",
+            "course_name": "Internship in Exercise and Sports Science",
+            "course_desc": "This full-time internship provides students with a minimum of 480 hours of field experience.  Students will work with children, adults, older individuals, or athletes in exercise or health care settings, and prescribe and supervise age and fitness appropriate exercise programs and perform comprehensive health-related assessments.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ESS 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the completed thesis is submitted for binding. Prerequisite: ESS 5399A.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ESS 7309",
+            "course_name": "Biomechanics for Exercise & Sports Science",
+            "course_desc": "This course explores and studies the analysis and application of the mechanical principles involved in human motion. Emphasis is on quantitative analysis of movement in sport and exercise activities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

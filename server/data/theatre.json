@@ -1,0 +1,1934 @@
+{
+    "name": "Theatre",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/th/",
+    "courses": [
+        {
+            "course_code": "TH 1111",
+            "course_name": "Production Crew",
+            "course_desc": "This course provides students with vital production experience in the operation of a live theatrical event.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1121",
+            "course_name": "Musical Theatre Singing Technique I",
+            "course_desc": "This course in vocal instruction focuses on technique, musicality and performance for the Musical Theatre performer.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1122",
+            "course_name": "Musical Theatre Singing Technique II",
+            "course_desc": "This course in vocal instruction continues the work done in TH 1121 and focuses on technique, musicality and performance for the Musical Theatre performer. Prerequisite: TH 1121 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1210",
+            "course_name": "Introduction to Musical Theatre",
+            "course_desc": "This course introduces students to musical theatre through song, score, libretto, character analysis and performance.  Students look at both classic and contemporary musical theatre style, structure and content with an emphasis on performance and acting the song. Students will also gain an introductory knowledge of the musical theatre canon.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1211",
+            "course_name": "Score and Libretto Analysis - Acting the Song",
+            "course_desc": "In this course students will work on musical theatre performance through song, score, libretto, character analysis and performance.  Students take a comprehensive look at both classic and contemporary musical theatre style, structure and content.  Additional focus will be placed on knowledge of the musical theatre canon and its leading professionals. Prerequisite: TH 1210 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1260",
+            "course_name": "Musical Theatre Jazz I",
+            "course_desc": "This course focuses on beginning jazz dance technique for Musical Theatre students including jazz walks, weight shifts, isolations, stretches, and combinations. Combinations are designed to challenge and enhance the students knowledge of the various styles and methodologies of jazz dance and to develop performance and choreographic abilities in these styles.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1280",
+            "course_name": "Musical Theatre Ballet I",
+            "course_desc": "This course introduces the basic technique and steps of classical ballet to Musical Theatre students. Basic barre exercises, positions and traveling steps of the ballet movement vocabulary will be taught and practiced for mastery. Students will also gain an understanding of ballet as a performing art.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1312",
+            "course_name": "Musical Theatre Musicianship I",
+            "course_desc": "This course offers detailed instruction in fundamentals of musicianship for the Musical Theatre performer, including notation, meters, scales, key signatures, intervals, chords, and sight singing.  Equal emphasis is placed on practical skills and theoretical analysis of the musical theatre canon.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1314",
+            "course_name": "Musical Theatre Musicianship II",
+            "course_desc": "This course offers continued practice of the essential elements of musicianship for the Musical Theatre performer including higher levels of ear training and sight-singing.  Equal emphasis is placed on practical skills and theoretical analysis of the Musical Theatre canon. Prerequisite: TH 1312 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1320",
+            "course_name": "Filmmakers History of Film",
+            "course_desc": "This course introduces the student filmmaker to the history of film taken from the perspective of the practicing filmmaker. This is a study of how technological change, socio-economic forces and art trends inside and outside the medium itself affected the technique, craft and style of filmmakers from each period.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1330",
+            "course_name": "P&P 101: Entrepreneurial Theatre-Making",
+            "course_desc": "This course prepares students entering the BFA Performance & Production Program with the skills and knowledge necessary to create a personal career plan. Students experiment with different creativity-generating processes and are introduced to a variety of theatre-making roles and paths that reflect current practices of the industry. Students investigate the ingredients of successful collaboration and build project teams united in a common artistic goal. With the knowledge gained from these experiences, students curate a personal degree plan optimized to provide them with a skillset tailored to their individual strengths and interests.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1340",
+            "course_name": "Voice and Diction",
+            "course_desc": "The human voice and the sounds of speech. The students own voice and pronunciation will be the primary concern, using practice sessions to develop more acceptable patterns of voice and sound.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1345",
+            "course_name": "Voice I: Vocal Production",
+            "course_desc": "In this course students will explore basic principles of vocal production and anatomy, including vocal variety and in-depth exploration of vocal identity. Emphasis is placed on breath work, alignment, vocal support, range, flexibility and health.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1350",
+            "course_name": "Introduction to Theatrical Design",
+            "course_desc": "Course introduces the freshman theatre major to the four primary areas of\ntheatrical design: costume design, scenic design, sound design, and lighting design. Each areas practice is explored and analyzed through a series of exercises that incorporate design projects.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1353",
+            "course_name": "Film Production Practices",
+            "course_desc": "This course provides an introduction to the art and practice of filmmaking.  Students analyze the components of a film and examines the tools of filmmaking, including the camera, script, sound equipment, and editing software.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1354",
+            "course_name": "Movement I",
+            "course_desc": "In this course students will explore movement for the stage. This introduction to movement course equips the actor with tools from multiple movement methodologies, including practical training in kinesthetic response, increased flexibility, and partner work and acrobatics, animating the interplay between these techniques and performance.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1355",
+            "course_name": "Movement II",
+            "course_desc": "A continuation of Movement I and the exploration of kinesthetic response for the actor, using movement techniques in class performances and further research\ninto the techniques of Alexander, Feldenkrais, and Laban. Prerequisite: TH 1354 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1364",
+            "course_name": "Beginning Acting",
+            "course_desc": "In this course students examine, understand, and apply the fundamentals of acting technique and personal artistry, and the interplay between the two. This course lays the foundation for Intermediate Acting and Movement I.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1365",
+            "course_name": "Intermediate Acting",
+            "course_desc": "Intermediate Acting. (2-1) Classroom exercises designed to continue the exploration of the actors inner resources; additional work on discovering techniques of developing a character. May be taken by non-majors independently. Prerequisite: TH 1364 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 1369",
+            "course_name": "Introduction to Dramatic Writing",
+            "course_desc": "In this course students will examine the essential elements of dramatic structure in literature written for theatre, film, and episodic programming. Students explore fundamental script elements during a semester of assigned writing, readings, script analysis, and critiques. Through this application, students develop their ability to write in all performance mediums. Completing this course increases the ability to identify each medium's appropriate format, act structure, craft, and style. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 2111",
+            "course_name": "Theatre Activities",
+            "course_desc": "A course designed to provide credit for participation in theatre activities. May be repeated to a total of four credits.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 2210",
+            "course_name": "Musical Theatre Devising",
+            "course_desc": "In this course students will develop their unique artistic voice applied to performance, and scene study skills by creating an original performance piece with a focus on personal, social, and justice-oriented themes.  Students will collaborate as a creative ensemble in devising, producing, marketing, and performing in the project.   Prerequisite: TH 1210 and TH 1211 both with grades of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 2211",
+            "course_name": "Applied Musical Theatre Musicianship Through Performance",
+            "course_desc": "In this course students will learn to utilize their deepening knowledge of harmony, form, orchestration, and motivic cohesion as a critical tool for expanding insight into characterization, emotional context, and storytelling.  This course is a continuation of Music Theater Musicianship II and Intermediate Acting and functions as a bridge between singing and acting. Prerequisite: TH 1210 and TH 1211 both with grades of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 2261",
+            "course_name": "Musical Theatre Jazz II",
+            "course_desc": "This course focuses on intermediate jazz dance technique for Musical Theatre students including complex weight shifts, syncopations, coordination and isolation techniques.  Exercise and floor combinations are designed to challenge and improve previously obtained motor skills and to enhance knowledge of correct mechanics of dance as a performing art.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 2281",
+            "course_name": "Musical Theatre Ballet II",
+            "course_desc": "This course introduces intermediate technique and steps of classical ballet to Musical Theatre students. Intermediate barre exercises, positions and traveling steps of the ballet movement vocabulary will be taught and practiced for mastery. Students will also gain an understanding of ballet as a performing art.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 2313",
+            "course_name": "Introduction to Fine Arts",
+            "course_desc": "An introductory course designed to give the student a fundamental understanding of the creation and appreciation of diverse modes of expression through the visual and performing arts. This course may not be repeated for credit by taking ART 2313, DAN 2313, or MU 2313. (MULT) (MULP).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Creative Arts Core 050|Multicultural Perspective",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 2315",
+            "course_name": "Film Directors Analysis",
+            "course_desc": "This course takes a filmmaker-centered approach to the study of individual directors and explores how they utilized technique, craft and style to achieve effects in the telling of their film stories. Students trace the career of a chosen filmmaker from their earliest films to their latest. Prerequisite: TH 1353 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 2330",
+            "course_name": "Stagecraft and Stage Lighting",
+            "course_desc": "This class teaches the facilities, tools, materials and techniques used to build scenery safely and effectively in the modern theatre.  It also covers the facilities, tools, and techniques used to safely and effectively read a light plot, hang and focus stage lighting instruments. It includes a hands-on lab.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 2345",
+            "course_name": "Voice II: Experiencing Speech",
+            "course_desc": "In this course students will focus on the ability to use speech articulators in order to allow full, healthy production of a wide variety of speech sounds. Emphasis is placed on full speech flexibility and ability to accurately create any sound the character requires. Prerequisite: TH 1345 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 2354",
+            "course_name": "Characterization",
+            "course_desc": "This is a studio acting course in which the student explores and develops techniques of creating a role. Prerequisite: TH 1340 and TH 1365 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 2355",
+            "course_name": "Introduction to Playwriting",
+            "course_desc": "This course focuses on reading and analyzing contemporary plays, as well as short-form writing exercises, leading to the creation of original scenes. Students will read and deconstruct four contemporary plays as well as engage in various short-form writing exercises culminating in an original scene as their final creative project.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3111",
+            "course_name": "Theatre Activities",
+            "course_desc": "This course is designed to provide credit for participation in theatre activities. It typically involves working on a departmental production. May be repeated for credit with different emphasis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3120",
+            "course_name": "Musical Theatre Singing Technique Private Instruction",
+            "course_desc": "This course is for advanced, private study in musical theater singing technique. Via private instruction, students will study multiple areas of musical theatre singing technique including singing for the microphone, belting, placement, and diverse musical theater styles (pop, rock, Golden Age, contemporary musical theater, etc). Prerequisite: TH 1122 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3150",
+            "course_name": "Pop Rock Repertoire Building",
+            "course_desc": "This class develops repertoire and vocal styles in 12 pop/rock genres of music, preparing students for the current demands of the musical theatre industry, including building repertoire for their professional audition books. Prerequisite: TH 1211 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3251",
+            "course_name": "Musical Theatre Tap I",
+            "course_desc": "This course covers the basic steps of tap technique and how they apply to musical theatre.  Students learn coordination, rhythmic variations, and performance skills through a series of tap combinations and exercises.  They also explore the concepts of dancing as an ensemble.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3252",
+            "course_name": "Musical Theatre Tap II",
+            "course_desc": "This course expands on skills covered in Musical Theater Tap I. Basic steps are perfected and more difficult steps and combinations are learned. Longer sequences set to Musical Theatre and contemporary music are mastered, and attention is given to ensemble work, rhythmic variations, and performance skills.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3262",
+            "course_name": "Musical Theatre Jazz III",
+            "course_desc": "This course focuses on advanced jazz dance technique for Musical Theatre students including complex coordination and combinations requiring increased levels of technique, strength and flexibility.  Emphasis is on developing ability to quickly master challenging choreography while continuing to develop new skills.  There is a continuing emphasis on biomechanics and choreography.  Prerequisite: TH 2261 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3271",
+            "course_name": "Musical Theatre Dance I",
+            "course_desc": "This course involves the study of dance as it pertains to Musical Theatre performance. Along with technique fundamentals, students hone the skills necessary for effective character development, storytelling, and auditioning.  The course also covers some styles that make up Musical Theatre including Traditional Broadway, Charleston, Hip-Hop, and various Ballroom dances. Prerequisite: TH 2281 and TH 2261 both with grades of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3272",
+            "course_name": "Musical Theatre Dance II",
+            "course_desc": "This course involves the study of dance, movement, and staging for Musical Theatre and culminates in student-choreographed works from Musical Theatre productions. It includes strategies for learning and performing dance combinations as they occur in professional dance auditions.  It also explores styles such as Fosse, Contemporary, and Commercial Dance. Prerequisite: TH 3271 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3282",
+            "course_name": "Musical Theatre Ballet III",
+            "course_desc": "This course introduces advanced technique and steps of classical ballet to Musical Theatre students. Advanced barre exercises, positions and traveling steps of the ballet movement vocabulary will be taught and practiced for mastery. Students will also gain an understanding of ballet as a performing art. Prerequisite: TH 2281 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3305",
+            "course_name": "Theatre in the Community",
+            "course_desc": "This course combines community service (creating theatre for or with non-profit community organizations that serve at-risk populations) with readings, discussions, and collaboration on societal applications of performing arts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3310",
+            "course_name": "Voice III: Heightened Text",
+            "course_desc": "In this course students will continue to develop the fundamentals of voice and speech for the stage while exploring heightened text. Students will learn tools for deciphering text and develop skills to vocally interpret what theyve gleaned from the text. Prerequisite: TH 2345 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3320",
+            "course_name": "History of the Theatre I",
+            "course_desc": "A study of the theatre and its place in the social and cultural evolution from primitive civilization to 1700. Selected examples of theatre literature are studied. (WI) (MULT & MULP).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3321",
+            "course_name": "History of the Theatre II",
+            "course_desc": "A study of the theatre and its place in the social and cultural evolution from 1700 to the present. Selected examples of theatre literature are studied. (WI) (MULT) (MULP).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3322",
+            "course_name": "History of Musical Theatre",
+            "course_desc": "Course examines the history of musical theatre, from its antecedents through its Golden Age to present-day issues. In the process students will study musical theatres elements and structure, as well as its creators, including major librettists, composers, lyricists, designers, directors, choreographers, and performers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3325",
+            "course_name": "Film Directors Workshop",
+            "course_desc": "This course addresses strategies used by the student filmmaker in approaching the directing of performance for film and television. The focus is on the director-actor relationship, script analysis, rehearsal strategies, beat-by-beat text breakdowns, staging exercises, and techniques for communicating and working with actors. Prerequisite: TH 1353 and TH 4363 both with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3330",
+            "course_name": "Advanced Stagecraft",
+            "course_desc": "This course covers the facilities, tools, materials, equipment and techniques used to safely produce, from a technical standpoint, live theatrical performances.  The course includes woodworking, metal working, stage rigging, stage lighting, audio and, in general, good stage hand practices.  Prerequisite: TH 2330 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3331",
+            "course_name": "Theatrical Drafting: By Hand",
+            "course_desc": "This course is a study of manual drafting techniques for theatrical designers and technicians.  Prerequisite: TH 2330 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3332",
+            "course_name": "Introduction to Stage Properties",
+            "course_desc": "This course introduces students to the categories of theatrical properties, as well as the practices and processes of the theatrical Prop Master as they pertain to the execution of a collaborative production.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3333",
+            "course_name": "Creating Comedy: Crafting Stand-Up, Sketch, and Improv",
+            "course_desc": "This course breaks down the craft of writing comedy in various mediums and provides an understanding of the basic history of American comedy from the eras of Vaudeville to digital. In addition to studying the history of comedy, students will also develop their own jokes, stand-up material, sketches and podcasts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3335",
+            "course_name": "Properties Construction",
+            "course_desc": "This course focuses on specific construction techniques and materials utilized by professional prop artisans for the construction of theatrical properties. Students are introduced to the practices of the theatrical Prop Master as they pertain to the execution and planning of prop construction projects.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3337",
+            "course_name": "Sound Technology",
+            "course_desc": "This course examines audio technology, the components of sound systems, and their application for live entertainment, including theatre and dance productions. This technical knowledge is the basis of the sound designer's skill set. Prerequisites: TH 1350 and TH 2330 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3338",
+            "course_name": "Stage Lighting",
+            "course_desc": "This course in stage lighting design assumes basic knowledge of lighting technology equivalent to that learned in TH 2330. This class encompasses research, observation, group discussion, and practical hands-on projects with emphasis on learning to see light and developing a common language for light and the lighting design process. Prerequisite: TH 2330 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3339",
+            "course_name": "Latinx Theatre and Performance",
+            "course_desc": "This course explores Latinx theatre that addresses the highly contested and geopolitical border that separates the US from Latin America. It focuses on how Latinx theatre creates counternarratives within the country. Students will study the borderlands as a place of latinidades, the multiple community voices of the region. Throughout the semester they will read dramatic, theoretical, and historical texts and examine the work of various border-crossers in the western hemisphere.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3340",
+            "course_name": "Intro to VFX and Compositing",
+            "course_desc": "This course introduces the techniques, craft and art of visual effects and compositing using Adobe After Effects. Students organize, research and execute projects based on advanced techniques in visual effects and compositing, covering topics such as 2D and 3D animation, matte painting and color correction. Prerequisite: TH 4342 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3341",
+            "course_name": "Film Sound",
+            "course_desc": "In this course student filmmakers will be introduced to the creative use of sound in the film and television industries. All the core aspects of film sound will be covered from production sound, dialogue, ADR, sound effects, sound design, foley, music/score and mixing.  Prerequisite: TH 1353 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3342",
+            "course_name": "Television/Film Performance",
+            "course_desc": "This course is a practical laboratory course in television and film performance techniques, including procedures and requirements for professional engagements. Prerequisites: TH 1365 and [TH 3361 or TH 3364] both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3343",
+            "course_name": "Stage Makeup",
+            "course_desc": "A practical course in developing techniques used in applying stage makeup. Emphasis is placed on painting, and contouring the face to achieve the desired effect. Special projects include fantasy makeup and mask making.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3344",
+            "course_name": "Costume Stagecraft",
+            "course_desc": "A single semester introduction to garment production for the entertainment industry.  Emphasis is placed on hand and machine stitching techniques, as well as an introduction to pattern drafting.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3346",
+            "course_name": "Historical Costume Research",
+            "course_desc": "In this course students will explore clothing, accessories, and customs of a variety of historical periods and cultures as an\napproach to period costume productions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3350",
+            "course_name": "Technical Production",
+            "course_desc": "This course provides hands-on experience to qualified advanced students in technical theatre utilizing a series of rotating topics.  Selected topics may include stage rigging, sound systems, remote device management, technical direction and/or technical writing/drawing.  May be repeated for credit with different emphasis. Prerequisite: TH 2330 with a grade of \"D\" or better instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3351",
+            "course_name": "The Craft of the Stagehand in the Live Entertainment Industry",
+            "course_desc": "The purpose of this course is to provide the student with proper training in the variety of skills that are needed in order to work professionally as a Stagehand in live entertainment performance venues across the United States and around the world.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3352",
+            "course_name": "Stage Rigging for the Live Entertainment Industry",
+            "course_desc": "The purpose of this course is to provide the student with instruction and opportunity to become proficient with safely employing basic rigging techniques that are common in live performance venues throughout the United States. Prerequisite: TH 2330 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3354",
+            "course_name": "Safety for the Production of Live Entertainment Events",
+            "course_desc": "This course will provide students with the resources necessary to incorporate good safety and health practices into their professional career in the live entertainment industry.  Based on standards from the Occupational Safety and Health Act, the Event Safety Alliance, and other current resources, students will learn to make informed decisions during the planning and execution of live events to ensure the safety of all event participants. Prerequisite: TH 2330 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3355",
+            "course_name": "Playwriting",
+            "course_desc": "In this course students will study play fundamentals (structure, dialogue, and mechanics), and guidance and discussion of representative plays. Prerequisite: TH 2355 or TH 1369 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3358",
+            "course_name": "Screenwriting",
+            "course_desc": "In this course students study the art and craft of writing screenplays. Through script readings, film viewings, and writing several original short scripts, students will learn story structure, character development, and a practical process for screenwriting.  Prerequisite: TH 2355 or TH 1369 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3359",
+            "course_name": "Advanced Screenwriting",
+            "course_desc": "In this course, students will pitch, outline and write a draft of an original feature-length screenplay. Prerequisite: TH 3358 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3360",
+            "course_name": "Beginning Stage Combat",
+            "course_desc": "This is an introductory course in stage combat with a hands-on approach emphasizing actor safety, dramatic requirements of the script, and historical accuracy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3361",
+            "course_name": "Improvisation for the Actor",
+            "course_desc": "This class develops the student's understanding of the fundamentals of improvisation as both a performance art and a rehearsal technique, expanding the actor's versatility and enhancing confidence in performance and communication skills.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3362",
+            "course_name": "Musical Theatre Performance for the Actor",
+            "course_desc": "This course is an introduction to the dynamic world of musical theatre through song analysis and performance, class exercises for the body and the voice, as well as an initial look at both classic and contemporary musical theatre style, structure, and content.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3363",
+            "course_name": "Stage Combat Stick Fighting",
+            "course_desc": "This class covers Stick Fighting techniques from around the world and how to incorporate them safely  into a play or film.  Students learn safe handling and use of all types of fighting sticks including, but not limited to, European Quarterstaff, Japanese Bo-Staff, Irish cane fighting, and Philippino Arnise.  Prerequisite: TH 3360 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3364",
+            "course_name": "Acting Realism",
+            "course_desc": "This is a studio course emphasizing the theories and methods of Stanislavsky in order to create characters in realistic drama. Prerequisites: TH 1365 and [TH 1340 or TH 1345] both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3365",
+            "course_name": "Acting Styles",
+            "course_desc": "This class explores a selected sample of theatre performance styles. The global history of performance includes many different uses of language, movement, gesture, relationship-to-audience, and storytelling intention. Instructors lead students through a curated sample of performance literature that could include Greek, Asian, Jacobean, Shakespearean, Moliere, Comedy of Manners, African, Latinx, and Brecht. This instructor-curated, performance-based curriculum can span theatre from 550BC to the late 19th century, providing students the opportunity to explore various forms of performance style. Prerequisite: TH 1365 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3366",
+            "course_name": "Stage Combat Single Sword",
+            "course_desc": "This course develops students  single-sword techniques and how to incorporate them safely into a play or film. Students will learn to safely handle single swords and how to build stage combat choreography using a hands-on approach emphasizing actor safety, dramatic requirements of the script, and historical accuracy.  Prerequisite: TH 3360 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3367",
+            "course_name": "Theory and Analysis",
+            "course_desc": "A study of dramatic theory and play analysis for production, including the study of forms, styles, and methods. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3370",
+            "course_name": "Creative Drama",
+            "course_desc": "Emphasis on process drama theory and using creative drama as both an art form and as a teaching tool. Through class activities, students will develop effective\nfacilitator skills and incorporate innovative strategies for teaching traditional material in non-traditional ways.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3375",
+            "course_name": "Production Design for Film",
+            "course_desc": "This course covers the structure and operation of an art department on a film production, as well as the fundamentals and application of production design for film and TV.  Prerequisite: TH 1353 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3390",
+            "course_name": "BFA Pre-Professional Apprenticeship I",
+            "course_desc": "Intensive work in one of the following career paths: Acting, design, and theatre technologies, costuming.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 3396",
+            "course_name": "Musical Theatre Audition Technique",
+            "course_desc": "This course concentrates on musical theatre audition preparation and performance on an advanced level.  Students will expand their analytical, professional and creative skills through performance work, mock auditions, Business of the Business labs, and a comprehensive research project.  Students will create a portfolio of specific and personalized audition material. Prerequisite: TH 1210 and TH 1211 and TH 2210 and TH 2211 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4120",
+            "course_name": "Musical Theatre Singing Technique Private Instruction",
+            "course_desc": "This course is for advanced, private study in musical theater singing technique. Via private instruction, students will study multiple areas of musical theatre singing technique including singing for the microphone, belting, placement, and diverse musical theater styles (pop, rock, Golden Age, contemporary musical theater, etc). Prerequisite: TH 1122 and TH 3120 both with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4251",
+            "course_name": "Musical Theatre Tap III",
+            "course_desc": "This course expands on skills covered in Musical Theatre Tap II. Intermediate and advanced tap steps are explored and attention is given to learning important pieces in the classic and contemporary tap canon as well as tap audition techniques. Focus is given to rhythmic clarity, agility, improvisation, and performance skills. Prerequisite: TH 3252 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4271",
+            "course_name": "Musical Theatre Dance III",
+            "course_desc": "This course provides an examination of the history and development of Musical Theatre dance styles, including an in-depth study of significant works of choreographers, including Agnes de Mille, Jack Cole, Jerome Robbins, Bob Fosse, Michael Bennett, and Andy Blankenbuehler. Prerequisite: TH 3282 and TH 3262 both with grades of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4272",
+            "course_name": "Musical Theatre Dance IV",
+            "course_desc": "This is an advanced Musical Theatre dance class that will focus on building advanced technical and performance skills as well as displaying competence in a variety of styles.  Students will also develop partnering skills.  Prerequisite: TH 4271 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4301",
+            "course_name": "Professional Internship",
+            "course_desc": "This course provides professional hands-on experience in the theatre or film industry. May be repeated once for credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4302",
+            "course_name": "Contemporary Theatre Workshop",
+            "course_desc": "This course examines some of the major plays, playwrights, themes and styles in contemporary theatre in the United States. Students will read, analyze, research, and perform in scenes from many different types of contemporary performance, including realism, musical theatre, classical adaptation, surrealism, and devised work.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4303",
+            "course_name": "Multicultural Perspectives in American Theatre",
+            "course_desc": "This course explores the literature, history, and performance challenges of the many voices and perspectives that make up American Theatre. In addition to exposure to brief historical overviews, students will read key literary texts and perform monologues and scenes.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4304",
+            "course_name": "Web Series Creation",
+            "course_desc": "In this course, students explore entertainment series that are designed specifically for publication on the Internet. Students will create, develop, identify a target audience, and write scripts for two short episodes of an original web series. In addition, students will work in groups to write a script, produce, and publish an episode for an original audio drama series.  The production of the original web series takes place in TH 4305 Advanced Web Series Creation. Prerequisite: TH 1369 with a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4305",
+            "course_name": "Advanced Web Series Creation",
+            "course_desc": "This course is a continuation of TH 4303 Web Series class. Students will story edit, produce, direct, publish and market two episodes of their own web series. Prerequisite: TH 4304 with a grade of \"B\" or better and TH 1353 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4307",
+            "course_name": "Properties Effects",
+            "course_desc": "This course focuses on specific construction techniques and materials utilized by professional prop artisans for the construction of theatrical special effects. Students are introduced to the practices of the theatrical Prop Master as they pertain to the execution and planning of prop special effects projects.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4308",
+            "course_name": "Musical Theatre Choreography",
+            "course_desc": "This course examines the role of choreography in musical theatre and explores the choreographic process.  Students study the history and theoretical principles of musical theatre choreography as well as obtain the practical skills needed to create staging and choreography for a musical theatre production.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4310",
+            "course_name": "Theatre Curriculum Development",
+            "course_desc": "Course builds on a requisite knowledge of basic educational theory and lesson\nplan structure with an emphasis on developing and implementing a successful Theatre curriculum. Practical and effective strategies for teaching middle school and high school Theatre will be examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4311",
+            "course_name": "Training the Teaching Artist",
+            "course_desc": "A teaching artist is, by definition, a two-career professional: a working artist and a working educator. This course explores the artistic, teaching, and business aspects of working as a teaching artist. Students create a job portfolio and teach a short residency in a classroom setting.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4312",
+            "course_name": "P&P Business Startup",
+            "course_desc": "This course examines career and market research and analyzes current industry trends to develop an individual theatrical business plan. Students investigate and explore for-profit and nonprofit business structures. Prerequisite: TH 1330 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4315",
+            "course_name": "Actor Artist Aesthetic",
+            "course_desc": "In this course students hone writing skills focused on creating original, \"devised\" theatre pieces. They investigate designated themes, experimenting with a variety of literary devices, movement techniques, and approaches to storytelling. This process culminates in creating collaborative ensemble-based pieces, as well as solo performance work. A foundation in movement is strongly recommended.  Prerequisite: TH 1354 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4320",
+            "course_name": "Directing Theatre Activities",
+            "course_desc": "Designed to assist any teacher in directing theatre activities. During the course,\nstudents will direct plays or scenes. May be repeated with different emphasis for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4321",
+            "course_name": "The Art of Voiceover and Voice Acting",
+            "course_desc": "In this course, students enhance their listening skills, determine their vocal \"brand\" or type, and learn various industry reads and the necessary corresponding voice skills. Students learn how to research and cut copy, create commercial, industrial, and cartoon demos, recording etiquette, and how to take vocal direction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4323",
+            "course_name": "Shakespeare Through Performance",
+            "course_desc": "This intensive summer study abroad program immerses students in the language and culture of Shakespeares plays. Incorporating a performance-based approach to the study of Shakespeare, this course includes theatrical workshops taught by professionals at leading international theatres, including the Royal Shakespeare Company.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4324",
+            "course_name": "Shakespeare: Text and Context",
+            "course_desc": "This intensive study abroad program immerses students in the language and culture of Shakespeare's plays. In Stratford, academic workshops are led by scholars from the Shakespeare Birthplace Trust. Through immersion in the cultural environment in which the plays were produced, students gain insight into the context that shaped Shakespeare's theatre.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4325",
+            "course_name": "Shakespeare Ensemble",
+            "course_desc": "This class provides students with the opportunity to build an ensemble production of an abridged Shakespearean play.  Using text analysis, character building, and clear storytelling, students create an adaptable production that can be performed in schools, libraries, and other community locations. Prerequisites: TH 1340 and TH 1365 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4326",
+            "course_name": "Design for Theatre Educators",
+            "course_desc": "This course prepares teaching certification students for the execution of technical elements relating to a dramatic production. The class draws heavily from guidelines established by the University Interscholastic League (UIL) Handbook governing One-Act Play competitions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4327",
+            "course_name": "Technical Theatre Production for Educators",
+            "course_desc": "This class guides students through exercises highlighting tool safety, scenery construction and proper stage protocols.  Students build and repair scenery, hang a UIL light plot, hang masking curtains, design lights and audio for all the Texas State Summer High School Theatre Camp productions. Prerequisite: TH 4326 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4328",
+            "course_name": "Arts Leadership for the 21st Century",
+            "course_desc": "In this course the students will serve on the Jeremy Torres Lab Theatre Board as well as serve as assistant directors on departmental productions. During the course, students either produce the Jeremy Torres Lab Theatre season or assistant direct a departmental production.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4329",
+            "course_name": "Television Writing",
+            "course_desc": "In this course students study the process of writing a half-hour episodic television series. Students will learn fundamentals of TV scriptwriting, including story pitching, episode beat sheets, story and character development, culminating in a finished pilot script for an original thirty-minute television series. Prerequisite: TH 1369 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4330J",
+            "course_name": "Drawing for the Designer",
+            "course_desc": "In this course students will cultivate drawing & rendering skills for scenic, lighting, and costume design. The student will be exposed to different rendering media such as water color, colored pencil and ink markers.  Prerequisite: TH 1350 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4330O",
+            "course_name": "Smartphone Cinema in Paris",
+            "course_desc": "In this course students will explore Paris through smartphone cinema. The student will participate in real world explorations of the literal paths of the earliest French filmmakers, including but not limited to Alice Guy Blache, George Melies, and the Lumiere Brothers. Students will analyze the work and the paths of Francois Truffaut, Jean Conteau and Agnes Varna.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4330R",
+            "course_name": "Oregon Shakespeare Festival Intensive",
+            "course_desc": "This course examines theatre production at the regional theatre level by exposing students to the work of the Oregon Shakespeare Festival.  Students will study issues of translating the current season's nine plays from script to stage, as well as analyze the perspectives and choices that inform each production.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4331A",
+            "course_name": "Auditions: The Business of Acting",
+            "course_desc": "This course equips the actor with the skills necessary to enter the professional world. Students will create an effective audition portfolio which may include two self-taped contrasting one-minute monologues, a resume, a headshot, a professional bio, and/or a professional website. Prerequisite: TH 1365 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4331B",
+            "course_name": "Realism: Chekhov & Contemporary American Playwrights",
+            "course_desc": "This course will give undergraduate actors mastery of the fundamental tools for undertaking a successful rehearsal process, including Stanislavski-based text work as the initial stage for exploration and discovery of a dramatic text. Text work serves as a means of collectively investigating text, fostering strong director/actor collaborations, and laying a foundation for a richly exploratory rehearsal period. For the sake of this class, the rehearsal process is an exploration of the connection, meaning and specificity required to embody the character and plot of a play actively and truthfully.  Prerequisite: TH 1365 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4331C",
+            "course_name": "Non-Realism in Theater, 1950-Present",
+            "course_desc": "The class will allow directors and actors to collaborate on scene studies from plays written in the second half of the twentieth century, as well as in the twenty-first century, going up to the present day. Genres and styles studied may include: absurdism, magical realism, dystopias, and intersectional plays.  Prerequisite: TH 1365 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4331D",
+            "course_name": "New Play Workshop",
+            "course_desc": "Undergraduate actors will collaborate with MFA Directors and guest playwrights on a reading of a new play. Additionally, through this process, students will develop techniques for delving into the core themes and ideas of a new play so that it can be truthfully realized in performance.  Prerequisite: TH 2355 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4331E",
+            "course_name": "Devising for Performers",
+            "course_desc": "In this course students develop devised theatre and live performances, individually and collectively, in conjunction with critique methods that collectively move the work forward. Through the creation of new work and community critique of that work, student artists build a common language out of their unique interests and contemporary devising methodologies. Through devising, acting, writing, designing and  creating original solo and group performances, students will expand their artistic skillset.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4331G",
+            "course_name": "Live Sound Audio Engineering and Mixing",
+            "course_desc": "In this course, students will examine the role of audio engineering and the live sound industry. Students will explore all aspects of audio engineering and mixing in order to meet the industry standards in the field of audio production.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4331H",
+            "course_name": "Technical Design Solutions for the Stage",
+            "course_desc": "This course will provide students with the tools necessary to safely and creatively plan, problem-solve, and execute the production of scenery, special projects, and special effects for the stage. Students will explore various challenges faced by technical directors, property supervisors, and associated artisans. They will learn both common and unique solutions for those problems. Prerequisite: TH 2330 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4331I",
+            "course_name": "Advanced Acting For Film & TV",
+            "course_desc": "In this course, students will expand their knowledge in the field of acting for film and television by applying skills on a film set or location. In addition, this course culminates in a final \"reel\", which the student can use for their own promotional materials as they enter the workforce.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4331P",
+            "course_name": "Performing Postdramatic Theatre: Embodying the Unconventional",
+            "course_desc": "In this course students will explore postdramatic theatre terminology, principles, and practices, equipping them to become versatile, innovative, and boundary-pushing theatre artists who redefine the art of live performance. This course will introduce students to avant-garde techniques and concepts that transcend conventional boundaries.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4331S",
+            "course_name": "Directing Musical Theatre & Shakespeare in an Educational Setting",
+            "course_desc": "In this course students will examine basic educational theory and lesson plan structure with an emphasis on the study of directing musicals and Shakespeare productions. Practical and effective strategies for directing musical theatre and Shakespeare productions in the middle school and high school theatre environment will be explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4331V",
+            "course_name": "Vectorworks II",
+            "course_desc": "This course is an advanced study of computer techniques and procedures using Vectorworks in the preparation of technical drawings and digital previsualization for theatrical scenic and lighting design. Prerequisite: TH 4356 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4331Z",
+            "course_name": "The History of Early French Films",
+            "course_desc": "In this course students will explore the origins and explorations of Filmmaking in France. This immersive education experience will take students to significant sites and experiences in Paris with optional tours to iconic, historical film locations from cinema produced in Paris, the City of Light, with preparation and foundation in the preceding semester of study.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4332",
+            "course_name": "Theatre in Education",
+            "course_desc": "This course provides an in-depth examination of Applied Theatre as it is used in a variety of settings, including elementary and middle school classrooms, recreation facilities, and in community outreach programs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4333",
+            "course_name": "Advanced Television Writing",
+            "course_desc": "In this course students explore the process of writing a one-hour episodic television series pilot. Students will create an idea for an original one-hour television series, write a beat sheet for the pilot episode, write and re-write the pilot episode script, and create and present a pitch deck. Prerequisite: TH 4329 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4334",
+            "course_name": "Stage Management",
+            "course_desc": "This is a seminar course in stage management, focusing on organization, techniques, and practices for managing stage productions from initial planning\nthrough performance.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4335",
+            "course_name": "Stage Management Practicum",
+            "course_desc": "This course is a hands-on practicum in which select students stage manage a departmental production, from auditions through the completion of the production. Prerequisite: TH 4334 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4336",
+            "course_name": "Production and Company Management for the Arts",
+            "course_desc": "The goal of this course is to examine the job duties (and sometimes overlapping tasks) of members of a theatrical/producing arts team with a focus on company managers, stage managers, production managers, and the producing process. Focus also includes an emphasis on group management and organizational tools.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4337",
+            "course_name": "Sound Design",
+            "course_desc": "This course provides an exploration of the sound design process and practical application for live entertainment, including theatre and dance productions. It involves an exploration of the sound design process and practical application through class projects. Prerequisite: TH 3337 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4338",
+            "course_name": "Lighting Design",
+            "course_desc": "This course will concentrate primarily on the aesthetics of stage lighting covering such topics as color; script analysis; use of light in creating both static and dynamic visual compositions; development and graphic representation of a theatrical lighting design; and psychological and physiological responses pertaining to visual perception. Prerequisites: TH 1350 and TH 2330 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4340",
+            "course_name": "Business of Film",
+            "course_desc": "This course focuses on how film projects are put together, from development to production, with an emphasis on job opportunities that are available in the film industry. Where applicable, working professionals are brought in as guest lecturers to provide a hands-on perspective of working in the film industry.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4341",
+            "course_name": "Short Film Development",
+            "course_desc": "This course focuses on the essential elements that go into the pre-production phase of developing a short film project. Emphasis is on script research, writing, budgeting, scheduling, finance, and development. Prerequisite: TH 1353 and TH 3358 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4342",
+            "course_name": "Film Editing",
+            "course_desc": "This course will introduce students to the theory and application of film editing practices beginning with an in-depth study of several software applications. The students engage in the artistry of film editing utilizing workflows across multiple formats including fiction, documentary, and commercial.  Prerequisite: TH 1353 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4343",
+            "course_name": "Film Producing",
+            "course_desc": "This course introduces students to the roles and responsibilities that contribute to the successful production of narrative films across multiple formats: short, feature, commercial, documentary and web. Utilizing industry-standard software tools, the student works through stages of development, budgeting, scheduling and on set production. Prerequisite: TH 1353 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4344",
+            "course_name": "Advanced Sound Design",
+            "course_desc": "This course focuses on the use of a digital audio workstation in the composition of music, sound, and scoring of theatrical moments on stage, as well as explores recording techniques.  It also examines dramaturgical aspects of sound design. It is project-based, and includes a wide range of topics based on student interest and instructor discernment. Prerequisite: TH 3337 and TH 4337 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4345",
+            "course_name": "Costume Design",
+            "course_desc": "In this course students will explore the role of a costume designer with specific focus on the costume design process. Projects will include developing skills in script analysis, character development, research, and drawing and rendering techniques.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4346",
+            "course_name": "Advanced Costume Design",
+            "course_desc": "Continued development of costume design skills. Includes research as well as advanced drawing and rendering techniques. Repeatable for credit with different emphasis. Prerequisite: TH 3344 and TH 4345 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4347",
+            "course_name": "Pattern Making",
+            "course_desc": "Pattern Making is a single semester exploration of the skills and techniques of pattern drafting and draping.  Through guided practice and project work, students will enhance their understanding of garment planning and production. Prerequisite: TH 3344 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4348",
+            "course_name": "Mask Making",
+            "course_desc": "Mask Making is a single semester course focusing on the practical craft and techniques of mask making for the live entertainment industry.  Through guided practice students will be introduced to various materials and techniques in sculpting, casting, and molding for theatre.    Prerequisite: TH 3344 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4349",
+            "course_name": "Hat Making",
+            "course_desc": "In this course students will explore the design and execution of headwear.  Through guided practice students will examine the materials and techniques that will provide a strong foundation in millinery design and construction. Prerequisite: TH 3344 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4351",
+            "course_name": "History of Architecture and Interiors for Theatrical Design",
+            "course_desc": "This course is a study of architecture and interiors throughout history as it impacts design for theatre. Students will look at periods of design from ancient Egypt to the late Twentieth Century.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4352",
+            "course_name": "Armor Making",
+            "course_desc": "Armor Making is a single semester course in the construction of armor for the live entertainment industry.  Through guided practice students will gain experience with various materials and techniques used in this specialized area of garment construction.    Prerequisite: TH 3344 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4353",
+            "course_name": "Wig Making and Styling",
+            "course_desc": "Wig Making is a single semester study of the principles of wig making and wig styling for the live entertainment industry.  Through guided practice, students will learn to ventilate and style synthetic wigs and small ventilated appliances  Prerequisite: TH 3344 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4354",
+            "course_name": "Special Effects Makeup",
+            "course_desc": "Special Effects Makeup is a single-semester exploration of the advanced makeup techniques and the creation and application of prosthetic appliances within the context of character design and production for the entertainment industry. Prerequisite: TH 3343 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4355",
+            "course_name": "Scene Painting",
+            "course_desc": "In this course students will study the theory and practice of scene painting for the theatre, with hands-on projects implementing various scene-painting techniques. Students will also have the opportunity to work as scenic artists on departmental productions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4356",
+            "course_name": "Theatrical Drafting: Vectorworks",
+            "course_desc": "This course is a study of computer techniques and procedures used in the preparation of design and technical drawings for theatrical scenery and lighting. Prerequisites: TH 3331 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4357",
+            "course_name": "Scene Design",
+            "course_desc": "A study of scene design for theatre, focusing specifically on process of scenic designer with practical assignments including renderings and scaled models. Prerequisites: TH 1350 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4358",
+            "course_name": "Drama and Adaptation",
+            "course_desc": "This course covers the development of new theatrical scripts based on existing stories and source material. Students explore a variety of potential source materials, pitch adaptation ideas from multiple sources, and complete a written script.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4360",
+            "course_name": "Problems in Theatre",
+            "course_desc": "Problems in Theatre. (3-0) Designed to give supervised\nexperience to qualified advanced students in theatre history,\nplaywriting, directing, acting, technical, or other theatre\nproblems. Research problems or actual production problems\nmay be chosen. May be repeated with different emphasis for\nadditional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4361",
+            "course_name": "Voice IV: Dialects For Actors",
+            "course_desc": "In this course students will expand their knowledge of the International Phonetic Alphabet and learn a methodical approach to accurately speak in regional American, and international dialects of English.  Prerequisite: TH 3310 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4363",
+            "course_name": "Directing For Film",
+            "course_desc": "This course is an in-depth examination of directing theories and procedures for film with practical filming and editing exercises. Prerequisites: TH 1353  with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4364",
+            "course_name": "Directing I",
+            "course_desc": "This course is a study of the fundamentals of directing with practical experience provided by directing scenes. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4365",
+            "course_name": "Directing II",
+            "course_desc": "A study of directing different dramatic styles. Students will direct a one-act play during regular semesters. Prerequisite: TH 4364 with a grade of \"D\" or better. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4366",
+            "course_name": "Directing III",
+            "course_desc": "In this course, student directors will create theatre projects inspired by contemporary immersive theatre-making methods. Student directors will re-imagine how to stage their work, investigating the role of the audience, and how they use the space. Students will explore innovative and creative approaches around language, intention, and structure. Prerequisite: TH 4364 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4368",
+            "course_name": "Cinematography",
+            "course_desc": "This course will introduce the student filmmaker to intermediate and advanced concepts in camera, lighting and image delivery across multiple platforms: motion picture, television and the web. Utilizing the latest tools in digital videography, the student will learn to apply story analysis to their on-set decision making. Prerequisite: TH 1353 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4369",
+            "course_name": "Film Production Intensive",
+            "course_desc": "In this course students explore the duties, expectations and protocols of each position on set, from camera and lighting to sound and assistant directing. They will learn rules for communication, including walkie lingo and receive hands-on instruction for various technologies that exist for digital film production. While learning all of the written and unwritten rules for film and TV production, the student filmmaker will confront, evaluate and overcome all manner of logistical issues. This course will prepare them for their first day on set. Prerequisite: TH1353 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4371",
+            "course_name": "Producing the Independent Feature Film",
+            "course_desc": "In this course students investigate the unique processes, challenges and opportunities offered when choosing to produce a low-budget feature film through an independent approach. The student will take a current feature screenplay through each stage of development and pre-production, production, post, festival, sales, and distribution. The student will act as Executive, Producer, Line Producer, Assistant Director, Post Supervisor, and Sales agent featuring the full life cycle of a feature film. Prerequisite: TH 1353 and TH 4343 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4372",
+            "course_name": "Theory and Practice of Dramaturgy",
+            "course_desc": "Study of the practical application of historical research and textual analysis\nin the production of period plays and new works. Emphasis upon the dramaturg as an instrument of collaboration between members of the artistic team and as a facilitator of audience outreach. Prerequisite: TH 3367 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4373",
+            "course_name": "Advanced Film Directing",
+            "course_desc": "This course is an in-depth examination of narrative filmmaking that includes screenplay analysis, storyboarding, scheduling the shoot, directorial techniques, staging actors, camera placement, filming on location, and editing. Prerequisite: TH 3358 and TH 4363 and TH 4343 and TH 4368 and TH 4342 all with grades of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4375",
+            "course_name": "Advanced Playwriting",
+            "course_desc": "This course focuses on an in-depth study of the techniques of playwriting and the variety of styles that a playwright might employ. The course culminates with the writing of a full-length play. Prerequisite: TH 3355 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4376",
+            "course_name": "Advanced Lighting Design",
+            "course_desc": "This course focuses on advanced principles of light design and lighting aesthetics. It covers the variable elements one encounters during the design process as it applies to stage lighting. Prerequisite: TH 4338 with a grade of \"D\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4377",
+            "course_name": "Advanced Scene Design",
+            "course_desc": "This course emphasizes working with directors and other designers in creating a design for the stage. Students will improve verbal and visual communication skills as well as further develop drawing/painting/modeling/drafting skills.  The course involves multiple projects including creating an original performance art piece with a director and other designers. Prerequisite: TH 4357 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4378",
+            "course_name": "Play Development Lab",
+            "course_desc": "This course provides a laboratory workshop development process for new plays.  It provides a structured environment for rigorously revising student-written works. Prerequisite: TH 4375 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4380",
+            "course_name": "Advanced Scenic Painting",
+            "course_desc": "Students will further develop scenic art skills, with an increased emphasis on realized practical production work, and a focus on planning, sampling, and managing of theatrical production paint processes.   Prerequisite: TH 4355 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4381",
+            "course_name": "Automated Lighting",
+            "course_desc": "Automated Lighting will explore and practice methods and approaches for basic uses of multi-attribute lighting technology. We will investigate a variety of moving light and LED technology and control as well as methods of properly documenting and cueing with these complex tools.  Prerequisite: TH 3338 and TH 4338 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4382",
+            "course_name": "Welded Scenery for the Live Entertainment Industry",
+            "course_desc": "This course offers a hands-on study of the principles and practices utilized in the fabrication of steel framed stage scenery for the live entertainment industry. Emphasis will be on safely cutting, prepping and welding mild carbon steel.  Tools used include steel cutting saws, grinders and MIG welder. Prerequisite: TH 2330 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4385",
+            "course_name": "Lighting Console Programming",
+            "course_desc": "This course explores basic, intermediate, and advanced skills and techniques used in modern console programming for a variety of lighting systems used in the entertainment industry.  The course incorporates programming specifics for consoles from a variety of manufacturers.   Prerequisite: TH 3338 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4386",
+            "course_name": "Lighting and Projection Design for Dance",
+            "course_desc": "This course covers the skills and techniques used in lighting and projection design for dance performances.  Students explore innovative choreographers and designers who use both established and emerging technologies in lighting and projection design for dance. Prerequisite: TH 3338 and TH 4338 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4388",
+            "course_name": "Advanced Cinematography",
+            "course_desc": "In this course students use their visual creativity and knowledge of craft to solve problems, express ideas, and reveal truth through the moving image. This course will also emphasize the role of leadership the Director of Photography, Gaffer, Key Grip, and 1st Assistant Camera must serve on a set. This course will address both the technical and aesthetic aspects of cinematography with an emphasis on mastering the tools, and developing techniques and operating methods that will prepare the student filmmaker for a working career. Prerequisite: TH 1353 and TH 4368 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4390",
+            "course_name": "BFA Pre-Professional Apprenticeship II",
+            "course_desc": "Intensive laboratory work in individual and group theatre methods for the actor, designer, or technician. Each apprenticeship from BFA II to V will focus upon a specific theatrical discipline for the actor, i.e. advanced vocal work, music theatre, performing Shakespeare, performing new scripts, advanced movement\ntechniques, and further development of internal process.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4391",
+            "course_name": "BFA Pre-Professional Apprenticeship III",
+            "course_desc": "A continuation of laboratory work for the actor. Each apprenticeship from BFA II-V will focus on a specific theatrical discipline for the actor, i.e. advanced vocal work, music theatre, performing Shakespeare, performing new scripts, advanced\nmovement techniques, and further development of the internal process.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4392",
+            "course_name": "BFA Pre-Professional Apprenticeship IV",
+            "course_desc": "A continuation of laboratory work for the actor. Each apprenticeship from BFA II-V will focus on a specific theatrical discipline for the actor, i.e. advanced vocal work, music theatre, performing Shakespeare, performing new scripts, advanced\nmovement techniques, and further development of the internal process.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4393",
+            "course_name": "BFA Pre-Professional Apprenticeship V",
+            "course_desc": "This course is a continuation of laboratory work for the actor. Each apprenticeship from BFA II-V focuses on a specific theatrical discipline for the actor, i.e. advanced vocal work, music theatre, performing Shakespeare, performing new scripts, advanced movement techniques, and further development of the internal process.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4394",
+            "course_name": "Senior Film Capstone Project",
+            "course_desc": "In this course students assemble a production team comprised of a Producer, Director, DP and Production Designer with a script that has already been developed in Short Film Development. This creative team immediately goes into production on the final culminating film shoot for their undergraduate careers. The course guides each production team through the subsequent post-production process, reshoots, final deliverables and festival and marketing campaign. This course is designed to work in conjunction with Short Film Development and act as a capstone course for graduating seniors.  Prerequisite: TH 1353 and TH 4341 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4396",
+            "course_name": "Musical Theatre Industry Showcase and Business of the Business",
+            "course_desc": "This course prepares students for their Industry Showcase and concentrates on transitioning into the professional industry utilizing a series of \"Business of the Business\" labs designed to prepare students to run their business with skills including contract negotiations, agent interviews, marketing and branding, and financial planning. Prerequisite: TH 1210 and TH 1211 and TH 2210 and TH 2211 and TH 3396 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 4601",
+            "course_name": "Professional Internship",
+            "course_desc": "This course provides professional hands-on experience in the theatre or film industry; it is intended for students who do a full-time internship over the summer or during the fall or spring semesters. Prerequisite: Instructor approval.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "TH 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "TH 5301",
+            "course_name": "Drama Research",
+            "course_desc": "An examination of problems and research techniques in drama.  Historical, critical, descriptive, and experimental research approaches will be surveyed and basic procedures in research report writing will be considered.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5302",
+            "course_name": "Text Analysis, Research and Interpretation",
+            "course_desc": "This course reviews various methods of analysis of a dramatic text.  This includes inductive, deductive, structural, and methodical approaches.  It also examines techniques for production research and explores issues of interpretation that affect the development of a play's translation into a production on stage.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5303",
+            "course_name": "Devising Theatre",
+            "course_desc": "This interdisciplinary course will focus on the creation of original work that incorporates a strong visual component.  Individual artistic development is addressed along with the particular challenges of devising theatrical work through non-traditional methods.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5304",
+            "course_name": "Web Series Creation",
+            "course_desc": "This course focuses on the techniques of creating a web series, script writing and development. It explores the fundamentals of film production and web publication, including marketing and identifying a target audience.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5305",
+            "course_name": "Web Series Creation II",
+            "course_desc": "This course is a continuation of the Web Series course and specifically focuses on production of a web series. Students will write, direct, and produce their own web series for publication on the internet. Prerequisite: TH 5304 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5306",
+            "course_name": "Fundamentals of Environment for the Stage",
+            "course_desc": "This course is a practical exploration of the processes and techniques for the development of the stage environment by scenic and lighting designers within the context of live production.  Theoretical projects provide focus on establishing a common vernacular and emphasize analysis, research, and problem-solving.  In-class studio sessions develop efficient presentation techniques and effective graphic skills.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5307",
+            "course_name": "Fundamentals of Character for the Stage",
+            "course_desc": "This course is a practical exploration of the processes and techniques for character development from the perspective of a director and costume designer within the context of live production.  Theoretical projects provide focus on the development of a common vernacular and emphasize problem-solving skills.  In-class studio sessions will develop analysis, research, clear and efficient presentation skills, as well as graphic skill development.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5308",
+            "course_name": "Musical Theatre Choreography",
+            "course_desc": "This course examines the role of choreography in musical theatre and explores the choreographic process.  Students study the history and theoretical principles of musical theatre choreography as well as obtain the practical skills needed to create staging and choreography for a musical theatre production.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5310",
+            "course_name": "Graduate Assistant Development",
+            "course_desc": "This course is required as a condition of employment for graduate teaching and instructional assistants. This course covers topics related to employment responsibilities. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "TH 5312",
+            "course_name": "Collaborative Theory",
+            "course_desc": "This course examines the nature of collaboration within the context of the live entertainment production processes.  Particular attention is focused on understanding psychological/sociological viewpoints in effective collaborative work environments.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5313",
+            "course_name": "History of Directing and Scenography",
+            "course_desc": "This course is a historical survey of the work of directors and designers.  Particular emphasis will be on seminal production plans for notable directors and designers of the 20th and 21st centuries.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5314",
+            "course_name": "History of Material Culture - Pre 20th Century",
+            "course_desc": "This course is an historical survey of material culture and its influence on theatrical production pre-twentieth century. Attention is placed on research of the architecture, interiors, fashion, theatre literature, and technical innovations of seminal periods from Greco-Roman through 19th century.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5315",
+            "course_name": "History of Material Culture - 20th and 21st Centuries",
+            "course_desc": "This course is a historical survey of material culture and its influence on theatrical production in the twentieth- and twenty-first centuries.  Along with anthropological research, attention is placed on the influences that shaped seminal practitioners of theatrical production.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5316",
+            "course_name": "Artist Brand Development & Management",
+            "course_desc": "This course focuses on the creation of a professional brand and marketing toolkit for practitioners in the live entertainment industry.  Basic principles of business practices including accounting, tax law, networking, and unions are also explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5323",
+            "course_name": "Shakespeare Through Performance",
+            "course_desc": "This intensive summer study abroad program immerses students in the language and culture of Shakespeares plays. Incorporating a performance-based approach to the study of Shakespeare, this course includes theatrical workshops taught by professionals at leading international theatres, including the Royal Shakespeare Company.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5324",
+            "course_name": "Shakespeare: Text and Context",
+            "course_desc": "This intensive study abroad program immerses students in the language and culture of Shakespeares plays. In Stratford, academic workshops are led by scholars from the Shakespeare Birthplace Trust. Through immersion in the cultural environment in which the plays were produced, students gain insight into the context that shaped Shakespeares theatre.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5330",
+            "course_name": "Stage Management",
+            "course_desc": "An in-depth seminar in stage management, including organization, techniques, and practices for managing stage productions from initial planning through\nperformance.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5331",
+            "course_name": "Television Writing",
+            "course_desc": "This course focuses on the techniques of writing for television, including both half-hour situational comedies and hour-long dramas. Students will pitch story ideas, develop beat sheets, write treatments, and complete written scripts. Prerequisite: TH 5354 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5332",
+            "course_name": "Stage Properties",
+            "course_desc": "This course trains students in the craft, artistry and management of stage properties for careers in theatre, film and the entertainment industry.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5333",
+            "course_name": "Advanced Television Writing",
+            "course_desc": "This course focuses on the techniques of creating a television series, including script writing and development, film production, and post-production editing. Students will spin off a character from a network or cable television series and create a new series based on that character. Graduate students will act as co-producers. Prerequisite: TH 5331 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5334",
+            "course_name": "Figure Drawing for Costume Design",
+            "course_desc": "In this course students will practice drawing the human figure using traditional media, techniques and applications. Intended for the theatre designer, this course places special emphasis on aspects of the relationship between fabric and the human figure.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5338",
+            "course_name": "MFA Lighting Studio",
+            "course_desc": "This course concentrates primarily on the aesthetics of stage lighting, and covers such topics as viewers' psychological and physiological responses as they pertain to visual perception; color; script analysis; use of light in creating both static and dynamic visual compositions; development and graphic representation of a theatrical lighting design; and creation of materials necessary to communicate design intentions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5339",
+            "course_name": "Previsualization",
+            "course_desc": "In this course, students explore software and strategies for discovering and communicating lighting sequences prior to technical rehearsals.  The course assumes proficiency in Vectorworks, Lightwright, and conventional console programming.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5340",
+            "course_name": "Professional Internship",
+            "course_desc": "This course provides professional hands-on experience in the theatre or film industry. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5341",
+            "course_name": "Dramatization and Adaptation",
+            "course_desc": "This course focuses on the development of new theatrical scripts based on existing stories and source material.  Students will explore a variety of potential source materials, pitch adaptation ideas, and complete a written script. Prerequisite: TH 5354 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5342",
+            "course_name": "MFA Studio I",
+            "course_desc": "This course is designed to expand and refine advanced technical competencies, creativity, and methods of working in the student's area of emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5343",
+            "course_name": "MFA Studio II",
+            "course_desc": "This course is designed to expand and refine advanced technical competencies, creativity, and methods of working in the student's area of emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5345",
+            "course_name": "MFA Costume Studio",
+            "course_desc": "MFA Costume Studio is a course that explores character design for live entertainment, as well as, topics that pertain to the work of a Costume Designer.  Through guided practice, students will master the design process while working from both traditional and non-traditional sources.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5346",
+            "course_name": "Historical Costume Research",
+            "course_desc": "This course is a study of clothing, accessories, and customs of selected theatrical periods as an approach to costuming period plays.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5347",
+            "course_name": "Advanced Costume Construction",
+            "course_desc": "Advanced studies in the construction of costumes for the stage, techniques in sewing, pattern drafting/design as well as accessories/crafts construction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5348",
+            "course_name": "Graphic Representation",
+            "course_desc": "Students will study and practice drawing and painting techniques, as well as rendering with other media, including markers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5350",
+            "course_name": "Second Year Project",
+            "course_desc": "Students in the second year of the MFA in Theatre will direct, design, or write for a departmental production. The course includes a written report of the project that demonstrates an understanding of the creative process of the chosen discipline. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5352",
+            "course_name": "MFA Studio III",
+            "course_desc": "This course is designed to expand and refine advanced technical competencies, creativity, and methods of working in the student's area of emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5353",
+            "course_name": "MFA Studio IV",
+            "course_desc": "This course is designed to expand and refine advanced technical competencies, creativity, and methods of working in the student's area of emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5354",
+            "course_name": "Playwriting",
+            "course_desc": "A seminar in the art and craft of playwriting, from initial idea through a completed draft of a play. May be repeated with different emphasis for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5355",
+            "course_name": "Scene Painting",
+            "course_desc": "Theory and practice of scene and costume painting as developed in the Italian Renaissance and continuing into new media available today. May be repeated with\ndifferent emphasis for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5356",
+            "course_name": "Theatrical Drafting: Vectorworks",
+            "course_desc": "This course is a study of computer techniques and procedures used in the preparation of design and technical drawings for theatrical scenery and lighting.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5357",
+            "course_name": "MFA Scenic Studio",
+            "course_desc": "MFA Scenic Studio is a seminar course based on design, emphasizing presentation and justification of executed renderings or models for selected plays. Emphasis is on styles of staging, settings, lighting and properties, and their relationship to the complete production. May be repeated with different emphasis for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5358",
+            "course_name": "Screenwriting",
+            "course_desc": "This course offers a comprehensive study of the art and craft of writing screenplays. During a semester of intensive writing, readings, script analyses, and critiques, writers complete assignments in storytelling, character, structure, and script development. Each writer completes a full-length screenplay as the capstone project for the semester.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5359",
+            "course_name": "Advanced Screenwriting",
+            "course_desc": "This course focuses on the development and revision of full-length screenplays.  May be repeated for credit with different emphasis.  Prerequisite: TH 5358 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5360",
+            "course_name": "Problems in Theatre",
+            "course_desc": "Designed to give supervised experience to qualified advanced students in theatre history, playwriting, directing, acting, technical, or other theatre problems.\nResearch problems or actual production problems may be chosen. May be repeated with different emphasis for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5361",
+            "course_name": "Oregon Shakespeare Festival Intensive",
+            "course_desc": "This course examines theatre production with a specific focus on directors and directing at this country's largest Shakespeare theatre, the Oregon Shakespeare Festival.  Students will study issues of translating the current seasons' nine plays from script to stage, as well as analyzing the perspectives and choices of each director's production.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5362",
+            "course_name": "Vectorworks II",
+            "course_desc": "This course is an advanced study of computer techniques and procedures using Vectorworks in the preparation of technical drawings and digital previsualization for theatrical scenic and lighting design Prerequisite: TH 5356 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5363",
+            "course_name": "Directing for Film",
+            "course_desc": "An in-depth examination of directing theories and procedures for film with practical filming and editing exercises. May be repeated with different emphasis for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5364",
+            "course_name": "MFA Directing Seminar I",
+            "course_desc": "In this course students develop their skills in analysis, research, staging, and production.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5365",
+            "course_name": "Backgrounds of Modern Drama",
+            "course_desc": "An analysis of those developments in dramatic literature that formed the basis of modern drama. Primary emphasis will be on nineteenth-and twentieth-century European and American drama.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5367",
+            "course_name": "Studies in Dramatic Theory and Criticism",
+            "course_desc": "The study of dramatic theory and criticism from Aristotle to the present.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5369",
+            "course_name": "Contemporary World Theatre and Drama",
+            "course_desc": "Studies of current trends in world theatre and drama.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5371",
+            "course_name": "Classical and Renaissance Drama",
+            "course_desc": "Seminar in Greek, French Neoclassical, and English Renaissance theatre, with intensive examination of selected works by Sophocles, Euripides, Shakespeare, and Marlowe. Primary focus will be on analysis of the plays as performance texts, and on the historical cultural environments in which the plays were created and first performed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5372",
+            "course_name": "Theory and Practice of Dramaturgy",
+            "course_desc": "Study of the practical application of historical research and textual analysis in the production of period plays and new works. Emphasis upon the dramaturg as an instrument of collaboration between members of the artistic team and as a facilitator of audience outreach.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5373",
+            "course_name": "Advanced Film Directing",
+            "course_desc": "An in-depth examination of narrative filmmaking that includes screenplay analysis, storyboarding, scheduling the shoot, directorial techniques, staging actors, camera placement, filming on location, and editing. Prerequisite: TH 5363 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5375",
+            "course_name": "Advanced Playwriting",
+            "course_desc": "This course focuses on an in-depth study of the techniques of playwriting and the variety of styles that a playwright might employ. The course culminates with the writing of a full-length play. Prerequisite: TH 5354 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5378",
+            "course_name": "Play Development Lab",
+            "course_desc": "This course provides a laboratory workshop development process for new plays.  It provides a structured environment for rigorously revising student-written works. Prerequisite: TH 5375 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5379",
+            "course_name": "Digital Rendering for Theatrical Design",
+            "course_desc": "This course is a study of computer techniques and procedures used in graphic representation for theatrical design.  Students will work primarily with Photoshop, with references to other programs such as Illustrator, Vectorworks, Sketchup, and Painter as necessary. Students will explore and practice techniques to create scenic renderings, costume renderings, lighting sketches, and paper props as well as techniques for editing production photos, creating collages, and producing publicity materials.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5380",
+            "course_name": "Advanced Scenic Painting",
+            "course_desc": "Students develop scenic art skills, with an increased emphasis on realized practical production work, and a focus on the planning, sampling, and management of theatrical production paint processes.  Prerequisite: TH 5355 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5381",
+            "course_name": "Automated Lighting",
+            "course_desc": "Automated Lighting will explore and practice methods and approaches for basic uses of multi-attribute lighting technology. We will investigate a variety of moving light and LED technology and control as well as methods of properly documenting and cueing with these complex tools.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5382",
+            "course_name": "MFA Studio V",
+            "course_desc": "This course is designed to expand and refine advanced technical competencies, creativity, and methods of working in the student's area of emphasis.  This course now has variable content based on the composition of students.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5383",
+            "course_name": "MFA Studio VI",
+            "course_desc": "This course is designed to expand and refine advanced technical competencies, creativity, and methods of working in the student's area of emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5384",
+            "course_name": "Non-Theatrical Design",
+            "course_desc": "This course explores career opportunities in non-theatrical design fields including theatre design, television, corporate events, architectural lighting, and visual management for retail.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5385",
+            "course_name": "Lighting Console Programming",
+            "course_desc": "This course covers the skills and techniques used in modern console programming for a variety of lighting systems used in the entertainment industry. The course includes programming specifics for consoles from a variety of manufacturers.  Special focus is placed on execution and presentation of console programming research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5386",
+            "course_name": "Lighting and Projection Design for Dance",
+            "course_desc": "This course covers the skills and techniques used in lighting and projection design for dance. The students explore innovative choreographers and designers who use both established and emerging technologies in lighting and projection design.  Special focus is placed on research presentations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5387",
+            "course_name": "MFA Directing Seminar II",
+            "course_desc": "In this course students experience choosing, preparing, and directing a theatrical production from analysis to performance.  Attention is given to theatre organization and management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5398",
+            "course_name": "Final Creative Project",
+            "course_desc": "Students write, direct, or design a major university theatre production, demonstrating mastery in their area of emphasis.  A written report of the project must be approved by a faculty committee.  This requirement for the MFA in Theatre is usually taken in the final year of study.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in Theatre 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "TH 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "TH 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "TH 5640",
+            "course_name": "Professional Internship",
+            "course_desc": "This course provides professional hands-on experience in the theatre or film industry; it is intended for students who do a full-time internship over the summer or during a regular full semester.  Prerequisite: Instructor approval.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "TH 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

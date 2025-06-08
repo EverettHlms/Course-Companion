@@ -1,0 +1,78 @@
+{
+    "name": "Arabic",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/arab/",
+    "courses": [
+        {
+            "course_code": "ARAB 1410",
+            "course_name": "Beginning Arabic I",
+            "course_desc": "Introduction to listening, speaking, reading, and writing skills within an Arabic cultural framework. Students who take ARAB 1410 toward degree requirements must also complete ARAB 1420. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARAB 1420",
+            "course_name": "Beginning Arabic II",
+            "course_desc": "Continued practice in listening, speaking, reading, and writing skills within an Arabic cultural framework. Students who take ARAB 1410 toward degree requirements must also complete ARAB 1420. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARAB 2310",
+            "course_name": "Intermediate Arabic I",
+            "course_desc": "Continued development and review of all language skills within an Arabic cultural framework. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARAB 2320",
+            "course_name": "Intermediate Arabic II",
+            "course_desc": "More advanced practice in all language skills with greater emphasis on reading within an Arabic cultural framework. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARAB 3301",
+            "course_name": "Levantine Arabic",
+            "course_desc": "An introduction to Arab dialects with a focus on Levantine Arabic ( Jordan, Syria, Lebanon, and Palestinian territories). The course will emphasize oral communication and using the dialect correctly in its cultural context. It will also compare Levantine Arabic to Modern Standard Arabic. Repeatable once with different content. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARAB 3302",
+            "course_name": "Media Arabic",
+            "course_desc": "Introduction to Arab media designed to advance students' proficiency in Arabic. It will present cultural characteristics of Arab media and describe how those characteristics differ from those of US media. The course will increase students vocabulary knowledge and enable them to understand various Arab media sources. Repeatable once with different content. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARAB 3303",
+            "course_name": "Business Arabic",
+            "course_desc": "This course focuses on the use of written Arabic in business contexts, as well as economic, demographic, and cultural factors that influence commercial interactions in the Arabic-speaking world.(MULT) Prerequisite: ARAB 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARAB 3304",
+            "course_name": "Arab Civilization and Culture",
+            "course_desc": "Students study the civilizations and cultures of the Arab world. The course provides background for understanding Arab societies.(MULT) Prerequisite: ARAB 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARAB 4390",
+            "course_name": "Studies in Arabic Language and Culture",
+            "course_desc": "In this course students will conduct an independent study project on Arabic language or culture.(MULT)  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

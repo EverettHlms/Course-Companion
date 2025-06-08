@@ -1,0 +1,158 @@
+{
+    "name": "Art Theory and Practice",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/artt/",
+    "courses": [
+        {
+            "course_code": "ARTT 2371",
+            "course_name": "Fundamentals of Art Theory and Practice",
+            "course_desc": "A survey and analysis of the theories and practices of art learning. Topics include: philosophy; history and theory of art learning; technology; artistic development; learning theories; assessment tools; program development; presentations and current realities; trends and issues. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 2372",
+            "course_name": "Learning and Digital Media",
+            "course_desc": "In this course students examine theories and practices of using electronic media for the creation of art as well as for enhancement of the art learning process.  Prerequisite: ART 1301 and ARTT 2371 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 3370",
+            "course_name": "Art Theory and Practice",
+            "course_desc": " Introduces the theories and practices of childrens art learning for the non-art major.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 3372",
+            "course_name": "Art Theory and Practice for Children",
+            "course_desc": "This course is a survey and analysis of the theories and practices of teaching art to children. Topics include artistic development, art programming, content, philosophies, methodologies, objectives and assessment. It requires ten clock hours of field experience in an elementary-art-learning setting. Prerequisites: ART 1303 and ARTT 2371 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 3373",
+            "course_name": "Art Theory and Practice for Adolescents",
+            "course_desc": "This course covers the theories and practices of adolescent art learning. Topics include: learning environments, artistic development, presentation methodologies, objectives and assessment, and other current topics. It requires ten clock hours of field experience in a secondary school art setting. Prerequisite: ARTT 2371 and ARTT 2372 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 4000",
+            "course_name": "Senior Art Education Exhibition",
+            "course_desc": "A senior level course in which all graduating Art Education Seniors must participate during their last academic year.  Work will be examined and produced leading to a showing in one of the Senior Student Exhibitions.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ARTT 4375",
+            "course_name": "Pedagogy of Art Criticism, History & Aesthetics",
+            "course_desc": "In this course students will learn about the philosophies and practices of art criticism, art history, and aesthetics, as well as contemporary methodologies for analyzing and engaging with art. Prerequisites: ARTT 3372 or ARTT 3373 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 4376",
+            "course_name": "Special Problems in Art Theory and Practice",
+            "course_desc": " Individualized study focusing on personal skill and knowledge development related to art learning experiences. Research will include a review of literature, a design for practical experience, and documentation of results and conclusions. May be repeated with different emphasis for additional credit. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 4377",
+            "course_name": "Professional Practices for Art Educators",
+            "course_desc": "This course prepares art education majors to pursue a career in EC-12 art education. The focus supports the development of secondary curricula, an art teaching portfolio, and advanced analysis of the roles of culture and technology in art teaching and learning.  Prerequisite: ARTT 4378 and [ARTT 3372 or ARTT 3373] both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 4378",
+            "course_name": "Emergent Issues & Advanced Topics in Art Education",
+            "course_desc": "This course introduces students to emerging ideas and advanced topics in the field of art education. Students address these issues through studio art practices and by developing relevant components for their teaching portfolio.  Prerequisite: ARTT 3373 or ARTT 3372 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 4379",
+            "course_name": "Art Education in the Community",
+            "course_desc": "In this course, students learn about community-based research, art, and methodologies. They participate in collaborations and field experiences/internships with community partners in art/cultural centers, museums, schools (PK-12), businesses, and diverse learning communities and organizations.   Prerequisite: ARTT 3373 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 4380A",
+            "course_name": "Technology Applications in Art Education",
+            "course_desc": "In this course students will explore various ideas, techniques, and processes of creating computer art and digital media for use in teaching art in EC-12 grade levels.   Prerequisite: [ARTT 2371] and [ARTT 2372] both with grades of  a \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 4380E",
+            "course_name": "Storying Identity in Art & Culture",
+            "course_desc": "This course explores identity as a construct made of individual and cultural components. Coursework is informed by auto-ethnographic traditions that consider artmaking (e.g., stories, poems, visual art) as an indicator of learning and development. Activities include daily journaling, peer critique, and making creative multimedia life-stories.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 4390",
+            "course_name": "Art Education Thesis I",
+            "course_desc": "In this course students engage in exploratory and intermediate art education research and art making to outline the scope of their thesis exhibition. Students also develop a preliminary artist statement exploring art and art education objectives that lead to a thesis proposal and related body of work in a future semester. Prerequisite: ARTT 2372 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 4391",
+            "course_name": "Art Education Thesis II",
+            "course_desc": "In this course students engage in advanced-level research in art education and art to focus and refine their thesis project. Students also participate in art education professional development, conceptualize and write an artist statement articulating the context of their artistic inquiry, and produce a cohesive body of work that culminates in their BFA Thesis Exhibition. Prerequisite: [ARTT 4378 or ARTT 4379] and ARTT 4390 all with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 5371",
+            "course_name": "Research Foundations, Art Education Theories and Practices",
+            "course_desc": "In this teacher preparation course, students learn the fundamentals of art education theories and teaching practices. Primary areas of emphasis include: the history of art education, curriculum design, instructional practices focused on equity, diversity, and inclusion, the exploration of art materials and techniques, and art-making.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 5372",
+            "course_name": "Research in Learning and Digital Media",
+            "course_desc": "This course examines theories and practices of using computational and electronic tools and materials for the creation of art, as well as for enhancement of the art learning process. Students design and conduct an individualized research project investigating the personal and institutional effects of computation in K-12 art and other schooling practices.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 5376",
+            "course_name": "Research in Art Theory and Practice for Children",
+            "course_desc": "Individualized study focusing on art skill and knowledge development related to childrens art learning experiences. May be repeated with different emphasis for additional credit. Teaching experience or admission to graduate degree program and permission of instructor required.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTT 5377",
+            "course_name": "Research in Art Theory and Practice for Adolescents and Adults",
+            "course_desc": "Individualized study focusing on art skill and knowledge development related to adolescent and/or adult art experiences. May be repeated with different emphasis for additional credit. Teaching experience or admission to graduate degree and permission of instructor required.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

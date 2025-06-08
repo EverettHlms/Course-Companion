@@ -1,0 +1,262 @@
+{
+    "name": "Finance",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/fin/",
+    "courses": [
+        {
+            "course_code": "FIN 3301",
+            "course_name": "Real Estate",
+            "course_desc": "A study of basic real estate principles. Topics include legal instruments and processes, property management, valuations, planning, development and sales, financing, and private and public interests. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 3312",
+            "course_name": "Business Finance",
+            "course_desc": "This course is an introduction to the finance function and to problems confronting financial managers. Topics covered include ratio analysis, time value of money, asset valuation, and risk and return. Prerequisite: ACC 2361 and CIS 1323 and [ECO 2314 or ECO 2315] and [MATH 1329 or MATH 2331 or MATH 2471] all with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 3313",
+            "course_name": "Financial Management",
+            "course_desc": "This course is an advanced study of intermediate and long-term financing alternatives, the incorporation of risk analyses in capital budgeting and the determination of capital costs, capital structure, and dividend policies. Prerequisite: FIN 3312 with a grade of \"B\" or better and ACC 2362 and ECO 2314 and ECO 2315 and [QMST 2333 or MATH 2328] with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 3316",
+            "course_name": "Financial Information Technologies",
+            "course_desc": "This course introduces students to the technology supporting financial modeling and decision making. Students in this course use computers to apply concepts and theories learned in the introductory Finance course. Students also rely on quantitative analysis and use the internet. Prerequisite: FIN 3312 with a grade of \"B\" or better and ACC 2362 and ECO 2314 and ECO 2315 and [QMST 2333 or MATH 2328] all with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 3318",
+            "course_name": "Investment Analysis",
+            "course_desc": "This course investigates the principles of investing personal and institutional funds. Students in this course also examine information sources, exchanges, and regulations.  Prerequisite: FIN 3312 with a grade of B or better and ACC 2362 and ECO 2314 and ECO 2315 and [QMST 2333 or MATH 2328] all with grades of \"D\" or better and and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 3325",
+            "course_name": "Personal Financial Management",
+            "course_desc": "A study of modern money management, including budgeting, banking, real estate, insurance, consumer credit, and retirement and estate planning. Not for Business majors.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 3326",
+            "course_name": "Financial Planning Insurance",
+            "course_desc": "An introduction to the steps in the financial planning process. Topics include assessing financial objectives, financial planning, and personal financial management. Insurance planning is emphasized. Prerequisites: FIN 3312 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 3340",
+            "course_name": "Fundamentals of Business Finance",
+            "course_desc": "This course is an introduction to the financial function within a business and the various tools used in financial decision-making.  Topics covered will include financial statement analysis, risk and return, time value of money, and asset valuation. Prerequisite: (ACC 2301 or [ACC 2361 and ACC 2362]) and (ECO 2301 or [ECO 2314 and ECO 2315]) with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4315",
+            "course_name": "Financial Modeling and Equity Analysis",
+            "course_desc": "This course reviews and extends students ability to perform financial statement analysis and forecasting. The focus of the course will be on producing objective, high-quality company valuation research. Students will choose and defend inputs for quantitative analysis; they will also discover and illustrate the importance of qualitative factors in firm value and performance. Prerequisites: FIN 3313 and FIN 3316 both with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4317",
+            "course_name": "Case Problems in Finance",
+            "course_desc": "An application of investment and financial management techniques and concepts to finance cases. Issues and alternatives are identified and evaluated. (WI) Prerequisite: FIN 3313 and FIN 3316 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4318",
+            "course_name": "Portfolio Management & Derivatives",
+            "course_desc": "An advanced investments course which includes the following topics: portfolio analysis and management, derivatives theory and pricing, and applications of derivatives in portfolio management. Prerequisite: FIN 3313 and FIN 3316 and FIN 3318 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4319",
+            "course_name": "Financial Markets and Institutions",
+            "course_desc": "A study of financial assets, money and capital markets, institutional intermediaries, and the impact of interest rates. Affords a thorough examination of the financial system facilitating economic growth and development. Prerequisite: ECO 3311 and FIN 3313 and FIN 3316 all with grades of \"D\" or better. Corequisite: FIN 3318 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4320",
+            "course_name": "Treasury and Working Capital Management",
+            "course_desc": "A study of working capital and short-term financial management. Major topics include cash collections, cash concentration, disbursement management, forecasting cash flows, management of receivables and inventory, banking relationships, and short-term investment and borrow strategies. Prerequisite: FIN 3313 and FIN 3316 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4321",
+            "course_name": "Real Estate Finance",
+            "course_desc": "An analysis of problems involved in selecting and financing real estate investment opportunities. Prerequisite: FIN 3312 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4322",
+            "course_name": "Student Managed Investment Fund Practicum",
+            "course_desc": "The course examines the issues involved in the management and investment strategies of an endowment. It focuses on investment analysis, asset allocation, portfolio monitoring, evaluation, and rebalancing. May be repeated one time for credit with different emphasis. Prerequisites: FIN 3318 with a grade of \"D\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4331",
+            "course_name": "International Finance",
+            "course_desc": "A study of international finance principles and their application in a multinational financial management setting. (MULT) Prerequisite: ECO 3311 and FIN 3313 and FIN 3316 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4340",
+            "course_name": "Commercial Bank Management",
+            "course_desc": "Examines a variety of aspects of managing a commercial bank. Provides students with a conceptual framework for determining the effects of various decisions and environmental factors on a commercial banks operations. Issues addressed include bank regulations, asset and liability management, analyzing bank performance, and capital management. Prerequisite: FIN 3313 and FIN 3316 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4380A",
+            "course_name": "Advance Capital Budgeting",
+            "course_desc": "A study of capital budgeting techniques, analyses (including risk), and strategies, and their implementation in capital assets investment. Prerequisite: FIN 3313 and FIN 3316 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4380J",
+            "course_name": "Introduction to Finance Analytics",
+            "course_desc": "This course examines how data can be turned into insights for advance Finance concepts (trading strategies, portfolio optimization, model evaluation, investment planning, etc.). This course will show how to use open-source software (R, Python) in a Finance context. This is a hands-on practical programming course with step-by-step source code, in-class exercises and full solutions provided. No previous knowledge of programming is required. However, to be successful in this course you need to want to learn to program. Upon completion, students will be aware of financial models related to investments and corporate finance and will be able to write simple code. Prerequisite: FIN 3313 and FIN 3318 both with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4380K",
+            "course_name": "Financial Engineering",
+            "course_desc": "This course starts with an introduction to the financial markets, basics of trading and market microstructure. It covers options, forward and futures contracts. By the end of this course students will have a good knowledge of how these contracts work, how they are used, and how they are priced. Students will develop the skills for using derivatives in hedging strategies and other techniques for risk management.  Prerequisite: FIN 3313 and FIN 3316 and  FIN 3318 all with grades of \"C\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4380L",
+            "course_name": "Fixed Income Analysis",
+            "course_desc": "This course will cover fixed income products, analytical techniques for valuing bonds, and the quantification of bond exposure to various types of risk. The class will discuss the basics of pricing, the risk/return characteristics of fixed income and embedded option analysis, bond duration measures, convexity, credit and rating factors, and basic portfolio applications. Other topics will include: the structure of the U.S. bond market, securitization, yield curve, and forward rates. Prerequisite: FIN 3318 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4380M",
+            "course_name": "Commercial Credit Analysis",
+            "course_desc": "This course will examine conceptual issues and various practical applications relevant to the commercial lending activities of banks using finance principles. The course will closely follow the Credit Essentials Course from the Risk Management Association, with the goal of preparing students for the Credit Essentials Certificate Examination through RMA at the end of the semester. Topics will include identifying customer needs, analyzing financial statements, loan structuring and documentation, and problem loan identification. Prerequisite: FIN 3318 with a grade of \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4380N",
+            "course_name": "Selling Financial Services",
+            "course_desc": "This course examines principles and various practical applications involved in selling financial products and services with special focus on the practical implementation of selling these products in the banking industry. Cases, exercises, questions and assignments will be used to supplement textbook materials. Prerequisite: FIN 3313 and MKT 3343 both with grades of \"D\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4380P",
+            "course_name": "Foundations of Financial Technology",
+            "course_desc": "This course is designed for students interested in exploring how emerging technologies are transforming the financial services industry, leading to significant changes in business models, products, applications, and customer interfaces. The class will delve into major technological trends shaping the current financial sector, including AI, deep learning, blockchain, cybersecurity, and open APIs. Additionally, we will examine the key elements of Fintech ecosystem, including regulatory environment, entrepreneurships, and business models. The course will analyze the competitive and strategic environment involving FinTech startups, established financial institutions, and emerging challenges. Prerequisite: FIN 3313 with a grade of D or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 4390",
+            "course_name": "Internship in Finance",
+            "course_desc": "This course provides an Integration of professional and academic experience through an internship with an external employer. Credit awarded as pass/fail. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "FIN 4395",
+            "course_name": "Independent Study in Finance",
+            "course_desc": "An in-depth study of a single topic or related problem solved through finance research. May be repeated once for credit with different emphasis. (WI) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 5322",
+            "course_name": "Investment Analysis",
+            "course_desc": "This course cover the application of finance theory to investment analysis. Topics include modern investment theories, asset pricing models and derivative pricing models, with a focus on application of derivatives to manage risk exposure. Prerequisite: B A 5352 with a grade of \"C\" or better or FIN 3312 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 5332",
+            "course_name": "Portfolio Theory and Capital Markets",
+            "course_desc": "This course is designed to provide students with an overview of the strategies for creating and managing portfolios. At the end of this course, students should understand the tools for investment management. Topics covered include portfolio construction and analysis, risk analysis, asset class management, derivatives, and portfolio performance analysis. Prerequisite: FIN 5322 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 5338",
+            "course_name": "International Investments and Financial Management",
+            "course_desc": "Examination of economic incentives and rationale for international investment and financing. Topics include exchange rate risk exposure and management, global debt and equity investment and financing, foreign currency derivative markets, and general investment and financing strategy in global capital market. (MULT) Prerequisite: B A 5352 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 5347C",
+            "course_name": "Real Estate Investment",
+            "course_desc": "An application of capital budgeting to real estate investment decisions. Prerequisite: FIN 5387 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 5352",
+            "course_name": "Financial Management",
+            "course_desc": "This course introduces students to the major considerations in financial decision making.  These considerations are analyzed by exploring the role of financial managers in creating value and maximizing shareholder wealth within the constraints of legal and ethical behavior.  The development of critical thinking, quantitative applications, and analytical skills are major goals of this course because the topics require knowledge of specialized problem-solving techniques. Prerequisite: ACC 5361 with a grade of \"C\" or better. Corequisite: QMST 5334 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FIN 5387",
+            "course_name": "Managerial Finance",
+            "course_desc": "Concentrates on the finance function, analysis and budgeting of funds,management of current assets, short and intermediate-term financing requirements, long-term debt policy and capital structure, capital budgeting, and the concept of cost of capital. Risk and return trade-offs also are studied. Prerequisite: B A 5352 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

@@ -1,0 +1,574 @@
+{
+    "name": "Management",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/mgt/",
+    "courses": [
+        {
+            "course_code": "MGT 3301",
+            "course_name": "Introduction to Management",
+            "course_desc": "This course is an introductory course in management for non-business majors. The course is a fundamental study of management practices in modern organizations. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 3303",
+            "course_name": "Management of Organizations",
+            "course_desc": "A study of management functions in modern organizations, the internal and external environmental factors affecting organizational efficiency, and the application of quantitative and behavioral science to management study. Prerequisite: A minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 3353",
+            "course_name": "Business Communication",
+            "course_desc": "This course provides an introduction to the uses of communication in business and focuses on communication models, general semantics, effective writing style, selection and organization of content and medium(s), effective oral communication, employment communication, and causes of miscommunication. Students will not receive credit for both MGT 3353 and MGT 3453. (WI) Prerequisites: ENG 1310 and [ENG 1320 or ENG 1321] and [COMM 1310 or COMM 2338 or COMM 2315] all with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 3360",
+            "course_name": "Studies in Entrepreneurship",
+            "course_desc": "Students gain personal insights into entrepreneurship as entrepreneurs describe their contributions, reveal the sources of ideas, and discover ways of growth and success. Includes starting and managing businesses as well as ownership forms, sources of funds, location analysis, facility requirements, management, marketing, and feasibility plans.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 3361",
+            "course_name": "Small Business Operations and Financials",
+            "course_desc": "This course is a study of funding and financial concepts necessary to effectively operate a successful small business. Students will use software programs to maintain working capital and a complete set of books related to running businesses. Prerequisite: ACC 2301 or ACC 2361 either with a grade of \"D\" or better. Corequisite: MGT 3360 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 3362",
+            "course_name": "Family Business and Franchising",
+            "course_desc": "This course addresses the important and unique management aspects of family businesses and franchises. Family business topics include family culture, communication, conflict resolution, succession, and estate planning. Franchising topics include franchise selection, contracts, legal issues, and current trends in franchising. Issues affecting both the franchisee and the franchisor are explored. Prerequisite: MGT 3361 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 3375",
+            "course_name": "International Business",
+            "course_desc": "International business perspectives underlying different business functions. Concepts, processes, and philosophical bases for international operations in selected global markets are emphasized with culture and global dynamic environment as the basis. A project is required. (MULT) (WI). Prerequisite: MGT 3303 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 3453",
+            "course_name": "Business Communication and Professional Development",
+            "course_desc": "This course is designed to enhance critical professional skills including interviewing, networking, teamwork, emotional and cultural intelligence, public speaking, and applicable ethical considerations.  It introduces theories of business communication including communication models, general semantics, and causes of miscommunication. Students will not receive credit for both MGT 3453 and MGT 3353. (WI)  Prerequisites: ENG 1310 and [ENG 1320 or ENG 1321] and [COMM 1310 or COMM 2338 or COMM 2315] all with grades of \"D\" or better and a 2.0 overall GPA.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4330",
+            "course_name": "Operations Management",
+            "course_desc": "A study of the various aspects of managing production and operations management functions in manufacturing and service organizations. Methods necessary for analyzing and solving related problems to design, operations, and improvements of the systems that create products and/or services in a global supply chain environment are investigated and emphasized. Prerequisite: MGT 3303 and [IE 3330 or QMST 2333 or TECH 3364 or MATH 2328] both with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4335",
+            "course_name": "Strategic Management and Business Policy",
+            "course_desc": "An integrative course in strategic management and business policy that utilizes the case method of instruction. A capstone course involving the analysis of business through the application of principles of accounting, communications, economics, finance, management, marketing, quantitative methods, and related disciplines. (Capstone Course) (WI) Prerequisite: MGT 3303 and MKT 3343 and FIN 3312 and [QMST 2333 or MATH 2328] all with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4340",
+            "course_name": "Quality Management and Beyond",
+            "course_desc": "A conceptual and practical overview of the role of quality as a system for establishing a world class competitive position. It explores philosophies and ideas of the leading thinkers in quality management, impact of process improvement methods, quality requirements definition and organizational change as it applies to total quality initiatives. (WI) Prerequisite: [QMST 2333 or MATH 2328] with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4350",
+            "course_name": "Business Plan Development",
+            "course_desc": "Students work in teams to select, create, and write solid business plans for proposed or real businesses. Prerequisite: MGT 3361 with a grade of \"D\" or better. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4351",
+            "course_name": "Applied Entrepreneurship",
+            "course_desc": "Students design, staff, operate, and manage a business or service. Business teams develop financial and operational control systems and procedures for organizational, group, and individual performance evaluations, implement service and business projects, and provide a final public report. Prerequisite: MGT 4350 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4353",
+            "course_name": "Integrative Field Project",
+            "course_desc": "Students work directly with entrepreneurs to research projects and recommend solutions. May involve providing business development assistance to entrepreneurs. Students may work individually or in teams. Project results are summarized in a comprehensive written report and a formal oral presentation. Prerequisite: MGT 3360 with a grade of \"D\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4370",
+            "course_name": "Business Ethics",
+            "course_desc": "This course examines a variety of ethical issues in business from the point of view of practicing manager and corporate leaders. This course is designed to enhance moral awareness and facilitate individual development with respect to making ethical decisions that contribute to effective corporate management and leadership. Prerequisite: MGT 3303 and PHIL 1320 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4371",
+            "course_name": "Business, Government, and Society",
+            "course_desc": "An integration of a number of disciplines and value systems which affect and determine the proper role of business in satisfying the needs of customers, creditors, community, government, stockholders, managers, employees, suppliers, and society in general. (WI) Prerequisite: MGT 3303 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4372",
+            "course_name": "Effective Leadership",
+            "course_desc": "This course facilitates the development of leadership capabilities and addresses the complexities, paradoxes, and decision-making challenges of leadership. Through self-assessments, readings, lectures, and assignments students gain an appreciation of effective leadership approaches and are provided with opportunities to practice new leadership behaviors. Prerequisite: MGT 3303 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4373",
+            "course_name": "Human Resource Management",
+            "course_desc": "A study of the principles of human resource management in public and private institutions. Stresses the human resource aspects of recruitment, selection and placement, performance appraisal and compensation. Prerequisite: MGT 3303 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4375",
+            "course_name": "Organizational Behavior and Human Relations",
+            "course_desc": "A study of the role of the individual in formal organizations, group dynamics, motivation theory, communication and leadership. Integrates behavioral science concepts. Prerequisite: MGT 3303 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4377",
+            "course_name": "Labor Relations and Collective Bargaining",
+            "course_desc": "A study of unions and their impact on private and public employment. Examines union growth and governance, collective bargaining, contract negotiation and administration, and arbitration and mediation. Prerequisite: MGT 4373 with a grade of \"D\" or better. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4378",
+            "course_name": "Training and Development",
+            "course_desc": "This course is designed to develop theoretical and applied perspective on needs assessment, design, development, delivery and evaluation of training and development in organizational contexts. Prerequisites: MGT 4373 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4379",
+            "course_name": "Organizational Staffing",
+            "course_desc": "A study of current theory and practice in the process of selecting the right employees for positions within the organization, including HR planning, EEO, job analysis, recruitment, and selection procedures. Prerequisite: MGT 4373 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4380",
+            "course_name": "Compensation Management",
+            "course_desc": "A study of the compensation administration in public and private organizations, with stress on the determinants of general wage levels; job analysis and evaluation; incentive, merit, seniority, and executive compensation; fringe benefits, and wage and salary control. Prerequisite: MGT 4373 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4382",
+            "course_name": "Leadership Development:  Business as Unusual",
+            "course_desc": "This course is a directed study and practical application of the principles of Business as Unusual.  Students will develop leadership skills through an intensive, highly interactive class format.  Students will be paired with upper-level business professionals for one-on-one coaching and mentoring. Prerequisite: MGT 3303 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4385",
+            "course_name": "Management Thought: Past, Present, and Future",
+            "course_desc": "This course examines how thinking about management has developed over time. It discusses changing social, political, and technological forces challenging managers to think in new ways. Significant management ideas will be examined in their contexts for the purpose of better understanding how to successfully manage for the future. Prerequisite: MGT 3303 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4386",
+            "course_name": "Professional Skills for the Global Workplace",
+            "course_desc": "This course provides a survey of relevant skills necessary for workplace communication in an international work setting. Through discussions, site visits, and application activities, students will leave the course with an understanding and ability to apply these skills in their careers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4390A",
+            "course_name": "Advanced Business Communication",
+            "course_desc": "An advanced study of the uses of business communication in modern organizations. Students gain experience in making decisions involving selection and organization of communication content, and in choosing an appropriate medium for presentation of information. Emphasis is placed on gaining proficiency in various business communication processes. (WI) Prerequisite: MGT 3303 and MGT 3353 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4390G",
+            "course_name": "Cross-Cultural Human Relations",
+            "course_desc": "This course is designed to develop theoretical and applied perspectives on cross-cultural human relations within a variety of international business contexts. (MULT) Prerequisite: MGT 3303 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4390J",
+            "course_name": "Organizational Change & Decision-Making",
+            "course_desc": "This course presents an overview of the change process and stresses the key decision-making issues involved in reengineering and renewing organizations. Problems dealing with resistance and conflict during major change will be explored. Key decision processes for individuals, teams, and organizations are provided to make change possible and sustainable. Prerequisite: MGT 3303 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4390K",
+            "course_name": "Business Creativity and Innovation",
+            "course_desc": "Focuses on the importance of creativity and innovation to business organizations. Topics include the generation of creative ideas, transformation of ideas into commercially viable products/services, legal protection of new products/services, and environmental factors contributing to innovation success. Course objectives are met primarily through classroom discussion and exercises. Prerequisite: MGT 3303 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4390R",
+            "course_name": "Transformative Leadership for Nonprofits (NPs) and Non-Governmental Organizations (NGOs)",
+            "course_desc": "This course provides a practical and strategic understanding of the legal, management and marketing challenges facing nonprofit and non-governmental organizations and the transformative leadership required to guide them as they attempt to do something positive for people, society and/or the environment beyond or between the roles of government and business.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4390S",
+            "course_name": "Business Contracts/Negotiation",
+            "course_desc": "This course focuses on techniques for the development and strategic planning required for successfully negotiating business contracts, negotiation skills, and conflict resolution issues/techniques. Prerequisite: MGT 3303 with a grade of \"D\" or better. Corequisite: MGT 4373 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4390T",
+            "course_name": "Effective Teams and Groups",
+            "course_desc": "An examination of and the consequent development of those skills necessary to effectively manage and  increase the productivity of task-oriented groups and teams. Issues, problems, and concepts frequently encountered are addressed, as well as possible solutions Prerequisite: MGT 3303 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4390U",
+            "course_name": "Management for Sustainability",
+            "course_desc": "This course is designed to take a broad look at Sustainability from both Ecological and Managerial perspectives with a goal of developing an awareness and understanding of the major issues and shifts that todays organizations and societies are facing as they undertake their journey to become more sustainable. Prerequisite: MGT 3303 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 4392",
+            "course_name": "Human Resource Management Internship",
+            "course_desc": "This course provides an integration of professional and academic experience through an HR internship with an external employer. Credit awarded as pass/fail. Prerequisites: MGT 4373 with a grade of \"D\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MGT 4393",
+            "course_name": "Entrepreneurial Internship",
+            "course_desc": "This course provides an integration of professional and academic experience through an entrepreneurial internship with an external employer. Credit awarded as pass/fail. Prerequisite: MGT 3360 with a grade of \"D\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MGT 4395",
+            "course_name": "Management Internship",
+            "course_desc": "This course provides an integration of professional and academic experience through internship with an external employer. Credit awarded as pass/fail. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n15 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MGT 4399",
+            "course_name": "Independent Study in Management",
+            "course_desc": "Directed research and extensive written assignment(s) on a selected topic related to students area of interest. Work may consist of literature reviews, integration of literature, or other appropriate independent research, and/or practical application of research. May be repeated once with different emphasis for credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MGT 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MGT 5301",
+            "course_name": "Graduate Assistant Development",
+            "course_desc": "Completion of this course is required as a condition of employment for graduate assistants. The course is seminar based and covers topics related to employment responsibilities. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MGT 5310",
+            "course_name": "Organizational Change Management",
+            "course_desc": "Presents an overview of the process of change in an organization and stresses the key issues involved in reengineering and renewing organizations. Problems dealing with stress and conflict during major change will be explored along with practical ideas on building effective teams to make change possible and sustainable.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5311",
+            "course_name": "Process Improvement Management in Organizations",
+            "course_desc": "Learn existing and latest developments in process improvement techniques for continuous improvement and the role of quality as a system for establishing an organizations competitive advantage. Process mapping is emphasized and assessment of effectiveness in the interactions of the managerial and technical systems of organizations is also studied.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5312",
+            "course_name": "Seminar in Management",
+            "course_desc": "Development of philosophy, strategy, and tactics in managing an enterprise. Administrative processes common to all enterprises, such as entrepreneurship, business and society, leadership and group behavior in organizations, business ethics, and international management. (Course may be repeated for credit with different course focus.).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5313",
+            "course_name": "Strategic Management",
+            "course_desc": "An integrative approach to policy formulation and administration (decision making) to achieve organization objectives. Should be taken the last semester of students MBA program. Prerequisite: ACC 5361 and FIN 5387 and MKT 5321 and QMST 5334 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5314",
+            "course_name": "Organizational Behavior and Theory",
+            "course_desc": "Organizational behavior and structure as influenced by environmental variables and system relationships. Prerequisite: B A 5351 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5315",
+            "course_name": "New Venture Management",
+            "course_desc": "This course provides an overview of the entrepreneurial process from the initial idea through start-up, growth, and harvest. Students learn how to write a business plan, manage all the elements of an entrepreneurial business, and develop a better understanding of the requirements of the entrepreneurial life path.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5318",
+            "course_name": "Cross-Cultural Management",
+            "course_desc": "The global environment requires sensitivity to and the adaptation of leadership and management skills and practices, and the culture-bound differences in workplace behavior and attitudes. Explores how differences in cultural core values shape behavior and attitudes of workers, managerial colleagues, and negotiating partners. (MULT) Prerequisites: B A 5351 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5321",
+            "course_name": "Supply Chain Management",
+            "course_desc": "A variety of tools and frameworks provide students and understanding of the basis behind supply chain decision making. Topics include supply management concepts, demand-supply management, pull/push system, capacity and resource allocation, performance measurement, relationship assessment, and outsourcing in an integrated supply chain. Require graduate standing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5325",
+            "course_name": "Managing Business Creativity",
+            "course_desc": "This course focuses on the means by which businesses and individuals foster and maintain their creative and innovative skills. Key topics include: idea generation and refinement, idea screening, prototype development, and feasibility analysis. Objectives are met through classroom exercises, case analysis, guest speakers, and individual and team projects.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5330",
+            "course_name": "Seminar in Human Resource Management",
+            "course_desc": "A study of current developments and practices in human resource management, including employment laws; planning, recruitment and selection; training and development programs; wage and benefits administration; performance management, human relations and productivity; labor relations; safety and health; an  current contributions to human resource management theory.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5333",
+            "course_name": "Problems in Business Administration",
+            "course_desc": "The student is here given the opportunity to work in the field of his special interest, particularly in the subjects of accounting, business law, marketing, statistics, finance, and insurance. The course will be conducted by conferences between the student and instructors concerned. Problems will be assigned as nearly as possible for the needs of the individual student.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5335",
+            "course_name": "New Venture Launch",
+            "course_desc": "The purpose of this class is to ensure students gain a full understanding of what it takes to start and grow a business. Students learn the process of creating a new venture from the inside by planning, organizing and launching an actual business. Prerequisite: MGT 5315 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5336",
+            "course_name": "Compensation and Benefits",
+            "course_desc": "This course addresses the rewards systems in organizations. Strategic and technical considerations in designing, administering and managing compensation and benefits plans in organizations, including job analysis and evaluation, wage levels and structures, legal issues, individual and group incentives, and benefits are considered.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5337",
+            "course_name": "Organizational Staffing",
+            "course_desc": "A study of the methods involved in recruitment and selection of employees with an emplasis on measurement, job analysis, performance appraisal, legal issues, and the role of human resource planning and strategy.  This course relies on statistics to teach students to make reliable and valid employment decisions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5338",
+            "course_name": "Human Resource Development",
+            "course_desc": "A study of theoretical and applied perspectives on needs assessment, design, development delivery and evaluation of training and development as well as organizational change and development.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5339",
+            "course_name": "International Human Resource Management",
+            "course_desc": "A study of challenges that decision makers consider when managing their human resources across the globe.  Drawing on theories and models from cross-cultural and international management areas, this course covers such topics as globalization, culture, emerging international assignments, and expatriate recruitment, selection, training, repatriation, and career management. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5380A",
+            "course_name": "Business Ethics Leadership",
+            "course_desc": "This course examines a variety of ethical issues in business from multiple stakeholder perspectives (top management, employees, community members, etc.).  The course is designed to enhance moral awareness and facilitate individual development with respect to making ethical decisions that contribute to effective corporate management and leadership.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5380C",
+            "course_name": "Group Dynamics in Organizations",
+            "course_desc": "This course explores the theoretical framework of group interactions as well as the practical workplace challenges associated with organizing, participating on, and managing teams and groups.  It addresses the development and use of teams to improve business organizations and is recommended for graduate students preparing for business careers. Prerequisite: B A 5351 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5380D",
+            "course_name": "Labor Relations and Negotiation",
+            "course_desc": "This graduate level course is a study of labor organizations and their impact as well as negotiation and conflict resolution issues. The course will examine the National Labor Relations Act (NLRA), union and employer rights under the NLRA, union organizing, collective bargaining, negotiation, contract administration, mediation and arbitration. Corequisite: MGT 5330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5380E",
+            "course_name": "International Leadership",
+            "course_desc": "Course will include lectures, business engagements, cultural excursions, and a service-learning project.  To reinforce the theories discussed in class students will interact directly with managers, employees, and international business professionals, learn perspective on cultural and leadership issues. Prerequisite: B A 5351 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5380F",
+            "course_name": "Management for Organizational Sustainability",
+            "course_desc": "This course is designed to take a broad look at Sustainability from both Ecological and Organizational perspective.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5380G",
+            "course_name": "Artificial Intelligence (AI) for Business Managers",
+            "course_desc": "This course provides a basic foundation in artificial intelligence for students of the business school by introducing a means to make economically sound decisions regarding the implementation areas. In this course all students of the business school may implement small projects in the functional disciplines of the business school (e.g. marketing, finance, etc.). It could also be of interest for students of the School of Engineering.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5390",
+            "course_name": "Managerial Data Analysis",
+            "course_desc": "Designed to prepare managers to make more effective decisions based upon evidence from data analysis.  Covers all elements of the general linear model from t-tests to multiple regression analysis.  Involves acquiring and analyzing data for prediction and explanation, developing reports with actionable recommendations, and communicating results for managerial decision-making.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5391",
+            "course_name": "Managing the Communication Process",
+            "course_desc": "The study and application of theory and psychology of managerial communication using written, oral, and technological modes to communicate within the business environment. The course includes the process and product approach to graphics, leadership, problem solving, prioritizing, interviewing, and communicating change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5395",
+            "course_name": "Graduate Business Internship",
+            "course_desc": "Integration of professional and academic experience through internship with an external employer. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n15 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MGT 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in MGT 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MGT 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MGT 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MGT 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MGT 7314",
+            "course_name": "Organizational Behavior and Theory",
+            "course_desc": "This course focuses on organizational behavior and structure as influenced by environmental variables and system relationships. Topics include personality, motivation, teams, and leadership. These key concepts and others such as perception, emotions, and culture act interdependently, are influenced by, and in turn influence the environment in which the system operates.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

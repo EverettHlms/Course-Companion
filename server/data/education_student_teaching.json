@@ -1,0 +1,166 @@
+{
+    "name": "Education Student Teaching",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/edst/",
+    "courses": [
+        {
+            "course_code": "EDST 4170",
+            "course_name": "Teacher Residency Seminar I",
+            "course_desc": "This course is paired with EDST 4370 to provide classroom instruction and discussions with university supervisors on topics students are applying in their clinical practice. As part of the teacher residency program, enrollment requires advanced selection and placement through a competitive process as well as program specific prerequisite and corequisite requirements. Prerequisite: 2.75 Overall GPA and departmental approval. Corequisite: EDST 4370 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 4171",
+            "course_name": "Teacher Residency Seminar II",
+            "course_desc": "This course is paired with EDST 4371 to provide classroom instruction and discussions with university supervisors on topics students are applying in their clinical practice. As part of the teacher residency program, enrollment requires advanced selection and placement through a competitive process as well as program specific prerequisite and corequisite requirements. Prerequisite: 2.75 Overall GPA and departmental approval. Corequisite: EDST 4371 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 4370",
+            "course_name": "Teacher Residency I",
+            "course_desc": "This course will allow students to apply knowledge and skills learned during the Educator Preparation Program while engaging in clinical practice with experienced mentor teachers in school settings. Students will receive additional support, instruction, and supervision from program faculty throughout the semester experience. As part of the teacher residency program, enrollment requires advanced selection and placement through a competitive process as well as program specific prerequisite and corequisite requirements. Prerequisite: 2.75 Overall GPA and departmental approval. Corequisite: EDST 4170 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n24 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 4371",
+            "course_name": "Teacher Residency II",
+            "course_desc": "This course will allow students to apply knowledge and skills learned during the Educator Preparation Program while engaging in clinical practice with experienced mentor teachers in school settings. Students will receive additional support, instruction, and supervision from program faculty throughout the semester experience. As part of the teacher residency program, enrollment requires advanced selection and placement through a competitive process as well as program specific prerequisite and corequisite requirements. Prerequisite: EDST 4370 and EDST 4170 both with grades of \"C\" or better and 2.75 Overall GPA and  departmental approval. Corequisite: EDST 4171 with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n24 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 4380",
+            "course_name": "Clinical Teaching All-Level I",
+            "course_desc": "Students will apply knowledge and skills learned during the teacher preparation program while engaging in clinical practice with experienced EC-6/4-8 mentor teachers in school settings with university instruction and supervision. This culminating experience is required for Texas teacher certification and is a half-semester course designed for students seeking All-Level certification. Prerequisites: Admittance to the Educator Preparation Program; 2.75 Overall GPA; additional coursework may not be taken concurrently except for the co-requisite; for undergraduate students, all other degree-required coursework must be completed; for graduate and post-baccalaureate students, all other certification coursework must be completed; requires departmental approval through Office of Educator Preparation application process. Corequisites: EDST 4381 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 4381",
+            "course_name": "Clinical Teaching All-Level II",
+            "course_desc": "Students will apply knowledge and skills learned during the teacher preparation program while engaging in clinical practice with experienced 7-12 mentor teachers in school settings with university instruction and supervision. This culminating experience is required for Texas teacher certification and is a half-semester course designed for students seeking All-Level certification. Prerequisites: Admittance to the Educator Preparation Program; 2.75 Overall GPA; additional coursework may not be taken concurrently except for the co-requisite; for undergraduate students, all other degree-required coursework must be completed; for graduate and post-baccalaureate students, all other certification coursework must be completed; requires departmental approval through Office of Educator Preparation application process. Corequisites: EDST 4380 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 4390",
+            "course_name": "Teaching Internship I",
+            "course_desc": "In this course students will apply knowledge and skills learned during the teacher preparation program while serving as teacher of record in a public school classroom under supervision of university faculty and mentorship by school district personnel. The internship is available to graduate or post-baccalaureate students who have met all admittance and preparation criteria and hold a Texas probationary or intern teaching certificate. Students serving as interns are expected to follow all district, university, and state policies, and will receive course credit after completion of EDST 4391 and being recommended for standard teacher certification by the university and the school. Prerequisites: A minimum 2.75 Overall GPA and departmental approval.",
+            "course_credits": "\n3 Credit Hours \n5 Lecture Contact Hours \n35 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 4391",
+            "course_name": "Teaching Internship II",
+            "course_desc": "In this course students will apply knowledge and skills learned during the teacher preparation program while serving as teacher of record in a public school classroom under supervision of university faculty and mentorship by school district personnel. The internship is available to graduate or post-baccalaureate students who have met all admittance and preparation criteria and hold a Texas probationary or intern teaching certificate.  Students serving as interns are expected to follow all district, university, and state policies, and will receive course credit after being recommended for standard teacher certification by the university and the school. Prerequisite: EDST 4390 with a grade of \"D\" or better and a minimum 2.75 Overall GPA and department approval.",
+            "course_credits": "\n3 Credit Hours \n5 Lecture Contact Hours \n35 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 4470",
+            "course_name": "Clinical Teaching in Residency I",
+            "course_desc": "This course will allow students to apply knowledge and skills learned during the Educator Preparation Program while engaging in clinical practice with experienced mentor teachers in school settings. Students will receive additional support, instruction, and supervision from program faculty throughout the semester experience. As part of the teacher residency program, enrollment requires advanced selection and placement through a competitive process as well as program specific prerequisite requirements.  Prerequisite: A minimum 2.75 Overall GPA and departmental approval.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n24 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 4471",
+            "course_name": "Clinical Teaching in Residency II",
+            "course_desc": "This course will allow students to apply knowledge and skills learned during the Educator Preparation Program while engaging in clinical practice with experienced mentor teachers in school settings. Students will receive additional support, instruction, and supervision from program faculty throughout the semester experience. As part of the teacher residency program, enrollment requires advanced selection and placement through a competitive process as well as program specific prerequisite requirements. Prerequisite: EDST 4470 with a grade of \"C\" or better and minimum 2.75 Overall GPA and departmental approval.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n24 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 4680",
+            "course_name": "Clinical Teaching 4-8",
+            "course_desc": "Students will apply knowledge and skills learned during the teacher preparation program while engaging in clinical practice with experienced 4-8 mentor teachers in school settings with university instruction and supervision. This culminating experience is required for Texas teacher certification. Prerequisites: Admittance to the Educator Preparation Program; 2.75 Overall GPA; additional coursework may not be taken concurrently; for undergraduate students, all other degree-required coursework must be completed; for graduate and post-baccalaureate students, all other certification coursework must be completed; requires departmental approval through Office of Educator Preparation application process.",
+            "course_credits": "\n6 Credit Hours \n1 Lecture Contact Hour \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 4681",
+            "course_name": "Clinical Teaching 7-12",
+            "course_desc": "Students will apply knowledge and skills learned during the teacher preparation program while engaging in clinical practice with experienced 7-12 mentor teachers in school settings with university instruction and supervision. This culminating experience is required for Texas teacher certification. Prerequisites: Admittance to the Educator Preparation Program; 2.75 Overall GPA; additional coursework may not be taken concurrently; for undergraduate students, all other degree-required coursework must be completed; for graduate and post-baccalaureate students, all other certification coursework must be completed; requires departmental approval through Office of Educator Preparation application process.",
+            "course_credits": "\n6 Credit Hours \n1 Lecture Contact Hour \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 4687",
+            "course_name": "Clinical Teaching EC-6",
+            "course_desc": "Students will apply knowledge and skills learned during the teacher preparation program while engaging in clinical practice with experienced EC-6 mentor teachers in school settings with university instruction and supervision. This culminating experience is required for Texas teacher certification. Prerequisites: Admittance to the Educator Preparation Program; 2.75 Overall GPA; additional coursework may not be taken concurrently; for undergraduate students, all other degree-required coursework must be completed; for graduate and post-baccalaureate students, all other certification coursework must be completed; requires departmental approval through Office of Educator Preparation application process.",
+            "course_credits": "\n6 Credit Hours \n1 Lecture Contact Hour \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 5291",
+            "course_name": "Teaching Internship II",
+            "course_desc": "In this course students apply knowledge and skills learned during the teacher preparation program and serve as teacher-of-record in a public school classroom under the supervision of university faculty and mentorship of school district personnel. The internship is available to graduate or post-baccalaureate students who have met all admittance and preparation criteria and hold a Texas probationary or intern teaching certificate. Students serving as interns are expected to follow all district, university, and state policies, and will receive course credit after completion of EDST 5590 and 5291 and being recommended for standard teacher certification by the university and the school. Prerequisite: EDST 5590 with a minimum grade of \"B\" or better and a minimum 2.75 Overall GPA and departmental approval.",
+            "course_credits": "\n3 Credit Hours \n5 Lecture Contact Hours \n35 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 5390",
+            "course_name": "Internship for Alternative Certification I",
+            "course_desc": "This course provides an opportunity for students to apply knowledge and skills learned during the educator preparation program while serving as teacher of record in a classroom under supervision of university faculty and mentorship by school district personnel. The internship is available to graduate or post-baccalaureate students who have met admittance and preparation criteria and hold a Texas probationary or intern teaching certificate. Interns are expected to follow all district, university, and state policies, and will receive course credit after completion of EDST 5390 and 5391 and being recommended for standard teacher certification by university and Office of Educator Preparation. Prerequisite: A minimum 2.75 Overall GPA and departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 5391",
+            "course_name": "Internship for Alternative Certification II",
+            "course_desc": "Students will apply knowledge and skills learned during the educator preparation program while serving as teacher of record in a public school classroom under supervision of university faculty and mentorship by school district personnel. The internship is available to graduate or post-baccalaureate students who have met all admittance and preparation criteria and hold a Texas probationary or intern teaching certificate. Students serving as interns are expected to follow all district, university, and state policies, and will receive course credit after completion of EDST 5390 and 5391 and being recommended for standard teacher certification by university and Office of Educator Preparation. Prerequisite: EDST 5390 with a grade of  \"C\" or better and  A minimum 2.75 Overall GPA and departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 5392",
+            "course_name": "Internship for Accelerated Alternative Certification I",
+            "course_desc": "This course provides an opportunity for students to apply knowledge and skills learned during the educator preparation program while serving as teacher of record in a classroom under supervision of university faculty and mentorship by school district personnel. The internship is available to graduate or post-baccalaureate students who have met admittance and preparation criteria and hold a Texas probationary or intern teaching certificate. Interns are expected to follow all district, university, and state policies, and will receive course credit after completion of EDST 5392 and 5393 and being recommended for standard teacher certification by university and Office of Educator Preparation. Prerequisite: Admittance to the Educator Preparation Program; grade of C or better in Accelerated Alternative Certification Program coursework; for graduate and post-baccalaureate students, all other certification coursework must be completed; requires departmental approval through Office of Educator Preparation application process.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 5393",
+            "course_name": "Internship for Accelerated Alternative Certification II",
+            "course_desc": "This course allows students to apply knowledge and skills learned in the educator preparation program while serving as teacher of record in a public school classroom under university faculty supervision and district mentorship. The internship is available to graduate or post-baccalaureate students who have met all criteria and hold a Texas probationary or intern teaching certificate. Interns are expected to follow all district, university, and state policies, and will receive course credit after completing EDST 5392 and 5393 and being recommended for standard certification by the university and Office of Educator Preparation. Prerequisite: EDST 5392 with a grade of  \"CR\" and a minimum 2.75 Overall GPA and departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 5590",
+            "course_name": "Teaching Internship I",
+            "course_desc": "In this course students apply knowledge and skills learned during the teacher preparation program and serve as teacher-of-record in a public school classroom under the supervision of university faculty and mentorship of school district personnel. The internship is available to graduate or post-baccalaureate students who have met all admittance and preparation criteria and hold a Texas probationary or intern teaching certificate. Students serving as interns are expected to follow all district, university, and state policies, and will receive course credit after completion of EDST 5590 and 5291 and being recommended for standard teacher certification by the university and the school. Prerequisite: A minimum 2.75 Overall GPA and departmental approval.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n35 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "EDST 5680",
+            "course_name": "Clinical Teaching for Accelerated Alternative Certification",
+            "course_desc": "This course will allow students to apply knowledge and skills learned during the teacher preparation program while engaging in clinical practice with experienced mentor teachers in school settings with university instruction and supervision. This culminating experience is required for Texas teacher certification and is designed for students enrolled in the Accelerated Alternative Certification Program. Prerequisite: Admittance to the Educator Preparation Program; grade of C or better in Accelerated Alternative Certification Program coursework; for graduate and post-baccalaureate students, all other certification coursework must be completed; requires departmental approval through Office of Educator Preparation application process.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

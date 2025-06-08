@@ -1,0 +1,94 @@
+{
+    "name": "Educational Technology",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/edtc/",
+    "courses": [
+        {
+            "course_code": "EDTC 3300",
+            "course_name": "Introduction to Educational Technology",
+            "course_desc": "This course provides hands-on experience with a variety of educational uses of computers, mobile devices, and online applications in early childhood, elementary, middle, and high schools. Review of relevant research and discussion of current issues will also be included.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDTC 5310",
+            "course_name": "Introduction to Educational Technology",
+            "course_desc": "This course provides hands-on experience with a variety of educational uses of microcomputers in early childhood, elementary, middle, and high schools. Review of relevant research and discussion of current issues will also be included.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDTC 5315",
+            "course_name": "Advanced Educational Technology",
+            "course_desc": "This course focuses on both instructional and multimedia design principles. Students will design, implement, and evaluate an extended technology project to solve an instructional problem.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDTC 5320",
+            "course_name": "Models of Integration of Educational Technology",
+            "course_desc": "Students will examine trends and issues related to the integration of technology in instruction based on learning theory, learners needs, teaching strategies/practices, social and psychological factors, and state/national standards.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDTC 5325",
+            "course_name": "Managing Educational Technology",
+            "course_desc": "This course is designed to help the Educational Technologist manage the various needs and technologies in the school setting. Emphasis will be placed on planning for integration and management, hardware issues, software issues, and personnel issues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDTC 5330",
+            "course_name": "Implementing Technology in Education",
+            "course_desc": "This course is designed to introduce students to those leadership skills required for implementing technology in an education program.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDTC 5334",
+            "course_name": "Online Learning and Course Design",
+            "course_desc": "This course will examine theoretical and research perspectives of learning in an online context. Students will analyze online tools in relation to teaching objectives and design an online component to a course they teach.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDTC 5335",
+            "course_name": "Instructional Design for Educational Technology",
+            "course_desc": "This course will focus on the use of instructional design principles in Educational Technology to solve instructional problems. Topics covered include developing teacher training materials, courses, individualized instruction, websites, multimedia projects, workshops, and online instruction in the education setting.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDTC 5340",
+            "course_name": "Issues in Educational Technology",
+            "course_desc": "This course will provide students with information on current issues and emerging trends to enhance their ability to function effectively as educational technology leaders at the school, district, or agency level. May be repeated once for credit with different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDTC 5341",
+            "course_name": "Digital Fabrication and Simple Electronics",
+            "course_desc": "This course focuses on the use of creativity within educational maker spaces and is intended for educators (and their students) to think creatively using digital fabrication and technology. A maker space is a place where people come together to create with technology.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EDTC 5345",
+            "course_name": "Educational Technology Internship",
+            "course_desc": "The Educational Technology Internship allows the intern to apply theory into practice in a real world setting. The intern is provided site-based opportunities for applying leadership skills in training teachers to use technology in an educational setting.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n5 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

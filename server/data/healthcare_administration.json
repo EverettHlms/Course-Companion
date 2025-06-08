@@ -1,0 +1,414 @@
+{
+    "name": "Healthcare Administration",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ha/",
+    "courses": [
+        {
+            "course_code": "HA 3308",
+            "course_name": "Healthcare Organization",
+            "course_desc": "Overview of the healthcare system and the role hospitals have played and continue to\nplay in the future. Analysis of organizational structure of a hospital and other healthcare agencies, administrative and management elements necessary for policy determination, decision making, and control to achieve institutional goals and objectives.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 3309",
+            "course_name": "Ethics in the Health Professions",
+            "course_desc": "This course introduces the student to a sound foundation in well-established ethical theories and a familiarity with terms, concepts and issues in ethics as applied to the health professions. Also provides practical methods for proceeding from considered reflection to informed action in solving ethical problems. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 3311",
+            "course_name": "Independent Study in Healthcare Administration",
+            "course_desc": "An in-depth study of a single topic or problem confronting the healthcare industry. This course affords the student an opportunity to focus on a topic/problem or group of related problems impacting healthcare managers. This course may be repeated for credit with a different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 3315",
+            "course_name": "Healthcare Administration History, Culture, and Language",
+            "course_desc": "An introduction to the historical and cultural development of modern healthcare administration in contemporary American society. Special attention is given to the mores of health services delivery including critiques and use of professional behavior and language. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 3324",
+            "course_name": "Supervisory Management for Healthcare Managers",
+            "course_desc": "Introduction to the following functions of supervisory management: planning, organizing, staffing, influencing, and controlling; as well as the connective processes of decisionmaking, coordinating, and communicating in healthcare organizations. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 3329",
+            "course_name": "Human Resources in Healthcare Management",
+            "course_desc": "Human resource management as applicable to the healthcare field. Course will cover human resource planning, staffing, job requirements, job descriptions, sources of labor supply, training and education programs, salary administration, employee communications, legal considerations, union-management relations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 3340",
+            "course_name": "Management of Health Information Systems",
+            "course_desc": "Provides an introduction to information systems for healthcare facilities and agencies. Covers determining what information is needed by whom; designing information flows, procurement of computer/telecommunication resources, assuring information security, and continuing management of information systems supporting healthcare delivery.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 3341",
+            "course_name": "Project Management & Professional Development in Healthcare",
+            "course_desc": "This course examines the professional development and project management  processes as applied to the healthcare industry. Emphasis is placed on staff development, needs analysis, task analysis, development of training and continuing education programs for healthcare personnel. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 3344",
+            "course_name": "Patient Care Management & Quality Improvement in Health Care Integrated Delivery Systems",
+            "course_desc": "This course is an introduction of integrated delivery systems and their operations.  It includes an examination of patient care management and the patient experience.  A framework for understanding healthcare quality efforts is also an integral part of the course.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 3347",
+            "course_name": "Essentials of Healthcare Law",
+            "course_desc": "This course includes a review of the laws pertaining to healthcare institutions, physicians, and other healthcare workers who contribute to patient care. Tort and contract law are emphasized. The course addresses policy issues and ethics through topics like patient rights, reproduction, and end of life decisions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 3375",
+            "course_name": "Principles of Accounting for Healthcare Managers",
+            "course_desc": "Provides an introduction to accounting useful in healthcare facilities and agencies, and demonstrates the application of accounting principles and techniques in the healthcare field. Prerequisite: HP 3325 and [ECO 2301 or ECO 2314] both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 3376",
+            "course_name": "Financial Management for Healthcare Managers",
+            "course_desc": "A concentration in the fundamentals of healthcare financial management including the financial organization of nonprofit facilities, sources of operating revenue, management of working capital, and the allocation, control and analysis of resources. Prerequisite: HA 3375 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 4121",
+            "course_name": "Problems in Healthcare Administration",
+            "course_desc": "In-depth study of a singular problem considered to be of immediate concern to the health care industry. Special emphasis is placed on problems unique to managers in the field of health administration. May be repeated with permission of department chair.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 4141",
+            "course_name": "Healthcare Comprehensive Exam Review and Administration including Field Placement Orientation",
+            "course_desc": "A course in which each of the respective faculty will review their portion of the comprehensive examination that all HA majors are required to successfully pass during their final semester of study. The comprehensive exam will be administered at the conclusion of the course.    In addition, students will be prepared to move from the classroom setting to a workplace scenario.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HA 4221",
+            "course_name": "Problems in Healthcare Administration",
+            "course_desc": "In-depth study of a narrow range of topics considered to be of immediate concern to the health care industry. Special emphasis on problems unique to managers in the field of health administration. May be repeated with permission of department chair.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 4305",
+            "course_name": "Healthcare Services Marketing",
+            "course_desc": "The course applies the principles of services marketing to healthcare organizations.\nThe course will present tools to identify and close the gaps that exist between customer expectation of services and the services provided and to ensure quality of health care.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 4315",
+            "course_name": "Health Services Operations Management",
+            "course_desc": "An introduction to methodologies used to seek solutions to health administration problems which affect technical and professional personnel. Designed to place emphasis on techniques most directly applicable to models of administration and management decision making.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 4318",
+            "course_name": "Employment Law in Healthcare Management",
+            "course_desc": "This course examines the legal aspects of healthcare human resource management. Each of the major federal and state enactments impacting human resource management will be studied in depth. Prerequisite: HA 3329 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 4320",
+            "course_name": "Seminar in Healthcare Administration",
+            "course_desc": "Current trends and problems in health administration affecting health administration technical and professional personnel. Designed to place emphasis in selected areas of administration and management. Research paper and presentation is required of each student. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 4322",
+            "course_name": "Public Health Administration",
+            "course_desc": "This course introduces the healthcare manager to public health and its role in preventing illnesses and improving the health of the community. Students will learn about the role of the manager in disease prevention and how to participate and lead community efforts for the wellness of the community.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 4325",
+            "course_name": "Healthcare Strategic Management",
+            "course_desc": "This capstone class integrates accounting, finance, marketing, MIS, and organizational behavior in the creation of sustainable competitive advantage. Health care case studies will be used to illustrate key concepts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 4440",
+            "course_name": "Practicum Internship A",
+            "course_desc": "Students with specialization in management participate in a health services based practicum. Experiences in providing opportunities for observation, participation, and practical application of administrative or management skills in the institutional setting are required. Must have a 2.25 major GPA and have completed all junior year major courses.",
+            "course_credits": "\n4 Credit Hours \n0 Lecture Contact Hours \n16 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HA 4441",
+            "course_name": "Practicum Internship B",
+            "course_desc": "Studies tailored to particular interests and needs of individual students. A variety of experiences may be used to enrich the program for students with special needs or demonstrated competencies. This course is taken in the final semester of study.",
+            "course_credits": "\n4 Credit Hours \n0 Lecture Contact Hours \n16 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HA 4848",
+            "course_name": "Healthcare Administrative Residency",
+            "course_desc": "Designed for students who have limited or no previous background in healthcare management/administration. Includes rotation through selected major departments, culminating in a major project. This course is taken in the final semester of study.",
+            "course_credits": "\n8 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HA 5111",
+            "course_name": "Topics in Health Administration",
+            "course_desc": "This course includes an in-depth study of a singular topic, or a related problem being encountered by practicing managers in the rapidly changing healthcare industry. Special emphasis is placed on the topics current relevance and its utilitarian value. This course may be repeated for credit with a different topic area.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5191",
+            "course_name": "Program Competencies Assessments and Integrative Experience Preparation",
+            "course_desc": "This course prepares students for the end-of-program, final integrative comprehensive exam to assess students program competencies. Students complete the final integrative comprehensive exam and prepare for an effective transition from the classroom setting to the contemporary healthcare organization work environment.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HA 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HA 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HA 5300",
+            "course_name": "Healthcare Organization and Delivery",
+            "course_desc": "This course includes an overview and comparison of the organization and delivery of health services focusing on the history, development, and current delivery by organizations in the continuum of care. Through the course, students acquire foundational knowledge and management applications pertaining to governance, policy, organizational structures, stakeholders, research, and patient-centered care.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5301",
+            "course_name": "Healthcare Administration Research Methods",
+            "course_desc": "A study of research methodology as it pertains to healthcare administration. Included are hypothesis forming, designing research, and the collection, manipulation and analysis of data. Knowledge of numeracy and statistics is essential.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5303",
+            "course_name": "Healthcare Analytics and Information System Management",
+            "course_desc": "This course provides a comprehensive introduction to information systems management for healthcare organizations, with a focus on incorporating analytics for informed decision-making. It covers the determination of information required by whom, design of information flows, procurement of information systems technology resources, assurance of information security, and management of systems integration. Students gain skills in leveraging analytics for insights and trend analysis, optimizing technology solutions, and addressing the unique challenges of healthcare data management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5304",
+            "course_name": "Healthcare Financial Management I",
+            "course_desc": "This course introduces selected financial management concepts and practices in healthcare organizations. It is a broad introduction to important financial theories, tools, issues, and terminology. Throughout the course, students apply financial management concepts in practical assignments related to health insurance and reimbursement methods, basic managerial accounting, interpretation of healthcare financial statements, cost and profit analysis, departmental and service-line costing and pricing, and planning and budgeting.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5311",
+            "course_name": "Trends in Healthcare Administration",
+            "course_desc": "This course offers students an in-depth study of a singular trend or related problem experienced by practicing managers in the rapidly changing healthcare industry. Special emphasis is placed on the selected topics current relevance and its utilitarian value. Examples of trends can include processes or problems occurring in a specific delivery setting; ethical issues; emerging policy, regulation, or law implications; supply chain; and total quality management. This course may be repeated for credit with a different subject area.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5316",
+            "course_name": "Healthcare Financial Management II",
+            "course_desc": "This course builds on the concepts covered in Financial Management I and emphasizes development and application of analytical, statistical, and mathematical competencies pertaining to time value analysis, risk and return concepts, debt and equity financing, cost of capital, capital budgeting, project risk analysis, lease financing and working capital management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5321",
+            "course_name": "Healthcare Law and Policy",
+            "course_desc": "This course addresses legal issues pertaining to health services as they relate to providers and consumers within the healthcare system. It covers the legal issues surrounding the relationship of patients, providers, and healthcare institutions and examines managerial and clinical ethics as they relate to the provision of health services. The course also addresses policy issues at state and national levels, including how to analyze policies and facilitate policy development, from the perspective of various stakeholders. Students evaluate changing healthcare policy paradigms and decision points.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5325",
+            "course_name": "Healthcare Quality and Operations Improvement",
+            "course_desc": "This course instructs the concepts of quality management in health care integrating quality improvement tools using continuous process improvement methodologies. Students learn to translate healthcare quality management theory, concepts, and knowledge into practice by applying statistical methods and analysis to eliminate defects, reduce waste, and deliver excellent patient/client experiences. Students gain familiarity with the quality standards required by federal and private organizations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5334",
+            "course_name": "Data-Guided Healthcare Decision-Making",
+            "course_desc": "This course provides the foundation of quantitative reasoning with data evidence and emphasizes the critical nature of the group decision-making process. The course defines the scope and limitations of decision-making. The role of uncertainties in decision-making are illustrated with examples from health care. The adverse outcomes and their consequences in healthcare decisions are explored. The concepts and tools of decision-making trees are applied to improve the quality of decisions. Students practice identifying and rectifying root causes to mitigate risks of adverse outcomes.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5335",
+            "course_name": "Public Health for Healthcare Administrators",
+            "course_desc": "This course includes an examination of the ten essential services of public health and the role of the healthcare manager in disease prevention and improvement of the communitys health, as well as public health surveillance. Students apply the core public health functions as a framework to contextualize public health issues. Students gain experience and practice identifying sources of data and examining peer-reviewed literature.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5346",
+            "course_name": "Strategic Management and Marketing for Healthcare Organizations",
+            "course_desc": "This capstone course builds upon analytical skills needed for making evidence-based strategic and marketing decisions. It covers the strategic planning/management process in the competitive healthcare industry including the assessment of both the external and internal environments and alignment of an organizations strengths and weaknesses with external threats and opportunities. The study of marketing functions, principles, and concepts as they relate to the healthcare delivery system is also included. Students develop skills by analyzing a real healthcare organization and recommending strategic and marketing decisions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5355",
+            "course_name": "Emerging Trends in Healthcare Human Resources",
+            "course_desc": "This course identifies, analyzes, and suggests strategies for managing emerging human resource trends with a focus on the healthcare industry.  . Course emphasis includes responding to and providing leadership in the key human resource functions of employment, compensation, benefits, employee relations, leadership and staff development, and succession planning.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5356",
+            "course_name": "Policy Development in Healthcare Arena",
+            "course_desc": "Prospective healthcare administrators analyze changing healthcare paradigm to determine decision-points where policies can be affected. Course allows students to apply existing skills to real world policy issues at state and national levels and to analyze policy development from numerous stakeholders viewpoints.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5362",
+            "course_name": "Healthcare Organizational Behavior, Theory, and Leadership",
+            "course_desc": "This course provides a foundation and conceptual framework for understanding and navigating healthcare organizational behavior, grounded in the study of organizational, management, leadership, motivation, teaming, and cultural theories, drawing from the behavioral and social sciences. Students learn and practice applied skills in communication, motivation, leadership, teaming, collaboration, facilitation, negotiation, decision-making, change and conflict management through an experiential-learning project.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5371",
+            "course_name": "Marketing of Health Services",
+            "course_desc": "A study of marketing functions and principles as they relate to the healthcare delivery system. Analysis of marketing concepts such as market segmentation, marketing planning, marketing audit, marketing positioning, and marketing mix will be discussed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HA 5375",
+            "course_name": "Healthcare Accounting",
+            "course_desc": "An introduction to financial accounting in healthcare with an emphasis on the preparation of non-profit financial statements for healthcare service organizations, control procedures for healthcare entities, and accounting issues unique to the healthcare industry. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "HA 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents students initial thesis enrollment. No thesis credit is awarded until students have completed the thesis in Health Administration 5399B. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HA 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents students continuing thesis enrollments. Students continue to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HA 5450",
+            "course_name": "Administrative Field Placement",
+            "course_desc": "A one-semester, full-time field experience which allows students to apply their foundational didactic education by means of rotations, experiences, and projects in a healthcare organization. This course is graded on a credit (CR), no-credit (F) basis. Prerequisite: Instructor approval.",
+            "course_credits": "\n4 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HA 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HA 5640",
+            "course_name": "Administrative Practicum",
+            "course_desc": "This course includes a one semester, part-time field experience designed for  students with prior healthcare management or leadership experience, working  full-time in healthcare. The practicum provides a broader and more in-depth focus  on students exposure to special projects. This course is graded on a credit (CR), no-credit (F) basis. Prior Learning Experience Credit is available upon admission with supportive documentation for five or more years of healthcare management or leadership experience. Prior Learning Assessment is directly assessed by the Faculty Admission Committee, using application documentation.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HA 5840",
+            "course_name": "Administrative Field Placement",
+            "course_desc": "A one-semester, full-time field experience which allows students to apply their foundational didactic education by means of rotations, experiences, and projects in a healthcare organization.",
+            "course_credits": "\n8 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HA 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

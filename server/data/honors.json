@@ -1,0 +1,1822 @@
+{
+    "name": "Honors",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/hon/",
+    "courses": [
+        {
+            "course_code": "HON 1390C",
+            "course_name": "Greek Civilization: The Trojan War and the Western Imagination",
+            "course_desc": "The course will introduce students to Greek civilization and its impact on the western world by examining how one theme central to the Greek literary imagination-the Trojan War-influenced the development of later western literature.  The course studies major texts in the Greek literary canon. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 1390D",
+            "course_name": "Ideal Societies I: The Greek Experience",
+            "course_desc": "Culture and Civilization in 5th century Athens.  The Greek Experience: towards a new vision of human nature and of society. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 1390F",
+            "course_name": "Economic Thinking: Personal Values, Social Choice & Rational",
+            "course_desc": "This class explores the sociological and philosophical effects operating in conjunction with economic decision-making. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 1390H",
+            "course_name": "Understanding Communication & Technology",
+            "course_desc": "The course is designed to focus on skills, research and theories about the relationships bwtween technology and communication behavior.  It teaches face to face communication skills in the contemporary technological environment. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 1390I",
+            "course_name": "Role of the Storyteller in Society: Promoter, Protector or Provcateur",
+            "course_desc": "The course focuses on the role of the storyteller from ancient times to the present.  Students will cultivate an appreciation for the oral tradition in the shaping of history, cultural identity, social mores and personal values. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2110A",
+            "course_name": "Soundscape Research and Environmental Listening",
+            "course_desc": "How might we understand environmental sound as a kind of music? In this interactive short course, students will explore the research and scholarship of the \"World Soundscape Project,\" understood both as a historical movement and a contemporary practice. We will examine primary and secondary source literature from musicians, sound artists, and environmentalistsincluding R. Murray Schafer, Barry Truax, and Hildegard Westerkamp. And, through a series of workshops, we will describe basic principles of environmental listening, analyze the local soundscape, and assess the aural conditions and qualities of San Marcos and central Texas.",
+            "course_credits": "\n1 Credit Hour \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2110B",
+            "course_name": "Research Experience",
+            "course_desc": "This course will provide students direct engagement with research at Texas State and in the surrounding region. Students will interact with faculty and graduate students, recognize different levels of research engagement, and gain an understanding of the role that research plays in graduate school. Students will also explore how undergraduate research can enhance and expand future learning and career opportunities by interacting with professionals and/or Texas State alumni.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2301A",
+            "course_name": "Writing to Change the World",
+            "course_desc": "This course examines communication through writing to promote positive change in the world. This course will enable students to communicate their own arguments appropriate to the subject, occasion and audience. Students will choose a global issue on which to focus their writing, and perform related community service. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Communication Core 010|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2301B",
+            "course_name": "Writing Yourself into Academia: Creating Portraiture",
+            "course_desc": "By studying a person, a group of people, an institution, or a concept, students will create carefully researched written \"portraits\" that integrate personal narrative, interviews, and academic research. Students will communicate their own arguments and develop ideas about the effect of the message to foster understanding and to communicate persuasively. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Communication Core 010|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2302A",
+            "course_name": "Elementary Number Theory",
+            "course_desc": "This course engages students in the systematic study of problems in elementary number theory using definitions and logical deductions from these definitions. Emphasis will be on developing critical thinking and applications to modern problems. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Mathematics Core 020|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2302B",
+            "course_name": "Graph Theory and Applications",
+            "course_desc": "This course engages students in the study of important topics in graph theory through it's applications and through proofs designed to strengthen mathematical techiques. The course will emphasize developing critical thinking and applications to modern problems. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Mathematics Core 020|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2303A",
+            "course_name": "Teaching Physical Science to Children",
+            "course_desc": "Course content includes both physics concepts and research findings on physics teaching and learning. Students will develop a deep understanding of fundamental concepts in physical science and how these concepts relate to making sense of everyday experiences. This studio-styled physics course is ideal for pre-service K-8 teachers. (WI).",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2303B",
+            "course_name": "Astronomy in Art, History, and Literature",
+            "course_desc": "In this class, students will combine astronomy and the humanities. They will create computer simulations of past celestial events. These results will be combined with evidence gathered from primary sources to investigate how astronomy affected history or appeared in the historical art or literature. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2303C",
+            "course_name": "Building a Greener Future: One Home at a Time",
+            "course_desc": "Students will use basic scientific principles to investigate resource usage in our daily lives from the production of electrical energy and construction of housing to daily consumption including HVAC systems and major utilities. Students will compare energy conservation programs across the globe and evaluate how public policy effects energy consumption. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2303D",
+            "course_name": "Everyday Biology",
+            "course_desc": "This course provides the non-science major with a strong foundation of scientific methods and basic biological concepts. Special emphasis is placed on reviewing biological concepts relevant to everyday life (both current and future) including disease, evolution, genetics, biotechnology, diet, and environmental biology.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2304A",
+            "course_name": "The Meaning of Death",
+            "course_desc": "By examining the moral and existential questions raised by our own mortality, students in this course will practice critical thinking and examine the variety of human responses to and understanding of death by focusing on how ideas, values, beliefs, and other aspects of culture express and affect human experience. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2304B",
+            "course_name": "Eating Animals in America: Historical and Philosophical Perspectives",
+            "course_desc": "This course examines the changing nature of, and views about, the production and consumption of animals in America from the 18th century to the present. The course will focus on the ethical and philosophical issues raised by eating animals. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2304C",
+            "course_name": "Nonviolence and Sustainable Social Change",
+            "course_desc": "This course examines nonviolence as the systematic endeavor to break cycles of violence, poverty, and racism. The course will focus on investigating the ongoing force of such cycles and to formulate effective understandings for subverting and reversing such trends to offer productive contributions toward more sustainable human development. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2304D",
+            "course_name": "Reinventing Utopia",
+            "course_desc": "This seminar introduces students to utopian studies, a field of humanities that views utopia as an expression of a universal human desire for better ways of living and being. Whether in the form of religious paradises, literary fantasies, philosophical treatises, or intentional communities, cultures around the globe have dreamed utopiasimaginary worlds of peace, plenty, and human flourishingto define their values, orient their projects, and explore the human condition. What can we learn from utopias poets, philosophers, and architects, past and present, to help us reinvent utopia at a time when the planet may need it the most? (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2305A",
+            "course_name": "African American Popular Music: Society, Politics, and Culture",
+            "course_desc": "This course is a reading-, writing-, and listening-intensive interdisciplinary survey of African-American popular music in America and its relationship to American culture, society, politics and the other arts. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Creative Arts Core 050|Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2305B",
+            "course_name": "Women and Texas Music",
+            "course_desc": "This course examines the lives and creative contributions of Texas women composers, performers, historians, and patrons, and their roles in the promotion and advancement of the arts, especially music, in Texas. This course will address topic-related issues of class, race, and identity formation. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Creative Arts Core 050|Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2305C",
+            "course_name": "Italy and Arts of the Islamic World",
+            "course_desc": "This course focuses on the interpretation of art in its historical context, introducing students to visual analysis and art historical interpretation to understand related scholarship exploring the relationship of Italy to the Islamic world in the medieval and Renaissance periods. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Creative Arts Core 050|Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2305D",
+            "course_name": "Honors Creative Arts",
+            "course_desc": "Students in this course develop broad familiarity with creative arts disciplines through project-based learning. Each project is rooted in a real world challenge familiar to the disciplines of art, music, theatre, and dance. To propose a tractable solution, students consult with experts and evaluate significant cultural-historical artifacts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Creative Arts Core 050|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2306A",
+            "course_name": "American History Through Memoirs",
+            "course_desc": "Through studying memoirs this course focuses on American history since the end of the Reconstruction period. The memoirs, depicting interactions among individuals, communities, states, the nation, and the world, provide an understanding of how these interactions have contributed to the development of the United States and its global role. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): American History Core 060|Exclude from 3-peat Processing|Honors|Multicultural Perspective|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2306B",
+            "course_name": "Baseball and the American Experience",
+            "course_desc": "This study of baseball focuses on American history since the end of the Reconstruction period. As a testing ground for the persistence of racial prejudice and the expansion of civil rights, and with advances in technology and management structure, the study of baseball will expose the American experience. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): American History Core 060|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2306C",
+            "course_name": "America in the 1960s: A History of Movements and Ideas",
+            "course_desc": "This course in the history of American social and protest movements from the end of Reconstruction through Occupy focuses in particular on the movements of the 1960s - the Civil Rights Movement, the New Left, the Women's and Homosexual Liberation Movements, and the Counterculture - and their enduring legacies in contemporary society. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): American History Core 060|Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2306D",
+            "course_name": "Witches, Whores, Murderers & Thieves: Capital Crime in Early America",
+            "course_desc": "This course is an in-depth investigation into the social and legal culture of Early America through the study of microhistories. In this course, we will concentrate on a series of capital crimes, ranging from murder to witchcraft. The period will be the 17th century through 1850. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): American History Core 060|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2306E",
+            "course_name": "Early American History Through Biography",
+            "course_desc": "This course will examine early American history, from colonial times through 1877, through the lens of biography. Students will not only read biographical works on past figures but also analyze autobiographical writings that shed light on their lives. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): American History Core 060|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2306F",
+            "course_name": "Rethinking American Exceptionalism",
+            "course_desc": "This course introduces students to the major political, economic, social, intellectual, and cultural developments in American history through Reconstruction with a special emphasis on the origins and evolution of the tradition of American exceptionalism. Students will evaluate Americas national ideology through an analysis of primary source documents and scholarly debate.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): American History Core 060|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2306G",
+            "course_name": "American Countercultures",
+            "course_desc": "This course introduces students to major political, economic, social, and cultural developments in American history through the lens of counterculture. Although this term is usually associated with the 1960s, countercultures have flourished in the US since the mid-nineteenth century.  As 60s guru Timothy Leary observed, countercultures bloom wherever and whenever members of a society embrace lifestyles, artistic expressions, and ways of thinking and being that diverge radically from the mainstream.  Students will examine how countercultures from the transcendentalists to the hippies and beyond reflect the hopes and anxieties of younger generations and sometimes succeed in bringing about revolutionary change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): American History Core 060|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2307A",
+            "course_name": "Democracy in America",
+            "course_desc": "This course is a study of functions performed in the American system of government, understood through the framework of Democracy in America, Alexis de Tocqueville's seminal study of American social and political life, the nature and distinctive character of modern democratic societies, and the problems and perils these societies confront. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Govt/Pol Science Core 070|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2307B",
+            "course_name": "Contemporary Issues in American Politics",
+            "course_desc": "In considering conflicts between liberty and equality with emphasis on how these principles are defined within the American system of constitutional, students will examine literature addressing race, gender, class, and sexuality in relation to events such as national elections, and to works in modern and contemporary political thought. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Govt/Pol Science Core 070|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2308A",
+            "course_name": "Economic Anthropology",
+            "course_desc": "This course covers central issues in economic anthropology including the production, exchange, distribution, consumption, property, economic surplus, inheritance, and types of economic structure in various cultures. Materials will cover hunter-gatherer societies, simple agricultural societies, pre-capitalist complex state societies, and issues of development in non-industrial countries. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Soc & Behav Sciences Core 080|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309A",
+            "course_name": "Origins of Civilization",
+            "course_desc": "By studying literary, mythic and philosophical works selected with special attention to narratives about the origins of humanity and civilization, students will encounter a variety of explanations of human existence. The course will broaden students' perspectives and provide insight into the background of contemporary world cultures. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Lang, Phil & Culture CAO 094|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309B",
+            "course_name": "Re-Humanizing Communication",
+            "course_desc": "This course examines technology's impact on human communication. Students will examine their dependency on technology in order to re-humanize communication. Students will learn to express ideas through the development of interpersonal, small group, and presentational communication skills, developing command of oral, aural, written, and visual literacy in appropriate contexts. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Communication CAO 091|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309C",
+            "course_name": "Great Ideas: Humanities I",
+            "course_desc": "By studying classical foundational texts in Western culture from interdisciplinary perspectives, students will understand the origin of great ideas and relate them to today's world. Texts are chosen around a particular theme by a team of instructors to focus on the earliest recorded works up to the Renaissance. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Lang, Phil & Culture CAO 094|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309D",
+            "course_name": "Magic Realism in the Works of Gabriel Garcia Marquez",
+            "course_desc": "A study of selected works of Nobel Prize author Gabriel Garcia Marquez, this course offers unique insights into Latin American culture, filtered through the literary and journalistic vision of Colombia's world renowned author. Additional readings and films emphasize the complex nature of the Latin American culture and literature. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Lang, Phil & Culture CAO 094|Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309E",
+            "course_name": "Preserving Humanity in the Face of Conflict: The War Story Genre",
+            "course_desc": "This course provides students the opportunity to consider the human impact of several global conflicts that have occurred over the past forty years by focusing on novels, short stories, essays, and a memoir written about post-World War II conflicts in Vietnam, the Balkans, Iraq, and Afghanistan. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Lang, Phil & Culture CAO 094|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309F",
+            "course_name": "CS Lewis: Chronicles of a Master Communicator",
+            "course_desc": "This course uses the writing and life of C.S. to examine communication theory and principles. Lewis's work as a speaker, teacher, broadcaster and educator provides a comprehensive body of work that students can evaluate as they master and apply rhetorical and communication theories. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Communication CAO 091|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309G",
+            "course_name": "Nature and the Quest for Meaning",
+            "course_desc": "The class focuses on American nature writing to recognize how authors communicate about nature. Students will examine the ways in which human beings experience the natural world - as an object of study, as a reflection of themselves and as a lens to look for meaning in their lives. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Lang, Phil & Culture CAO 094|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309H",
+            "course_name": "Great Ideas: Humanities II",
+            "course_desc": "By studying foundational texts in Western culture from interdisciplinary perspectives, students will understand the origin of great ideas and related them to an understanding of today's world. Texts are chosen around a particular theme by a team of instructors to focus on works from the Early Modern period to the present. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Lang, Phil & Culture CAO 094|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309I",
+            "course_name": "Plotting the American Experience",
+            "course_desc": "An in-depth critical study of plot in major contemporary American novels and stories from the last 20 years, both as a driving force in the works and as a reflection of the American moment in which each was written. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Lang, Phil & Culture CAO 094|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309J",
+            "course_name": "Memoirs from Lives off the Neurotypical Map",
+            "course_desc": "To understand the growing neurologically differently abled/disabled, -ordered, and mentally different/ill population and our perceptions of them and ourselves, we will analyze memoirs and aesthetic works by this true fringe group and consider what being fundamentally different means, and how labels affect people in and out of the neurotypical majority. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Lang, Phil & Culture CAO 094|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309K",
+            "course_name": "The Death Plot: Fiction, Memoirs, Poems",
+            "course_desc": "Students will read, discuss, and write about poems, fiction, and essays to analyze the end of life. Analysis will encompass literary, sociological, and psychological perspectives on death. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Lang, Phil & Culture CAO 094|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309L",
+            "course_name": "Communication and Consumer Culture",
+            "course_desc": "This cultural study of the turn of the twentieth century in America focuses on advertising and popular cultural messages. Students will analyze the new culture of consumerism as they develop knowledge about communication theory and strategies and practice their own communication skills. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Communication CAO 091|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309M",
+            "course_name": "From Jay-Z to Kendrick Lamar: Politics, Power, and Identity in Hip Hop Literature",
+            "course_desc": "Students will read, discuss, and write about the poetry of Jay-Z and Kendrick Lamar along with other texts to analyze the artists' political engagement, power to effect change, command of language, and struggle with identity formation. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Lang, Phil & Culture CAO 094|Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309N",
+            "course_name": "Don Quixote and the Birth of the Modern Novel",
+            "course_desc": "An in-depth study of 16-17th century Spanish, medieval, Renaissance, and Baroque ideas, values, and culture in the study of Cervantes' Don Quixote, the first truly modern novel. Students will examine the novel's literary antecedents and its reception through the twenty-first century. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Lang, Phil & Culture CAO 094|Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309O",
+            "course_name": "Talking Like TED",
+            "course_desc": "This course develops presentational speaking and storytelling skills through the lens of TED Talks. Students will view and discuss well-received TED Talks and practice the verbal and nonverbal behaviors related to effective communication. This course also focuses on interpersonal and small group communication skills related to presentational speaking.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Communication CAO 091|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309P",
+            "course_name": "Honors American Literature",
+            "course_desc": "This course examines representative authors and works from American literature. Readings will be assigned from various literary genres and will be situated critically within a historical, social, and cultural context. Students will engage with course material through research and creative inquiry.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Lang, Phil & Culture CAO 094|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2309Q",
+            "course_name": "Honors British Literature",
+            "course_desc": "Students will read and analyze representative authors and works from British Literature.  The course examines works in historical, social, and cultural context as a record of human experience. Courses employ a variety of teaching methods.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Lang, Phil & Culture CAO 094|Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2380F",
+            "course_name": "Introducatino of Complementary/ Alternative Medicine",
+            "course_desc": "The course introduces students to complementary/alternative medicine (CAM) and its integrate with the traditional health care system.  Emphasis is placed on historical, cultural, social, research and consumer aspects of CAM. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2380H",
+            "course_name": "Building a Greener Future One Home at a Time",
+            "course_desc": "This course will focus on the science and engineering principles involved in building and maintaining a house. Students will investigate how choices of materials and design influence the cost, sustainability, and energy efficiency of housing. Laboratory experiences will develop these concepts and enable students to make common household repairs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2380J",
+            "course_name": "Applying Statistics to Your World",
+            "course_desc": "This course engages students in active learning through statistical software, research studies, and simulations.  Students will explore the elements of statistical thinking by collecting, modeling, and drawing conclusions from data while taking into account the nature of variability.  Emphasis will be on engaging with real data and understanding statistical conclusions. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2390F",
+            "course_name": "History of Ideas II: New England Roots of American Culture",
+            "course_desc": "An examination, through reading of significant works as well as a trip to important sites in New England, of the roots of American culture as it was influenced by the Puritans and Transcendentalitsts. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2390K",
+            "course_name": "An Introduction to Arab Culture",
+            "course_desc": "This course will focus on educating students about different aspects of the Arabic culture.  The relation between the Arabic language and the Arabic culture will be introduced through the discussion of cultural expressions.  The course will also touch on the relation between the culture and Islam for the students to be able to differentiate between what is cultural and what is religious. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2390L",
+            "course_name": "An Introduction to to Islam",
+            "course_desc": "This course will focus on educating the students about basic history and cultural practices related to Islam, the prophet of Islam and Islam's holy book, The Koran.  It will also focus on the relationship between the Arabic language, the Arabic culture and Islam so the students will be able to distinguish between what is cultural and what is religious. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2391B",
+            "course_name": "Role of Images in Mediating Reality",
+            "course_desc": "This course teaches students about subconscious influences on their perceptions of reality and their behavior, and the fundamentals of visual literacy by introducing students to visual literacy.  Seeing is an avenue to higher-order thinking processes that will help students meet the professional, cultural and personal challenges of media. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 2391P",
+            "course_name": "Spirituality and Religion: A Contemporary Global Perspective",
+            "course_desc": "This course examines spirituality and religion as a universal component of human life, explores the world\"s major faith traditions, investigates personal and cultural biases to allow students to expand their global perspectives. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3010",
+            "course_name": "STEM Cognition and Pedagogy",
+            "course_desc": "This course provides an introduction to STEM pedagogy. Students learn key education theories and methods from STEM education research and cognitive science. They also evaluate processes of teaching and learning and examine structures and practices that facilitate and/or inhibit student learning. This class is one option for first semester Learning Assistants.",
+            "course_credits": "\n0 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Honors|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3100",
+            "course_name": "Research, Fellowships, and Grant Proposals",
+            "course_desc": "Creating a strong external funding application requires both persistence and imagination. This course will demystify the fellowship, scholarship, and grant application process and push students to develop key competencies that will help them translate their academic and/or creative interests into viable proposals. Students will receive structured and sustained feedback on their work as they engage collaboratively with the instructor and their peers. As a guiding framework, this course will use prestigious national and international programs, such as Fulbright, Churchill, and Rhodes.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3210",
+            "course_name": "STEM Cognition and Pedagogy",
+            "course_desc": "This course provides an introduction to STEM pedagogy. Students will learn key education theories and methods from STEM education research and cognitive science. Students will evaluate the processes of teaching and learning and examine structures and practices that facilitate and/or inhibit student learning.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Honors|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3380A",
+            "course_name": "Design Thinking and the Art of Product Development",
+            "course_desc": "Students will explore the use of design-thinking and human-centered design methods for developing new products and services. The course will focus on techniques and methods to articulate problems from a customers point of view and will also explore contemporary methods organizations use to manage product portfolios and risk management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3380B",
+            "course_name": "Idea Lab: Redesigning the Campus Experience",
+            "course_desc": "In this problem-based seminar, students become active change agents by utilizing design-thinking and other pedagogies to address specific challenges impacting the campus experience. Design-thinking draws upon diverse disciplines and methodologies, takes a human-centered approach to problem solving, and asks students to \"prototype to test.\" All majors and backgrounds are welcome.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3380C",
+            "course_name": "Entrepreneurial Design: Utilizing Design Thinking to Create Disruptive Companies",
+            "course_desc": "Students will focus on the interconnection between entrepreneurial thinking and innovation. They will develop innovation-driven venture skills and will gain open and critical thinking skills with a focus on community, understanding of calculated risk and the initiative to follow-through.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3380D",
+            "course_name": "Unpacking the Gaze: Intersectionality and Creative Publication",
+            "course_desc": "This course gives students the opportunity to develop advanced interdisciplinary skills through creative inquiry, critical analysis, and the creation of art that responds to historical and contemporary notions of the gaze. The debates and issues raised by this subject matter will serve as a platform for interdisciplinary discussions and thus appeal to students from a variety of disciplines. The course will meet the needs of: 1) Studio Art students who seek an introduction to researched-based approaches to art-making; and 2) Students outside of the Arts disciplines who seek exposure to creative problem solving, thinking through materials, and research-based creative production.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3380E",
+            "course_name": "Exhibition Design & Curatorial Practices",
+            "course_desc": "This course examines the role that exhibitions play in communicating knowledge and explores the variety of display methods within the language of exhibits. As every exhibition program reflects the hosting institutions mission, students will learn how to conceptualize exhibits for a variety of subjects: historical, scientific, contemporary, research, and temporary pop-ups. By approaching the subject of exhibit design in this manner, students will gain a sense of their own agency as arts administrators. Concurrent to focused weekly readings/group discussions/experiments, we will workshop final exhibit projects from concept to design throughout the semester.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3380F",
+            "course_name": "Design Across Cultures",
+            "course_desc": "Students will work cross-culturally through collaborative projects with international students from a university program in Europe. Students will research European design values and discuss with students from other cultures, while also presenting American design values. It will conclude with at least one extensive communication design project that showcases their research completed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3380G",
+            "course_name": "Dramaturgy and New Play Development",
+            "course_desc": "The best friend to a new play is the dramaturg. The process of dramaturgy involves deep exploration into a new play's environment, characters, constructs, and themes. By working with a brand new text, students in the course will practice dramaturgical research skills that will aid in the development and production of said plays. Students in this course will experience first hand the journey of a new play: from inception to fully mounted production. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3380H",
+            "course_name": "Regional Field Study: International Sustainable Transportation Engagement Program",
+            "course_desc": "This course offers a project-based approach to the study of sustainable transportation. Students work to collect primary data, present their findings, and engage with the local culture to develop a structured analysis of space and uses.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3382B",
+            "course_name": "Narratives In Psychology, Health, And Illness",
+            "course_desc": "This course explores the fields of narrative psychology and narrative medicine. Narrative psychology examines how stories and storytelling give significance to peoples experiences. The course focuses on narrative representations of health, illness, and healing written by patients, physicians, and others to understand the connection between the individual and their social context.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3382C",
+            "course_name": "Emotional Intelligence: Applications for Life and Well-Being",
+            "course_desc": "In this course students examine the theory, research, and practice related to emotional intelligence.  Emotional intelligence has far-reaching implications on health, mental health, education, the workplace, relationships, and more. Students learn the components, theory, and teaching of emotional intelligence and how it impacts a variety of behaviors and outcomes.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3390H",
+            "course_name": "Nature of Society: The Problem of Evil",
+            "course_desc": "The course will consist of a study of arguments and counterarguments about whether it ia reasonable to believe in an all-knowing, all-powerful, and all-good God, despite the appearance of gratuitous evil. All major attempts to solve or dissolve the problem will be considered. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3390J",
+            "course_name": "Don Quixote and the Birth of the Modern Novel",
+            "course_desc": "An in-depth study of Cervantes' Don Quijote, its literary antecedents, and its reception through the twentieth century. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3390K",
+            "course_name": "Modern Democracy & Its Enemies",
+            "course_desc": "This course will focus on the key characteristics of 21st century democracy and the internal and external threats that challenge its health and continued existence. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3390P",
+            "course_name": "Hollywood Amnesia",
+            "course_desc": "The course is designed to focus on films involving the topic of memory loss. Students will analyze the phsychological, social and political considerations underlying this trend in time. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3390T",
+            "course_name": "Frederico Garcia Lorca: Politics and Passion",
+            "course_desc": "Life and works of 20th century Spanish playwright and poet as a focal point for study of Spanish history, Andalusian folklore, gender and society, and literary styes. Themes are Spanish Civil War, gypsies and Flamenco music, surrealism and oral poetic traditions. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3390X",
+            "course_name": "Investigating European Film: From Cultural Politics to Strategies of Desire",
+            "course_desc": "This course examines the vision of the United States that European filmmakers developed.  Course topics will include the American myth, the figure of the star, the status of the foreigner and the identity politics supported by film production. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3390Y",
+            "course_name": "Theory of Language: Language, Mind and the making of Reality",
+            "course_desc": "The course is designed for students to gain an understanding of psycholinguistics, providing insights into human cognition and how the mind creates meaning through study of syntax, semantics, pragmatics and metaphors.  The course seeks to find universal principles of cognition that make human language and communication possible. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3391B",
+            "course_name": "The Nature of Man: Shaping of the Modern Mind",
+            "course_desc": "This course explores the ideas and institutions that have created our modern conception of the world.  The course examines the importance of industrial change, our interest in science and technology, the insights of the social sciences, and new philosophies about human kind and the human condition. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3391W",
+            "course_name": "Service Learning: A Study Abroad Course",
+            "course_desc": "This study abroad course will center on students' experiences volunteering with non-profit and/or government institutions abroad.  Discussions and written assignments will provide opportunities to analyze the volunteer experiences.  Field trips will provide cultural components to add to the discussion and written assignments. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3392M",
+            "course_name": "The New and Literary Journalism",
+            "course_desc": "The new literary journalism examines the genres of the new and literary journalism in light of literature; certain eras in reportage, i.e., war dispatches, philosophy, and the social sciences, among other disciplines. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3392N",
+            "course_name": "Modern Organizations' Perspectives",
+            "course_desc": "The course provides a conceptual and practical perspective on Modern Organizations.  It is designed to stimulate the student's curiosity about management practices of companies pursuing a competitive advantage through modern philosophies, and to identify potential areas to apply their chosen field of study. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3392P",
+            "course_name": "The Nature of the Human Experience: Technology & Gender in Film",
+            "course_desc": "Gender and Technology in Film will include a survey and analysis of films and theoretical and literary texts, with a focus on how gender, technology, and body images are depicted in film. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3392R",
+            "course_name": "Teaching Children to Write Poetry",
+            "course_desc": "A study of books by Kenneth Koch describing his work and lessons teaching poetry to children for the past 30 years.  Students will examine his ideas about the importance of teaching poetry to children, using classical poetry as well as lessons that draw forth a creative response from children. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3392T",
+            "course_name": "The Nature of the Human Experience: Integrated Marketing Communications",
+            "course_desc": "Integrated marketing communications is an interdisciplinary course designed to acquaint students with the principles and practice of integrated marketing communications. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3392V",
+            "course_name": "Nature of Man: Elementary Number Theory",
+            "course_desc": "This course is the systematic study of problems using definitions and logical deductions from these definitions.  Elementary number theory provides an ideal medium for such a study since all basic types of mathematical proofs occur in a setting requiring no prior background. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3392X",
+            "course_name": "The Nature of the Human Experience: The Contemporary African Novel in English",
+            "course_desc": "Novels by contemporary African writers from West Africa, East Africa, and Southern Africa will be read and discussed.  The class will also study the effects of colonialism on traditional African cultures.  Students will consider problems of language in the African novel. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3392Y",
+            "course_name": "The Nature of the Human Experience I: Immortality",
+            "course_desc": "Is it reasonable to believe in life after death?  The course will consist in attempts to answer this question with rational arguments. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3393F",
+            "course_name": "The Nature of Man: Communication & Culture",
+            "course_desc": "This course is a cultural study of the turn of the twentieth century, with a focus on a critique of advertising and popular culture messages that communicated the new culture of modernism to an America in transition. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3393J",
+            "course_name": "Sex, Drugs & Cabaret",
+            "course_desc": "This seminar considers European life in the years around 1900.  Students will examine \"high\" modernism's themes, including: Urban experience, nationalism, anti-semitism, and explorations of sexuality in social science, law and the arts. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3393N",
+            "course_name": "Violence in American Culture",
+            "course_desc": "The study of the life, times and thought of geniuses, focusing on the origin and evolution of their ideas and works and its effect on culture and civilization. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3393S",
+            "course_name": "Entrepreneurs, Leaders, Teams: Best Practices",
+            "course_desc": "Writing Intensive seminar examining the \"life stories\" of selected entrepreneurs, identifies leadership qualities that may have contributed to success, and explores principles necessary for groups to become teams and for teams to become high performing. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3393T",
+            "course_name": "The Voices of Eros in Poetry",
+            "course_desc": "This writing-intensive seminar examines erotic reality through the most private and intense verbal art - the poem.  It explores philosophy, visual arts and religion in poetry. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3393V",
+            "course_name": "Science & Politics of the Human Diet",
+            "course_desc": "This writing-intensive seminar on nutrition provides an exciting and personally relevant venue for learning science.  Learning is based on scientific literature, dietary assessment, field trips and experimentation in a food science lab. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3393Y",
+            "course_name": "Ethics of Care - East and West",
+            "course_desc": "This course compares contemporary western feminist ethics and ancient eastern thoughts regarding care.  Each stresses personal relations, and high moral value placed on care.  The course is interdisciplinary and studies gender and multicultural issues through a focus on care giving. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3394C",
+            "course_name": "Japanese Urban Experience",
+            "course_desc": "This course introduces students to urban Japanese life and culture through history, anthropology, literature, and film. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3394G",
+            "course_name": "Jazz: Cultural Diversity, Psychological & Political Zeitgests",
+            "course_desc": "This course is intended to help students appreciate cultural diversity and common unifying experiences leading to jazz, a uniquely American musical form. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3394I",
+            "course_name": "East Asian Tourism Today: Invention, Culture & Heritage",
+            "course_desc": "This course uses several disciplines to introduce students to the dynamics surrounding tourism in East Asia at the opening of the 21st century. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3394J",
+            "course_name": "Disturbing the Peace: The Politics of Language & Power in Hip-Hop Culture",
+            "course_desc": "This course introduces students to the language, film, literature, fashion, identity, and politics of hip-hop culture. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3394N",
+            "course_name": "Introduction to the Humanities I",
+            "course_desc": "This team-taught, interdisciplinary course examines the dilemmas that arise when indivdiual desires conflict with the needs of society.  Students analyze exemplary, original texts from the humanities tradition from the Classical period through the early modern era using the perspectives of literature, political theory, history, and philosophy. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3394P",
+            "course_name": "Individuals & Society: Intro to Humanities II",
+            "course_desc": "This interdisciplinary course examines the dilemmas that arise when individual desires conflict with the needs of society.  Students analyze exemplary, original texts from the humanities tradition from the Enlightenment through the present using the perspectives of literature, political theory, history, and philosophy. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3394Q",
+            "course_name": "Modern Drama: Theatre of Revolt",
+            "course_desc": "This seminar and process-oriented course examines the era of modern drama (late 19th-20th century) through text and performance. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3394R",
+            "course_name": "Modern Art & Life: A Curatorial Seminar",
+            "course_desc": "This interdisciplinary course examines the intersection of art and life in the careers of artists who contributed to the birth of modern art. Students will learn about modern art's history and museum operations as they help to curate a major exhibition based on works in a local collection. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3394T",
+            "course_name": "Social Class Collison: the Post WWII British Novel of Manners",
+            "course_desc": "Using six novels, this course explores the social landscape of Britain when once-rigid class distinctions dissolved during WWII. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3394V",
+            "course_name": "Universal Human Rights: A Global Perspective",
+            "course_desc": "This course will examine universal human rights as an organizing framework for understanding the exceedingly complex global community in which we live today.  It will examine significant social, political, philosophical, historical, legal, economic, geographic, and cultural factors that impact universal human rights.  It will provide an overview of the challenges in implementing universal human rights, explore effective efforts to redress inequity, and examine opposing viewpoints.  Finally, it will encourage students to engage in a critical intellectual inquiry and personal self-reflection. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3394X",
+            "course_name": "Magic Realism in the Works of Gabriel Garcia Marquez",
+            "course_desc": "A study of selected works of Nobel Prize author Gabriel Garcia Marquez, focusing on literautre, history, politics and popular culture of Latin America. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3394Y",
+            "course_name": "The Quest for the Sacred in a Secular Age: Late-Modern Novels",
+            "course_desc": "The Protestant Reformation weakened the notion of a homogeneous, central religion, as did the theories of Charles Darwin and Sigmund Freud.  Yet the sense that God was no longer a collective concept but a private belief didn't seem mainstream until the twentieth century.  We will study five novels that explore this shift. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3394Z",
+            "course_name": "The Black Image in Postwar America",
+            "course_desc": "This course explores the complex ways in which blackness has been figured and represented in postwar American as well as some of the strategies that have been used to respond, intervene, and subvert these frequently monolithic representations. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395B",
+            "course_name": "Integral Ecology",
+            "course_desc": "This course explores multiple issues associated with the development of integral ecology, an emerging metadiscipline rooted in a perception of reality that goes beyond traditional scientific rationalism to an intuitive awareness of the oneness of life, the interdependence of its multiple manifestations, and its cycles of change. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395C",
+            "course_name": "Fibers to Fabric: the Interlacing of History, Science, and Technology",
+            "course_desc": "This course focuses on the role of fiber products in the development of civilization and technology.  Through interdisciplinary investigations, the course seeks to provide an in-depth understanding of fiber science and place current technological, social and environmental issues surrounding textiles in historical  perspective. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395F",
+            "course_name": "Museum Representaions",
+            "course_desc": "This course explores how cultural and aesthetic values, history, and the scientific record are constructed and interpreted by the process of representation in museum exhibits. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395G",
+            "course_name": "19th Century German Lieder",
+            "course_desc": "This course explores the poetry and the music of Lieder to propose text-music relationships.  This course will explore the genre--its history, primary composers, and its continuing tradition into the 20th century. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395H",
+            "course_name": "Creating and Teaching Mathematical Lessons",
+            "course_desc": "This course provides students the opportunity to create and teach mathematical lessons for children that integrate algegra and geometry -- building their own mathematical understanding using inquiry based methods. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395I",
+            "course_name": "Ever Since Darwin: Celebrating Darwin's 200th Birthday",
+            "course_desc": "This course explores Darwin's quest in arriving at the theory of natural selection, his reasoning and evidence, as well as flaws and fallout. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395J",
+            "course_name": "The Meaning of Death",
+            "course_desc": "How does the fact that we will die affect the possibility of our living a meaningful life? In this course we will examine answers to this question provided by philosophers, psychologists, literary writers, and film-makers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395L",
+            "course_name": "Summer Study in France",
+            "course_desc": "Summer Study in France offers an intensive 35 hours a week, integrated program of oral and written French, phonetics and civilization, designed for intermediate students and supplemented with cultural activities.  In addition, a week in Paris introduces students to the French architectural and artistic legacy. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395M",
+            "course_name": "Humanity and the Natural Environment: A Study of Interrelationships",
+            "course_desc": "An interdisciplinary introduction to the interdependence between humans and their natural environment, emphasizing linkages between human activities and their impacts on environmental resources and sustainability, including the ecosystem goods and services provided by a healthy environment. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395P",
+            "course_name": "Preserving Humanity in the Face of Conflict: the War Story Genre",
+            "course_desc": "This course provides students the opportunity to consider the human impact of several global conflicts that have occurred over the past forty years by focusing on novels, short stories, essays, and a memoir written about post-World War II conflicts in Vietnam, the Balkans, Iraq, and Afghanistan. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395Q",
+            "course_name": "Vishnu, Bollywood, and Masala: South Asian Literature in Context",
+            "course_desc": "This course explores the culture of South Asia via its highly provocative literature, including religious texts such as The Bhagavad Gita, as well as contemporary texts by writers such as Salman Rushdie and Manil Suri.  We will contextualize our literary discussions by examining the region's history, religious history, religions, and culture. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395R",
+            "course_name": "Hip-Hop Culture and Positive Youth Development",
+            "course_desc": "Hip-Hop culture is examined within the context of human development over the life course. Cultural dynamics are examined alongside the social and political history of the United States. Through the lens of Hip-Hop, students will use skills in reflection, discussion and creative expression to develop strategies for personal growth and well-being. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395S",
+            "course_name": "Geographies of the Holocaust and Genocide",
+            "course_desc": "This course examines the Holocaust as a complex historical event and frames the Holocaust in the context of, and in comparison to, other genocides. The course is explicitly geographical in methods and subject matter, focusing on how the Holocaust and genocide are planned, implemented, and experienced differently in different places.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395V",
+            "course_name": "Introduction to LGBT Studies: An Interdisciplinary Approach",
+            "course_desc": "This course is an introduction to LGBT Studies, combining three academic disciplines: social, political, and historical; drama and fine arts; and English and Queer Theory. These disciplines will be integrated throughout the semester to assist student in developing a perspective of local, national, and global LGBT themes and issues. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395X",
+            "course_name": "Writing Yourself into Academia: Creating Portraiture",
+            "course_desc": "Portraiture is a cross-genre research methodology in which writers study a person, a group of people, an institution, or a concept. Students will create carefully researched portraits that integrate personal narrative, interviews, and academic research. Portraiture values students' lived experiences and has roots in anthropology, sociology, journalism, and creative nonfiction. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3395Y",
+            "course_name": "Juke, Twang, and Shout: Popular Music and Race in the US South",
+            "course_desc": "Amongst the genres of American popular music, styles heavily associated with the U.S. South tend to predominate, and the history of each seems to be entangled with that region's contentious racial history. This course will engage the history of musical production and performance in the South while also examining the hagiography of the South, its music, and its people. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396B",
+            "course_name": "Playwriting: A Structured Approach to Writing for the Stage",
+            "course_desc": "This course develops the basic professional techniques and skills used in writing for the theatrical stage. Students analyze scripts and perform practical exercises in story and character development, study dramatic play and structure and develop a full-length dramatic play. Weekly readings and critiques assist writers in refingin their scripts. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396C",
+            "course_name": "Screenwriting: A Structured Approach to Writing for the Screen",
+            "course_desc": "This course develops the basic professional techniques and skills used in writing for the screen. Students analyze contemporary scripts and perform practical exercises in story and character development, study screenplay structure and format, and develop a full-length dramatic screenplay. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396D",
+            "course_name": "Mythology, Science and Creation",
+            "course_desc": "Using religious studies scholarship on myth, the course surveys creation mythologies from around the world. Native American, African, Near Eastern (including Biblical), Greco-Roman, Old European, and Asian Myths will be included. Cosmological myths will then be compared to scientific cosmology and the current model(s) of the Universe's origin. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396E",
+            "course_name": "Free Speech, Free Press and the Supreme Court of the United States",
+            "course_desc": "This course focuses on U.S. Supreme Court decisions related to the First Amendment and the five rights of religion, speech, press, assembly and petition. By examining how the high court has interpreted the First Amendment, students will learn about government's sometimes wavering commitment to our nation's most  cherished rights. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396F",
+            "course_name": "The Art of Storytelling: From Origins to Improv",
+            "course_desc": "This seminar examines the art and culture of storytelling from ancient to contemporary times. Students read and analyze stories from oral and written traditions and develop skills in creating and applying storytelling in social, business, political and entertainment environments. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396J",
+            "course_name": "Transforming Creative Art: Literature in Performance",
+            "course_desc": "This seminar/workshop course examines the process of transforming literature into performance. Through close reading and analysis, students develop a critical understanding of the literary, sociological, and cultural attributes of a written work, and then develop approaches to transforming and presenting the work in performance-readings, dramatic productions, movies, improvisations. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396K",
+            "course_name": "Hispanic Americans: Finding Their Identities and Their Voices",
+            "course_desc": "This course is an examination of critical moments in American social history that defined the Hispanic American social, political, educational, literary, and cultural experience, and how these experiences continue to impact Hispanic American identities and voices. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396L",
+            "course_name": "Early American History through Biography",
+            "course_desc": "This seminar will acquaint students with major issues and events in early American history through the study of biography and autobiography. Students will study the lives of the individual, both prominent and lesser-known, from the American past, and these lives will be examined in the context of the larger historical narrative. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396M",
+            "course_name": "Transforming Creative Art: Literature in Performance, Presenting Later Shakespeare",
+            "course_desc": "This seminar/workshop series examines the transformation of literature into performance using three examples from Shakespeare's later plays. Through close reading and analysis, students develop a critical understanding of literary, sociological, and cultural attributes of written works, and then develop approaches to transforming and presenting the works into dramatic performances. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396N",
+            "course_name": "American History Through Memoir: From the End of Reconstruction to the Present Day",
+            "course_desc": "This seminar offers participants engagement with recent American history through the study of memoirs from a broad range of viewpoints. Seminar participants will be responsible for providing contexts for teh readings from within the secondary literature, while the featured memoirs will relate recent American history \"from the margins\": including voices of Native peoples, African-Americans, political and cultural dissidents, and recent immigrants. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396Q",
+            "course_name": "Public Policy for Energy, the Environment, and Global Sustainability",
+            "course_desc": "This course provides an interdisciplinary introduction to U.S. policy for energy, the environment, and sustainability. Emphasis will be placed on understanding the laws, regulations, and treaties that oversee air and water pollution, solid waste, hazardous waste, energy use, natural resources, climate change, and global governance for energy, environment, and sustainability. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396R",
+            "course_name": "Sustainable Design and the Built Environment",
+            "course_desc": "This course examines contemporary issues of where we live and the interdependence of our home on the environment.  Sustainable principles shall be emphasized with reference to social, economic, and ecological issues of the built environment. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396T",
+            "course_name": "How We Decide: Making Decisions from the Inside Out",
+            "course_desc": "This interdisciplinary seminar enlightens students on the decision-making process using contemporary research from neuroscience, psychology, management, healthcare, etc.  From this foundation students will examine case studies at the individual, group, and societal levels, and they will evaluate a cross section of decision aids such as heuristics, ethics, and computers. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396U",
+            "course_name": "From White Slavery to Sex Trafficking",
+            "course_desc": "This course seeks to historicize the global migration of sex workers and the modern-day anti-sex trafficking movement by tracing the origins of the anti-white slavery movement in the late nineteenth century to the debates about sex work and sex trafficking of the twenty-first century. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396V",
+            "course_name": "Witches, Whores, Murderers & Thieves: Capital Crime in Early America",
+            "course_desc": "This course is an in-depth investigation into the social and legal culture of Early America through the study of microhistories.  In this course, we will concentrate on a series of capital crimes, ranging from murder to witchcraft.  The period will be the 17th century through the Age of Jackson. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396W",
+            "course_name": "The Dragon and the Spaceship: Fantasy, Utopia, and the Fiction of Estrangement",
+            "course_desc": "This is a course on world literature that looks specifically at otherworldly literature, including works frequently categorized as fantasy, utopia or dystopia, and science fiction.  We will look at mostly modern texts written after 1800, with an emphasis on twentieth-century writers.  (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396X",
+            "course_name": "Storytelling in Video Games",
+            "course_desc": "This course will examine how stories are crafted to fit the new interactive media of video games, how these new stories resemble traditional stories from the literary canon, and how these unorthodox plots, characters, and games are used to create a new form of literature. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396Y",
+            "course_name": "Urban Horticulture",
+            "course_desc": "This course introduces the role urban landscape and the regional environment play in the quality of life.  Students will consider commercial products, services of Horticulture, and people-plant interactions related to art, science, and practice.  Students will learn the importance that land use decisions have on the sustainability of the environment. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3396Z",
+            "course_name": "Eating Meat in America: Historical and Philosophical Perspectives",
+            "course_desc": "This course has two aims: first, to introduce students to the changing nature of, and views about, the production and consumption of animals in America from the 18th century to the present; second, to introduce students to the philosophical issues that eating animals raises. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397A",
+            "course_name": "Revolution, Malaise, Reaction, and Sleaze:  America in the 1970s",
+            "course_desc": "This course revisits the reputation of a decade.  Many recent commentators have claimed the Seventies as a pivotal historical moment.  We will engage questions regarding why this is so, and how an understanding of the 1970s helps us to orient ourselves in the contemporary political, economic, and cultural milieu. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397B",
+            "course_name": "Plotting the American Experience",
+            "course_desc": "This course is an in-depth critical study of plot in major contemporary American novels and stories (1985-present), both as a driving force in the work(s) and as a reflection of the American moment in which each was written. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397C",
+            "course_name": "Geography of Africa",
+            "course_desc": "This course is a systematic approach to the multifaceted aspects of the physical and human geography of the African continent. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397D",
+            "course_name": "Urban Immersion: Seeing Cities through Cinema",
+            "course_desc": "This course explores themes in urban studies using full-length films and selected readings.  Students will study the geo-political, economic, and socio-cultural dimensions of cities.  Using cinema as a pedagogical tool immerses students in the urban experience more than traditional instructional methods, resulting in a richer understanding of the subject. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397E",
+            "course_name": "Literary Barcelona",
+            "course_desc": "With Franco's 1939 victory, the Catalan language was banned from public use.  This course will explore the undeservedly disadvantaged work of modern Catalan writers, and investigate texts, such as George Orwell's Homage to Catalonia, which stress Catalan social realities and affirm Barcelona as a place of literary imagination and vitality. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397F",
+            "course_name": "America vs the World: The History of a Love-Hate Relationship",
+            "course_desc": "This course explores the complex relationship between America and \"the rest of the world\" through an examination of the twin discourses of \"American Exceptionalism\" and \"Anti-Americanism\" from the time of European contact with the New World up through the post 9/11 era. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397G",
+            "course_name": "Memoirs from Life Off the Neurotypical Map",
+            "course_desc": "To understand the growing neurologically disabled, disordered, and mentally ill population and our perceptions of them and ourselves, we will analyze memoirs and aesthetic works by this true fringe group and consider what being fundamentally different means, and how labels affect people in and out of the neurotypical majority. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397H",
+            "course_name": "International Culture Course: the cultural characteristics and diversity of people outside the US",
+            "course_desc": "This study abroad course will cultivate student knowledge of the similarities and differences among international cultures, values, traditions, beliefs, and customs. Discussions and written assignments will provide opportunities to understand the cultural achievements and human conditions of a specific target country. Field trips will provide experience of cultural components. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397I",
+            "course_name": "A Cultural History of Mexico in the 20th Century",
+            "course_desc": "This seminar will investigate the landscape of state and culture in the Republic of Mexico in the 20th Century and explore the creators, as well as the political supporters and detractors, of popular culture in terms of the fine arts, plastic arts, dance and theatre arts, poetry, music, literature, and photography. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397J",
+            "course_name": "Extraordinary Leadership: Ownership and Influence",
+            "course_desc": "This course is designed to elevate the performance of leaders. Students are challenged to develop their potential in seminar-style sessions covering leadership definitions, theory, frameworks, and the global application of skills. Students explore their behaviors, motivations, values, influences, and character in an effort to increase self-awareness and to think critically. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397K",
+            "course_name": "The Search for Right and Wrong in Politics",
+            "course_desc": "Using classic texts and works from literature and film, and current event videos, this course provides students with a foundation for understanding the intersection of politics and ethics and for achieving an understanding of how politics works. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397L",
+            "course_name": "Economic Anthropology",
+            "course_desc": "This course reviews central issues in economic anthropology, using both case studies and theoretical writings.  Students will analyze production, exchange, distribution, consumption, property, economic surplus, inheritance, and types of economic structure.  Materials will cover hunter-gatherer societies, simple agricultural societies, pre-capitalist complex state societies, and issues of development in non-industrialized countries.  (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397M",
+            "course_name": "The Death Plot: Fiction, Memoirs, Poems",
+            "course_desc": "A story or poem is finite.  Life is too.  When we arrive at its end, we hope to understand its meaning, or, as Peter Brooks said, \"to connect ends and beginnings and make of the middle a highly charged field of force.\"  Stories and poems about death provide this opportunity.  (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397N",
+            "course_name": "Advanced Writing for Video Games",
+            "course_desc": "This course will teach students to write for video games based on techniques learned from observation and study.  The course focuses on creativity and flexibility, two traits essential to game writing, and students will develop a marketable design document for an original video game working in design teams. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397O",
+            "course_name": "Walking: An Active and Interdisciplinary Investigation",
+            "course_desc": "What has the act of walking meant historically and what does it mean today? What has been written about the experience of walking? What insights can walking with reflection bring? Students will explore these questions through readings in literature, history, and philosophy, and through art and the act of walking. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397P",
+            "course_name": "Anti-Intellectualism in American Culture and Politics",
+            "course_desc": "Hostility to science, experts, and \"book learning\" is a common impulse that shapes contemporary American culture and politics. In this course, we will explore how anti-intellectualism promotes notions about media bias, encourages belief in implausible conspiracies, and spurs hyperpolarized politics, among other topics. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397Q",
+            "course_name": "Women and Texas Music",
+            "course_desc": "This honors course examines the lives and contributions of Texas women composers, performers, historians, and patrons and their roles in the promotion and advancement of the state's music. Conducted in both lecture and class discussion formats, this course will address topic-related issues of class, race, and identity formation. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397R",
+            "course_name": "Demonology, Possession, and Exorcism",
+            "course_desc": "People have believed in demons throughout Western civilization and continue to, despite advances in science and medicine. This course explores the social significance of demonology. What are the historical, psychological, political, and economic consequences of believing in demons? To explore such questions, students will examine demonology across cultures and employ a variety of disciplinary approaches. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397S",
+            "course_name": "Human Language: its evolution, mental representation, and learning",
+            "course_desc": "Readings and discussions will concern human language's evolution, its representation in the mind/brain, and its learning by native and non-native speakers. Topics will include: evidence for language in other species including homo neanderthalensis; whether human language is innately specified; and similarities and differences between first and second language acquisition. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397T",
+            "course_name": "Psychology in Film",
+            "course_desc": "In this course, we will identify and discuss psychological concepts in popular films from a variety of genres. We will address issues of conformity, consciousness, motivation, addiction and psychological disorders. The approach to the material will be interdisciplinary in nature with a special focus on modern behavioral neuroscience.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397U",
+            "course_name": "Quests for the Holy Grail",
+            "course_desc": "The course surveys the Celtic and Christian sources of grail legends, the major medieval grail quests, and post-medieval appropriation of the grail quest. Primary sources shall be examined through the methods of literary criticism, anthropology, and religious studies. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397V",
+            "course_name": "Phonetics",
+            "course_desc": "This course is an introductory overview of human speech sounds. It describes speech anatomy and pays particular attention to the description of the acoustic and articulatory properties of speech as it occurs in real time. Students will study articulatory, acoustic, and auditory phonetics. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397W",
+            "course_name": "Alienation and Authenticity: In Search of the Modern Self",
+            "course_desc": "This course explores the problem of the self through major philosophical, literary, and social scientific works. Students will gain familiarity both with thinkers and ideas that shape discourse in the humanities and social sciences and theoretical perspectives for analyzing issues of selfhood in their own lives and fields of study. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397X",
+            "course_name": "Nueva York: Hispanic and Latino Literature and Art in New York",
+            "course_desc": "This course offers an inter-American multidisciplinary approach to Hispanic and Latino writers and artists in New York City from the late nineteenth century to the present. Topics include exile, migration, identity, bilingualism, and civil rights through a variety of literary genres, artistic forms, cultural organizations, and academic disciplines. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397Y",
+            "course_name": "Deception, Risk, and Science Ethics of Research with Human Subjects",
+            "course_desc": "This course introduces the key ethical concerns related to human subject research. Students will analyze research projects in which scholars place individuals at risk in the interest of reaping some benefit to those individuals and/or society. A case-study approach will actively engage students in ethical decision-making. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3397Z",
+            "course_name": "Makerspaces: Intersections of Art and Everything",
+            "course_desc": "This course will examine multidisciplinary concepts applied within makerspaces and complete hands-on design projects using beginner-level do-it-yourself techniques, including \"upcycling\" recyclable materials, 2D subtractive manufacturing (i.e. CNC machines that trim acrylic, cardboard, vinyl), 3D additive manufacturing (i.e. 3D modeling, printing), textiles (i.e. embroidery, sewing), and electrical circuits (i.e. micro-controllers, sensors). (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398A",
+            "course_name": "Italy and Arts of the Islamic World",
+            "course_desc": "This course will challenge the traditional account of the development of Italian Renaissance art by exploring connections to Islamic culture of the surrounding Mediterranean world. Students will be introduced to visual analysis and interdisciplinary research techniques by which art and architecture can be used as documents in interpreting history. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398B",
+            "course_name": "Modern Tibet: Politics, Identity and Representation",
+            "course_desc": "This course examines the political, religious, economic, environmental and cultural situation of modern Tibet, by reading works by Tibetan, Chinese and Western scholars, and by analyzing propaganda and stereotypes. Students will be exposed to modern Tibetan literature, art, pop music and film, as well first-hand accounts by class guests. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398C",
+            "course_name": "Theatre and War",
+            "course_desc": "In \"What It Is Like To Go To War\", Karl Marlantes calls for ritual to aid young soldiers returning home. In this course students will analyze how classical and modern theatre can provide such a ritual, and be used as a tool to understand society's role in war. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398D",
+            "course_name": "The Politics of Language in Schools and Society",
+            "course_desc": "Using a critical linguistic perspective, this course examines the sociopolitical aspects of language in local, national, and global contexts. Students learn about language ideologies and gain a profound understanding for how languages and language practices are intricately tied to the racial and economic power relations embedded in schools and society. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398E",
+            "course_name": "CIVIL LIBERTIES AM",
+            "course_desc": "This course explores major civil liberties themes in depth, both historical and contemporary, such as religious free exercise, free speech and press, criminal procedure, capital punishment, right to privacy, equal protection (race and gender), due process, political participation, and disabiities rights. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398F",
+            "course_name": "Anthropology of Peace and Violence",
+            "course_desc": "The class explores anthropological perspectives on peace and violence. It focuses on understanding violent practices within both traditional and current day societies including everyday violence and warfare. It explores the contributions of social structure, gender, religion, race, and ethnicity to violence. It examines efforts to build peace and reconciliation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398G",
+            "course_name": "Psychology and Law:  Protecting the Vulnerable",
+            "course_desc": "The course examines clinical, legal and psychosocial conditions of adults who, due to mental illness, developmental impairments, brain injuries or aging, are declared \"incapacitated\" and have court-appointed guardians. Students will serve as probate court representatives, (i.e., Court Visitors) who inspect living conditions/services for individuals under court-ordered guardianships (service learning component).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398H",
+            "course_name": "Chinese Politics and Society through Literature and Film",
+            "course_desc": "This course offers an overview of the main political and social developments in contemporary China through the cultural production of Chinese writers and filmmakers who, following the tradition of the Chinese literati of imperial times, became main characters in the modern Chinese political scene. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398I",
+            "course_name": "The Aesthetics of Failure",
+            "course_desc": "This course examines the role of failure as a creative and constructive part of life. We will consider failure across cultures and time periods, from various disciplinary perspectives, and through various media to define failure as more than the mere absence of success.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398J",
+            "course_name": "The Body and Literature",
+            "course_desc": "This seminar explores the intersection of the human body and literature in 20th- and 21st-century American fiction. Works will be examined according to form, plot, structure, content, character, language, medium, scale and genre in their representation of the human body. We will also consider the ways in which formal innovations reflect the very body of the text. Through discussion and close reading, students will analyze the cultural significance of the human body in literature, and they will perfect their skills of careful reading, sound researching, and convincing arguing. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398K",
+            "course_name": "Art as a Way of Knowing",
+            "course_desc": "Both art and science attempt to shed light on aspects of the human experience; yet modern society often presents these forms as dissimilar, merely opposites. In this course we will explore arts-based methodological research tools, and use artistic means in the process and presentation of social inquiry.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398L",
+            "course_name": "Soccer:  Local Stories, Global History",
+            "course_desc": "A ball, a field, at least five people: elements which have evolved into a sports phenomenon, providing fodder for claims about national identity, and establishing the most watched activity ever. Soccer is too important to leave to the fans. This course investigates the institutions, aesthetics, and ideologies shaping the game.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398M",
+            "course_name": "The Future of Work: Stratification, Low Growth, and Universal Basic Income in the 21st Century",
+            "course_desc": "Economic changes such as continued workplace automation and markedly slower growth imply big changes in social stratification in coming years. This course explores work and stratification in light of the jobless economy thesis, recent proposals for a universal basic income, and related likely cultural consequences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398N",
+            "course_name": "The Anthropology of Religion and Fundamentalism",
+            "course_desc": "This course provides students with current and historical approaches to the anthropology of religion with a particular emphasis on fundamentalism.  It focuses on the development of religious fundamentalism in different cultural contexts, geopolitical situations, and religious traditions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398O",
+            "course_name": "Introduction to Statistical Genetics and Bioinformatics",
+            "course_desc": "This is an interdisciplinary course with a focus on the analysis of genetics and bioinformatics data. This course will cover basic genetics, statistics, programming, and cutting-edge research topics on statistical genetics and bioinformatics. Students will have hands-on experience of analyzing different types of genetic and bioinformatic data.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398P",
+            "course_name": "Wild Nights! Wild Nights!",
+            "course_desc": "A multidisciplinary study of the cultural, historical, and ecological significance of the night  as revealed in poetry, fiction, and drama. The semester will begin with a historical study of the night pre-electricity, and will end with a consideration of the endangered nights of our post-electrical present and future.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398Q",
+            "course_name": "Life Online: Epistemology, Ethics, and Culture on the Internet",
+            "course_desc": "Increasingly, our lives are lived online. We communicate, learn, play and love on the internet. In this course, we investigate the epistemological, ethical, and cultural implications of this shift. Class discussion will focus on current internet topics ranging from fake news to the aesthetics and ethics of internet memes. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398R",
+            "course_name": "Culture, Medicine and the Body",
+            "course_desc": "This course explores how the human body, functions of the body, and the practices of medicine and healing are situated and contextualized within cultural frameworks. Case studies cover body and health-related topics over the life course, from birth to death. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398S",
+            "course_name": "Geography of Food and Agriculture",
+            "course_desc": "The Geography of Food and Agriculture course will critically evaluate local and global food systems, considering the implications of varying forms of production and consumption and exploring topics related to sociocultural, economic, and environmental landscape change, the role of agriculture in both rural and urban places, and sustainability writ large.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398T",
+            "course_name": "Dramatic Adaptation",
+            "course_desc": "Dramatic Adaptation is a writing course where students will be adapting non-dramatic works into stage plays. The course will begin with an introduction of the dramatic form, with regards to adaptation, in both principles and structure. Students will then create and write their own adaptations for the stage. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398V",
+            "course_name": "Philosophy, Politics, and Economics",
+            "course_desc": "What are an individuals moral obligations to their community, nation, and world? How do governments and economic systems shape these obligations? Are capitalism and socialism really opposites? This course investigates these questions, and others, through the interdisciplinary study of PPE, an emerging field that draws from philosophy, politics, and economics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398W",
+            "course_name": "The Mathematics and Statistics of Gambling and Sports Betting",
+            "course_desc": "This course uses the scaffolding of gambling and sports betting to engage students in applied probability and statistical modeling. The course covers both descriptive and inferential methods.  Topics include measures of central tendency, dispersion, and shape; probability and probability distributions; sampling distributions; estimation, hypothesis testing, linear models, and non-parametric analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398X",
+            "course_name": "Language & the Body",
+            "course_desc": "Linguistic anthropologists believe that language not only reflects but also shapes and creates our social worlds. This class will focus on how language shapes our embodied identities and our deeply held beliefs through exploration of linguistic, cultural, and medical anthropological research and that of related social sciences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398Y",
+            "course_name": "The Creative Spark: Interdisciplinary Perspectives on Creativity",
+            "course_desc": "From technology to the arts, the ideals of creativity and innovation are hotter then ever. But what exactly is creativity? This interdisciplinary course will draw on diverse perspectives (psychology, science, and arts) as we explore what it means to be creative and how to be more creative in our lives.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3398Z",
+            "course_name": "Political Ecology of Science Fiction",
+            "course_desc": "Political ecology considers how power relations and politics, as a form of society and culture, influence environmental systems and management. This course applies the concepts of political ecology to science fiction case studies as a means to uncover latent human-environment interactions and explore similar processes in the real world.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399A",
+            "course_name": "Balinese Music and Its Cultural Context",
+            "course_desc": "This course examines the arts, culture and society of the island of Bali, Indonesia, with special attention to the practice and study of traditional musical forms and structures. The course also explores contemporary artistic trends and the impact of technology and tourism on the arts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399B",
+            "course_name": "Language, Culture, and Education",
+            "course_desc": "Students will consider the roles language and culture play in American education. Through converging scholarship from the fields of anthropology, language and literacy, and education, the course addresses relationships of power, knowledge, and identity in schools, as well as critiques of the effects of globalization, migration, and market-based approaches to schooling in the U.S. and international contexts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399C",
+            "course_name": "Comics, Cartoons, and Contested Racial Identities in US History",
+            "course_desc": "This course examines how comics have reflected, shaped, and challenged Americans notions of racial difference from the nineteenth century to today. Along with reading recent scholarly books and articles, we will analyze a wide range of comics from various periods, tracking the interrelation of comics and larger patterns of U.S. race relations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399D",
+            "course_name": "Hell Across Cultures",
+            "course_desc": "Hell has a dual natureexisting as an afterlife, but always making commentary on its contemporary surrounding society. Using a variety of methodological approaches, this course explores the social significance of the idea of hell across a variety of religious traditions, including Buddhism, Islam, Christianity, Judaism, and popular culture.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399E",
+            "course_name": "From Africa to Texas: A Black Language Odyssey",
+            "course_desc": "When different peoples speaking different languages meet and need to communicate, interesting things happen. Texas has several such populations, which have their own new ethnicities, languages, music and cuisine. This course will look at two of these groups, the Black Seminoles and the French Creoles, both originating in Africa, and both spoken today in Texas. It will also address the position of African American Vernacular English (Black English) in the context of creole theory.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399F",
+            "course_name": "The Myths of Western Civilization: Decolonizing and Queering European History",
+            "course_desc": "Spanning from antiquity, this course deconstructs the concept and history of \"Western Civilization.\" Through the study of primary and secondary sources, students will consider how history can be written to include oppressed and marginalized voices while still attempting to understand the broad scope of European history and its legacy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399G",
+            "course_name": "Graph Theory & Its Applications",
+            "course_desc": "This course introduces the most important topics of graph theory through its applications and in a lively style. It includes some examples of proofs selected with the purpose of strengthening mathematical techniques and offering challenging opportunities to have fun while doing mathematical research. Students seeking core curriculum credit for this course should enroll in HON 2302B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Honors|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399H",
+            "course_name": "Southern Gothic Storytelling: An Analysis Of Text And Performance",
+            "course_desc": "At its best, theatre will provoke thought and inspire change. Many productions nonetheless depict agreeable themes and characters to like-minded audiences, rendering critical and self-reflective aspects of the medium ineffective. However, one theatrical genreSouthern Gothiceffectively acknowledges and addresses this concern. By examining Southern Gothic theatre from analytical, performative, and historical perspectives, this course will showcases the genre's influences and impact, and it will explore how different contexts and cultures have shaped performance and interpretive decisions. Students will thereby discover how the Southern Gothic genre aims to honor and criticize the very culture it represents.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Honors|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399I",
+            "course_name": "Ethics, Science, And Society",
+            "course_desc": "This course will support students' engagement with ethical issues relating to the interactions of science and society. The material will include case studies from different science disciplines. Students will study a topic within their own field in depth for a final project. This course is intended for any STEM student. It will encourage students to consider the impact of scientific research across multiple disciplines. Students will also focus on a topic within their own discipline for their final project.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Honors|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399J",
+            "course_name": "Ireland: Theatre, Postcolonialism, and Identity",
+            "course_desc": "This course will explore Irish theatre as a form of postcolonial discourse. It will also examine the role of theatre as a guiding force in the Irish Independence movement, and the importance of theatre in the continuing dialogue to define the Irish identity.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399K",
+            "course_name": "Data Visualization and Interpretation: Honors Statistics",
+            "course_desc": "A well known belief is that \"a picture is worth a thousand words.\" Beyond merely analyzing numbers and interpreting the results, an effective way to interact with statistical data is through charts and graphs, which allow for visual interpretations of the frequency pattern of data in the context of data collection. This course explicates statistical theory and the meaning of data, both to ease comprehension and encourage evidence-based decision making. Students will use Tinker Plots, EXCEL, Tableau, and other appropriate software. Prerequisite: MATH 1315 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399L",
+            "course_name": "Exploring The Italian World",
+            "course_desc": "This class presents an interdisciplinary study of contemporary society and culture in Italy. It will explore elements of civilization, arts, gender, politics, literature, and cinema. It will also introduce students to Italian-American studies by exploring significant cultural expressions from the multifaceted Italian world and their impact on American society.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Honors|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399M",
+            "course_name": "Negotiating the (Black/White) Color Line",
+            "course_desc": "This course uses literature, film, television, and other media to examine how Black Americans have negotiated the Black/White color line.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399N",
+            "course_name": "Art, Media, and Environmental Justice",
+            "course_desc": "This course takes an interdisciplinary approach to the environmental justice (EJ) movement by focusing on media: film, photography, theater, art, and social media created at the intersection of environmental ethics and social justice. Students will learn EJ histories and be introduced to activists and artists working on issues ranging from housing and labor to climate and energy justice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399O",
+            "course_name": "Improvisation & Interdisciplinary Play",
+            "course_desc": "This course offers an interdisciplinary study of improvisation from various entry points. Play, choice-making, connection, and collaboration will be explored through movement, sound, and dialogue. No prior experience with improvisation necessary.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399P",
+            "course_name": "Coming-of-Age Archetypes in Contemporary Literature",
+            "course_desc": "This course applies critical thinking to familiar myths that inform the various ways we are taught, grow up, and define ourselves. In the popular imagination, growing up to become a mature self happens quickly. But contemporary and realistic coming-of-age stories instead posit the enemy or danger as society itself. This course explores contemporary stories, poems, and personal \"coming-of-age\" essays with an inclusive and vibrant reading list by authors from various cultural and ethnic backgrounds.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399Q",
+            "course_name": "Harry Styles And The Cult Of Celebrity: Identity, The Internet, And European Pop Culture",
+            "course_desc": "This course focuses on British musician Harry Styles and popular European culture since World War II to understand the cultural and political development of the modern celebrity as related to questions of gender and sexuality, race, class, nation and globalism, media, fashion, fan culture, internet culture, and consumerism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399R",
+            "course_name": "Alien First Contact: Best Practices",
+            "course_desc": "What should humanity do if we come into contact with an intelligent alien species? That far-fetched premise directs attention to serious questions about the contingency and durability of social institutions, about the uses of technology, and about which elements of human society we value most universally.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399S",
+            "course_name": "Seminar on Public Policy: Netherlands Study Abroad Program",
+            "course_desc": "From congestion to climate change, major issues related to transportation have emerged as contentious and vexing urban policy areas. For metropolitan areas around the globe to continue to grow and thrive, the fundamental components of the transportation system need to be effectively managed. This class examines the policy divide between these two approaches through an experiential field classroom.\".",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399T",
+            "course_name": "Intellectual Property Law in Society",
+            "course_desc": "This course examines the structure and functions of government together with the laws supporting and regulating intellectual property, namely patents, trade secrets, copyrights, and trademarks. The relations between intellectual property policies and societal goals and regulations are also explored to help students develop an understanding of intellectual property law in a context related to their field of study. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399U",
+            "course_name": "Public Memory",
+            "course_desc": "This course examines how a societys historical narratives are profoundly driven by public memory, which is not absolute truth; it is malleable and shifts over time. Those who control the narratives shape our interpretations of the past as well as the present. Throughout history, the construction of narratives about the past has been dominated by elites whose economic, racial, and gender locations have afforded them privilege. The course considers how expanding and diversifying who participates in this process can profoundly affect political and power debates in society. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399V",
+            "course_name": "Cities And Society In Latin America: Power, Rebellion, and Creativity",
+            "course_desc": "This course takes a close look at Latin American cities and their historical, political, and cultural role. Case studies of particular cities will give students a deeper understanding of the region and students will link the history of these cities to vibrant cultural productions in the arts and literature.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399W",
+            "course_name": "The Art of Bob Dylan: Explorations of Method and Performance",
+            "course_desc": "This course takes a critical look at the work of Bob Dylan, including his contributions as an author, musical performer, painter, sculptor, actor, and recent recipient of the Nobel Prize in Literature. By examining his place in American history, his evolving identities, and his curious methodologies, students will better undestand American art and literature in popular culture. The course will explore intertexuality, appropriation, and originality through Dylan's work.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399X",
+            "course_name": "The Beat Generation and Explorations of the Self",
+            "course_desc": "This course will examine how the Beats set out to break free from the stifling conformity of the 1950sin literature and in lifestyleby revising and revisiting the 19th-century Romanticism of Emerson, Thoreau and Fuller (among others). Students will explore the forms, content, race, gender, patriotism, censorship, drugs, visions, religion, mass media, hair, and comics utilized in their creative output.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399Y",
+            "course_name": "American Money",
+            "course_desc": "This course examines the laws, economics, finance, and historical evolution of the United States dollar from its legal birth in 1792 to present. Students will explore economic and financial theories of the dollar and its social, environmental, and economic impacts. Students may propose improvements to the modern American money system.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3399Z",
+            "course_name": "Soundscape, Environment, Music",
+            "course_desc": "This course provides an introduction to Sound Studies and Ecomusicology, combining reading, critical discussion, and field research. Participants will examine critically both foundational and current authors (artists, ethno/musicologists, philosophers, sociologists, scientists); apply, test, and synthesize the field's frameworks through creative activities (e.g. soundwalks and local ethnographies); and generate new scholarly and creative work.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3480A",
+            "course_name": "Relativity and Quantum Mechanics for Non-Science Majors",
+            "course_desc": "Principles of quantum mechanics and relativity will be discussed and analyzed including applications to theoretical problems and practical applications. The lab portion will teach basic electronics skills and allow students to perform classic experiments of modern physics. (WI).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Lab Required|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3480B",
+            "course_name": "Building A Greener Future: One Home at a Time",
+            "course_desc": "This course will focus on the science and engineering principles involved in building and maintaining a house. Students will investigate how choices of materials and design influence cost, sustainability, and energy efficiency of housing. Laboratory experiences will elucidate these concepts. (WI).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Lab Required|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 3480C",
+            "course_name": "Teaching Physical Science to Children",
+            "course_desc": "This studio-styled physics course is ideal for preservice K-8 teachers.  Course content includes both physics concepts and research findings on physics teaching and learning.  We will focus on developing deep understanding of fundamental concepts in physical science and how these concepts relate to making sense of our everyday experience. (WI).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 4090",
+            "course_name": "Honors Capstone",
+            "course_desc": "This course is designed for students to pursue an independent project of research, study, or creative achievement to fulfill the capstone requirement for graduating in the Honors College. Students in this non-credit bearing version of a capstone course should be enrolled in a similar course in their discipline. (WI).",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 4390A",
+            "course_name": "Senior Seminar: Capstone Development",
+            "course_desc": "This course provides a structured environment for students to begin work on their capstone projects. Students will explore potential pathways, connect with faculty advisors, and take initial steps toward completing their projects. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 4390B",
+            "course_name": "Honors Capstone",
+            "course_desc": "This course is designed for students to pursue an independent project of research, study, or creative achievement to fulfill the capstone requirement for graduating in the Honors College.  (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HON 4391",
+            "course_name": "Honors Independent Study",
+            "course_desc": "Individual study under direct supervision of a professor for Honors credit. May involve field trips. This course may be repeated for credit but a student may not a exceed six hours of credit in Honors Independent Study. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Honors|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

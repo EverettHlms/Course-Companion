@@ -1,0 +1,182 @@
+{
+    "name": "Family and Consumer Sciences",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/fcs/",
+    "courses": [
+        {
+            "course_code": "FCS 1310",
+            "course_name": "Foundations in Family and Consumer Sciences",
+            "course_desc": "This course provides an overview of the field of Family and Consumer Sciences as it relates to human ecology, emphasizing its interdisciplinary nature, history, theories, career opportunities, and career readiness.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 3303",
+            "course_name": "Introduction to Research in Family and Consumer Sciences",
+            "course_desc": "This course examines practices in the social science research process, with an emphasis on general scientific literacy.  Content will focus on technical and academic writing for use in the Family and Consumer Sciences profession.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 4101",
+            "course_name": "Special Problems in Family and Consumer Sciences",
+            "course_desc": "A study of selected areas of Family and Consumer Sciences. Repeatable for credit with different emphasis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dual Enrollment Permitted|Header|Time Conflicts Permitted",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 4303",
+            "course_name": "Research Procedures in Family & Consumer Sciences",
+            "course_desc": "The study and implementation of research procedures for use with family and consumer sciences programs. Includes instrument selection, recruitment and testing of subjects, coding, analysis and dissemination of data. Will include field based experiences using appropriate research procedures. Restricted to Senior Standing. (WI) Prerequisite: FCS 3303 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 4304A",
+            "course_name": "Family Finance II",
+            "course_desc": "This course is a study of financial management for individuals and families.  Topics include financial inequality, investments, retirement planning, and estate planning.  Prerequisite: CA 3341 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 4304B",
+            "course_name": "Introduction to Research Methods in Family and Consumer Sciences",
+            "course_desc": "The examination of practices in the social science research process with an emphasis on general scientific literacy and technical, academic writing for use with Family and Consumer Sciences programs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 4304C",
+            "course_name": "Teaching Textile Product Construction",
+            "course_desc": "This course is a teaching-oriented study of the techniques and technologies used to construct textile-based products. Its purpose is to help prepare students for teacher certification and teach textile product construction education content in secondary level FCS classrooms and also to learners of all ages.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 4340",
+            "course_name": "International Study in Family and Consumer Sciences",
+            "course_desc": "Study of Family and Consumer Sciences topics in international settings. Emphasis will be placed on cultural awareness and its application within FCS professions. Repeatable for credit with different emphasis. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 4343",
+            "course_name": "Occupational Education in FCS",
+            "course_desc": "Its purpose is to help prepare students for teacher certification and teach occupational education content in 11-12 grade FCS classrooms. Occupational education course in 11-12 grades such as Services for Older Adults, Hospitality Services, Childcare and Guidance and Food Production, management and services are designed for students to gain extensive management skills and practical work experience.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 4344",
+            "course_name": "Instructional Management for Family and Consumer Sciences",
+            "course_desc": "This course provides students with hands-on application of the Texas Teaching Proficiencies as outlined by the Texas Teacher Evaluation and Support System (T-TESS) and the Danielson Framework. Principles and practices specifically needed for managing the FCS classroom will be addressed.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 4347",
+            "course_name": "Family Policy",
+            "course_desc": "This course is an examination of policy-making and the significance of national, state and local policies that affect families. Students will analyze social policies, including government programs and legislation, and discuss how to influence change in policies. Use of the Internet and computer software programs such as Word, PowerPoint, and others required. Requires Senior Standing. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 4681",
+            "course_name": "Family and Consumer Sciences: Clinical Student Teaching",
+            "course_desc": "Students will apply knowledge and skills learned during the teacher preparation program while engaging in clinical practice with experienced Family & Consumer Sciences mentor teachers in school settings with university instruction and supervision.  This culmination experience is required for Texas teacher certification. Requires departmental approval through the OEP. Prerequisites: Admittance to the Educator Preparation Program, 2.75 Overall GPA;  Additional coursework may not be taken concurrently;  For undergraduate students, all other degree-required course work must be completed; For graduate and post-baccalaureate students, all certification coursework must be completed.",
+            "course_credits": "\n6 Credit Hours \n1 Lecture Contact Hour \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "FCS 5101",
+            "course_name": "Graduate Assistant Development",
+            "course_desc": "This course is required as a condition of employment for graduate teaching and instructional assistants. This course provides regular in-service and planned periodic evaluations of instructional responsibilities. This course does not earn graduate degree credit. Repeatable up to 3 times.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "FCS 5301",
+            "course_name": "Graduate Assistant Development",
+            "course_desc": "This course is required as a condition of employment for graduate teaching and instructional assistants. It provides information about the educational needs of Texas State University's diverse student body. It also identifies educational strategies and campus resources that support the learning of undergraduate students. This course does not earn graduate degree credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA|Multicultural Content",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "FCS 5302H",
+            "course_name": "Sustainable Consumer Economy",
+            "course_desc": "This course is a in-depth study of the role of consumption in the development of sustainable systems including the family, natural resources and economics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 5302J",
+            "course_name": "Statistics and Data Analysis for Family and Consumer Sciences",
+            "course_desc": "This is a graduate level course covering statistical techniques commonly used in the field of family and consumer sciences. Topics include descriptive statistics, Chi-Square analysis, analysis of variance and covariance, simple and multiple linear regression, logistic regression, and use of statistical software. Data analysis to support decision-making is emphasized. Restricted to students in one of the graduate FCS programs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 5302S",
+            "course_name": "Sustainable Textiles",
+            "course_desc": "This course is an in-depth study of the relationship of fibers, fabrics, finishes and textile products end-uses with a particular focus on their impact on sustainability.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 5305",
+            "course_name": "Sustainable Housing",
+            "course_desc": "This course is an in-depth study of the relationship between housing and sustainability with a particular focus on the role of materials, technology, policy and human factors in fostering healthy social, economic and natural systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 5307",
+            "course_name": "Sustainable Lighting",
+            "course_desc": "This course focuses on understanding the elements and principles of sustainable lighting and explains how it meets the qualitative needs of the visual environment with the least impact on the natural environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 5310",
+            "course_name": "Research Methods in FCS",
+            "course_desc": "This course will cover the evaluation of concepts, methods, and strategies for research in the disciplines of family and consumer sciences.  The course will focus on the nature and ethics of scientific research, including design, sampling, measurement, and data collection. Restricted to graduate level majors in the School of Family and Consumer Sciences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 5311",
+            "course_name": "Statistics and Data Analysis for Family and Consumer Sciences",
+            "course_desc": "This is a graduate level course covering statistical techniques commonly used in the field of family and consumer sciences. Topics include descriptive statistics, chi-square analysis, analysis of variance and covariance, simple and multiple linear regression, logistic regression, and use of statistical software. Data analysis to support decision-making is emphasized. Restricted to graduate students in FCS.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FCS 5340",
+            "course_name": "International Study in Family and Consumer Sciences",
+            "course_desc": "Study of Family and Consumer Sciences topics in international settings. Emphasis will be placed on an analysis of cultural differences and similarities and their application within FCS professions. Repeatable for credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

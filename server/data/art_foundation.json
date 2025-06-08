@@ -1,0 +1,22 @@
+{
+    "name": "Art Foundation",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/artf/",
+    "courses": [
+        {
+            "course_code": "ARTF 1302",
+            "course_name": "Basic Drawing for Non-Majors",
+            "course_desc": "This class introduces a variety of media and techniques for exploring descriptive and expressive possibilities in drawing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ARTF 1304",
+            "course_name": "Color Theory",
+            "course_desc": "Introduction to color as a descriptive and expressive element of art, focusing on color perception and application.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

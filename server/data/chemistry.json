@@ -1,0 +1,862 @@
+{
+    "name": "Chemistry",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/chem/",
+    "courses": [
+        {
+            "course_code": "CHEM 1135",
+            "course_name": "Engineering Chemistry Laboratory",
+            "course_desc": "This laboratory course is designed to accompany CHEM 1335.  This course introduces students to experimental measurements and the study of thermodynamics, kinetics, and equilibria. Corequisite: CHEM 1335 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 1141",
+            "course_name": "General Chemistry Laboratory I",
+            "course_desc": "First of two laboratory courses in general chemistry for science-related majors. Course introduces the students to the basics of experimental measurements, including density, separation techniques, formula determinations, titrations, thermodynamics, gas laws, and descriptive chemistry. Corequisite: CHEM 1310 or CHEM 1341 either with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 1142",
+            "course_name": "General Chemistry Laboratory II",
+            "course_desc": "Second of two laboratory courses in general chemistry. Laboratory techniques are emphasized, and applied to both qualitative and quantitative analysis. Prerequisites: CHEM 1141 and CHEM 1341 both with grades of \"D\" or better. Corequisite: CHEM 1342 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 1310",
+            "course_name": "Introductory Chemistry for Non-Science Majors",
+            "course_desc": "A one semester principles course for students in non-science related majors, this course covers the major concepts of chemistry and the role of chemistry in contemporary society. (It is not intended as an introductory course for general chemistry or for science majors.).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 1320",
+            "course_name": "Foundations of Chemistry",
+            "course_desc": "This course is a preparatory course for CHEM 1335 and CHEM 1341. It provides a background in fundamental chemical mathematics, in writing and understanding chemical formulas and equations and in the application of scientific laws in the behavior of matter from macro to atomic levels. Students have the option to complete online ALEKS modules and test out of this course. Corequisite: [MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2417 or MATH 2471 any with a grade of \"C\" or better] or [ACT Mathematics score of 24 or better] or [SAT Mathematics score of 550 or better] or [Accuplacer College Mathematics score of 86 or better] or [Compass College Algebra score of 46 or better] or [Next-Generation Advanced Algebra and Functions Test of 263 or better].",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 1330",
+            "course_name": "Chemistry for Non-Science Majors",
+            "course_desc": "This is the second of two lecture courses for non-science majors.  The course surveys organic and biochemistry and current topics which may include energy-related topics, nuclear chemistry, environmental chemistry, medicinal chemistry, and synthetic and natural polymers. Prerequisite: CHEM 1310 or CHEM 1341 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 1335",
+            "course_name": "Engineering Chemistry",
+            "course_desc": "This course is a one-semester lecture course that focuses on engineering-related applications.  Topics include stoichiometry, gases, chemical bonding and structure, periodic trends, materials, energy, kinetics, equilibrium, and electrochemistry. Prerequisite: [[MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2417 or MATH 2471 any with a grade of \"C\" or better] or [ACT Mathematics score of 24 or better] or [New ACT Mathematics score of 25 or better] or [SAT Mathematics score of 550 or better] or [Accuplacer College Mathematics score of 86 or better] or [Compass College Algebra score of 46 or better] or [Next-Generation Advanced Algebra and Functions Test of 263 or better]] and [[CHEM 1320 with any grade of \"C\" or better] or [ALCH00 score of 80 or better]].",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 1341",
+            "course_name": "General Chemistry I",
+            "course_desc": "This course is the first lecture course in the general chemistry sequence for science-related majors, and  covers atomic and molecular structure, bonding, states of matter, solutions, and descriptive chemistry. Prerequisite: [[MATH 1315 or MATH 1317 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2417 or MATH 2471 any with a grade of \"C\" or better] or [ACT Mathematics score of 24 or better] or [New ACT Mathematics score of 25 or better] or [SAT Mathematics score of 550 or better] or [Accuplacer College Mathematics score of 86 or better] or [Compass College Algebra score of 46 or better] or [Next-Generation Advanced Algebra and Functions Test of 263 or better]] and [[CHEM 1320 with any grade of \"C\" or better] or [ALCH00 score of 80 or better]].",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 1342",
+            "course_name": "General Chemistry II",
+            "course_desc": "Second of two lecture courses in general chemistry for science-related majors, covering equilibrium processes, acid-base chemistry, and kinetics, and electrochemistry. A basic knowledge of algebra is needed. Prerequisite: CHEM 1341 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 2130",
+            "course_name": "Laboratory Technique in Organic Chemistry",
+            "course_desc": "An optional laboratory to accompany CHEM 2330, covers experimental techniques of preparation, purification, and determination of physical and chemical properties of organic compounds. Prerequisites: CHEM 1142 and CHEM 1342 both with grades of \"D\" or better. Corequisite: CHEM 2330 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 2141",
+            "course_name": "Organic Chemistry Laboratory I",
+            "course_desc": "This laboratory introduces the student to the general techniques of organic chemistry. Prerequisites: CHEM 1342 with a grade of \"C\" or better and CHEM 1142 with a grade of \"D\" or better. Corequisite: CHEM 2341 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 2142",
+            "course_name": "Organic Chemistry Laboratory II",
+            "course_desc": "This laboratory involves the study of typical organic reactions. Prerequisites: CHEM 2341 with a grade of \"C\" or better and CHEM 2141 with a grade of \"D\" or better. Corequisite: CHEM 2342 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 2150",
+            "course_name": "Biochemistry & Metabolism Lab",
+            "course_desc": "An optional laboratory to accompany CHEM 2350. This laboratory examines the physical properties and chemistry of carbohydrates, amino acids, proteins, lipids and nucleotides. Course is designed for students majoring in nutrition, clinical laboratory science and agriculture. Prerequisites: [CHEM 2130 and CHEM 2330] or [CHEM 2142 and CHEM 2342] any with a grade of \"D\" or better. Corequisites: CHEM 2350 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 2330",
+            "course_name": "Fundamentals of Organic Chemistry",
+            "course_desc": "A one-semester course which covers nomenclature, structure and reactions of organic compounds with an introduction to bioorganic molecules. Course is designed for students majoring in nutrition, clinical laboratory sciences and agriculture. Prerequisites: CHEM 1142 and CHEM 1342 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 2341",
+            "course_name": "Organic Chemistry I",
+            "course_desc": "This course covers the nomenclature, reactions and reaction mechanisms of the hydrocarbons and the alkyl halides. Prerequisites: CHEM 1342 with a grade of C or better. Corequisite: CHEM 1142 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 2342",
+            "course_name": "Organic Chemistry II",
+            "course_desc": "This course covers the nomenclature, reactions and reaction mechanisms of the major functional groups. Prerequisite: CHEM 2341 with a grade of C or better. Corequisite: CHEM 2141 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 2350",
+            "course_name": "Biochemistry & Metabolism",
+            "course_desc": "A one-semester study of carbohydrate, proteins, lipids and nucleotides which presents both structure and intermediary metabolism along with an introduction to the function of enzymes and coenzymes. Course is designed for students majoring in nutrition, clinical laboratory science and agriculture. Prerequisites: [CHEM 2130 and CHEM 2330] or [CHEM 2142 and CHEM 2342] any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 3190",
+            "course_name": "Cooperative Education",
+            "course_desc": "This course provides cooperative education students the opportunity to study particular problems in chemistry and biochemistry in an occupational setting. Problems are related to the student's work assignment, culminating in an industrial supervisor's evaluation and the student's technical report or presentation.  A total of 3 hours of cooperative education credit may be applied to the student's major elective. Prerequisite: Minimum 2.25 Overall GPA and Instructor Approval.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 3245",
+            "course_name": "Physical Chemistry Laboratory",
+            "course_desc": "Experiments illustrating principles and methods of physical chemistry are performed. Written reports on the experiments are prepared. (WI) Prerequisites: CHEM 3330 with a grade of C or better and CHEM 3410 with a grade of \"D\" or better. Corequisites: CHEM 3340 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 3276",
+            "course_name": "Experimental Biochemistry",
+            "course_desc": "Course introduces biochemistry minors to the fundamental techniques used in modern biochemistry. Experiments use the essential techniques employed in the study of proteins, enzymes and nucleic acids with emphasis on the use of modern instrumentation and the manipulation and analysis of experimental data. Prerequisites: CHEM 3375 or CHEM 4375 either with a grade of C or better.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 3290",
+            "course_name": "Advanced Cooperative Education",
+            "course_desc": "This course provides cooperative education students the opportunity to study particular problems in chemistry and biochemistry in an occupational setting. Problems are related to the student's work assignment, culminating in an industrial supervisor's evaluation and the student's technical report or presentation. A total of 3 hours of cooperative education credit may be applied to the student's major elective. Prerequisite: Minimum 2.25 Overall GPA and instructor approval.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 3330",
+            "course_name": "Physical Chemistry I",
+            "course_desc": " The course covers principles of thermodynamics and thermochemistry, phase equilibria, electrochemistry and elementary kinetics including rate laws and mechanisms. Prerequisites: CHEM 1142 with a grade of \"D\" or better and CHEM 1342 and MATH 2472 both with grades of C or better.",
+            "course_credits": "\n3 Credit Hours \n4 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 3340",
+            "course_name": "Physical Chemistry II",
+            "course_desc": "The course covers kinetics, quantum mechanics, spectroscopy, and other selected topics. Prerequisite: CHEM 3330 and PHYS 2326 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n4 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 3341",
+            "course_name": "Descriptive Inorganic Chemistry",
+            "course_desc": "An analysis of atomic, molecular, and solid state bonding and structure with an emphasis on coordination compounds and bioinorganic chemisry.  Representative compounds and reactions of the elements will be surveyed. Prerequisite: CHEM 2342 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 3375",
+            "course_name": "Principles of Biochemistry",
+            "course_desc": "This course provides biochemistry majors and minors with a rigorous introduction to biochemistry. Topics include the chemical function and structure of proteins, nucleic acids, lipids and carbohydrates, and enzyme mechanisms, kinetics and regulation. Corequisite: CHEM 2342 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 3380",
+            "course_name": "Analytical Biochemistry",
+            "course_desc": "This course is designed to acquaint the student with the chemical and physical principles of modern biochemical methods. Emphasis is placed upon the application of the methods to current problems in biochemistry and molecular biology and the interpretation of data. Prerequisite: CHEM 3375 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 3381",
+            "course_name": "Biochemistry Techniques",
+            "course_desc": "Course introduces biochemistry majors to techniques in analytical and physical biochemistry. Experiments reinforce fundamental concepts and utilize modern instrumentation. Experimental design, interpretation of results, and data reporting will be emphasized. (WI) Prerequisites: CHEM 3375 with a grade of \"C\" or better. Corequisite: CHEM 3380 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 3390",
+            "course_name": "Physical Chemistry for Biochemists",
+            "course_desc": "A study of the theories and laws of physical chemistry as it relates to biochemistry.  The topics covered include ideal and real gases, classical thermodynamics, reaction kinetics, phase equilibria, electrochemistry, quantum mechanics, spectroscopy and statistical mechanics. Prerequisite: MATH 2472 with a grade of \"C\" or better. Corequisite: PHYS 2325 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 3410",
+            "course_name": "Quantitative Analysis",
+            "course_desc": " Course covers the general theory and practice of typical methods of gravimetric and volumetric analysis, satisfies the quantitative analysis requirements for chemistry majors, minors, pre-medical and pharmacy students. Prerequisites: CHEM 1342 with a grade of \"C\" or better and CHEM 1142 with a grade of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4099",
+            "course_name": "Predoctoral Biomedical Research Development for Undergraduates",
+            "course_desc": "This course is a weekly professional development seminar for NIH-supported trainees and affiliates in the Texas State U-RISE program (NIH GM136483). Prerequisite: Instructor approval.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 4231",
+            "course_name": "Advanced Laboratory I",
+            "course_desc": "An advanced integrated lab illustrating a variety of chemical techniques for the preparation, characterization and analysis of organic and inorganic materials. (WI) Prerequisites: CHEM 3245 and CHEM 3340 and CHEM 3410 all with grades of \"D\" or better. Corequisites: CHEM 4331 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4241",
+            "course_name": "Advanced Laboratory II",
+            "course_desc": "An advanced integrated lab illustrating a variety of chemical techniques for the preparation, characterization and analysis of inorganic and organic materials. (WI) Prerequisites: CHEM 4231 and CHEM 4331 both with grades of \"D\" or better. Corequisite: CHEM 4341 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4295",
+            "course_name": "Laboratory Development and Practice",
+            "course_desc": "This course develops the laboratory instructional abilities of students seeking either 8-12 Chemistry or 8-12 Physical Science Teaching Certification. Topics include both traditional laboratory techniques and guided inquiry techniques, safety, laboratory management, pedagogical theory and practical knowledge of laboratory experiments. Prerequisite: Minimum 2.5 Overall GPA.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4299",
+            "course_name": "Undergraduate Research",
+            "course_desc": "This course is available to undergraduate chemistry or biochemistry majors only. It may be repeated for credit but a maximum of four semester hours from this course are applicable toward advanced chemistry electives. Prerequisite: Instructor approval.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4310",
+            "course_name": "Medicinal Chemistry",
+            "course_desc": "This course surveys modern approaches to drug discovery and mechanisms of drug action with the focus on molecular structures of drugs. Examples of drug discovery for the chemotherapy of cancer, microbial and cardiovascular diseases will be examined. Prerequisites: [CHEM 2342 and CHEM 2350] or CHEM 3375 or CHEM 4375 any with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4312",
+            "course_name": "Organometallic Chemistry",
+            "course_desc": "This course will survey the structure, bonding, and reactivity of organometallic complexes. Homogeneous catalysis of the transition metals as well as the main group elements along with specialized seminal research papers in the field of organometallic chemistry will also be presented. Prerequisites: CHEM 2342 and CHEM 3341 both with grades of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4331",
+            "course_name": "Instrumental Analysis",
+            "course_desc": "The theory and methodology associated with the quantitative analysis of materials, i.e., electronics, spectroscopy, electrochemistry and chromatography are presented. Prerequisite: CHEM 3340 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4333",
+            "course_name": "Spectroscopy",
+            "course_desc": " The study of various spectrometric techniques in qualitative and structural analysis of chemical substances. Prerequisite: CHEM 2342 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4341",
+            "course_name": "Advanced Inorganic Chemistry",
+            "course_desc": "This course will use group theory analysis to predict vibrational spectra and bonding in molecules, including metal complexes.  Numerous approaches (aciid/base, redox, etc.) will be employed to rationalize the products of inorganic and organometallic reactions.  The materials properties of solids and nanomaterials will also be discussed. Prerequisites: CHEM 3340 and CHEM 3341 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4350",
+            "course_name": "Modern Molecular Modeling",
+            "course_desc": "A study of the application of computational techniques to molecular modeling. Topics covered include quantum mechanical modeling, forcefield based molecular modeling, molecular energy minimization, molecular dynamics, vibrational spectra, solution of crystalline structures, diffraction patterns, molecular blends, phase equilibria, crystal morphology, physical property prediction and mesoscale modeling. Prerequisite: CHEM 3340 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4351",
+            "course_name": "Introduction to Polymers",
+            "course_desc": "This course is designed to develop the students general understanding of polymer history and importance as well as terminology, structure, and synthesis. The overall scope of the course will be to develop the students general knowledge of polymer synthesis and structure. Prerequisite: CHEM 2342 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4360",
+            "course_name": "Molecular Biology",
+            "course_desc": "This course provides Biochemistry majors and minors with advanced knowledge of the field of molecular biochemistry. Topics include gene expression (transcription and translation of genes in bacteria and higher organisms), post-translational modification of proteins, chromosomal DNA replication, cell cycle checkpoint controls, DNA damage and repair, as well as theories of cancer and aging. Prerequisite: CHEM 3375 or CHEM 4375 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4371",
+            "course_name": "Directed Study",
+            "course_desc": "Independent study on a particular subject area in chemistry or biochemistry. The specific study area, resource material, goals, and achievements will be approved by the instructor. Prerequisites: CHEM 2342 with a grade of \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4375",
+            "course_name": "Biochemistry",
+            "course_desc": "This course provides a challenging introduction to biochemistry, covering the structure and function of nucleic acids, proteins, lipids, and carbohydrates. Major metabolic pathways of carbohydrates and lipids are also examined. This course is not intended for biochemistry majors. Corequisite: CHEM 2342 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4382",
+            "course_name": "Advanced Biochemistry Research Laboratory II",
+            "course_desc": "This course is the second of two laboratory courses providing instruction in the modern techniques of biochemistry. Students will perform independent research projects involving isolation, manipulation and characterization of biomolecules. Results of these experiments and the scientific literature investigations will be used to prepare formal written reports and oral presentations. Prerequisite: CHEM 4481 with a grade of \"C\" or better. (WI).",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4385",
+            "course_name": "Metabolism",
+            "course_desc": "A study of the biodegradation and biosynthesis of carbohydrates, lipids, amino acids, proteins, and nucleic acids. Prerequisite: CHEM 3375 or CHEM 4375 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4390",
+            "course_name": "Supramolecular Chemistry",
+            "course_desc": " This course is designed to be a survey of the nature of non-covalent interactions between host and guest species. Emphasis will be focused on the rational design of hosts, themodynamic and kinetic parameters involved in binding and the applications of various binding/recognition phenomena. Prerequisite: CHEM 2342 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4396A",
+            "course_name": "Materials Chemistry",
+            "course_desc": "This course covers chemistry of the synthesis, structure, and properties of materials, including nanomaterials, and inorganic, organic and hybrid materials. An overview of solid-state chemistry and the principles and theory of sol-gel chemistry and materials characterization methods will be provided.  Current topics and trends in materials chemistry and applications of materials in energy, electronics, and healthcare will be covered. Students will be equipped with a foundation for advanced coursework and/or research in the field of materials chemistry. Prerequisite: CHEM 3341 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 4481",
+            "course_name": "Advanced Biochemistry Lab I",
+            "course_desc": "The first of two laboratory courses providing instruction in the modern techniques of biochemistry. Experiments are performed on the isolation, manipulation and characterization of DNA, RNA and proteins. Students will prepare formal written reports and oral presentations. (WI) Prerequisites: CHEM 3381 with a grade of C or better and CHEM 3380 with a grade of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5110",
+            "course_name": "Seminar in Chemistry",
+            "course_desc": "A course designed to acquaint the graduate student with current research areas in chemistry. May be repeated twice for total of 3 semester hour credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5195",
+            "course_name": "Professional Development of Graduate Assistants",
+            "course_desc": "This course is designed to develop and enhance graduate assistants laboratory instruction abilities. Topics covered in the course include effective lecture techniques, laboratory safety, theory and practical knowledge on laboratory\nexperiments and laboratory section management. This course does not earn graduate credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CHEM 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 5285",
+            "course_name": "Laboratory Development Practice",
+            "course_desc": "This course develops the laboratory instructional abilities of post-baccalaureate students seeking either 8-12 Chemistry or 8-12 Physical Science Teaching Certification.  Topics include both traditional laboratory techniques and guided inquiry techniques, safety, laboratory management, pedagogical theory and practical knowledge of laboratory experiments.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5295",
+            "course_name": "Professional Development of Graduate Assistants",
+            "course_desc": "This course is designed to develop and enhance graduate assistants laboratory instruction abilities. Topics covered in the course include effective lecture techniques, laboratory safety, theory and practical knowledge on laboratory\nexperiments and laboratory section management. This course does not earn graduate credit.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CHEM 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 5310",
+            "course_name": "Medicinal Chemistry",
+            "course_desc": "This course surveys modern approaches to drug discovery and mechanisms of drug action with the focus on molecular structures of drugs. Examples of drug discovery for the chemotherapy of cancer, microbial and cardiovascular diseases will be examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5311",
+            "course_name": "Natural Products, Anti-Infective, and Anti-Cancer Agents",
+            "course_desc": "This course is designed to introduce natural products by discussing their important classes (secondary metabolites), classification, nomenclature, structure, biosynthesis, occurrence and structure elucidation. The study of their utilization in medicine as leads for the development of new antimicrobial and anticancer agents will constitute the main focus of the course. The students will learn how to utilize their knowledge of organic chemistry and biochemistry gained in undergraduate courses toward the application of advanced research active areas at the chemistry-biology interface.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5312",
+            "course_name": "Organometallic Chemistry",
+            "course_desc": "This course will survey the structure, bonding, and reactivity of organometallic complexes. Homogeneous catalysis of the transition metals as well as the main group elements along with specialized seminal research papers in the field of organometallic chemistry will also be presented.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5313",
+            "course_name": "Principles and Applications of Mass Spectrometry",
+            "course_desc": "This course is designed for graduate chemistry and biochemistry majors. Sections of the course are devoted to the theory and practice of mass spectrometry. Application to chemistry, biochemistry, biology and materials science will be explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5320",
+            "course_name": "Modern Molecular Modeling",
+            "course_desc": "The application of computational techniques to molecular modeling. Topics covered include quantum mechanical modeling, force field based molecular modeling, energy minimization, molecular dynamics, vibrational spectra, solution of crystalline structures, diffraction patterns, molecular blends, phase equilibria, crystal morphology, physical property prediction, and mesoscale modeling. Prerequisites: CHEM 3340 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5321",
+            "course_name": "Advanced Organic Chemistry",
+            "course_desc": "Study of the relation of the following topics to structure and reactions of organic compounds: bonding, stereochemistry, acid-base concepts, physical organic chemistry, reactive species, and mechanisms.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5330",
+            "course_name": "Physical Chemistry",
+            "course_desc": "Fundamentals of physical chemistry are surveyed, emphasizing application in the other chemical sub-disciplines. Topics include classical thermodynamics, kinetics, atomic structure, and molecular spectroscopy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5333",
+            "course_name": "Spectroscopy",
+            "course_desc": "Study of various spectrometric techniques in qualitative and structural analysis of chemical substances. Students who have completed CHEM 4333 or its equivalent may not take this course for master's credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5341",
+            "course_name": "Inorganic Chemistry",
+            "course_desc": "This course will review essential concepts in inorganic chemistry including atomic structure, bonding theory, acid-base chemistry, solid state structures, and coordination chemistry.  Analytical techniques for characterizing inorganic structures will be discussed along with current topics in the field.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5342",
+            "course_name": "Bioinorganic Chemistry",
+            "course_desc": "This course is designed to provide a broad overview of metalloprotein active site design and reaction mechanisms catalyzed by metalloenzymes. Training sessions on the use of contemporary protein visualization tools will be provided and used throughout the course. Topics covered in the course include dioxygen transport and activating proteins, electron transfer proteins, dinitrogen (N2), and hydrogen (H2) activation, photosystem and oxygen evolution, zinc containing proteins, CO2 reduction, and modern advancements in the field of bioinorganic chemistry. Students can expect to develop strong foundational knowledge in metalloenzyme structure, function, and reaction mechanisms.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5351",
+            "course_name": "Introduction to Polymers and Polymer Synthesis",
+            "course_desc": "This course is designed to develop the students general understanding of polymer history and importance as well as terminology, structure, and synthesis. The overall scope of the course will be to develop the students general\nknowledge of polymer synthesis and structure. Students who have completed CHEM 4351 or its equivalent may not take this course for master's credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5353",
+            "course_name": "Polymer Processing and Characterization",
+            "course_desc": "This course is designed to explore the areas of polymer processing and characterization. Students will be introduced to extrusion, injection molding, film formation, thermoforming, thermal-mechanical measurements, classical mechanical testing, thermal-optical measurements, and methods for determination of polymer molecular weight. Prerequisites: CHEM 5351 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5355",
+            "course_name": "Physical Chemistry of Polymers",
+            "course_desc": "A study of the physical chemistry of polymers. Subjects covered include thermodynamics, kinetic polymerization, phase relationships, molecular\ngeometry, spectroscopy of polymers, polymer physics and mechanical behavior, polymer blends, rheology, and polymer composites.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5365",
+            "course_name": "Separation Methods in Chemical Analysis",
+            "course_desc": "The principles of gas chromatography, capillary electrophoresis, and mass spectrometry are discussed with a balance among theory, practice, and application.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5366",
+            "course_name": "Quantitative Methods in Biophysical Chemistry",
+            "course_desc": "This course will integrate the physical, chemical, and biological aspects of fundamental biophysical methods, including spectroscopy, calorimetry, and hydrodynamics. Students will develop a quantitative skillset in multiple analytical methods that are used to characterize a variety of biological systems. This course will provide students with the physical and chemical foundation to quantitatively study biological macromolecules at multiple levels of complexity.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5370",
+            "course_name": "Problems in Chemistry",
+            "course_desc": "Open to graduate students on an individual basis by arrangement with the faculty member concerned. May be repeated once with different emphasis for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5375",
+            "course_name": "Biochemistry",
+            "course_desc": "A course devoted to a study of the chemistry of carbohydrates, lipids, proteins, enzymes, and nucleic acids. A study of enzyme kinetics and thermodynamics of\ncoupled reactions is included.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5381",
+            "course_name": "Physical Biochemistry",
+            "course_desc": "An introduction to the physical techniques of biochemistry with emphasis on the interpretation of experimental data obtained from electrophoresis, chromatography, immunological methods, ultracentrifugation, spectroscopy and emerging techniques.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5382",
+            "course_name": "Enzymology",
+            "course_desc": "A study of the chemical and physical properties of enzymes. Topics will include structure-function relationships, elucidation of chemical and kinetic mechanisms, and the role of enzymes in metabolism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5383",
+            "course_name": "Molecular Biology & Molecular Genetics",
+            "course_desc": "This course addresses the basic genetic mechanisms of bacteria and eukaryotes and introduces some examples of the biochemical and genetic techniques employed to study cells, tissues, and organisms.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5384",
+            "course_name": "Current Topics in Biochemistry and Molecular Biology",
+            "course_desc": "Course provides students with advanced knowledge in the areas of biochemistry and molecular biology. Topics include signal transduction and the molecular biology of cancer, as well as emerging topics in Genomics, Proteomics, and other new developments in biochemistry. May be repeated once for credit. Prerequisites: CHEM 5381 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5385",
+            "course_name": "Metabolism",
+            "course_desc": "A study of biodegradation and biosynthesis of carbohydrates, lipids, amino acids, proteins, and nucleic acids. Students who have completed CHEM 4385 or its\nequivalent may not take this course for master's credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5386",
+            "course_name": "Proteins",
+            "course_desc": "This course will cover advanced biochemistry topics related to proteins.  Topics will include protein structure, structure-function relationships, and current methodologies for examining proteins in addition to current findings in primary literature.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5387",
+            "course_name": "Nucleic Acids Chemistry",
+            "course_desc": "This course will cover advanced biochemistry topics related to nucleic acids.  Topics will include nucleic acid structures and properties, catalytic nucleic acids, protein-nucleic acid interactions, higher order complexes of protein-nucleic acids, and current methodologies for examining nucleic acids in addition to current findings in primary literature. Prerequisite: CHEM 5383 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5390",
+            "course_name": "Supramolecular Chemistry",
+            "course_desc": "This course is designed to be a survey of the nature of non-covalent interactions between host and gust species. Emphasis will be focused on the rational\ndesign of hosts, thermodynamic and kinetic parameters involved in binding and the applications of various binding/recognition phenomena.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5391",
+            "course_name": "Chemical Biology",
+            "course_desc": "This course will introduce the emerging field of chemical biology and common tools that are used to analyze and manipulate biological processes with small molecules. Students will develop a strong foundation in the design and synthesis of chemical tools to interrogate biological systems and focus on implementing  and interpreting assays with these tools, using examples from the current literature.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5395",
+            "course_name": "Fundamentals of Research",
+            "course_desc": "Course is designed to acquaint the beginning graduate student with materials and methods of chemical research. (MULT & MULP).",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5396A",
+            "course_name": "Materials Chemistry",
+            "course_desc": "This course covers chemistry of the synthesis, structure, and properties of materials, including nanomaterials, and inorganic, organic and hybrid materials. An overview of solid-state chemistry and the principles and theory of sol-gel chemistry and materials characterization methods will be provided. Current topics and trends in materials chemistry and applications of materials in energy, electronics, and healthcare will be covered. Students will complete an independent report on synthesis, structure and properties of a material.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in CHEM 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 7101",
+            "course_name": "Doctoral Assistant Development",
+            "course_desc": "This course is designed to prepare doctoral students employed as instructional assistants to perform effectively in diverse instructional settings. This course is seminar-based and covers topics related to teaching, research, and employment responsibilities. Completion of the course is required as a condition of employment for graduate assistants. This course does not earn graduate degree credit. Repeatable with different emphasis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CHEM 7110",
+            "course_name": "Advances in Molecular and Biophysical Chemistry",
+            "course_desc": "This course is designed to provide students in the Integrated Molecular and Biophysical Chemistry PhD program a forum to discuss ongoing research progress and new discoveries through literature study.  Students in the course will give informal work in progress presentations and critically analyze recent publications in the field.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 7199",
+            "course_name": "Dissertation",
+            "course_desc": "This course consist of original research and writing in integrated molecular and biophysical chemistry to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 7200",
+            "course_name": "Graduate Research",
+            "course_desc": "This course is designed to provide doctoral students with an elective research option to allow them to collect preliminary data as they develop their dissertation proposal.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 7201",
+            "course_name": "Graduate Laboratory Rotations",
+            "course_desc": "This course is designed to assist students in selecting a doctoral committee chair by having them work in several laboratories during their first semester in the program.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 7299",
+            "course_name": "Dissertation",
+            "course_desc": "This course consist of original research and writing in integrated molecular and biophysical chemistry to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 7300",
+            "course_name": "Graduate Research",
+            "course_desc": "This course is designed to provide doctoral students with an elective research option to allow them to collect preliminary data as they develop their dissertation proposal.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n12 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 7305A",
+            "course_name": "Physico-Chemical Properties and Metabolism of Xenobiotics",
+            "course_desc": "This course is designed to introduce students to the concepts of physico-chemical properties of small molecules and how these impact the ability of these molecules to be used as probes in biological systems, focusing on the role that metabolic processes play in limiting or activating chemical probes and the role of chemical probes in investigating these processes. Students will explore experimental and computational methods for determining the relevant properties of compounds.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 7311",
+            "course_name": "Natural Products, Anti-Infective, and Anti-Cancer Agents",
+            "course_desc": "This course is designed to introduce the natural products by discussing their important classes (secondary metabolites), classification, nomenclature, structure, biosynthesis, occurrence and structure elucidation. The study of their utilization in medicine as leads for the development of new antimicrobial and anticancer agents will constitute the main focus of the course. The students will learn how to utilize their knowledge of organic chemistry and biochemistry gained in undergraduate courses toward the application of advanced research active areas on chemistry-biology interface.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 7330",
+            "course_name": "Environmental Chemistry",
+            "course_desc": "An introduction to environmental chemistry, with an emphasis on aquatic resources. Basic principles of geochemistry and atmospheric chemistry, as\nthey relate to pollutant impacts on aquatic ecosystems, also will be examined. Prerequisites: CHEM 2142 and CHEM 2342 and CHEM 3410 all with grades of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 7342",
+            "course_name": "Bioinorganic Chemistry",
+            "course_desc": "This course is designed to provide a broad overview of metalloprotein active site design and reaction mechanisms catalyzed by metalloenzymes. Training sessions on the use of contemporary protein visualization tools will be provided and used throughout the course. Topics covered in the course include dioxygen transport and activating proteins, electron transfer proteins, dinitrogen (N2), and hydrogen (H2) activation, photosystem and oxygen evolution, zinc containing proteins, CO2 reduction, and modern advancements in the field of bioinorganic chemistry. Students can expect to develop strong foundational knowledge in metalloenzyme structure, function, and reaction mechanisms.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 7354",
+            "course_name": "Eukaryotic Molecular Biology and Macromolecular Structure",
+            "course_desc": "This course is designed to cover the specific topics of the regulation of gene expression in eukaryotes, including eukaryotic DNA replication, DNA repair, DNA recombination, DNA transcription, RNA processing, translation, post-translational protein modification. This course will also introduce the application of macromolecular structure determination in eukaryotic gene expression and its regulation. Students can expect to develop a strong foundation in eukaryotic molecular biology, a strong ability to discuss literatures and some grant writing ability.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 7361",
+            "course_name": "Quantitative Methods in Biophysical Chemistry",
+            "course_desc": "This course will integrate the physical, chemical, and biological aspects of fundamental biophysical methods, including spectroscopy, calorimetry, and hydrodynamics. Students will develop a quantitative skillset in multiple analytical methods that are used to characterize a variety of biological systems. This course will provide students with the physical and chemical foundation to quantitatively study biological macromolecules at multiple levels of complexity.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 7385",
+            "course_name": "Metabolism and Metabolomics",
+            "course_desc": "This course is designed to introduce students to the metabolism of macromolecules and the principles and practice of metabolomics. It will cover (1) biosynthesis and biodegradation of carbohydrates, lipids, amino acids, proteins, and nucleic acids; (2) metabolomics principles; (3) applications of metabolomics in the biomedical field. Discussions of literature in metabolomics studies will be emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 7391",
+            "course_name": "Chemical Biology",
+            "course_desc": "This course will introduce the emerging field of chemical biology and common tools that are used to analyze and manipulate biological processes with small molecules. Students will develop a strong foundation in the design and synthesis of chemical tools to interrogate biological systems and focus on implementing  and interpreting assays with these tools, using examples from the current literature.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 7395",
+            "course_name": "Fundamentals in Molecular and Biophysical Chemistry",
+            "course_desc": "This course is designed to provide a functional overview of the physics, chemistry, and biology concepts that are central to the practice of molecular biophysical chemistry. Students will develop a broad scientific foundation to pursue interdisciplinary projects within the biophysical and biochemical sciences, as well as productively interface and collaborate with colleagues across sub-disciplines throughout their doctoral studies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHEM 7399",
+            "course_name": "Dissertation",
+            "course_desc": "This course consist of original research and writing in integrated molecular and biophysical chemistry to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 7599",
+            "course_name": "Dissertation",
+            "course_desc": "This course consist of original research and writing in integrated molecular and biophysical chemistry to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 7699",
+            "course_name": "Dissertation",
+            "course_desc": "This course consist of original research and writing in integrated molecular and biophysical chemistry to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CHEM 7999",
+            "course_name": "Dissertation",
+            "course_desc": "This course consist of original research and writing in integrated molecular and biophysical chemistry to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

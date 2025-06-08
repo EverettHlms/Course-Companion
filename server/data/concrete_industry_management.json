@@ -1,0 +1,102 @@
+{
+    "name": "Concrete Industry Management",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/cim/",
+    "courses": [
+        {
+            "course_code": "CIM 3330",
+            "course_name": "Concrete Construction Methods",
+            "course_desc": "This course covers forming, shoring, placing and reinforcing operations. Transporting, placing, consolidating, finishing, jointing and curing concrete for cast-in-place foundations, pavements, slabs on ground, structural frames, and other structural members are studied. Other topics include waterproofing concrete foundations and erecting precast concrete members. Corequisite: CIM 3420 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CIM 3340",
+            "course_name": "Understanding the Concrete Construction System",
+            "course_desc": "This course provides a detailed look at how the concrete construction industry works. The course includes a review of model building codes, building officials and their functions, concrete industry codes and standards, concrete construction processes, quality assurance systems, contract documents, estimating, construction scheduling and concrete construction markets. Prerequisite: CIM 3420 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CIM 3350",
+            "course_name": "Precast and Prestressed Management",
+            "course_desc": "This course provides students with an opportunity to further develop their technical and laboratory knowledge in precast/prestressed concrete topics to include common shapes and uses, materials and methods, mix designs and batching in precast/prestressed, reinforcing and formwork in precast/prestressed, plant management, layout and processes, logistics and supply chain, quality control, technical sales, and cost estimating.  Prerequisite: CIM 3420 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CIM 3366",
+            "course_name": "Applications of Concrete in Construction",
+            "course_desc": "This course is a detailed study of the many uses of concrete in the construction of buildings, pavements and other facilities. Emphasis will be placed on the advantages, disadvantages, and unique problems faced by materials suppliers, contractors and design professionals when concrete is chosen for specific applications. Prerequisite: CIM 3330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CIM 3420",
+            "course_name": "Fundamentals of Concrete: Properties and Testing",
+            "course_desc": "This course examines effects of concrete-making materials (aggregates, cements, admixtures, etc.) on the properties of fresh and hardened concrete. Concrete mixture proportioning calculations and statistical analysis of strength tests are also studied. Prerequisite: MATH 2328 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CIM 4290",
+            "course_name": "Capstone",
+            "course_desc": "This course will provide students the opportunity to work individually to develop a business plan with increased emphasis on the technical and financial aspects of the concrete industry, building upon previous coursework. Students then work in groups, preparing a proposal based on a real-world construction or concrete project. The final presentation will be made to an industry panel. A portion of this course includes guest speakers from the concrete industry. Prerequisite: CIM 4330 and CSM 3368 both with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CIM 4299",
+            "course_name": "Capstone II",
+            "course_desc": "This course is a continuation of CIM 4398; students continue developing a business plan with increased emphasis on the technical and financial aspects of the concrete industry, building upon previous coursework. The final presentation will be made to an industry panel. A portion of the course is a seminar with guest speakers from the concrete industry. Prerequisite: CIM 4398 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CIM 4310",
+            "course_name": "Senior Concrete Lab",
+            "course_desc": "This course provides students with an opportunity to further develop their technical and laboratory knowledge and pursue a project of individual interest. A formal report/presentation will be required at the conclusion of the course. Prerequisites: CIM 3366 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CIM 4330",
+            "course_name": "Management of Concrete Products  Ordering and Scheduling",
+            "course_desc": "This course is designed to provide the student with a basic understanding of managing the ordering and delivery process common to all concrete products.  Emphasis will be in planning, organizing and controlling at both the first-line supervisory and managerial levels. Prerequisite: CIM 3340 with grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CIM 4340",
+            "course_name": "Concrete Problems: Diagnosis, Prevention and Dispute Resolution",
+            "course_desc": "Course involves diagnosing/preventing problems related to concrete production, testing, construction and performance. Students learn to identify causes of fresh and hardened concrete problems, i.e. fast and slow setting, air content variations, low strength, cracking and scaling. Pre-job conferences and dispute resolution methods are examined. Prerequisite: CIM 3366 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CIM 4350",
+            "course_name": "Advanced Concrete Technology",
+            "course_desc": "This course provides students with an opportunity to further develop their technical and laboratory knowledge in advanced concrete properties, test methods and mix designs.  Topics include high-performance concrete (HPC), self-consolidating concrete (SCC), roller compacted concrete (RCC), mass concrete, concrete repair, advanced fiber reinforcing, and chemical admixtures. Prerequisite: CIM 3420 with a grade of a \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CIM 4398",
+            "course_name": "Capstone",
+            "course_desc": "This course covers the business aspects of the concrete industry with appropriate application to the students career interests and builds upon the technical and practical industry components learned in previous courses. The final project will be presented to an industry committee. (WI) Prerequisites: ACC 2362 with a grade of \"D\" or better and CIM 4330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

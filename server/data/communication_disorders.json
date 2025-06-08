@@ -1,0 +1,526 @@
+{
+    "name": "Communication Disorders",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/cdis/",
+    "courses": [
+        {
+            "course_code": "CDIS 1331",
+            "course_name": "Introduction to Communication Disorders",
+            "course_desc": "Study of speech, hearing, and language development and its disorders; descriptions of communicative disorders and their etiologies for the speech-language pathologist, health professional, and classroom teacher.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 3312",
+            "course_name": "Neuroanatomy for Communication Disorders",
+            "course_desc": "This is a lecture course that examines the organization of the brain, spinal cord, and peripheral nervous system. Significance of the areas of the nervous system that are primary or secondary for speech, language and hearing are the main focus of this course.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 3325",
+            "course_name": "Anatomy and Physiology of the Speech Production System",
+            "course_desc": "Description of structure and function of the speech production system with emphasis on physical problems in speech, language, and hearing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 3359",
+            "course_name": "Phonetics",
+            "course_desc": "The course is designed to analyze normal and abnormal phonological processes in children and adults. Proficiency in transcription using the International Phonetic Alphabet (IPA) is emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 3369",
+            "course_name": "Hearing Science",
+            "course_desc": "This course is designed to provide foundational knowledge in the areas of acoustics, auditory and vestibular anatomy/physiology, psychoacoustics, and speech perception across the lifespan.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 3375",
+            "course_name": "Speech Science",
+            "course_desc": "This course is designed to provide a conceptual foundation in voice and speech production, speech perception, and acoustic analysis of voice and speech. The course will begin with the math and physics of acoustics, to provide students with a strong foundation in acoustics necessary to master speech science. Content will cover acoustical phonetics, theories of speech production and perception, and clinical application emphasizing acoustic instrumentation and software used in communication disorders.  Examples of concepts to be covered include frequency, pitch, intensity, loudness, decibels, waveforms, spectra, spectrograms, filters, vocal tract transfer function, formants, and acoustic software for voice and speech analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 3377",
+            "course_name": "Language Science",
+            "course_desc": "This course is designed to investigate various aspects of language, including its structure, processing, acquisition, and neurological organization. The course will cover at least the following topics of language science: Linguistics (the lexicon, morphology, and syntax), language acquisition (acquisition of multiple languages, disorders of language in children, role of culture in developing language), psycholinguistics (lexical processing, sentence processing, bilingual language processing), and neurolinguistics (brain imaging, disorders of language in adults).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 3462",
+            "course_name": "Speech Sound Disorders",
+            "course_desc": "This course is designed to provide the study of principles and procedures for the identification, description, assessment, and treatment of speech sound disorders in children. Students will observe demonstrations of assessment and treatment procedures during lab. (WI) Prerequisite: CDIS 3325 and CDIS 3359 both with grades of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 4101",
+            "course_name": "Advanced Independent Study",
+            "course_desc": "This course is designed to provide an in-depth study of selected topics in Communication Disorders for the exceptionally motivated student. Work is done on an independent basis with a faculty member and only with prior departmental permission.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 4201",
+            "course_name": "Advanced Independent Study",
+            "course_desc": "This course is designed to provide an in-depth study of selected topics in Communication Disorders for the exceptionally motivated student. Work is done on an independent basis with a faculty member and only with prior departmental permission.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 4301",
+            "course_name": "Advanced Independent Study",
+            "course_desc": "In-depth study of selected topics in Communication Disorders for the exceptionally motivated student. Work done on an independent basis with faculty member and only with prior departmental permission.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 4317",
+            "course_name": "Service Delivery in Communication Disorders",
+            "course_desc": "Provides a foundation of clinical management to prepare CDIS students to work in a variety of settings. Emphasis will be placed on techniques of goal and objective sequencing, report writing, evaluation of services, ethics, and interdisciplinary collaboration. Prerequisite: CDIS 3462 and CDIS 4330 and [CDIS 4350 or CDIS 4466] all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 4330",
+            "course_name": "Speech and Language Development",
+            "course_desc": "This course is designed to acquaint students with acquisition of speech and language in children. Basic information from linguistics, psycho-linguistics, psychology, and communication are examined for children in various stages of development. Prerequisite: CDIS 3377 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 4335",
+            "course_name": "Bilingual Speech Sound Disorders",
+            "course_desc": "Typical development of Spanish-English bilingual/bidialectal childrens articulation and phonology will be discussed. Assessment and intervention of articulation and phonology with bilingual/bidialectal children will also be addressed. The information and theoretical foundations serve as a guide for students to critically evaluate and clinically apply research in bilingual populations. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 4340",
+            "course_name": "Augmentative Communication Systems",
+            "course_desc": "This course is designed to review methods of non-oral communication as applied to hospital, rehabilitation, and school settings. Use of electronic communication systems emphasized.  Prerequisite: CDIS 4330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 4344",
+            "course_name": "Clinical Practicum in Communication Disorders",
+            "course_desc": "This course is the supervised clinical practicum in speech-language pathology. Must be taken each semester student participates in any supervised clinical practicum in speech-language pathology.  Prerequisites: CDIS 1331, CDIS 3359, and CDIS 4330 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CDIS 4350",
+            "course_name": "Survey of Neurogenic Communication Disorders",
+            "course_desc": "An introduction to acquired speech, language, cognitive and swallowing disorders resulting from brain injury. Basic neuroanatomy and physiology are reviewed, followed by discussion of the etiology, diagnosis, treatment, and prognosis of these disorders. Emphasis is placed on aphasia, motor speech disorders, right hemisphere syndrome, traumatic brain injury, dementia and dysphagia. Prerequisite: CDIS 3312 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 4370",
+            "course_name": "Aural Rehabilitation",
+            "course_desc": "Principles and procedures in the habilitation and rehabilitation of hearing impaired children and adults. (WI) Prerequisites: CDIS 4420 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 4371",
+            "course_name": "An Introduction to Stuttering and Voice Disorders",
+            "course_desc": "This is an introductory course on childhood-onset stuttering and voice disorders. Specific to stuttering, students will learn the etiology, assessment and treatment of childhood-onset stuttering. Specific to voice disorders, students will learn the basic anatomy and physiology of voice, normal voice, types of voice disorders, their assessment and treatment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 4420",
+            "course_name": "Diagnostic Audiology",
+            "course_desc": "This course is designed to relate anatomy and physiology of the auditory system and the science of acoustics to the study of normal and pathological auditory function. Laboratory experience in administration and interpretation of audiological tests. Discussion of professional opportunities in the field of audiology and provision of audiological service to special populations will be held. Prerequisite: CDIS 3369 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 4466",
+            "course_name": "Language Disorders",
+            "course_desc": "The study of principles and procedures for the identification, description, assessment and remediation of language disorders in infants, children, and adolescents. Students will observe demonstrations of assessment procedures and types of language disorders within the context of clinical procedures. Describing observed behaviors and analyzing language samples will be emphasized. Prerequisite: CDIS 4330 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5138",
+            "course_name": "Augmentative & Alternative Communication",
+            "course_desc": "This course is designed to provide graduate students in Communication Disorders with theory-driven, evidence-based, and clinically oriented knowledge and skills related to augmentative and alternative communication (AAC). This course will meet the core knowledge and skill areas in AAC mandated by the Council of Academic Accreditation in Audiology and Speech-Language Pathology.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CDIS 5262",
+            "course_name": "Introduction to Research in Communication Disorders",
+            "course_desc": "This course is designed to acquaint students with research protocols in the behavioral sciences with an emphasis on speech-language pathology. Topics include critical thinking, research design, data collection, data analysis, research writing, and evidence-based practice. The course will emphasize critical analysis of the professional literature in speech-language pathology.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CDIS 5301",
+            "course_name": "Advanced Independent Study in Communication Disorders",
+            "course_desc": "Discussions of various areas of speech language pathology. Attention to individual needs of the student. Emphasis on independent study in habilitation and rehabilitation of communication disorders. This course is repeatable for credit and can be taught by different faculty covering different topics. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5312",
+            "course_name": "Neuroanatomy for Communication Disorders",
+            "course_desc": "This is a lecture course that examines the organization of the brain, spinal cord, and peripheral nervous system. Significance of the areas of the nervous system that are primary or secondary for speech, language, and hearing are the main\nfocus of this course. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CDIS 5321",
+            "course_name": "Clinical Practicum in Audiology",
+            "course_desc": "Supervised clinical practicum in audiology. Focus is on both diagnostic and rehabilitative audiological management of diverse populations. Must be taken every semester that a student participates in supervised audiology practicum. May be repeated for credit. This course does not earn graduate degree credit. Prerequisites: CDIS 4420 and CDIS 4370 or equivalents; instructor approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Lab Required",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CDIS 5325",
+            "course_name": "Anatomy and Physiology of the Speech Production System",
+            "course_desc": "Description of structure and function of the speech production system with emphasis on physical problems in speech, language, and hearing. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CDIS 5330",
+            "course_name": "Speech and Language Development",
+            "course_desc": "Course to acquaint students with acquisition of speech and language in children. Basic information from linguistics, psycholinguistics, psychology, and communication are examined for children in various stages of development. This\ncourse does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CDIS 5331",
+            "course_name": "Stuttering",
+            "course_desc": "This course is designed to describe therapeutic intervention with children and adults who stutter. Techniques of assessment, management, and counseling are emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5333",
+            "course_name": "Language Disorders in School-Age and Adolescence",
+            "course_desc": "This introductory-level course will review assessment and intervention for language disorders in the school-age and adolescent population. The relationship between language and literacy will be discussed. Students will engage in detailed narrative analyses. Evidence-based practice and collaborative models of intervention will be emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5334",
+            "course_name": "Assessment and Intervention of Speech Sound Disorders",
+            "course_desc": "This course is designed to study normal, delayed, and disordered child phonology in English and select dialects/languages. Course covers etiologies, characteristics, and anatomic/physiologic bases of delays/disorders, as well as their potential impact on phonological awareness and subsequent development in reading/writing. Prevention, assessment, and treatment of disorders will be discussed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5336",
+            "course_name": "Motor Speech Disorders",
+            "course_desc": "The course reviews the neuroanatomic mechanisms underlying speech production and surveys the etiology, symptomatology, epidemiology, course, and prognosis of speech disorders resulting from impairment of the central and/or peripheral nervous system. Emphasis is placed on apraxia and the dysarthrias. Clinical application in assessment and rehabilitation of patients with neurogenically-based motor speech deficits is stressed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5337",
+            "course_name": "Voice Disorders",
+            "course_desc": "This course is designed to describe the assessment of vocal function and disorders and the rehabilitation of the patient with vocal abnormalities due to vocal abuse, psychological, and/or organic etiologies, including laryngectomy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5339",
+            "course_name": "Dysphagia",
+            "course_desc": "A review of anatomic and physiologic disturbances of swallowing in neurologically impaired and post-surgical head and neck cancer patients will be presented.\nInstrumentation, techniques of evaluation, and radiograph examination of deglutition will be reviewed. Rehabilitation procedures will be described in detail.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5340",
+            "course_name": "Cognitive Rehabilitation",
+            "course_desc": "This introductory-level course will review neuropathology and neurophysiology of traumatic brain injury and dementia, introduce relevant terms and models in cognitive rehabilitation, provide a framework for assessment and treatment, and discuss the functional impact of cognitive-communicative disorders on the patient and others. Prerequisites: CDIS 5336 and CDIS 5342 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5342",
+            "course_name": "Aphasia and Related Disorders",
+            "course_desc": "The course develops an understanding of the etiology, symptomatology, assessment, remediation, and recovery patterns of acquired communication disorders that result from impairment of the central nervous system, with a focus on the aphasias and traumatic brain injuries. Coexisting problems caused by damage to cortical/sub-cortical structures will also be addressed. Recent advances in relevant clinical research and technology will be surveyed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5344",
+            "course_name": "Advanced Clinical Practicum I",
+            "course_desc": "This course is designed to be the first of four clinical practicum experiences for first-year graduate students. Students will participate in a clinical practicum experience including assessment and remediation of a variety of communication disorders. Approximately 15-20 clock hours of clinical practicum experience will be accumulated. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CDIS 5345",
+            "course_name": "Advanced Clinical Practicum II",
+            "course_desc": "This course is designed to be the second of four clinical practicum experiences for first-year graduate students. Students will participate in a clinical practicum experience including assessment and remediation of a variety of communication disorders. Approximately 20-25 clock hours of clinical practicum experience will be accumulated. This course must be completed with a grade of \"CR\" or higher to advance to CDIS 5346. This course does not earn graduate degree credit. Prerequisite: CDIS 5344 with a grade of a \"CR\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CDIS 5346",
+            "course_name": "Advanced Clinical Practicum III",
+            "course_desc": "This course is designed to be the third of four clinical practicum experiences for first-year graduate students. Students will participate in a clinical practicum experience including assessment and remediation of a variety of communication disorders. Approximately 25-35 clock hours of clinical practicum experience will be accumulated. This course does not earn graduate degree credit. Prerequisite: CDIS 5344 and CDIS 5345 both with a grade of \"CR\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n8 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CDIS 5347",
+            "course_name": "Advanced Clinical Practicum IV",
+            "course_desc": "This course is designed to be the final of four clinical practicum experiences for first-year graduate students. Students will participate in clinical practicum experiences including assessment and remediation of a variety of communication disorders. Approximately 25-35 clock hours of clinical practicum experience will be accumulated. This course does not earn graduate degree credit. Prerequisite: CDIS 5344 and CDIS 5345 and CDIS 5346 all with a grade of \"CR\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n8 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CDIS 5350",
+            "course_name": "Multicultural Issues in Communication Disorders",
+            "course_desc": "Addresses the social, cultural, and linguistic factors that impact the clinical service delivery provided to culturally and linguistically diverse populations. A primary focus of the course will be to address general principles of assessment and intervention as they relate to the clinical management of individuals with communication disorders from diverse cultural and language backgrounds. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5353",
+            "course_name": "Phonetics",
+            "course_desc": "This course is designed to analyze normal and abnormal phonological processes in children and adults. Proficiency in transcription using the International Phonetic Alphabet (IPA) is emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5363",
+            "course_name": "Language Disorders in the Birth-to-5 Population",
+            "course_desc": "This introductory-level course will review assessment and intervention for language disorders in the birth-to-5 population. Use of assessment information to determine language disorders versus language difference will be addressed.\nStudents will engage in detailed language sample analyses. Creating effective intervention plans using assessment data will be discussed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5369",
+            "course_name": "Hearing Science",
+            "course_desc": "This course is designed to provide foundational knowledge in the areas of acoustics, auditory and vestibular anatomy/physiology, psychoacoustics, and speech perception across the lifespan.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CDIS 5370",
+            "course_name": "Aural Rehabilitation",
+            "course_desc": "Principles and procedures in the habilitation and rehabilitation of hearing-impaired children and adults. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CDIS 5375",
+            "course_name": "Speech Science",
+            "course_desc": "This course is designed to provide a conceptual foundation in voice and speech production, speech perception, and acoustic analysis of voice and speech. The course will begin with the math and physics of acoustics, to provide students with a strong foundation in acoustics necessary to master speech science. Content will cover acoustical phonetics, theories of speech production and perception, and clinical application emphasizing acoustic instrumentation and software used in communication disorders. Examples of concepts to be covered include frequency, pitch, intensity, loudness, decibels, waveforms, spectra, spectrograms, filters, vocal tract transfer function, formants, and acoustic software for voice and speech analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5380",
+            "course_name": "Communication and Aging",
+            "course_desc": "The influx of senior citizens in our population will require preparation for the increased incidence of communication problems due to normal and pathological aging processes. This course will address how aging affects communication, how communication disorders manifest in the aging population, and implications for professionals working with older adults.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5390",
+            "course_name": "Seminar in Communication Disorders",
+            "course_desc": "Examination of current theoretical and clinical issues in Communication Disorders. Issues may include family management in communication disorders, language and literacy, issues in health care rehabilitation, instrumentation and entrepreneurship. May be repeated for credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5391",
+            "course_name": "Evidence-Based Practice in Second Language Acquisition",
+            "course_desc": "This course is designed for the discussion of various areas of bilingual speech language pathology with the primary focus on second language acquisition. The assessment and treatment of bilingual individuals diagnosed with communication disorders will also be addressed. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5392",
+            "course_name": "Evidence-Based Practice in Autism",
+            "course_desc": "The course is designed to help students understand how to promote the social aspects of language in children diagnosed with Autism Spectrum Disorders within an evidence-based practice framework. In this course, students will critically examine standardized norm-referenced tests used to diagnose autism. Also addressed will be the broad range of evidence-based language intervention strategies recommended for children with Autism in the early years and once in school.  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5393",
+            "course_name": "Evidence-Based Practice in Stuttering",
+            "course_desc": "This course is designed to examine current evidence-based practice and clinical issues in childhood-onset stuttering. Issues addressed may include counseling approaches and strategies, treatment efficacy across the lifespan and family involvement in the therapy process for childhood-onset stuttering.                      Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5394",
+            "course_name": "Evidence-Based Practice in Neurogenic, Voice, and Swallowing",
+            "course_desc": "This course examines the current theoretical and clinical issues in communication disorders related to medically-based communication and swallowing disorders (neurorgenic, voice, and swallowing disorders). Attention will be given to individual needs of the student in developing practical application of research to clinical practice. This course places emphasis on independent study in the habilitation and rehabilitation of medical-based communication and swallowing disorders and interprofessional practice. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5395",
+            "course_name": "Evidence-Based Practice in Communication Disorders Across the Lifespan",
+            "course_desc": "This course is designed to examine current theoretical and clinical issues impacting individuals exhibiting communication disorders throughout the lifespan. A variety of topics such as home health, language, literacy, pediatric feeding, entrepreneurship, and professional issues in Communication Disorders will be addressed. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5396",
+            "course_name": "Evidence-Based Practice for Language & Literacy in Children Who are Deaf or Hard of Hearing",
+            "course_desc": "The course is designed to help students understand how to promote the language and literacy of children who are d/Deaf and hard-of-hearing within an evidence-based practice framework. In this course, students will critically examine the broad range of language and literacy treatment approaches that are used with children who are d/Deaf and hard of hearing in the early years and once in school. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CDIS 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until the student has completed the thesis in Communication Disorders 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CDIS 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CDIS 5420",
+            "course_name": "Diagnostic Audiology",
+            "course_desc": "This course is designed to relate anatomy and physiology of the auditory system and the science of acoustics to the study of normal, pathological auditory function. Laboratory experience in administration and interpretation of audiological tests. Discussion of professional opportunities in the field of Audiology and provision of audiological service to special populations will be held. This course does not earn graduate degree credit.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Lab Required|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CDIS 5462",
+            "course_name": "Speech Sound Disorders",
+            "course_desc": "This course is designed to provide the principles and procedures for the identification, description, assessment, and treatment of speech sound disorders in children. Students will observe demonstrations of assessment and treatment procedures during lab. This course does not earn graduate degree credit.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Lab Required|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CDIS 5466",
+            "course_name": "Language Disorders",
+            "course_desc": "This course includes principles and procedures for the identification, description, assessment, and remediation of language disorders in infants, children, and adolescents. Students will observe demonstrations of assessment procedures and types of language disorders within the context of clinical procedures. Describing observed behaviors and analyzing language samples are emphasized. This course does not earn graduate degree credit.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Lab Required|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "CDIS 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CDIS 5689",
+            "course_name": "Clinical Externship I in Communication Disorders",
+            "course_desc": "This course is designed to be the first off-campus clinical practicum experience for second-year graduate students. The experience will include treatment planning, report writing, and patient/parent counseling. Students will be assigned to outside practicum sites, and students will be supervised by licensed speech-language pathologists employed at the designated setting. This course does not earn graduate degree credit. Prerequisite: CDIS 5344 and CDIS 5345 and CDIS 5346 and CDIS 5347 all with a grade of \"C\" or better.",
+            "course_credits": "\n6 Credit Hours \n1 Lecture Contact Hour \n30 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CDIS 5690",
+            "course_name": "Clinical Externship II in Communication Disorders",
+            "course_desc": "This course is designed to be the second off-campus clinical practicum experience for second-year graduate students. The experience will include treatment planning, report writing, and patient/parent counseling. Students will be assigned to outside practicum sites, and students will be supervised by licensed speech-language pathologists employed at the designated setting. This course does not earn graduate degree credit. Prerequisite: CDIS 5344 and CDIS 5345 and CDIS 5346 and CDIS 5347 and CDIS 5689 all with a grade of a \"CR\" or better.",
+            "course_credits": "\n6 Credit Hours \n1 Lecture Contact Hour \n30 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CDIS 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

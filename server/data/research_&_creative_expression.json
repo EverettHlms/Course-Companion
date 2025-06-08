@@ -1,0 +1,22 @@
+{
+    "name": "Research & Creative Expression",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/res/",
+    "courses": [
+        {
+            "course_code": "RES 3399",
+            "course_name": "Research and Creative Expression",
+            "course_desc": "This course provides students with an interdisciplinary overview of research and/or creative expression. Topics will include approaches to qualitative and quantitative research, and/or approaches to creative processes in the arts. Representative topics may include developing research ideas, experimental design, sampling, measurement, analysis, ethics in research, reflecting on and analyzing the creative process, interpreting works of creative expression, and communicating results of a research or creative expression project.  Prerequisite: Approval of the Director of the IDEA Center.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "RES 4399",
+            "course_name": "Mentored Research and Creative Expression",
+            "course_desc": "This course provides students with a mentored research/creative experience. Students will participate in a research/creative experience under the supervision of a faculty member. Students will share the results of their research/creative experience during a research forum open to the University community.  Prerequisite: Approval of the Director of Idea Center and RES 3399 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

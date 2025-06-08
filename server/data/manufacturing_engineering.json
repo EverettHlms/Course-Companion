@@ -1,0 +1,238 @@
+{
+    "name": "Manufacturing Engineering",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/mfge/",
+    "courses": [
+        {
+            "course_code": "MFGE 2132",
+            "course_name": "Manufacturing Lab 1: Manufacturing Process and Digital Engineering",
+            "course_desc": "In this lab, students get hands-on experience in reading CAD drawing standards, lab safety, machine tools operation, welding, plastics and composites manufacturing, mechanical testing, and the use of Excel spreadsheets and functions in solving practical problems. Corequisite: MFGE 2332 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 2332",
+            "course_name": "Material Selection and Manufacturing Processes",
+            "course_desc": "This course provides an overview of material processing, material selection, and process parameter determination. Processes covered include material removal, forming, casting, polymer processing, semiconductor manufacturing, and assembly.  Corequisite: ENGR 1304 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 3116",
+            "course_name": "Manufacturing Lab 2: Computer Aided Design and Manufacturing",
+            "course_desc": "In this lab, student conduct hands-on experiments on digital manufacturing processes including 2D and 3D CNC machining, additive manufacturing, laser cutting, and waterjet cutting.  Corequisite: MFGE 3316 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 3316",
+            "course_name": "Computer Aided Design and Manufacturing",
+            "course_desc": "This course introduces Computer Aided Design and Manufacturing (CAD/CAM), design process, description of wireframe, surface, and solid models, transformation and manipulation of objects, data exchange, process planning, and machine elements. Topics include fundamentals of  computer numerical control (CNC) programming for turning and milling processes, fundamentals of Computer Aided Design and Manufacturing (CAD/CAM) systems, and CNC code generation by CAD/CAM software for 2D and 3D operations on CNC machines. Prerequisites: ENGR 1304 and ENGR 2300 and MFGE 2332 with grades of \"D\" or better. Corequisites: MATH 2471 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4176",
+            "course_name": "Manufacturing Lab 3: Intelligent Robotics and Control",
+            "course_desc": "In this lab, students conducting hands-on experiments on intelligent robotics, control system and instrumentation including industrial robot applications, PLC control systems, PID control systems, sensors and devices Prerequisite: ENGR 3373 with a grade of \"D\" or better. Corequisite: MFGE 4376 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4315",
+            "course_name": "Energy and Thermofluids Engineering",
+            "course_desc": "This course covers core engineering concepts of energy and thermofluids based on fluid mechanics, thermodynamics, and heat transfer. The main topics include properties of pure substances, fluid statics and dynamics, differential analysis of fluid flow, viscous flow in pipes, external flows, open channel flows, mass and energy analysis of control volumes, first and second laws of thermodynamics, steady-state and transient conduction, internal and external forced convection, natural convection, and fundamentals of radiation. Prerequisite: MATH 3323 and PHYS 2326 and PHYS 2126 with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4318",
+            "course_name": "Additive Manufacturing",
+            "course_desc": "In this course CAD standards, development of additive manufacturing technology, photopolymerization, powder bed fusion, extrusion-based systems, printing processes, sheet lamination processes, beam deposition processes, design for additive manufacturing, and safety considerations in a hands-on approach will be explained. The concept learned from this course will help students manage large systems or complex infrastructures in a more efficient and sustainable way. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4355",
+            "course_name": "Design of Machine Elements",
+            "course_desc": "This course will cover the general procedures in designing various machine elements. These elements include shafts and flexible elements, springs, welded/riveted/brazed joints, screw fasteners, rolling/sliding contact bearings, gears, cams, and followers. Emphasis will be placed on using standard design practices. Prerequisite: ENGR 3311 or TECH 2351 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4357",
+            "course_name": "Dynamics of Machinery",
+            "course_desc": "This course will cover kinematics and kinetics of particles; kinematics and kinetics of rigid bodies in two and three dimensions; application of dynamics to the analysis and design of machine and mechanical components; mechanical vibrations; linkages; gear trains; and balancing of machines. Prerequisite: [ENGR 2301 or ENGR 3375] and MATH 3323 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4363",
+            "course_name": "Concurrent Process Engineering",
+            "course_desc": "Integrated design and development of products and processes; impact of ethical issues on design; the discussion of real-world engineering problems and emerging engineering issues with practicing engineers; preparation of reports; plans or specifications; cost estimation; project management, communication and the fabrication of an engineered product/system. (WI) Prerequisites: ENGR 3311 and MFGE 4365 both with grades of \"D\" or better. Corequisites: IE 3330 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4365",
+            "course_name": "Tool Design",
+            "course_desc": "Design of single and multi-point cutting tools, jig and fixture design, gage design, and the design of tooling for polymer processing and sheet metal fabrication. Laboratory projects will involve the use of computer aided design and rapid prototyping. Prerequisite: MFGE 3316 or TECH 2310 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4367",
+            "course_name": "Polymer Properties and Processing",
+            "course_desc": "Structure, physical & mechanical properties, design considerations and processing methods for polymer-based materials are presented. Processing methods include: injection molding, blow molding, thermoforming, compression molding, extrusion, filament winding, lay-up methods, vacuum bag molding and poltrusion. Prerequisite: MFGE 2332 or TECH 4362 or ME 3361 any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4376",
+            "course_name": "Control Systems and Instrumentation",
+            "course_desc": "This course covers the theory of automated control systems and its application to manufacturing systems. Topics include modeling of systems, time and frequency domain feedback control systems, stability analysis, transducer and sensor technology, and digital control. Prerequisite: ENGR 2300 and PHYS 2325 and PHYS 2125 and [EE 3370 or MFGE 2332 or TECH 4362] all with grades of \"D\" or better. Corequisite: MATH 3323 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4377",
+            "course_name": "Introduction to Polymer Nanocomposites",
+            "course_desc": "This course introduces reinforced polymer nanocomposites, focusing on materials, manufacturing, characterization, and applications. Topics include primarily nanoclay polymer matrix composites. The course will emphasize challenges in low-cost manufacturing for industrial applications, commercial successes, and impact on current and future materials market. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4378",
+            "course_name": "Introduction to Industrial Robotics",
+            "course_desc": "This course covers the basic principles and techniques involved in industrial robotics. Emphasis is on industrial robot applications, analysis of robot manipulators, components of industrial robots, robot programming and control.  Prerequisite: MFGE 4376 or [ME 3351 and ME 3151] with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4390",
+            "course_name": "Manufacturing Engineering Design I",
+            "course_desc": "This course is the first of a two course sequence involving integrated design and development of products and processes, impact of ethical issues on design, the discussion of real-world engineering problems and emerging engineering issues with practicing engineers, preparation of reports, plans and specifications, cost estimation, project management, and communication. Prerequisites: ENGR 3311 with grades of \"D\" or better. Corequisite: IE 3330 and MFGE 4365 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4391",
+            "course_name": "Manufacturing Engineering Design II",
+            "course_desc": "This course is the second of a two course sequence involving implementation of Integrated design and development of products and processes; impact of ethical issues; the discussion of real-world engineering problems and emerging engineering issues with practicing engineers; preparation of reports, plans and specifications; cost estimation; project management; and communication.  Prerequisites: IE 3330 and MFGE 4390 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4392",
+            "course_name": "Microelectronics Manufacturing I",
+            "course_desc": "This course provides an overview of integrated circuit fabrication including crystal growth, wafer preparation, epitaxial growth, oxidation, diffusion, ion-implantation, thin film deposition, lithography, etching, device and circuit formation, packaging and testing. The laboratory component involves production and testing of a functional semiconductor device. Prerequisites: CHEM 1341 or CHEM 1335 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4394",
+            "course_name": "Microelectronics Manufacturing II",
+            "course_desc": "This course covers topics including atomic models for diffusion, oxidation and ion implantation; topics related to thin film processes i.e. CVD, PVD; planarization by chemical-mechanical polishing and rapid thermal processing; and process integration for bipolar and MOS device fabrication. Students will design processes and model them using a simulation. Prerequisite: EE 4392 or MFGE 4392 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4395",
+            "course_name": "Computer Integrated Manufacturing",
+            "course_desc": "This course is an overview of computer integrated manufacturing in the digital world. Topics include control strategies for advanced manufacturing, automated testing, distributed manufacturing, automated material handling systems, manufacturing databases and their integration, and man/machine interfaces. (WI) Prerequisites: MFGE 3316  and [CS 1428 or CS 1342] with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4396",
+            "course_name": "Manufacturing Systems Design",
+            "course_desc": "Applications of simulation modeling to the design and analysis of manufacturing systems are presented in this course. Topics covered include queuing theory and discrete event simulation methods. Design projects will involve the use of current simulation language for modeling and analysis of manufacturing systems. (WI) Prerequisite: IE 3320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 4399C",
+            "course_name": "Introduction to Industrial Robotics",
+            "course_desc": "This course will cover the basic principles and techniques involved in industrial robotics. Emphasis will be placed on industrial robot applications, analysis of robot manipulators, components of industrial robots, robot programming and control. Prerequisite: MFGE 4376 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 5315",
+            "course_name": "Energy and Thermofluids Engineering",
+            "course_desc": "This course covers core engineering concepts of energy and thermofluids based on fluid mechanics, thermodynamics, and heat transfer. The main topics include properties of pure substances, fluid statics and dynamics, non-Newtonian fluid, differential analysis of fluid flow, viscous flow in pipes, external flows, boundary layer, open channel flows, mass and energy analysis of control volumes, first and second laws of thermodynamics, steady-state and transient conduction, internal and external forced convection, natural convection, fundamentals of radiation, and mass transfer.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 5316",
+            "course_name": "Advanced Computer Aided Design and Manufacturing",
+            "course_desc": "Topics include design process, mathematical presentation of wireframe/surface/solid modes, transformation and manipulation of objects, finite element analysis, data exchange, process planning, fundamentals of multi-axis NC programming for turning and milling processes, fundamentals of CAD/CAM systems, CNC code generation by CAD.CAM software for the CNC, and waterjet machines. Prerequisites: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 5318",
+            "course_name": "Additive Manufacturing",
+            "course_desc": "In this course CAD standards, theory, techniques, applications, and development of additive manufacturing technology, photopolymerization, powder bed fusion, extrusion-based systems, printing processes, sheet lamination processes, beam deposition processes, design for additive manufacturing, and safety considerations in a hands-on approach will be explained. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 5320",
+            "course_name": "Polymer Nanocomposites",
+            "course_desc": "This course covers polymer nanocomposites focusing on materials, manufacturing, characterization, and applications. The primary focus is on fiber reinforced polymer nanocomposites. Morphological, Thermal, Mechanical, and Electrical Characterization will be discussed in detail. Applications include fire-resistant, ablative, fatigue-resistant, impact-resistant, and bio-based composites. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 5326",
+            "course_name": "Advanced Robotics in Manufacturing Automation",
+            "course_desc": "This course covers principles and techniques involved in advanced robotics. Topics include introduction to robotics, industrial robotics, robot kinematics, path planning, robot dynamics, advanced control, force control, sensors and actuators, mobile robotics, and introduction to nanorobotics. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 5330",
+            "course_name": "Multiscale Manufacturing",
+            "course_desc": "This course covers the multiscale manufacturing processes, techniques, and applications. Topics include micro and nano-manufacturing, polymer and semiconductor fabrication, thin film technologies, bulk and surface micromachining, physics of multiscale manufacturing, microelectromechanical (MEMS) devices, and design issues for fabrication of micro and nano-systems. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MFGE 5398B",
+            "course_name": "Advanced Composite Materials",
+            "course_desc": "This course examines various aspects of fiber-reinforced polymeric composites. The topics covered include constituent materials (fibers and matrices), mechanics, performance, manufacturing, and introduction to nanocomposites, This course also provides introductory treatments concerning ceramic matrix composites, metal matrix composites, and carbon/carbon composites.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

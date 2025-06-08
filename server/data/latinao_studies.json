@@ -1,0 +1,30 @@
+{
+    "name": "Latina/o Studies",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/lats/",
+    "courses": [
+        {
+            "course_code": "LATS 2300",
+            "course_name": "Introduction to Latina/o Studies",
+            "course_desc": "This course is an introduction to Latina/o studies, which includes an emphasis upon the historical origins, the demographic changes, and contemporary issues facing Latinas/os. It will focus on the development of Latina/o ethnicities, identities, and their impact in American society. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LATS 4300",
+            "course_name": "Independent Research in Latina/o Studies",
+            "course_desc": "This course is an independent study course in Latina/o Studies with readings, research, and tutorials for students pursuing projects outside the context of regularly offered courses.  Students  engage in learning about Latina/o Studies through readings, research, an oral presentation, and the creation of a bibliography approved by the instructor. (WI) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LATS 4325",
+            "course_name": "Latina/o Identities, Communities and Social Change",
+            "course_desc": "This course examines the social continuities, sociopolitical and geographic complexities, and diversities of Latina/os in the U.S. It focuses on crucial issues confronting Latina/os such as the role of race, culture, identity, community development, and leadership practices influencing public policy.(MULT)  Prerequisite: LATS 2300 with a minimum grade of a C.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

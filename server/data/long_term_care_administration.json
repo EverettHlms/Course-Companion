@@ -1,0 +1,70 @@
+{
+    "name": "Long Term Care Administration",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ltca/",
+    "courses": [
+        {
+            "course_code": "LTCA 5302",
+            "course_name": "Elder Abuse and Mistreatment",
+            "course_desc": "This course provides an introductory overview of key theories, concepts/principles, issues, practices and challenges in elder abuse and mistreatment (EA/M). Course content includes: definitions and theories, incidence and prevalence, risk/protective factors, assessment, prevention, intervention, factors affecting screening/reporting, and the impact of EA/M on victims, caregivers, family and society.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LTCA 5305",
+            "course_name": "Environmental Design for Dementia",
+            "course_desc": "The potential of the physical environment to play an active role in supporting independence, stimulation, and life quality for individuals with dementia will be explored in this course. Emphasis will be placed on principles behind environmental design and the importance of utilizing the physical environment as a therapeutic tool.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LTCA 5322",
+            "course_name": "Environmental Management in Long Term Care",
+            "course_desc": "Students will compare performance analyses of long-term care facilities with a focus on organizational culture, and internal and external customer satisfaction. Plans of managerial action to maximize customer satisfaction will be examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LTCA 5323",
+            "course_name": "Governance Management in Long Term Care",
+            "course_desc": "Focuses on regulations for the operation of long term care facilities as promulgated by state and federal governments. Reviews the minimum requirements for licensure and the standards for Medicaid certification in Texas. Also examines specific activities and functions regarding accountability and enforcement procedures.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LTCA 5324",
+            "course_name": "Personnel Management in Long Term Care",
+            "course_desc": "An examination of management issues in long-term care primarily in the critical areas of human resources, public relations, and marketing. Examples include staff recruitment and retention programs, training needs analysis, and marketing plan formulation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LTCA 5325",
+            "course_name": "Resident Care Management in Long Term Care",
+            "course_desc": "Administratively oriented content related to nursing care, quality indicator, and geriatric pharmacology utilized in long term care facilities. The course content reflects the relative legislative requirements mandated for nursing homes and other long-term care facilities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LTCA 5335",
+            "course_name": "Financial Management in Long Term Care",
+            "course_desc": "Students will examine the fiscal performance of selected facilities utilizing data from annual Medicaid cost reports with a focus on revenue enhancement and census development. Students will contrast various systems for determination of reimbursement and use reimbursement issues in a strategic planning sense.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "LTCA 5681",
+            "course_name": "Internship in Long Term Care",
+            "course_desc": "This course is an internship where the student works directly with an administrator in a licensed nursing facility and is exposed to aspects of facility operation and management.  Students are required to complete 1,000 hours. To meet 1,000 hour licensure requirement, this course can be repeated up to two semesters.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n24 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

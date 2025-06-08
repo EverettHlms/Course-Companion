@@ -1,0 +1,22 @@
+{
+    "name": "General Science",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/gs/",
+    "courses": [
+        {
+            "course_code": "GS 2310",
+            "course_name": "Life Science Concepts",
+            "course_desc": "This laboratory course is designed to acquaint the student with the fundamentals of biological science and introductory chemistry. It cannot be taken for credit by science majors.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GS 3310",
+            "course_name": "Earth Science Concepts",
+            "course_desc": "This laboratory course acquaints students with the fundamentals of chemistry and earth space science. It is non-creditable for science majors but is a required course for select education majors.  Prerequisites: PHYS 1310 or PHYS 1315 or PHYS 1320 or PHYS 1325 or PHYS 1360 or PHYS 1365 or PHYS 1370 or PHYS 1410 or PHYS 1420 any with grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

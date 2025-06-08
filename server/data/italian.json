@@ -1,0 +1,78 @@
+{
+    "name": "Italian",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ital/",
+    "courses": [
+        {
+            "course_code": "ITAL 1410",
+            "course_name": "Beginning Italian I",
+            "course_desc": "Introduction to listening, speaking, reading, and writing skills within an Italian cultural framework. Students who take ITAL 1410 toward degree requirements must also complete ITAL 1420. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ITAL 1420",
+            "course_name": "Beginning Italian II",
+            "course_desc": "This course provides continued practice in listening, speaking, reading, and writing skills within an Italian cultural framework. Students who take ITAL 1410 toward degree requirements must also complete ITAL 1420. (MULT)  Prerequisites: ITAL 1410 with a grade of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ITAL 2310",
+            "course_name": "Intermediate Italian I",
+            "course_desc": "This course provides continued development and review of all language skills within an Italian cultural framework. (MULT). Prerequisite: ITAL 1420 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ITAL 2320",
+            "course_name": "Intermediate Italian II",
+            "course_desc": "This course provides more advanced practice in all language skills with greater emphasis on reading within an Italian cultural framework. (MULT). Prerequisite: ITAL 2310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ITAL 3308",
+            "course_name": "Advanced Grammar and Composition",
+            "course_desc": "This course is designed to improve writing skills in Italian through the reading and writing of Italian texts. The focus is on writing skills and the reading of selected works from Italian literature. The course may be repeated once with different content. (MULT)  Prerequisite: ITAL 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ITAL 3309",
+            "course_name": "Italian Film and Media Studies",
+            "course_desc": "This course engages students in a theoretical, methodological and critical debate on Italian film and media of the last 100 years. The course trains students to comprehend, analyze, and participate in Italian and global film and screen media cultures and industries, and to express their thoughts in Italian. The course includes screenings, workshops with visiting professionals, and talks on film and media-related issues.(MULT) Prerequisite: ITAL 2320 with a grade of \"D\" or better. Corequisite: ITAL 3308 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ITAL 4304",
+            "course_name": "Italian Literature and Culture",
+            "course_desc": "This course addresses key historical and aesthetic issues related to Italian literature and culture in the last two millennia. Class discussions, oral presentations and written work provide students with opportunities to develop their Italian skills in the context of literary and cultural topics. Course may be repeated with different emphasis.(MULT) Prerequisite: ITAL 3308 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ITAL 4370",
+            "course_name": "Italian Civilization",
+            "course_desc": "This survey of the cultural institutions of Italy provides a background for a better understanding of the Italian people, encompassing the development of Italian culture and the forces that have shaped modern Italy. Recent essays, films, and comparative analyses of Italo-American relations will also be presented. Repeatable for credit with different emphasis.(MULT)  Prerequisite: ITAL 3308 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ITAL 4390",
+            "course_name": "Studies in Italian Language and Culture",
+            "course_desc": "Students will conduct an independent study project in Italian language and culture.(MULT) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

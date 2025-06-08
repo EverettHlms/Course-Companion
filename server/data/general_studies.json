@@ -1,0 +1,22 @@
+{
+    "name": "General Studies",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/gnst/",
+    "courses": [
+        {
+            "course_code": "GNST 4360",
+            "course_name": "Integrated Career Preparation",
+            "course_desc": "This course is first in a two-part capstone sequence culminating in an applied project. Students will engage in self-analysis, identify marketable skills, and complete occupational and industry research. To complete this course, students will create an individualized career plan integrating three academic minors and identify a preliminary topic for an applied project to be developed in the second capstone course, GNST 4361-Integrated Project. (WI) Prerequisite: A minimum of 2.0 Texas State GPA and departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GNST 4361",
+            "course_name": "Integrated Project",
+            "course_desc": "This is the second course in a two-part capstone sequence culminating in an applied project. Students will complete an applied project, beginning with a formal proposal presentation containing career-specific problems or future graduate study research as identified in GNST 4360; a bibliography review; audience analysis; and an applied written solution. Students will end the course by completing a three-minute thesis-style (3MT) presentation and a career portfolio to synthesize knowledge, skills, and abilities from both courses in the capstone sequence. (WI) Prerequisite: GNST 4360 with a grade of \"D\" or better and a minimum of 2.0 Texas State GPA and departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

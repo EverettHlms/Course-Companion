@@ -1,0 +1,9 @@
+# Server
+server/.flaskenv
+server/venv/
+server/.env
+server/uploads/*.pdf
+
+# Client
+client/node_modules/
+client/package-lock.json

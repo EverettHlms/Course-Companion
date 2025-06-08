@@ -1,0 +1,1182 @@
+{
+    "name": "English",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/eng/",
+    "courses": [
+        {
+            "course_code": "ENG 1300",
+            "course_name": "Developmental Writing",
+            "course_desc": "Basic composition skills. For students who have not satisfied TSIP requirements or for those who need developmental work before taking English 1310. Credit earned for this course does not count toward any degree offered by the university.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Developmental/Remedial",
+            "course_grademode": "Grade Mode: Developmental"
+        },
+        {
+            "course_code": "ENG 1310",
+            "course_name": "College Writing I",
+            "course_desc": "Expository writing as a means of exploring and shaping ideas. Emphasis on critical reading and the improvement of essays through revision. (MULP) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Communication Core 010|Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 1320",
+            "course_name": "College Writing II",
+            "course_desc": "Continuation of English 1310. Expository writing as a means of analyzing and understanding texts. Research paper required. Requirements in sophomore English must be completed before a student takes any advanced work in English. (MULP) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Communication Core 010|Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 1321",
+            "course_name": "Writing for Sustainable Change",
+            "course_desc": "This service-learning writing course focuses on supporting sustainable community initiatives in the local area. All writing assignments target real-world audiences in order to advance existing and/or proposed community projects. Writing assignments reflect a variety of genres, including multimodal texts and group-authored projects. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Communication Core 010|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 2310",
+            "course_name": "British Literature before 1785",
+            "course_desc": "Students study representative authors and works of British literature from the beginnings through the Neoclassical Period.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Component Area Core 090|Lang, Phil & Culture CAO 094|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 2320",
+            "course_name": "British Literature since 1785",
+            "course_desc": "Students study representative authors and works of British literature from the Romantic Period to the present.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Component Area Core 090|Lang, Phil & Culture CAO 094|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 2330",
+            "course_name": "World Literature before 1600",
+            "course_desc": "Students study representative authors and works of literature from the ancient world to the early modern world. Readings may come exclusively from the Western tradition or from various literary traditions, such as those of Africa and Asia.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Component Area Core 090|Lang, Phil & Culture CAO 094|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 2340",
+            "course_name": "World Literature since 1600",
+            "course_desc": "Students study representative authors and works of literature from the modern world. Readings may come exclusively from the Western tradition or from various literary traditions, such as those of Africa and Asia.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Component Area Core 090|Lang, Phil & Culture CAO 094|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 2359",
+            "course_name": "US Literature before 1865",
+            "course_desc": "Students survey representative authors and works of US literature from the beginnings to the Civil War.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Component Area Core 090|Lang, Phil & Culture CAO 094|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 2360",
+            "course_name": "US Literature since 1865",
+            "course_desc": "Students survey representative authors and works of US literature from the Civil War to the present.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Component Area Core 090|Lang, Phil & Culture CAO 094|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 2371",
+            "course_name": "US Literature: Writing Identities",
+            "course_desc": "In this course students survey writers and texts that reflect a variety of identities and traditions throughout U.S. history, from the colonial era to the present. Students read and analyze literary texts; develop an appreciation of literature as an art form; and gain an understanding of the role of literature in its historical, social and cultural contexts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Lang, Phil & Culture CAO 094|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3301",
+            "course_name": "Critical Approaches for English Majors",
+            "course_desc": "This course introduces the critical methods and practices underpinning rhetorical and literary analysis within various branches of English Studies and develops the skills of reading, writing, and research. It is required for majors and open to minors and should be taken in the first semester of upper division classes. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3302",
+            "course_name": "Film and Video Theory and Production",
+            "course_desc": "This course covers the study of film and narrative theory combined with the practice of videography and video editing. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3303",
+            "course_name": "Technical Writing",
+            "course_desc": "This course concerns writing in technical professions. It emphasizes planning, writing, revising, editing, and proofreading proposals, reports, instructions, and other forms of professional communication for a variety of audiences. (WI) Prerequisite: ENG 1310 or ENG 1320 or ENG 1321 any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Communication Core 010|Multicultural Perspective|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3304",
+            "course_name": "Professional Writing",
+            "course_desc": "The principles of expository writing adapted for the workplace. Prepares students in non-technical fields to write documents commonly used in professional settings. Students compile a writing portfolio suitable for a job search or for application to professional school. Computer technology included. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3305",
+            "course_name": "Life Writing",
+            "course_desc": "This course covers approaches to and/or practices of life writing in rhetoric and writing studies, including autoethnography, narrative inquiry, counterstorytelling, literacy narratives, scholarly personal writing, or personal writing.  Specific content and focus vary by section. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3306",
+            "course_name": "Writing for Film",
+            "course_desc": "This course is an introduction to screenwriting that combines the study of published film texts with workshop practice in writing for film. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3307",
+            "course_name": "Introduction to the Study of Film",
+            "course_desc": "This course provides an introduction to basic film terms and concepts, various theoretical approaches to the study of film, and to important debates within film theory. Its focus will include, but is not limited to, theories of spectatorship, the debate between formalism and realism, psychoanalytic and feminist theories, and cultural approaches to film. This course should be taken before other upper-division film courses. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3308",
+            "course_name": "Advanced Topics in Film",
+            "course_desc": "This course offers a focused examination of film as text, with an emphasis on critical, theoretical, cultural, historical, generic, and/or stylistic aspects. Specific content and focus vary by section and may include the history of classical Hollywood cinema; silent film; world, European, or national cinemas; or the documentary. This course may be repeated once for credit when its topic varies. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3309",
+            "course_name": "The Southwest in Film",
+            "course_desc": "A survey of films of the Southwest, emphasizing the history and cultural diversity of the region as represented on screen. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3311",
+            "course_name": "Practices in Writing and Rhetoric",
+            "course_desc": "This course concerns the study and practice of advanced expository writing, with a focus on achieving rhetorical dexterity and effective communication. Specific content and focus vary by section and may include The Essay, Nature Writing, Argument, Writing for the Government, or Online Communication. This course may be repeated once for credit when its emphasis varies. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3312",
+            "course_name": "Internship in English Studies",
+            "course_desc": "Course offers a supervised work experience related to students career interests. Prerequisites: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENG 3313",
+            "course_name": "Scientific Writing",
+            "course_desc": "The course teaches composition techniques that include planning, organization, revision, usage, and audience identification necessary for writing in science and/or social science fields. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3315",
+            "course_name": "Introduction to Creative Writing",
+            "course_desc": "A critical seminar for writers of fiction, poetry, and articles. Creativity, criticism,\nand revision are emphasized. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3316",
+            "course_name": "Film Adaptation Studies",
+            "course_desc": "This course offers a comparative study of film adaptations from other media. Specific content and focus vary by section. This course may be repeated once for credit when its topic varies. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3318",
+            "course_name": "Approaches to Writing and Rhetoric",
+            "course_desc": "This course focuses on approaches central to the study and practice of writing and rhetoric.  Specific content and focus vary by section and may include Composition Theory, Theories of Technical Communication, Chicana/o/x Rhetorics, or Literacy Studies.  This course may be repeated when its emphasis varies for up to 9 hours of English credit. (MULT)(WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3319",
+            "course_name": "The Development of English",
+            "course_desc": "Origin and growth of the English language with particular attention to phonological, morphological, and grammatical changes; history of dialects, spelling, and dictionaries; sources of vocabulary. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3320",
+            "course_name": "Studies in Theory and Criticism",
+            "course_desc": "This course explores one or more theoretical and critical approaches, such as ecocriticism, film theory, trauma theory, or disability studies. It may be repeated once for credit when its topic varies. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3321",
+            "course_name": "The Short Story",
+            "course_desc": "The short story throughout the world since Poe and Gogol. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3322",
+            "course_name": "The European Novel",
+            "course_desc": "Major continental novelists from Cervantes to the present, read in translation. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3323",
+            "course_name": "Modern Poetry",
+            "course_desc": "Modern poetry in English and English translation. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3325",
+            "course_name": "Literature in Translation",
+            "course_desc": "This course examines major works of literature, in translation, since the eighteenth century. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3326",
+            "course_name": "US Drama on Film",
+            "course_desc": "This course examines masterpieces of US drama and the films that have been made from them. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3327",
+            "course_name": "Early Global Drama in English",
+            "course_desc": "This course studies examples of global drama from Aeschylus to Ibsen. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3328",
+            "course_name": "Modern Global Drama in English",
+            "course_desc": "This course studies examples of world drama in English from Ibsen to the present. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3329",
+            "course_name": "Studies in Mythology",
+            "course_desc": "This course examines myths in various contexts, such as ancient and/or contemporary cultures, mythic patterns in modern literature, and myths produced in popular culture. Specific content and focus vary by section. This course may be repeated once for credit when its topic varies. (MULT)(WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3331",
+            "course_name": "Black Literature",
+            "course_desc": "This course studies selected Black poetry, drama, fiction, and other cultural texts. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3333",
+            "course_name": "Early US Literature",
+            "course_desc": "This course examines selected US literature from its colonial beginnings to 1865. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3335",
+            "course_name": "US Literature, 1865-1945",
+            "course_desc": "This course examines selected US literature from the Civil War to World War II. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3336",
+            "course_name": "US Literature, 1945 to the Present",
+            "course_desc": "This course examines elected US literature from World War II to the present. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3338",
+            "course_name": "The American Novel",
+            "course_desc": "A study of the novels and pertinent criticism from the beginnings in America. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3340",
+            "course_name": "Special Topics in Language and Literature",
+            "course_desc": "This course covers a variety of topics proposed and taught occasionally by different English faculty members. Specific content and focus vary by section; past emphases have included Early Modern Evil, Sexing the Word, and The Beatles. This course may be repeated twice for credit when its emphasis varies.  (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Header|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3341",
+            "course_name": "Studies in Global Literature",
+            "course_desc": "This course examines selections from ancient and/or modern literature from around the globe. Specific content and focus vary by section, and the course may be repeated once for credit when its topic varies. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3342",
+            "course_name": "Editing",
+            "course_desc": "A study of editing, to include instruction in making editorial changes, preparing MSS for typesetter, marking galley and page proof; fundamentals of layout and design (typeface, paper, headlines, etc.); problems and possibilities in desktop publishing; and the current status of electronic publications.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3343",
+            "course_name": "The Interdisciplinary Approach to Literature",
+            "course_desc": "This course studies a single topic using techniques from various disciplines such as history, sociology, psychology, environmental studies, and/or visual studies. It may be repeated once for credit when its topic varies. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3344",
+            "course_name": "Chicana/o/x Narrative and Social History",
+            "course_desc": "This course examines narratives by people of Mexican descent living in the United States. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3345",
+            "course_name": "Southwestern Studies I: Defining the Region",
+            "course_desc": "The first of two courses in a broad interdisciplinary survey of geophysical, cultural, social, literary, and political history of the Southwest that emphasizes regional and ethnic expressions of culture in architecture, art, economics, law, literature, philosophy and politics. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3346",
+            "course_name": "Southwestern Studies II: Consequences of Region",
+            "course_desc": "The second of a two-course sequence in a broad interdisciplinary survey of geophysical, cultural, social, literary, and political history of the Southwest, emphasizing regional and ethnic expressions of culture in architecture, art, economics, law, literature, philosophy, politics, popular culture, religion, social science, and technology. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3347",
+            "course_name": "American Poetry",
+            "course_desc": "Study of American poetry from its beginnings to present. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3348",
+            "course_name": "Creative Writing: Fiction",
+            "course_desc": "A seminar for writers of fiction, with emphasis on creativity, criticism, and revision. (WI) Prerequisite: ENG 3315 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3349",
+            "course_name": "Creative Writing: Poetry",
+            "course_desc": "A seminar for writers of poetry, with emphasis on creativity, criticism, and revision. (WI) Prerequisites: ENG 3315 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3350",
+            "course_name": "Global Medieval Literature",
+            "course_desc": "This course examines medieval contexts, genres, and writings across Europe and beyond. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3351",
+            "course_name": "Early Medieval Literature of the British Isles",
+            "course_desc": "An introduction to Old English life and writings from early culture through Beowulf (texts in modern translation). (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3352",
+            "course_name": "Medieval English Literature",
+            "course_desc": "Studies of important non-Chaucerian writings in the Middle Ages, some in modern translations. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3353",
+            "course_name": "British Poetry and Prose of the Sixteenth Century",
+            "course_desc": "Major poets and prose writers from More to Spenser. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3354",
+            "course_name": "Shakespeare",
+            "course_desc": "Selected plays from the earliest through Hamlet. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3356",
+            "course_name": "British Poetry and Prose of the Seventeenth Century",
+            "course_desc": "Prose and poetry from Donne and Bacon to Milton and Dryden. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3357",
+            "course_name": "British Literature, 1688-1750",
+            "course_desc": "This course explores late-seventeenth- and early eighteenth-century literature and the development of literary genres. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3359",
+            "course_name": "British Literature, 1750-1800",
+            "course_desc": "This course explores later eighteenth-century poetry and prose and the beginnings of the Romantic movement. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3362",
+            "course_name": "The British Romantics",
+            "course_desc": "Course explores British poetry and prose of the Romantic Age. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3365",
+            "course_name": "The British Victorian Period",
+            "course_desc": "British poetry and prose of the Victorian period, 1837-1900. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3368",
+            "course_name": "The British Novel",
+            "course_desc": "Course explores British prose fiction. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3370",
+            "course_name": "Twentieth- and Twenty-First Century British Literature",
+            "course_desc": "This course examines selected British poetry, fiction, and drama since 1900. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3371",
+            "course_name": "Queer and Trans Texts",
+            "course_desc": "This course examines texts engaged with LGBTQIA2S+ culture in various media.  Specific content and focus vary by section. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3372",
+            "course_name": "Race and Ethnicity in Texts",
+            "course_desc": "This course examines depictions, representations, and engagements with race and ethnicity in a variety of texts.  Specific content and focus vary by section. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3373",
+            "course_name": "Gender and Sexualities in Texts",
+            "course_desc": "This course examines depictions, representations, and engagements with gender and sexualities in a variety of texts. Specific content and focus vary by section but may include feminist, queer, trans, and/or mens studies approaches. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3385",
+            "course_name": "Children's Literature",
+            "course_desc": "A survey of traditional and contemporary literature for children with attention to literary history, aesthetic qualities, and critical approaches. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3386",
+            "course_name": "Adolescent Literature",
+            "course_desc": "A survey designed to provide a critical philosophy and working repertoire of literature for adolescents. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3388",
+            "course_name": "Women's Writing",
+            "course_desc": "This course examines selected writing by women, in various genres and from a variety of historical periods. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3389",
+            "course_name": "Teaching English Language Arts in the Secondary Classroom",
+            "course_desc": "This course familiarizes future teachers with the discipline of English as a formal field and the practice of teaching English Language Arts. It is a required part of the student teaching sequence and prepares students for the English TExES (Texas Examination of Educator Standards). (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3390",
+            "course_name": "Independent Study in Language and Literature",
+            "course_desc": "This course consists of an independent study with an individualized reading list, research project, and tutorial sessions, focused on a special problem in language and/or literature. (WI)  Prerequisites: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3392",
+            "course_name": "Women Writers of the Middle Ages",
+            "course_desc": "Religious and secular writings by women from the early Church through the 15th century. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 3393",
+            "course_name": "Postcolonial Literatures",
+            "course_desc": "This course examines postcolonial literatures, such as Canadian, Caribbean, African, South Asian, or Australian, with discussion of aesthetic, cultural, and political issues surrounding them. Texts will be in English. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4310",
+            "course_name": "Modern English Syntax",
+            "course_desc": "This course studies English syntax as described by traditional, structural, and transformational grammarians.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4323",
+            "course_name": "Studies in Autobiography and Biography",
+            "course_desc": "Selected works in autobiography and biography. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4325",
+            "course_name": "Literature of the Southwest",
+            "course_desc": "The literature of Texas and the surrounding territory; various types of non-fiction prose, fiction, and poetry. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4334",
+            "course_name": "US Romanticism",
+            "course_desc": "Course explores the US Romantic movement of the 19th century, with consideration of important authors, intellectual backgrounds, and literary relationships. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4343",
+            "course_name": "Approaches to a British Author",
+            "course_desc": "This course examines the works of a British author, e.g. Charles Dickens, Mary Wollstonecraft, Virginia Woolf, or Zadie Smith. Specific content and focus vary by section, and the course may be repeated once for credit when its emphasis varies. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4344",
+            "course_name": "Approaches to a US Author",
+            "course_desc": "This course examines the works of a US author, e.g. Gloria Anzaldua, Cormac McCarthy, bell hooks, or Toni Morrison. Specific content and focus vary by section, and the course may be repeated once for credit when its emphasis varies. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4345",
+            "course_name": "Approaches to a Global Author",
+            "course_desc": "This course examines the works of a global author, e.g. Dante Alighieri, Anita Desai, Paolo Friere, or Chinua Achebe. Specific content and focus vary by section, and the course may be repeated once for credit when its emphasis varies. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4348",
+            "course_name": "Senior Seminar in Fiction Writing",
+            "course_desc": "Workshop in writing fiction and evaluating manuscripts. Students produce portfolio of creative work. (WI) Prerequisite: ENG 3348 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4349",
+            "course_name": "Senior Seminar in Poetry Writing",
+            "course_desc": "Workshop in writing poetry and evaluating manuscripts. Students produce portfolio of creative work. (WI) Prerequisite: ENG 3349 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4350",
+            "course_name": "Senior Seminar in Film",
+            "course_desc": "This course integrates perspectives from English film and media studies, including film criticism, history, theory, screenwriting, and practical video skills. Each student will choose a focus, and all students will critique scholarly research, screenplays, and video projects that demonstrate concepts learned. Specific content and focus vary by section, and this course may be repeated once for credit when its emphasis varies. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4351",
+            "course_name": "Chaucer and His Time",
+            "course_desc": "The works of Chaucer and their significance in an important literary and social era. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4355",
+            "course_name": "The Later Shakespeare",
+            "course_desc": "The problem comedies, through the tragedies, to the plays of the final years; emphasis on reading in depth the plays, significant critical materials, and selected plays by Shakespeares contemporaries. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4358",
+            "course_name": "Milton",
+            "course_desc": "Miltons longer poems and most important prose writing. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 4385",
+            "course_name": "Advanced Studies in Children's or Adolescent Literature",
+            "course_desc": "This course studies childrens or adolescent literature. Possible topics include a historical period, a geographical area, a genre, a single author, or a theoretical approach, with attention to developing critical and research skills. Specific content and focus vary by section, and this course may be repeated once when emphasis varies for up to six hours of English credit. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5199B",
+            "course_name": "Thesis",
+            "course_desc": "Continuing thesis enrollment until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENG 5299B",
+            "course_name": "Thesis",
+            "course_desc": "Continuing thesis enrollment until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENG 5300",
+            "course_name": "Language Problems in a Multicultural Environment",
+            "course_desc": "An introduction to the study of multicultural language and linguistics with descriptive, psychological, social, and semantic emphases. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5301",
+            "course_name": "Literary Scholarship",
+            "course_desc": "An introduction to scholarly resources, methods, theories, and responsibilities that guide the study and interpretations of literature in English. Literary texts chosen\nfor detailed examination vary with expertise of the instructor. Required in first year of M.A. with a Literature Major.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5302",
+            "course_name": "Media Studies",
+            "course_desc": "The study of film and media history, theory, and practice. Special topics may include videography, video editing, genre, filmmakers, and regional film.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5307",
+            "course_name": "Visual Rhetoric",
+            "course_desc": "This course focuses on of this course is the investigation of image-based modes of rhetorical communication.  The course includes theories of visual rhetoric and the analysis of the issues and implications of images.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5309",
+            "course_name": "International Technical Communication",
+            "course_desc": "This course covers models and theories of cultural differences and how to ethically and effectively communicate with cross-cultural audiences verbally and non-verbally. Students also learn how to analyze international audiences in terms of their values, cultural needs, and communication styles.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5310",
+            "course_name": "Studies in English Language and Linguistics",
+            "course_desc": "A study of the English language, with special attention to phonology, morphology, syntax, semantics, dialectology, sociolinguistics, normal language acquisition, and/or writing and spelling systems. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5311",
+            "course_name": "Foundations in Technical Communication",
+            "course_desc": "An introduction to the theory and practice of technical communication.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5312",
+            "course_name": "Editing the Professional Publication",
+            "course_desc": "The editing, design, layout, and proofreading of a professional publication. This course is an internship. May be repeated one time with different emphasis.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENG 5313",
+            "course_name": "Studies in Principles of Technical Communication",
+            "course_desc": "A group of courses that provide students theoretical and practical information useful in any position in technical communication.  Recent emphases include Digital Media and the web, Technical Editing, and Visual Rhetoric.  Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5314",
+            "course_name": "Specializations in Technical Communication",
+            "course_desc": "A group of courses that provide students theoretical and practical information for specialized types of technical communication. Recent emphases include International Technical Communication Proposal Writing, Software Documentation and Writing for the Government. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5315",
+            "course_name": "Graduate Writing Workshop",
+            "course_desc": "A studio course in which the primary texts are student manuscripts. Concentrations in fiction or poetry examine principles and techniques of creating, evaluating, and revising writing in these genres. The course requires class members to review writing produced by other workshop members.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5316",
+            "course_name": "Foundations in Rhetoric and Composition",
+            "course_desc": "A group of courses providing students with theoretical, pedagogical, and methodological foundations in the field of rhetoric and composition. Emphases vary but include Contemporary Composition Theory and Composition Pedagogy. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5317",
+            "course_name": "Specializations in Rhetoric and Composition",
+            "course_desc": "A group of courses providing theoretical, pedagogical, methodological, and/or administrative grounding in specialized areas of rhetoric and composition. Emphases vary but may include Writing Center Theory, Practice, and Administration; Writing Across the Curriculum; Service Learning; and Literacy. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5320",
+            "course_name": "Form and Theory of Fiction",
+            "course_desc": "An examination of traditional and current theory and practice in fiction. Major emphasis will be placed on the British/American tradition, but some attention will be given to the practice and theory of fiction in other literatures. For M.F.A. credit only.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5321",
+            "course_name": "Contemporary Fiction",
+            "course_desc": "Readings selected from canonical and/or experimental fiction. Recent emphases include novels into film, postmodern fiction, Magical Realism, and Saul Bellow. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5322",
+            "course_name": "Form and Theory of Poetry",
+            "course_desc": "An examination of traditional and current theory and practice in poetry. Major emphasis will be placed on the British/American tradition, but some attention will be given to the practice and theory of poetry in other literatures. For MFA credit only.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5323",
+            "course_name": "Studies in Autobiography and Biography",
+            "course_desc": "A study of selected works in autobiography and biography with special attention to the art forms used in these works. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5324",
+            "course_name": "Studies in Literary Genre",
+            "course_desc": "A study of one or more literary genres over several historical periods or from a variety of cultural perspectives. The course focuses on genres such as the\nfollowing: the epic, the novel, the short story, the lyric, the pastoral, the romance, and Irish comic fiction. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5325",
+            "course_name": "Studies in Literature of the Southwest",
+            "course_desc": "Selected Texas and Southwestern writers with emphasis on fiction. Repeatable with different emphases for up to nine hours of English credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5326",
+            "course_name": "Contemporary Composition Theory",
+            "course_desc": "Introduces students to the history of writing instruction in the university and to the theories of writing and composing that inform contemporary composition studies and the teaching of writing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5327",
+            "course_name": "Research Methods in Rhetoric and Composition",
+            "course_desc": "This course introduces research practices in rhetoric and composition, focusing on the strategies,  methods, paradigms, and perspectives that characterize qualitative and quantitative research. It considers research ethics, issues of representation, and the history and role of research in the field.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5328",
+            "course_name": "Directed Portfolio",
+            "course_desc": "Constitutes partial fulfillment of non-thesis option for students earning the MA in Rhetoric and Composition. Under guidance of a graduate faculty committee, students produce a portfolio of representative written work with written commentary and reflection. Repeatable once. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENG 5329",
+            "course_name": "User Experience (UX) and Usability Research",
+            "course_desc": "This course introduces foundational principles of user experience (UX) design theory and the practice of placing users and their needs as the focus of design. Along with the principles of human factors and user interface design, the course also focuses on user and task-analysis, field research methods, usability testing, and the UX process.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5331",
+            "course_name": "Studies in American Poetry",
+            "course_desc": "Selected poets with a survey of their works. Recent emphases include Walt Whitman, Emily Dickinson, Southern poetry, Denise Levertov, and Robert Bly.\nRepeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5332",
+            "course_name": "Studies in American Prose",
+            "course_desc": "Selected authors with special attention to novels.  Recent emphases include William Faulkner, Ernest Hemingway, Richard Wright, and Zora Neale Hurston. Repeatable with different emphases for up to nine hours of English credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5335",
+            "course_name": "Technical Editing",
+            "course_desc": "This course explores how to edit technical documents using different levels of editing, including copyediting and developmental editing. Students will also explore current trends in technical editing and publishing, as well as effective author-editor relationships.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5336",
+            "course_name": "Document Design",
+            "course_desc": "This course explores designing documents that utilize principles of design to maximize the effects of layout, style, color, information architecture, and typography. Students learn to coordinate content for information messaging and view documents as active, response-invoking artifacts in a variety of media.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5340",
+            "course_name": "Discourse Analysis",
+            "course_desc": "This course introduces theories and methodologies for the study of human discourse, or language in use. Discourse history, assumptions and principles, verbal and nonverbal communication, as well as society and culture's roles in a variety of discourse genres are analyzed and discussed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5341",
+            "course_name": "Software Documentation",
+            "course_desc": "This course develops students expertise in the management and production of writing that supports the efficient use of software in its intended environment. Major genres include software and hardware manuals such as tutorials, procedures, and reference manuals. Students address issues of user analysis, text design, graphics design, task orientation, etc.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5345",
+            "course_name": "Southwestern Studies I: Defining the Region",
+            "course_desc": "An interdisciplinary course that surveys the physical, cultural, and social history of the Southwest, emphasizing architecture, art, literature, philosophy, politics, popular culture, and technology. Historical focus from the 15th to the mid-19th century. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5346",
+            "course_name": "Southwestern Studies II: Consequences of Region",
+            "course_desc": "Second course in a survey of physical, cultural, and social history of the Southwest, emphasizing regional and ethnic expressions of culture. This course moves from the broad overview of the first semester to more specific problems in the region and to the artistic products of regional culture. Historical focus is from the Civil War to the present. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5353",
+            "course_name": "Studies in Medieval Literature",
+            "course_desc": "Emphasis on authors, contexts, and genres of the medieval period. Recent emphases include Anglo-Saxon culture, language, and literature; Chaucer; non-Chaucerian medieval literature; pilgrimage literature. Repeatable with different emphases for up to nine hours of English credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5354",
+            "course_name": "Studies in Renaissance Literature",
+            "course_desc": "Emphasis on authors, contexts, and genres of the Renaissance. Recent emphases include Shakespeare, Renaissance epic, Tudor humanism, and John Milton. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5359",
+            "course_name": "Studies in Restoration and Eighteenth-century Literature",
+            "course_desc": "Major writers of the period with emphasis on scholarship and aesthetics as well as cultural and historical background.  Recent emphases include Johnson and his circle, Restoration and eighteenth-century drama, and the eighteenth-century novel. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5364",
+            "course_name": "Studies in the Romantic Movement",
+            "course_desc": "The works of the Early Romantics or Late Romantics in context with attention to nineteenth- and twentieth-century scholarship. Recent emphases include Blake and the other arts, Coleridge, the Wordsworths, Shelley, and Keats. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5366",
+            "course_name": "Studies in Victorian Poetry",
+            "course_desc": "Major Victorian poets with emphasis on scholarship and aesthetics as well as cultural and historical background. Recent emphases include Tennyson, the Brownings, the Pre-Raphaelites, and Hopkins. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5368",
+            "course_name": "Studies in Victorian Prose",
+            "course_desc": "Major Victorian prose writers with emphasis on scholarship and aesthetics as well as cultural and historical background. Recent emphases include George Eliot, non-fiction Victorian prose, Victorian women novelists, and Charles Dickens. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5371",
+            "course_name": "Studies in Modern British Literature",
+            "course_desc": "Selected authors with a survey of their works. Recent emphases include Yeats, Wilde, Auden, and Post-World War II British poetry.  Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5372",
+            "course_name": "Practicum in English Studies",
+            "course_desc": "An introduction to key issues and concepts in the teaching of English studies. Required for first-year instructional assistants in the English Department. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ENG 5381",
+            "course_name": "Studies in Modern British and American Drama",
+            "course_desc": "A survey of major British and American dramatists and their European or world context. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Header",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5382",
+            "course_name": "Practicum in Composition",
+            "course_desc": "An introduction to key issues and concepts in the teaching of expository writing at the college level. Required for first-year teaching assistants in the English Department who have not previously taken ENG 5372. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ENG 5383",
+            "course_name": "Studies in Rhetorical Theory",
+            "course_desc": "An introduction to classical and rhetorical theory in various areas of English studies. Recent emphases include Teaching of Composition and Technical Communication. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5384",
+            "course_name": "Critical Theory",
+            "course_desc": "A study of critical theory, emphasizing the history of criticism and/or contemporary critical theories. Repeatable with different emphases for up to nine hours of English credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5388",
+            "course_name": "Studies in Literature for Children or Adolescents",
+            "course_desc": "A study of contemporary works, extending the students knowledge of the literature and criticism in the field. Typical emphases are generic and/or thematic and include picture books, the contemporary novel, and the childrens classics on film. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5389",
+            "course_name": "History of Childrens Literature",
+            "course_desc": "The history of childrens literature from the Middle Ages through 1940. May be repeated with different emphases for up to six hours of graduate credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5390",
+            "course_name": "Special Problems",
+            "course_desc": "Independent study under supervision of a graduate faculty member in English, with in-depth readings and research focused on a special problem in literature and/or language. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5391",
+            "course_name": "Directed Studies in English",
+            "course_desc": "Students will conduct studies as necessary preparation for graduate-level coursework in English. The nature of the work varies depending on the students level of academic preparation. This course does not earn graduate degree credit. Repeatable up to 12 hours with different emphasis. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ENG 5395",
+            "course_name": "Problems in Language and Literature",
+            "course_desc": "Recent emphases include literary technique and literary theory. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 5399A",
+            "course_name": "Thesis",
+            "course_desc": "First semester of thesis enrollment. No thesis credit awarded until student has completed the thesis in English 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENG 5399B",
+            "course_name": "Thesis",
+            "course_desc": "Continuing thesis enrollment until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENG 5599B",
+            "course_name": "Thesis",
+            "course_desc": "Continuing thesis enrollment until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENG 5999B",
+            "course_name": "Thesis",
+            "course_desc": "Continuing thesis enrollment until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ENG 7300",
+            "course_name": "Language Problems in a Multicultural Environment",
+            "course_desc": "An introduction to the study of multicultural language and linguistics with descriptive, psychological, social, and semantic emphases.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 7314",
+            "course_name": "Specializations in Professional and Technical Communication Topics",
+            "course_desc": "Provides theoretical and practical information for specialized types of technical and professional communication.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 7316",
+            "course_name": "Foundations in Rhetoric and Composition",
+            "course_desc": "A course providing students with theoretical, pedagogical, and/or methodological foundations in the field of rhetoric and composition. Emphases vary but may include Contemporary Composition Pedagogy, Basic Writing Theory and Practice, and Writing Assessment. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 7317",
+            "course_name": "Specializations in Rhetoric and Composition",
+            "course_desc": "A course providing theoretical, pedagogical, methodological, and/or administrative grounding in specialized areas of rhetoric and composition. Emphases vary but may include Writing Across the Curriculum, Service Learning, Writing Center Theory and Practice, Computers and Writing, Literacy. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 7326",
+            "course_name": "Contemporary Composition Theory",
+            "course_desc": "Introduces students to the history of writing instruction in the university and to the theories of writing and composing that inform contemporary composition studies and the  teaching of writing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ENG 7383",
+            "course_name": "Studies in Rhetorical Theory",
+            "course_desc": "An introduction to classical and rhetorical theory in various areas of English studies. Recent emphases include Teaching of Composition and Techinical Communication. Repeatable with different emphases for up to nine hours of English credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

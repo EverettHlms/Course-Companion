@@ -1,0 +1,558 @@
+{
+    "name": "Spanish",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/span/",
+    "courses": [
+        {
+            "course_code": "SPAN 1410",
+            "course_name": "Beginning Spanish I",
+            "course_desc": "Introduction to listening, speaking, reading, and writing skills within a Spanish cultural framework. Students who take SPAN 1410 toward degree requirements must also complete SPAN 1420. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 1420",
+            "course_name": "Beginning Spanish II",
+            "course_desc": "Continued practice in listening, speaking, reading, and writing skills within a Spanish cultural framework. Prerequisite: SPAN 1410 with a grade of \"C\" or better. Students who take SPAN 1410 toward degree requirements must also complete SPAN 1420. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 2310",
+            "course_name": "Intermediate Spanish I",
+            "course_desc": "Continued development and review of all language skills within a Spanish framework. (MULT) Prerequisite: SPAN 1420 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 2320",
+            "course_name": "Intermediate Spanish II",
+            "course_desc": "More advanced practice in all language skills with greater emphasis on reading within a Spanish cultural framework. (MULT) Prerequisite: SPAN 2310 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3301",
+            "course_name": "Literatures of Spain I",
+            "course_desc": "Students will study significant literary texts of the Iberian Peninsula from the Muslim conquest in 711 A.D. through 1700. The course will also consider the literature's historical, religious, social, and political contexts. Prerequisite: SPAN 3309 with a grade of \"C\" or better. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3302",
+            "course_name": "Literatures of Spain II",
+            "course_desc": "Students will study significant literary texts of the Iberian Peninsula from the Enlightenment through the twenty-first century. The course will also consider the literature's historical, social, and political contexts. Prerequisite: SPAN 3309 with a grade of \"C\" or better. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3305",
+            "course_name": "Latin American Literatures I",
+            "course_desc": "Students will study literary texts in Latin American from the period before the Conquest through the Colonial and Independence periods. The course will also consider the literature's historical, religious, social, and political contexts. Prerequisite: SPAN 3309 with a grade of C or better. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3306",
+            "course_name": "Latin American Literatures II",
+            "course_desc": "Students will study literary texts of Latin American from Modernismo to the twenty-first century. The course will also consider the literature's historical, social, and political contexts. (MULT) (WI) Prerequisite: SPAN 3309 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3307",
+            "course_name": "Advanced Composition for Spanish Heritage Speakers",
+            "course_desc": "This is an advanced composition course for students who have grown up in an environment in which Spanish is spoken. It is designed to improve writing skills in Spanish through reading and responding to texts in Spanish. Students may not apply credit to their degree plans for both SPAN 3307 and 3308.(MULT) Prerequisite: SPAN 2320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3308",
+            "course_name": "Advanced Composition",
+            "course_desc": "This advanced composition course is designed to improve writing skills in Spanish through reading and responding to texts in Spanish. Students may not apply credit to their degree plans for both SPAN 3307 and SPAN 3308. (WI) (MULT)  Prerequisite: SPAN 2320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3309",
+            "course_name": "Introduction to Hispanic Literature and Literary Analysis",
+            "course_desc": "This course focuses on writing skills, literary analysis, and the reading of selected works from Spanish, Latin American and Hispanic literature. (MULT) (WI) Prerequisite: SPAN 2320 with a grade of \"C\" or better. Corequisite: SPAN 3307 or SPAN 3308 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3310",
+            "course_name": "Spanish Phonetics and Phonemics",
+            "course_desc": "Articulatory phonetics and sound discrimination and production; phonemic and allophonic variants; geographical and social distribution. (MULT) Prerequisite: SPAN 3308 or SPAN 3307 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3311",
+            "course_name": "Business Spanish I",
+            "course_desc": "This course focuses on the use of written and oral Spanish in global business contexts, as well as exploring economic, demographic, and cultural factors that influence commercial interactions in the Hispanic world. Topics include business management, banking, and human resources. (WI)(MULT) Prerequisite: SPAN 3308 or SPAN 3307 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3312",
+            "course_name": "Business Spanish II",
+            "course_desc": "This course focuses on the use of written and oral Spanish in global business contexts, as well as exploring economic, demographic, and cultural factors that influence commercial interactions in the Hispanic world. Topics include marketing, financing, and imports/exports. (WI) (MULT) Prerequisite: SPAN 3308 or SPAN 3307 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3313",
+            "course_name": "Spanish and Media",
+            "course_desc": "This course provides an overview of mass communication in Spanish-speaking regions of the world. Students explore the use of radio, television, newspapers, and the internet as practiced in various Hispanic cultural contexts. Prerequisite: SPAN 3308 or SPAN 3307 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3314",
+            "course_name": "Translation Practice and Theory",
+            "course_desc": "This course is an introduction to Spanish translation for upper-division students. Students approach translation as a method of improving their reading comprehensiona fundamental skill for translatorswhile increasing overall Spanish language proficiency and acquiring the cultural competence required to address the complexities of the translation process. Prerequisite: SPAN 3307 or SPAN 3308 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3315",
+            "course_name": "Spanish for Health Professions I",
+            "course_desc": "This course focuses on the use of oral and written Spanish in U.S. and global health professions. Topics include: general and diagnostic health-related terminology in Spanish; communication with Spanish-speaking patients, families, and other health professionals; and the impact of cultural factors on health matters in Hispanic communities. (WI) Prerequisite: SPAN 3307 or SPAN 3308 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3316",
+            "course_name": "Spanish for Health Professions II",
+            "course_desc": "This course focuses on the use of oral and written Spanish in U.S. and global health professions. Topics include: medical treatments and procedures, maternity and infant care, preventative health and nutrition, and recovery/post-release treatment. Prerequisite: SPAN 3307 or 3308 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3340",
+            "course_name": "Advanced Spanish Grammar and Stylistics",
+            "course_desc": "This course places major emphasis on syntax, usage, and grammatical nomenclature. (MULT) Corequisite: SPAN 3307 or SPAN 3308 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3370",
+            "course_name": "Spanish Civilization",
+            "course_desc": "Students will study the civilizations and cultures of Spain. The course provides a background for understanding Spanish society. (MULT) (WI) Prerequisite: SPAN 3308 or SPAN 3307 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 3371",
+            "course_name": "Latin American Civilization",
+            "course_desc": "Students will study the cultures of Latin America and the Hispanic U.S. The course provides a background of the history and civilization of both groups. (MULT) (WI) Prerequisite: SPAN 3308 or SPAN 3307 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4300",
+            "course_name": "Professional Internship in Spanish",
+            "course_desc": "This course is a supervised work experience in a Spanish-speaking environment. Students will work a minimum of 140 hours, performing duties at least 80% in Spanish. Other requirements include internship reports as required by course instructor. (MULT)  Prerequisite: SPAN 3308 or SPAN 3307 with a grade of \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4302",
+            "course_name": "The Spanish Novel",
+            "course_desc": "Students will study selected novels of Spain from the 16th through the 21st century. The course will also consider the literature's historical, religious, and political contexts. (MULT) (WI) Prerequisite: SPAN 3309 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4311",
+            "course_name": "Historical Aspects of Hispanic Linguistics",
+            "course_desc": "Course designed to develop knowledge and skills required for analysis and discussion of structural and external aspects of the history of the Spanish language with special focus on word formation and social aspects of language variation. The course provides an overview of morphology, sociolinguistics, and historical linguistics. (MULT) Prerequisite: SPAN 3308 or SPAN 3307 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4312",
+            "course_name": "Contemporary Aspects of Hispanic Linguistics",
+            "course_desc": "This course is designed to develop knowledge and skills required for analysis and discussion of the structural and social aspects of the Spanish language. The course provides an overview of semantics, syntax, pragmatics, dialectology, and language acquisition in Spanish. (MULT) Prerequisite: SPAN 3308 or SPAN 3307 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4330",
+            "course_name": "The Latin American Novel",
+            "course_desc": "Students will study selected novels from Latin America. The course will also consider the literature's historical and political contexts. (MULT) (WI) Prerequisite: SPAN 3309 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4341",
+            "course_name": "Gabriel Garcia Marquez",
+            "course_desc": "Students will read and analyze works by Nobel Prize author Gabriel Garcia Marquez, focusing on literature, history, politics and art of Latin America. (WI)(MULT) Prerequisite: SPAN 3309 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4342",
+            "course_name": "Don Quijote",
+            "course_desc": "Students will read and analyze Miguel de Cervantes' Don Quijote. The course will also consider the novel's literary sources and historical and cultural context. (WI)(MULT) Prerequisite: SPAN 3309 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4350",
+            "course_name": "Hispanic Film",
+            "course_desc": "Students will study Hispanic artistic, cultural, and historical issues through film and selected readings. (WI) (MULT) Prerequisite: SPAN 3309 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4361",
+            "course_name": "Hispanic Poetry",
+            "course_desc": "Students will read and analyze selected poems from Latin America and Spain.  The course will consider the cultural and historical contexts of the works. (MULT) (WI) Prerequisite: SPAN 3309 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4362",
+            "course_name": "Hispanic Drama",
+            "course_desc": "Students will read and analyze selected plays from Latin America and Spain. The course will also consider the cultural context of the works. (MULT) (WI) Prerequisite: SPAN 3309 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4370",
+            "course_name": "Hispanic Literature of the Southwest",
+            "course_desc": "Students will study the Hispanic literature of the Southwest in order to have a better understanding of the cultural diversity of the region. (WI) (MULT) Prerequisite: SPAN 3309 a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4380A",
+            "course_name": "Hispanic Nobel Prizes in Literature",
+            "course_desc": "Hispanic Nobel prizes in Literature. (WI) (MULT) Prerequisite: SPAN 3309 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4380F",
+            "course_name": "Mexican Literature",
+            "course_desc": "This course focuses on the most representative works of Mexican Literature produced since Mexican Independence in the early 19th century.  Course objectives include a better understanding of major literary trends and the cultural development of Mexican society since its beginning as an independent republic. (WI) (MULT) Prerequisite: SPAN 3309 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4380G",
+            "course_name": "Women, Minorities and Marginal Groups in Medieval Spanish Literature",
+            "course_desc": "This course will present some of the principal literary works which portray women, religious minorities and marginal groups in medieval Spain. Special focus will be given on deconstructing historical myths and stereotypes based on behavioral, religious and sexual identity as reflected by the authors and their selected works. (WI) (MULT) Prerequisite: SPAN 3309 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4380H",
+            "course_name": "Nature and Nation in Latin American Literature",
+            "course_desc": "Students will study the interaction of nature and nation in Latin American literature after Independence by taking into account both Western and indigenous approaches to nature. Students will read a selection of literary works that reinforce and/or contest notions of nature, nation and cultural identity. (WI) (MULT) Prerequisite: SPAN 3309 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4390",
+            "course_name": "Studies in Spanish Culture, Language, or Literature",
+            "course_desc": "The course is generally available only to graduating seniors who have completed several advanced courses or graduate students with special needs. Repeatable for credit with different emphasis. (MULT) Prerequisite: SPAN 3308 or SPAN 3307 with a grade of \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 4600",
+            "course_name": "Professional Internship in Spanish",
+            "course_desc": "This course is a supervised work experience in a Spanish-speaking environment. Students work a minimum of 280 hours, performing duties at least 80% in Spanish. Other requirements include internship reports as required by course instructor. (MULT) Prerequisite: SPAN 3308 or SPAN 3307 with a grade of \"C\" or better and instructor approval.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n18 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5100",
+            "course_name": "Practicum in Teaching Spanish",
+            "course_desc": "Required as a condition of employment for graduate teaching and instructional assistants in their initial semester of employment. The course provides regular in-service and planned periodic evaluations of instructional responsibilities. This\ncourse does not earn graduate degree credit. Repeatable with different emphasis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "SPAN 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SPAN 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SPAN 5303",
+            "course_name": "Spanish for Health Professionals",
+            "course_desc": "This course is designed for graduate students in the health professions who require knowledge of Spanish in the professional settings of nutrition, physical therapy, nursing, and respiratory therapy. Students develop elementary communicative proficiency and accuracy in the use of the Spanish language with Spanish-speaking clients, with an emphasis on oral communication. Along with basic structures and vocabulary utilized in health-care contexts, students learn essential information about Hispanic cultures. The course cannot be counted for credit in the Spanish M.A. program.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5310A",
+            "course_name": "Voyages and Encounters in Spanish American Literature",
+            "course_desc": "Thorough analysis of historical and fictional voyages. The course will address how encounters with indigenous, ethnic minority, and foreign cultures have influenced the development of individual, national and regional identities in Spanish America. Readings will include accounts of the Conquest, colonial texts, and literature for the 19th and 20th centuries. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5310B",
+            "course_name": "Don Quijote",
+            "course_desc": "A close reading of the classic Spanish novel Don Quijote by Miguel de Cervantes. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5310C",
+            "course_name": "Poetry of Spain and Spanish America",
+            "course_desc": "A focus on the genre of poetry through a close reading of a selection of classical and contemporary poets from Spain and Spanish America. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5310D",
+            "course_name": "Hispanic Literature: Gabriel Garcia Marquez",
+            "course_desc": "A study of selected works of Nobel Prize author Gabriel Garcia Marquez, focusing on literature, history, politics, and popular culture of Latin America. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5310E",
+            "course_name": "Hispanic Literature: Hispanic Film",
+            "course_desc": "A study of Hispanic cultural issues through film and additional readings. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5310F",
+            "course_name": "Contemporary Mexican Narratives",
+            "course_desc": "This course focuses on contemporary Mexican narratives. Students will study Mexico's literary trends such as La nueva narrativa, the Crack Generation, women's literature, and the new historic and testimonial fictions, in order to better understand the cultural process of the Mexico's society in the late 20th and early 21st centuries. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5311",
+            "course_name": "Studies in Medieval and Golden Age Spanish Peninsular Literature",
+            "course_desc": "Selections of fiction, poetry, theatre, essay, and film of medieval and Golden Age Spain. May be repeated once with different emphasis for additional credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5312",
+            "course_name": "Studies in Spanish Peninsular Literature from the Eighteenth Century to the Present",
+            "course_desc": "Selections of fiction, poetry, theatre, essay, and film of Spain from the eighteenth century to the present. May be repeated once with different emphasis of additional credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5313",
+            "course_name": "Studies in South American Literatures",
+            "course_desc": "Selections of fiction, poetry, theatre, essay, and film of South America. May be repeated once with different emphasis for additional credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5314",
+            "course_name": "Studies in Central American and Caribbean Literatures",
+            "course_desc": "Selections of fiction, poetry, theatre, essay, and film of Central America and the Caribbean. May be repeated once with different emphasis for additional credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5315",
+            "course_name": "Studies in Mexican and Mexican-American Literatures",
+            "course_desc": "Selections of Mexican and Mexican-American fiction, poetry, theatre, essay, and film. May be repeated once with different emphasis for additional credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5316",
+            "course_name": "Studies in Spanish Peninsular Culture",
+            "course_desc": "Culture, history, and society in literature, film, art, music, folklore, and mass media of Spain. May be repeated once with different emphasis for additional credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5317",
+            "course_name": "Studies in the Cultures of the Americas",
+            "course_desc": "Culture, history, and society in literature, film, art, music, folklore, and mass media of the Americas. May be repeated once with different emphasis for additional credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5318",
+            "course_name": "Advanced Composition and Research Methods",
+            "course_desc": "This course focuses on the study of composition and grammar, textual analysis, and research methods. It may be repeated once with different emphasis for additional credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5319",
+            "course_name": "Synchronic Spanish Linguistics",
+            "course_desc": "In this course students learn about Spanish dialectology, phonology, regional variation, migration impacts on language variety, issues of language maintenance and death, syntax, and current theories of language contact and koineization (i.e., the formation of new dialects). May be repeated once with different emphasis for additional credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5320",
+            "course_name": "Diachronic Spanish Linguistics",
+            "course_desc": "Evaluation of aspects of history of the Spanish language including pronunciation, word formation, sentence structure, dialects, and relations to other languages. May be repeated once with different emphasis for additional credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5321",
+            "course_name": "Spanish Applied Linguistics",
+            "course_desc": "This course provides an overview of the major areas of applied linguistic research including: current theories in second language acquisition, teaching methodologies, bilingualism, performance, syntax, and computer assisted learning. May be repeated once with different emphasis for additional credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5322",
+            "course_name": "Spanish for the Professions",
+            "course_desc": "Topics vary and include the study of Spanish for business, law, medicine, criminal justice, and/or the social sciences. May be repeated once with different emphasis for additional credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5323",
+            "course_name": "Translation History and Theory",
+            "course_desc": "This course introduces students to the history and theory of translation. Students analyze historical and contemporary translation practices and theories and the inherent challenges and complexities of translating a source text into a target language. Students translate texts in a variety of genres to acquire proficiency in producing accurate translations from English to Spanish and Spanish to English. Prerequisite: 3.0 GPA in 12 hours of advanced undergraduate Spanish.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5324",
+            "course_name": "Applied Translation Methods",
+            "course_desc": "This course is an introduction to applied translation methods. Students practice the specific tasks involved in the vocabulary, sentence structure, and cultural complexities of the translation process in Spanish and English while acquiring the proficiency to produce professional translations in fields such as advertising, business, healthcare, law, sports, and journalism. It may be repeated once for credit when its topic varies. Prerequisite: 3.0 GPA in 12 hours of advanced undergraduate Spanish.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5325",
+            "course_name": "Professional Internship in Spanish",
+            "course_desc": "This course is a supervised work experience in a Spanish-speaking professional environment. Students will work a minimum of 140 hours, performing duties at least 80% in Spanish. Other requirements include internship reports as required by course instructor. (MC).",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5390",
+            "course_name": "Studies in Spanish Culture, Language, or Literature",
+            "course_desc": "Independent study under supervision of a graduate faculty member in Spanish, with in-depth readings and research on a specific topic. May be repeated once with different emphasis for additional credit. (MULT) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "SPAN 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until the student has completed the thesis in Spanish 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SPAN 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SPAN 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SPAN 5600",
+            "course_name": "Internship",
+            "course_desc": "This course consists of an internship of at least four weeks duration in the United States or in a Spanish-speaking country. Interns work with organizations that use Spanish in a professional context. Internships may be complemented by lectures, observations, interviews, or other activities relevant to the student's academic and professional interests. Graduate advisor approval required. Prerequisite: Completion of 18 credit hours required for the Master of Arts with a major in Spanish.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n12 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "SPAN 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

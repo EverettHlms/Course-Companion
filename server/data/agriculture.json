@@ -1,0 +1,838 @@
+{
+    "name": "Agriculture",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ag/",
+    "courses": [
+        {
+            "course_code": "AG 1110",
+            "course_name": "Careers in Agriculture",
+            "course_desc": "This course is an introduction to careers available in the broad field of agriculture including an overview of personal and career qualifications needed for workplace success.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 1445",
+            "course_name": "Basic Animal Science",
+            "course_desc": "An introductory course designed to acquaint students with the importance of the livestock industry. A study of the types and breeds; market classes and grades of beef cattle, swine, sheep, goats, horses, and poultry; attention will be given to breeding, judging, care, and management.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 2275",
+            "course_name": "Agricultural Safety",
+            "course_desc": "This course covers the fundamentals of hazards, methods of injury prevention, safety education, regulations and advancing safety and health in the agriculture industry. This course will identify potential industrial hazards and means to mitigate these hazards and develop a culture of safety within an organization.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 2313",
+            "course_name": "Agronomic Crops",
+            "course_desc": "A study of the production, harvest practices, storage, and use of cereal and feed grains, fiber crops, forages, and other related crops requiring special technology.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 2318",
+            "course_name": "Anatomy and Physiology of Livestock and Poultry",
+            "course_desc": "This course provides a fundamental knowledge of major anatomical and physiological features of the skeletal, muscular, endocrine, cardiovascular, urinary, respiratory, and nervous systems of various livestock species. Gross and microanatomy of livestock and poultry will also be covered. Prerequisite: AG 1445 with a grade of a \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 2345",
+            "course_name": "Horse Management",
+            "course_desc": "A course designed as a broad but thorough coverage of most areas of horse husbandry and production, including anatomy, physiology, breeding, feeding, training, and health care. Laboratory sessions are designed to acquaint the student with modern methods of breeding, training, and care of the horse.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 2373",
+            "course_name": "Introduction to Agricultural Engineering",
+            "course_desc": "An introductory course designed to acquaint students with a wide range of concepts, principles and applied technologies in agricultural engineering. A problem solving course.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 2374",
+            "course_name": "Metal Fabrication and Welding Technology for Agriculture",
+            "course_desc": "This course covers the principles and practices of applied metallurgy and welding. Emphasis is given to the management of the technologies and techniques associated with oxy-fuel cutting, shielded metal arc welding (SMAW), Gas Metal Arc Welding (GMAW), Gas Tungsten Arc Welding (GTAW), and Plasma Arc Cutting (PAC). Prerequisite: AG 2373 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 2379",
+            "course_name": "General Horticulture",
+            "course_desc": "A survey of the general field of horticulture including general areas of employment.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 2383",
+            "course_name": "Introduction to Agricultural Economics",
+            "course_desc": "The role of agriculture in the general economy; the study of basic economic concepts with their application to the agricultural firm; the structure and operation of the marketing system; the functional and institutional aspects of agricultural finance; international trade; and government farm programs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 2390",
+            "course_name": "Computer Applications in Agriculture",
+            "course_desc": "Introduction to computers and computer technology; operation and application of the computer in production agriculture and agricultural business, services and industries. Includes characteristics of computer hardware and software, accessing and using the computer in agriculture.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 2391",
+            "course_name": "Livestock Behavior and Welfare",
+            "course_desc": "This course provides foundational knowledge on how livestock behave. It also provides the knowledge of how to handle livestock humanely. Livestock stress and physiological response to human interaction will also be discussed.  Prerequisite: AG 1445 and [BIO 1330 and BIO 1130] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3300",
+            "course_name": "Undergraduate Research in Agricultural Sciences",
+            "course_desc": "This course introduces students to the fundamentals of scientific inquiry in agriculture. Topics include quantitative and qualitative research methods, data management, data analysis, data interpretation, and data dissemination, with emphasis on their applications in agriculture. Prerequisite: A minimum 3.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3301",
+            "course_name": "Principles of Livestock Genetics",
+            "course_desc": "This course focuses on the fundamental principles of genetics and their application to animals. The physical basis of Mendelian inheritance, expression and interaction of genes, gene frequency, linkage, sex linkage, inbreeding, line breeding, and crossbreeding as applied to selection indices for livestock are examined.  (WI) Prerequisites: AG 1445 and BIO 1130 and BIO 1330 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3302",
+            "course_name": "Herbaceous Plant Materials",
+            "course_desc": "This course will include the identification, selection, use, and management of annuals, perennials, herbs, and ornamental grasses in the landscape. Each student will learn irrigation, fertilization, pruning, and other cultural needs of such plants. The laboratory will complement lecture.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3304",
+            "course_name": "Propagation of Horticultural Plants",
+            "course_desc": "Principles and practices of propagating ornamental plants, vegetables, and fruits by sexual and asexual methods including germination of seed, layerage, graftage, division, cuttage, bulbs, corms, and other vegetative plant structures. Study of physical, physiological and environmental factors affecting propagation of ornamental plants.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3305",
+            "course_name": "Woody Plant Materials for Outdoor Landscapes",
+            "course_desc": "Study of woody plant material including fruit and ornamental trees, shrubs, and ground covers and their identification, nomenclature, and use in the planting and development of home landscapes.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3306",
+            "course_name": "Flowers and Plants for Interior Design",
+            "course_desc": "Study of flowers, cut flowers, foliage and blooming pot plants to enhance the interior design of homes and businesses including their identification, cultural requirements, uses, diagnoses and corrective measures of disorders. Basic principles of flower arrangement and the preparation of floral and plant decoration as used in interior design. (WI).",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3308",
+            "course_name": "Organic Gardening",
+            "course_desc": "This course introduces the principles and practices of basic gardening using organic methods. Topics include an overview of soil preparation, warm and cool season crops, propagation of plants, and weed, insect, and disease identification and management.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3310",
+            "course_name": "Agriculture Power and Machinery Technology",
+            "course_desc": "This course covers the principles of 2 stroke and 4-stroke cycle engines, ignition, and combustion types including injection systems. Components including power and power transmissions and hydraulic systems will also be addressed. Prerequisites: AG 2373 and [MATH 1315 or MATH 1319 or MATH 2321 or MATH 2417 or MATH 2471] both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3314",
+            "course_name": "Animal Health and Disease Control",
+            "course_desc": "This course is designed to introduce immunology and provide a basic understanding of veterinary principles as applied to prevention and treatment of domestic livestock diseases. Common diseases of livestock are considered, with emphasis on immune function, symptoms, prevention, and treatment. Prerequisite: AG 1445 and AG 2318 and BIO 1330 and BIO 1130 all with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3317",
+            "course_name": "Farm Management",
+            "course_desc": "Tools and techniques which are basic to the study of farm organization and decision making, the wise allocation of factors of production, the keeping of records, and income tax management. Prerequisites: AG 2383 and AG 2390 and [MATH 1315 or MATH 1319 or MATH 2321 or MATH 2417 or MATH 2471] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3318",
+            "course_name": "Agricultural Business Management",
+            "course_desc": "This course introduces institutions and functions of agribusiness. The institutional structure of agribusiness such as feed, farm machinery and equipment, farm chemicals, financial institutions and private and public agri-services will be delineated. Various agribusiness functions such as organizational behavior and financial, market and human resource management will be discussed. Prerequisite: AG 2383 and AG 2390 and [MATH 1315 or MATH 1319 or MATH 2321 or MATH 2417 or MATH 2471] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3319",
+            "course_name": "International Food and Fiber Systems",
+            "course_desc": "This course presents the food and fiber system from an international perspective. Analysis of food production and consumption patterns under different world economic systems, causes of surpluses and shortages throughout the world; the role of trade in solving food and agricultural problems. Global outlook and situation for food and fiber. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3321",
+            "course_name": "Range Management",
+            "course_desc": "Practical problems met in managing native pastures and rangelands. Attention to determining range condition and proper stocking rates, methods of handling livestock on the range, range reseeding, brush control, and poisonous plants. The ecological and physiological response of range vegetation to grazing. Prerequisite: AG 1445 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3325",
+            "course_name": "Animal Nutrition",
+            "course_desc": "Principles of animal nutrition with emphasis on digestion, absorption, metabolism, and function of nutrients; estimation of feedstuff nutritive value; and requirements of animals. (WI) Prerequisite: AG 1445 and BIO 1130 and BIO 1330 and CHEM 1141 and CHEM 1341 all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3329",
+            "course_name": "Economic Entomology",
+            "course_desc": "A study of the most common insects of field crops, fruits, and vegetables; life history, methods of attack, damage, and means of preventing and controlling. Collection and mounts of insects will be made.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3330",
+            "course_name": "Applied Wildlife Nutrition",
+            "course_desc": "Basic and fundamental principles of nutrition for ruminant and non-ruminant wildlife with emphasis in North American and African wildlife. Attention will be given to digestive physiology and anatomy, feed sources, forage resources, and nutrient requirements. Prerequisite: AG 1445 or [BIO 1130 and BIO 1330] any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3331",
+            "course_name": "Reproduction in Farm Animals",
+            "course_desc": "An examination of the anatomy and physiology of reproductive systems of livestock of economic importance. Attention is given to reproductive failure and disease. The laboratory includes pregnancy testing, semen collection and evaluation, artificial insemination techniques, and evaluation of breeding records. Prerequisites: AG 1445 and AG 2318 and [AG 3301 or BIO 2450] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3341",
+            "course_name": "Leadership Development in Agricultural Sciences",
+            "course_desc": "This course focuses on the foundations of leadership concepts and theories useful in agricultural careers of science, government agency, non-profits and business. Emphasis is placed on the development of individual leadership skills, group situations, and strategies necessary for effective leadership..",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Multicultural Perspective",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3345",
+            "course_name": "Livestock Selection and Evaluation",
+            "course_desc": "Detailed consideration of the factors involved in the selection and evaluation of beef cattle, sheep, swine, rabbits, goats, and chickens. Emphasis will be placed on the care, grooming and exhibition of livestock projects. (Junior and Senior standing only) Prerequisite: AG 1445 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3350",
+            "course_name": "Intermediate Microeconomics and Agricultural Application",
+            "course_desc": "This course focuses on intermediate-level microeconomics and its application in agriculture. The course covers topics such as consumer and producer theories, game theory, labor and capital markets, uncertainty, externalities, and public goods.   Prerequisite: AG 2383 and [MATH 1315 or MATH 1319 or MATH 2321 or MATH 2417 or MATH 2471] both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3351",
+            "course_name": "Agricultural Marketing and Sales",
+            "course_desc": "A study of the food marketing system and farm input sales; includes the functional systems approach that integrates the agricultural input industries into a discussion of food marketing; takes a micro approach to the development of marketing management skills needed in agribusiness; and provides a critical outlook on issues ranging from inputs to final food products. (WI) Prerequisite: AG 2383 and [MATH 1315 or MATH 1319 or MATH 2321 or MATH 2417 or MATH 2471] both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3352",
+            "course_name": "Quantitative Methods in Agricultural Economics",
+            "course_desc": "Principles involved in collection, tabulating and analyzing agricultural data. Topics include sampling procedures, questionnaire development, descriptive analysis of data, correlation, prediction and forecasting and tests of significance. Simple computer programs will be stressed for class exercises during the course. Prerequisite: MATH 1315 or MATH 1319 or MATH 2321 or MATH 2417 or MATH 2471 any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3353",
+            "course_name": "Agricultural Structures and Environment",
+            "course_desc": "Principles and practices associated with structural components, selection, materials of construction, heat and moisture control, and the environmental issues of waste management systems; a problem solving course. Prerequisites: AG 2373 and AG 2390 and [MATH 1315 or MATH 1319 or MATH 2321 or MATH 2417 or MATH 2471] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3355",
+            "course_name": "International Agricultural Trade",
+            "course_desc": "This course focuses on economic forces associated with trade in food and agricultural products between the United States and other countries. The course covers gains from trade, agricultural trade policies (of exporters and importers), exchange rates, and multilateral trade negotiations. The course also explains how economic principles and analytical techniques are applied to international trade and multi-national markets of agricultural products.  Prerequisite: AG 2383 and ECO 2315 and [MATH 1315 or MATH 1319 or MATH 2321 or MATH 2328 or MATH 2417 or MATH 2471] all with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3367",
+            "course_name": "Livestock Ultrasonography",
+            "course_desc": "This course provides students with the current developments and utilization of ultrasound technology in the livestock industry. Emphasis will be placed on understanding the functionality of an ultrasound machine and the use of ultrasonography in live animal carcass evaluation as well as reproductive techniques including pregnancy determination, fetal sexing, and fetal aging.  Prerequisite: AG 1445 and AG 2318 both with grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3375",
+            "course_name": "Management of Agricultural Machinery and Equipment",
+            "course_desc": "This course addresses the optimization of the equipment phases of agricultural production and processing. Emphasis will be placed on management and decision making principles concerned with the efficient selection, operation, repair, maintenance, and replacement of machinery and equipment. Prerequisites: AG 2373 and AG 2390 and CHEM 1141 and CHEM 1341 and [MATH 1315 or MATH 1319 or MATH 2321 or MATH 2417 or MATH 2471] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3381",
+            "course_name": "Beef Cattle Production",
+            "course_desc": "This course provides students with practical application in the principles of breeding, feeding, and management of commercial and purebred cattle. Students receive first-hand experience and knowledge of breeding techniques, animal handling, genetic selection, nutrition application, marketing, and technology.  Prerequisite: AG 3325 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3426",
+            "course_name": "Soil Science I",
+            "course_desc": "This course introduces fundamental principles of soil science to acquaint the student with some physical, chemical, and biological properties of the soil. Prerequisites: CHEM 1141 and CHEM 1341 and [AG 2313 or AG 2379 or BIO 1330] all with grades of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 3427",
+            "course_name": "Soil Science II",
+            "course_desc": "Management of soils as pertaining to their place in the environment. Special emphasis will be given to the role of soil in conventional agricultural systems, natural resource systems, waste management systems, and reclaimed and artificial soil systems. (WI) Prerequisite: AG 3426 with a grade of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4113",
+            "course_name": "Summer Programs in Agricultural Education",
+            "course_desc": "This course provides students field experience in summer agricultural education programming in secondary school settings. Students will receive individualized instruction during supervised visits while they are engaged in their field experience.  The course includes program planning and educating diverse student learning populations.  Prerequisite: AG 4212 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4185",
+            "course_name": "Independent Study",
+            "course_desc": "This course provides advanced undergraduates with opportunities to study any subject matter of special interest in agricultural Sciences. May be repeated two times. (WI) Prerequisite: Dpeartment approval and a minimum 3.0 Texas State GPA.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Dual Enrollment Permitted|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4212",
+            "course_name": "Program Building",
+            "course_desc": "This course focuses on program and curriculum development in agricultural education settings. Primary course elements will include determining program and curriculum goals and objectives, implementing the program, and curriculum evaluation. Corequisite: AG 4343 with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4300",
+            "course_name": "Greenhouse and Nursery Management",
+            "course_desc": "Planning greenhouses for commercial and home use; plant-nursery layouts. Study of the physical and economic factors affecting the production of plants in the greenhouse and other forcing structures, and in the field; management techniques used in the production and marketing of greenhouse and nursery plants. (WI).",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4302",
+            "course_name": "Fruit and Vegetable Crop Production",
+            "course_desc": "Factors influencing small-fruit and tree-fruit and vegetable crop production in the field including root stocks, varieties, soil, planting, transplanting, irrigating, fertilizing, pruning, insects, diseases, nematodes, weeds, chemicals, harvesting, storing, and marketing; greenhouse production of certain vegetables. (WI) Prerequisite: AG 2313 or AG 2379 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4304",
+            "course_name": "Landscape Management",
+            "course_desc": "To acquaint students with the practices and techniques used in professional landscape construction and management, and with the scientific and technical basis for such practices.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4305",
+            "course_name": "Landscape Design",
+            "course_desc": "Landscaping combines elements of art and science to create functional, aesthetically pleasing outdoor space. This class helps students develop knowledge of design elements and principles. Students learn site and client analysis techniques for critiquing landscapes. Students learn to communicate ideas through the planning and drawing of landscape plans.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4307",
+            "course_name": "Professional Development in Agriculture",
+            "course_desc": "This course requires students to select a topic of current interest appropriate to the major. Critical analysis of the situation including both positive and negative aspects will be encouraged. Findings will be presented in both oral and written form. (Capstone Course).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4310",
+            "course_name": "Agricultural Internship",
+            "course_desc": "This course integrates professional and academic experience through internship with an external employer.  The internship is designed to provide actual work experience, observation and analysis in the students chosen career field. Prerequisite: Minimum 3.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4311",
+            "course_name": "Instructional Methods for Career and Technology Educators",
+            "course_desc": "An analysis of the instructional techniques, strategies and methods appropriate to the effective teaching of career and technology subjects. Teaching special populations and teaching in multicultural environments will be addressed. To be taken the Fall semester before student teaching.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4325",
+            "course_name": "Feeds and Feeding",
+            "course_desc": "Study of feedstuffs used in livestock enterprises. Application of basic nutrients to the needs of different species of livestock. Formulating rations, methods of feeding, feed control laws, and feeding investigation. Prerequisites: AG 3325 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4326",
+            "course_name": "Advanced Animal Science-Ruminants",
+            "course_desc": "The application of scientific and technological advances to production and management in ruminant animal production and management.  Prerequisite: AG 1445 and AG 2318 both with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4328",
+            "course_name": "Advanced Animal Science-NonRuminants",
+            "course_desc": "Application of basic principles in the production and management of nonruminant animals. Scientific and technological advances with emphasis on overall management, health care, nutrition, genetics, physiology, and marketing of nonruminant animals.  Prerequisite: AG 1445 and AG 2318 both with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4330",
+            "course_name": "Food Technology: Processing Meats",
+            "course_desc": "Evaluation and grading of carcasses; wholesale and retail cuts of beef, pork, lamb, and poultry. Emphasis on quality controls, testing of finished products that have been frozen, cured, fried, pickled, and canned. Prerequisites: AG 1445 and BIO 1130 and BIO 1330 and CHEM 1141 and CHEM 1341 all with grades of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4331",
+            "course_name": "Disaster Preparedness and Management in Agriculture",
+            "course_desc": "This course provides an investigation of past disaster events that have impacted the global and domestic food and agriculture supply. This course also provides the information needed to develop and execute an action response plan for disasters affecting agricultural operations. Both preparation and mitigation of the disaster will be covered. Prerequisite: AG 3341 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4343",
+            "course_name": "Organization and Management for Laboratory Programs",
+            "course_desc": "This course examines instructional programs involving laboratory equipment and facilities. Curriculum, teaching methods, equipment and facility management practices including various aspects of safety, tool management, inventory and security are emphasized along with facilities layout planning. Must be taken in last semester of program. Corequisite: AG 4212 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4355",
+            "course_name": "Precision Applications in Land Management",
+            "course_desc": "This course focuses on engineering practices used in surveying including differential profile leveling and construction surveys. Topics include the use of dumpy levels, transits, total stations, and Global Positioning Systems. This course introduces students to the fundamental components of small unmanned aerial systems (sUAS), sensors and platforms, UAS operational concepts, the principles of UAS data collection, the legal framework within which UAS should be operated and applied, and data processing software in agricultural settings.  Prerequisite: [MATH 1315 or MATH 1317 or MATH 1319] and AG 2373 and AG 2390 all with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4361",
+            "course_name": "Agriculture Electric and Mechanical Systems",
+            "course_desc": "Electrical fundamentals applied to agricultural production and processing. Circuits, power, energy, wiring design, and motor fundamentals; selection, installation and operational characteristics. Sensors and control devices including switches, relays, timers, and circuit breakers will be studied. Prerequisite: AG 2373 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4371T",
+            "course_name": "International Horticulture",
+            "course_desc": "The purpose of this program is to introduce students to the English culture and way of life, as well as England's historic role in Horticulture, past and present. Students will intensely study from the following four horticultural fields: Ornamental Horticulture, Landscape Design, Vegetables/Fruit Crops, and Vineyards and Hops. The program includes basic instruction in English history, as well as lectures and field trips.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4371V",
+            "course_name": "Green Revolution & Agricultural Development in Asia",
+            "course_desc": "This course will provide a detailed retrospective of the Green Revolution in Asia, its achievement and limits in terms of agricultural productivity improvement, and its broader impact at social, environmental, and economic levels.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4371X",
+            "course_name": "Data Analysis and its Application in Agriculture",
+            "course_desc": "This course is an introduction to data science that analyze big data with emphasis on its application in agriculture. Students will learn 1) how to analyze big data and make data-driven predictions through probabilistic modeling and statistical inference, 2) how to identify and utilize appropriate statistical and econometric methodologies to extract meaningful information for decision making in agriculture, and 3) how to use software such as Excel and R to implement statistical and econometric analysis and present results.   Prerequisite: AG 2390 and AG 3352 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4371Y",
+            "course_name": "Field Experiences in Regenerative Agriculture",
+            "course_desc": "This course focuses on experiential field-based activities and technologies in regenerative agriculture that improve the health and functioning of an ecosystem.  Students will gain experience with metrics to assess agroecological health as well as methods, tools and technologies to improve soil biophysical qualities, biodiversity, water and nutrient cycling, and energy balance.  Creating resilience to climate change, developing circular economies, and increasing farm profitability are explored.  In a field setting, regenerative agriculture techniques with respect to crop production are practiced. Prerequisite: [AG 2313 or AG 2379] and AG 3426 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4379",
+            "course_name": "Agriculture Irrigation Technology",
+            "course_desc": "This course teaches the principles associated with water management practices in maintaining soil productivity and the influence of water management on environmental quality. Emphasis will be placed on the selection and layout of irrigation and drainage systems, waste management systems, and the impact on the environment. Prerequisite: AG 2373 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4380",
+            "course_name": "Agricultural Finance",
+            "course_desc": "This course introduces finance and financial problems faced by agribusiness managers. The subject matter includes financial analysis, planning, and control; capital budgeting; capital structure, liquidity, and risk management; and financial markets. Prerequisite: ACC 2361 and AG 2383 and [MATH 1315 or MATH 1319 or MATH 2321 or MATH 2417 or MATH 2471] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4381",
+            "course_name": "Agricultural Policy",
+            "course_desc": "Identification and analysis of governmental programs and policies affecting the production and marketing of agricultural products. An economic evaluation of alternative policies and their application for farmers, consumers and agribusinesses will be considered. (WI) Prerequisite: AG 2383 and [MATH 1315 or MATH 1319 or MATH 2321 or MATH 2417 or MATH 2471] both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4382",
+            "course_name": "Agricultural Price Analysis",
+            "course_desc": "This course focuses on the forces that influence agricultural price movements and behavior, including consumer and producer theory, and market demand and supply with their associated determinants. The course also covers commodity futures and their use by agribusiness firms to reduce price risk. An explanation of simple and multiple regression is introduced to help the student understand empirical estimation of commodity demand and supply relationships, and reduced-form, price-dependent equations that offer insight into price-making forces. Price determination under alternative market structures is also reviewed and expanded. (WI) Prerequisite: AG 3350 and AG 3352 and [MATH 1315 or MATH 1319 or MATH 2321 or MATH 2417 or MATH 2471] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4383",
+            "course_name": "Agricultural Resource Economics",
+            "course_desc": "This course introduces economic concepts and institutional factors relating to the use of agricultural resources such as land, air, water, energy, space, etc. Emphasis is on the conservation of resources and the environmental interactions resulting from the use of natural resources for agricultural production. (WI) Prerequisite: AG 2383 and [MATH 1315 or MATH 1319 or MATH 1329 or MATH 2321 or MATH 2417 or MATH 2471] both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4390",
+            "course_name": "Global Agriculture",
+            "course_desc": "This study abroad course focuses on global agricultural industries and markets, including analysis of production, marketing and trade.  The course examines the shape of international agriculture; how culture, history and geography in foreign countries affect the production and management of agricultural products; agricultural policy formation; countries' natural resources and competitive strategies. Course may be repeated when topic varies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4401",
+            "course_name": "Genetics and Breeding for Crop Selection",
+            "course_desc": "This course covers traditional breeding and selection in crops with an emphasis on genetics.  The course includes topics on phenology, phenotype, genotype, heritability and epigenetics.  The course includes a lab. Prerequisites: AG 1445 and [AG 2313 or AG 2379] and BIO 1130 and BIO 1330 and CHEM 1141 and CHEM 1341 all with grades of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 4681",
+            "course_name": "Student Teaching in Agriculture, Food, and Natural Resources 6-12",
+            "course_desc": "Students will apply knowledge and skills learned during the teacher preparation program while engaging in clinical practice with experienced Agriculture mentor teachers in school settings with university instruction and supervision.  This culmination experience is required for Texas teacher certification. Prerequisite: Minimum 2.75 Overall GPA and instructor approval.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "AG 5100",
+            "course_name": "Professional Development",
+            "course_desc": "This course introduces key concepts and practices for teaching college courses. It provides regular in-service training and planned periodic evaluations of instructional responsibilities. It is required for first-year teaching and instructional assistants in the Master's of Science in Integrated Agricultural Sciences.  Graded on a credit (CR), no-credit (F) basis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "AG 5101",
+            "course_name": "Research Experience",
+            "course_desc": "This course provides students with an opportunity to explore a focused research topic.  Ideally the topic would be an emergent topic within their research area that was unplanned and resulted from their initial investigation.  May be repeated twice for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5120",
+            "course_name": "Aquaponic Internship",
+            "course_desc": "This course provides students with hands-on production experience in aquaculture.  Students will complete 64 hours of internship with an aquaponic facility.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.  Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "AG 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "AG 5300",
+            "course_name": "Applied Statistics and Econometrics for Agriculture",
+            "course_desc": "This course focuses on data analysis, modeling techniques and their applications with statistical inference for agriculture.  This course will cover statistical tools applied in agriculture, including probability, sampling, principles of estimation, hypothesis testing, general linear models, multiple regression analysis, qualitative response modeling, and other related tools widely used in agriculture.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5301",
+            "course_name": "Agricultural Development and Policy",
+            "course_desc": "This course focuses on current issues that integrate agricultural policy, resource development, application of welfare criteria and economic analysis, and food and rural development problems of the U.S. and the world.  Course topics include integrated agricultural and rural development, food and nutrition security, commodity issues, and trade policy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5302",
+            "course_name": "Economics of Agricultural Production",
+            "course_desc": "This course focuses on analysis of agricultural production economic concepts and models. Topics will include traditional neo-classical theory of the firm, duality theory, resource allocation, production selection, scale of operation of agricultural firms, and risk and uncertainty associated with agricultural production.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5303",
+            "course_name": "Agricultural Marketing and Price Analysis",
+            "course_desc": "This course emphasizes marketing theory and structure, characteristics of demand and supply  of farm products, agricultural price research techniques for evaluating marketing behavior, market legislation, and market development. The course will provide an opportunity for students to develop marketable skills in quantitative price and market analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5304",
+            "course_name": "Economics of Sustainable Natural Resource Management",
+            "course_desc": "This course provides economic tools to analyze sustainable natural resources and environmental issues.  It enables students to develop integrative expertise in economic analysis utilizing natural and behavioral sciences.  The integrative expertise provides students with the ability to more effectively, efficiently, and sustainably manage natural resources for multiple objectives.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5310",
+            "course_name": "Research Methods in Integrated Agricultural Sciences",
+            "course_desc": "This course covers research techniques, literature analysis, the development and implementation of experimental designs, conceptual models and survey instruments.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5320",
+            "course_name": "Integrated Agricultural Production in Aquaponic Systems",
+            "course_desc": "This course focuses on crop and fish production, pest management, water quality, nutrient management, and economics and marketing in aquaponic systems.  Topics covered include contrasts and comparisons to soil based, hydroponic cropping and aquaculture (confined fish production without crop interactions).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5323",
+            "course_name": "Composting and Integrated Resource Management",
+            "course_desc": "The course provides experience and theoretical foundation for the basic design, production, management, utilization and marketing of composts, vermicomposts and related products, and non-renewable natural resource issues related to agriculture.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5324",
+            "course_name": "Agroecology and Integrated Agriculture",
+            "course_desc": "This course will focus on integrative and ecological principles of agricultural production.  Emphasis will be on sustainable agriculture, complex systems, production diversity, integrated animal-crop systems, resilience and small producers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5350",
+            "course_name": "Foundations of Ethics and Leadership in Agriculture",
+            "course_desc": "This course prepares students for professional leadership and service in agriculture, with emphasis on applications of ethics and leadership principles. The course will focus on industry ethics and leadership theory in various professional settings in agriculture.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5351",
+            "course_name": "Grant Development and Management",
+            "course_desc": "This course explores competencies of locating external agency funding for agricultural research, teaching and extension.  The principles of producing a competitive proposal that includes multi-, cross and inter-disciplinary collaborations are also discussed.  The development of the grant proposal, implementation, budget, and evaluation plan will be emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5352",
+            "course_name": "Program Development and Evaluation",
+            "course_desc": "This course examines philosophies of program development, implementation and evaluation to meet stakeholders' expectations.  Emphasis is placed on  methodologies that effectively evaluate agricultural programs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5354",
+            "course_name": "Instructional Design in Agricultural Education",
+            "course_desc": "This course examines instructional design models appropriate from a pedagogical and andragogical viewpoint.  Emphasis is placed on theories and models to support the design of print-based, web-based, or multimedia-based instruction.  Students will prepare evaluation strategies to assess comprehensive instruction in a high-tech environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5355",
+            "course_name": "Methods of Technological Change",
+            "course_desc": "This course explores the dynamics and culture of technological change in agriculture.  Topics covered will include ways to implement change, skills for being an innovator and a change agent,  how to predict the effects of change, and the integration of other sciences into agricultural sciences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5360",
+            "course_name": "Advancements in Animal Science",
+            "course_desc": "Survey of the current knowledge and concepts in animal production including economic considerations and current production problems in breeding\nand feeding livestock.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5361",
+            "course_name": "Food Technology and Meat Science",
+            "course_desc": "This course explores the science and instrumentation of meat science; including food safety, processing and evaluation of wholesale and retail cuts of beef, pork, lamb, and poultry; including fresh, cooked/smoked, grilled, and pickled products.  The evaluation of consumer preference and economic returns based on product presentation will be included.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5362",
+            "course_name": "Advanced Animal Science: Minerals and Vitamins in Animal Nutrition",
+            "course_desc": "This course is an advanced study of the utilization and requirements of minerals and vitamins in farm and ranch animals.  It emphasizes ruminant and non-ruminant mineral and vitamin metabolism and utilization.  The utilization of specific minerals and vitamins by different species will be used to explain and predict subsequent performance.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5364",
+            "course_name": "Biology of Reproduction in Farm Animals",
+            "course_desc": "This course will focus on animal agriculture reproduction and examine the molecular principles of reproduction. Topics will include molecular reproductive endocrinology, advanced physiology and current research in animal reproduction science.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5365",
+            "course_name": "The Role of Animal Science in Society: An Integrated Approach",
+            "course_desc": "This course provides students with a broad understanding of the role animals have in society, the influences of animal production on economic development, changes in policy and social viewpoints of animal production, and the development of domesticated animals.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5370",
+            "course_name": "Special Problems in Technical Agriculture",
+            "course_desc": "Special problems will be selected to meet the needs of the individual student.  May be repeated (once) for additional credit when the problem differs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5390",
+            "course_name": "Foundation Studies in Agriculture",
+            "course_desc": "This course is a leveling course to provide prerequisite knowledge necessary for graduate-level coursework in Agriculture. Course content varies depending on academic preparation. This course does not earn graduate degree credit. Repeatable up to 9 hours with different emphasis. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "AG 5398",
+            "course_name": "Professional Paper",
+            "course_desc": "This course is required for non-thesis students to prepare a professional paper of publishable quality. Graded on a credit (CR), no-credit (F) basis. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "AG 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's initial thesis enrollment. No thesis credit is awarded until the student has completed the thesis in Integrated Agricultural Sciences.  Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "AG 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.  Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "AG 5426",
+            "course_name": "Soil Health and Development",
+            "course_desc": "This course focuses on the fundamental topics of soil health and development.  These fundamentals include pedogenesis, mineral composition, tillage practices, soil ecosystem and sustainability, soil biology and soil physics.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5463",
+            "course_name": "Animal Molecular Genetics",
+            "course_desc": "This course examines the theory and practice of molecular genetics of livestock.  Topics covered include genetic concepts and theory, as well as applications of these concepts in animal agriculture; e.g., Mendelian genetics, genomic revolution, cloning, epigenetics and transgenics. The course emphasizes techniques and underlying biological principles in genetics.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AG 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.  Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "AG 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.  Graded on a credit (CR), progress (PR), no-credit (F) basis.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

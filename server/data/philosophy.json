@@ -1,0 +1,846 @@
+{
+    "name": "Philosophy",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/phil/",
+    "courses": [
+        {
+            "course_code": "PHIL 1305",
+            "course_name": "Philosophy and Critical Thinking",
+            "course_desc": "A study of universal philosophical problems and their solutions with a view toward developing clear thinking about knowledge, belief, and value. Approximately one half of this course will focus on the students critical thinking skills. Credit cannot be given for both PHIL 1305 and PHIL 3301. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 1320",
+            "course_name": "Ethics and Society",
+            "course_desc": "Study of ethics, its recent focus on social problems, and new fields of inquiry, including environmental ethics, ethics in business, professions, technology and sport. Also such global issues as poverty, minority rights, and stem cell research. Emphasis on development and application of principles of critical thinking and moral reasoning. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lang, Phil & Culture Core 040|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 2311",
+            "course_name": "History of Philosophy Before 1600",
+            "course_desc": "Early Greek, Roman, and medieval systems of thought. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 2312",
+            "course_name": "History of Philosophy Since 1600",
+            "course_desc": "Modern philosophical thought through the 19th century. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 2330",
+            "course_name": "Elementary Logic",
+            "course_desc": "A study of the nature and forms of correct reasoning, both deductive and inductive.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3314",
+            "course_name": "American Philosophy",
+            "course_desc": "Examination of contributions of Americans to perennial philosophical issues. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3315",
+            "course_name": "Contemporary Philosophy",
+            "course_desc": "Selected readings in late 19th and 20th century philosophy: existentialism, positivism, analytic philosophy, phenomenology, and pragmatism. (WI)  Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3316",
+            "course_name": "Existentialism and Phenomenology",
+            "course_desc": "A study of the nature of human experience and existence in the philosophies of Kierkegaard, Nietzsche, Husserl, Heidegger, Sartre, Merleau-Ponty, and Camus. Topics will include freedom, dread, emotion, death, other minds, faith, and the past as experienced by the individual. (WI)  Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3317",
+            "course_name": "Science and Religion",
+            "course_desc": "An examination of modern science and religion, and an analysis of the issues and ideas involved in the relationships between them. (WI) (MULT)  Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3318",
+            "course_name": "Reason, God, and Nature",
+            "course_desc": "This course is an analysis of the concept of God, terms predicated on God, and theological propositions. Topics include determining the nature of religious utterances and comparison of religious claims with those of everyday life, scientific discovery, morality, and imaginative expression.  (WI)  Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3320",
+            "course_name": "Ethics",
+            "course_desc": "This course is a study of classical and contemporary philosophical inquiries into our knowledge of the good and the grounds of moral obligation.  (WI)  Prerequisite: [PHIL 2311 or PHIL 2312] and PHIL 2330 both with grades of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3321",
+            "course_name": "Contemporary Moral Problems",
+            "course_desc": "This course is an exploration of philosophical dimensions of contemporary moral problems such as abortion, euthanasia, poverty, animal rights, nuclear war, and privacy in a computer age. (WI)  Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3322",
+            "course_name": "Professional Ethics",
+            "course_desc": "This course is a study of major topics in business and professional ethics, including what a profession is, whether it differs from business, and what is involved with the moral education, social responsibilities, and ethical standards of professionals and business people.  (WI)  Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3323",
+            "course_name": "Environmental Ethics",
+            "course_desc": "Study of ethical issues associated with the environment including nature, use, preservation, and restoration of the environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3324",
+            "course_name": "Meaning of Life",
+            "course_desc": "Investigation of major theories of the meaning of life in Western and Eastern philosophies. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3325",
+            "course_name": "Philosophy of Sex and Love",
+            "course_desc": "Critical survey of major thinking on sex and love from ancient to modern times. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3326",
+            "course_name": "Philosophy and Sport",
+            "course_desc": "This course is an examination of philosophical issues in sport, including the social significance of sport, ethical issues, gender equity, sport and race, mind and body in sport, aesthetics, sport and self-knowledge, and the connection of sport and philosophy. (WI) (MULT)  Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3331",
+            "course_name": "Philosophy of Law",
+            "course_desc": "This course is an examination of the major theses which have been set forth in the history of jurisprudence including foundations of law, natural law, legal positivism, and the judicial process. (WI)  Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3332",
+            "course_name": "Social and Political Philosophy",
+            "course_desc": "This course is a critical examination of major theories concerning the organization of societies and governments.  (WI)  Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3333",
+            "course_name": "Feminist Theory",
+            "course_desc": "In this course students examine major feminist theories including liberal feminism, Marxist feminism, radical feminism, and post-modernist feminism with an eye especially to revealing the complexity and diversity of contemporary feminist thought. (MULT) (WI).  Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 or WS 3376 or WS 3377 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3334",
+            "course_name": "Philosophy of Economics",
+            "course_desc": "In this course students are introduced to the various theoretical frameworks that have and continue to inform scholarship in philosophy of economics. Participants explore differences and commonalities between distinct theoretical traditions (including liberal, Marxist, post-structuralist, positivist, neo-liberal, rational choice) and learn to critically examine the nature of economic phenomena and the possibilities of knowledge in economics. Participants also develop tools to appraise economic outcomes, institutions, and processes.   Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3340",
+            "course_name": "Philosophical Logic",
+            "course_desc": "Study of the logic of propositions through prepositional calculi, formal proofs, and first-order functional calculi. Also included is an investigation into the philosophical assumptions and implications of formal systems and the axiomatic method as used in logic and mathematics, including the concepts of completeness and consistency. Prerequisite: PHIL 2330 or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 3351",
+            "course_name": "Philosophy and Literature",
+            "course_desc": "The course explores the relation between philosophy and literature. (WI)  Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4301",
+            "course_name": "Applied Philosophy",
+            "course_desc": "This course explores the practical application of methods and teaching of philosophy to religion, science, morality, politics, art, or literature. The study of one or more of these areas will demonstrate how philosophy contributes to the identification of issues as well as their resolution. (WI)  Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4302",
+            "course_name": "Dialogue",
+            "course_desc": "Study of literature about the nature, purpose, and significance of dialogue along with active participation in the dialogues of the Department of Philosophys Dialogue Series. (WI) Prerequisite: PHIL 1305 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4303",
+            "course_name": "Philosophy of Technology",
+            "course_desc": "This course is a study of philosophical and ethical dimensions of technology including the nature of technology and technological progress, the relation of humans to the technological environment, whether technology is value-laden, and the social character of technology. (WI)  Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4304",
+            "course_name": "Philosophy of Language",
+            "course_desc": "Students will examine the nature, structure, and uses of language and its role in conceptualizing and attempting to solve perennial philosophical problems. Features of language such as meaning, reference, truth, verification, and speech acts will be investigated and applied to issues of metaphysics and ontology, epistemology, ethics, and theory construction. Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4327",
+            "course_name": "Bioethics",
+            "course_desc": "In this course students will study ethical issues, dilemmas, codes of conduct, and social responsibilities of health care professionals and bioresearchers. Additionally, students will critically examine issues of ethics and justice in healthcare systems, clinical practice, and biotechnology. (WI) Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4350",
+            "course_name": "Philosophy of the Arts",
+            "course_desc": "This course is a critical and historical analysis of the nature of aesthetic experience and creative genius.  (WI) Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4351",
+            "course_name": "Philosophy of Education",
+            "course_desc": "Study of major philosophical theories on nature, values, and purpose of education. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4355",
+            "course_name": "Philosophy of Science",
+            "course_desc": "This course is a study of the major theories concerning the nature and value of science and the scientific method. (WI)  Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4356",
+            "course_name": "Philosophy of Knowledge",
+            "course_desc": "This course is a study of the major theories concerning knowledge, belief, certainty, and perception.  (WI)  Prerequisite: [PHIL 2311 or PHIL 2312] and PHIL 2330 both with grades of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4360A",
+            "course_name": "Ethics and Dementia",
+            "course_desc": "This course provides an opportunity to examine ethical challenges posed by dementia for those with dementia, family members, caregivers, healthcare systems, policy makers, and others.  Participants will critically explore ethics and dementia in clinical, social/cultural, everyday life, policy, end-of-life, and individual perspectives. Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4360B",
+            "course_name": "Moral Psychology",
+            "course_desc": "This course provides an introduction to the major theories, issues, and research relevant to the field of moral psychology.  Drawing from a variety of fieldsphilosophy, social psychology, cognitive psychology, developmental psychology, and evolutionary theorywe will investigate what morality is, how it develops, and how it functions in society. Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4360C",
+            "course_name": "Philosophy, Nonviolence, Sustainability, and Social Change",
+            "course_desc": "In this course students will study themes and concepts related to nonviolence, sustainability, and social change.  Participants will critically examine the works of thinkers such as Thoreau, Addams, Tolstoy, Gandhi, King, and Chavez. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4360D",
+            "course_name": "Military Ethics",
+            "course_desc": "This course is a systematic study of ethical issues in military life and military action, and of such concerns as the relation of the military to the nation state and the relation of the military to civil society. Additional topics include ethical issues in cyber warfare, the military and privacy, and ethical issues of military life and actions across cultures and nations. Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4360E",
+            "course_name": "Ethics and Philosophy of Friendship",
+            "course_desc": "In this course students explore the nature, meaning, and theories of friendship.  Participants examine historical and contemporary accounts of friendship, with special attention given to the ethical dimensions of each account. Additional topics include the intersection of friendship with marriage and partnership, professional relationships, work, disabilities, race, sexuality, and religion.  Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4360F",
+            "course_name": "Biopolitics, Governmentality, and Ungovernability",
+            "course_desc": "This course is an introduction to (1) biopolitics, or the government of life, (2) governmentality. or the frameworks, modalities, and mechanisms of governance, and (3) ungovernability, or the limits of and resistances to governance.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4361A",
+            "course_name": "Philosophy of Biology",
+            "course_desc": "In this course students will explore foundational questions in biology concerning the justification of biological theories, methods and concepts. Possible topics include concepts of fitness, units of selection, adaptationism, species, phylogenetic inference, homology, developmental systems, neuroscience, behavioral evolution, cooperation, altruism, evolutionary psychology, evolutionary ethics, cultural evolution, and race and gender. Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4361B",
+            "course_name": "Philosophy of the Human Sciences",
+            "course_desc": "This course is a survey of current debates about the structure, nature, role, methodologies, scope, and aim of the human sciences. Prerequisite: Phil 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4361C",
+            "course_name": "Philosophy of Emotion",
+            "course_desc": "In this course students examine the understandings of emotions as developed in the history of philosophy, including topics such as somatic theories, cognitive theories, and philosophical accounts of feelings, mood, and other affective experiences. Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4361D",
+            "course_name": "Philosophy of Mind",
+            "course_desc": "In this course, students analyze historical and contemporary philosophical attempts to explain the mind.  Prerequisite: PHIL 1305 or PHIL 1320 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4361E",
+            "course_name": "Philosophy and Ethics of Virtual Reality",
+            "course_desc": "In this course, students investigate philosophical and ethical issues in virtual reality.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4361F",
+            "course_name": "Ethics of Artificial Intelligence and Big Data",
+            "course_desc": "In this course, students will explore ethical dimensions of Artificial Intelligence and Big Data.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4362A",
+            "course_name": "History of Analytic Philosophy",
+            "course_desc": "Students in this course will examine major thinkers, works, theories, and problems of analytic philosophy.  Topics will include the philosophy of language, logic, philosophy of mathematics, philosophy of mind, philosophy of science, metaphysics, epistemology, ethics, metaethics, and philosophical methodology. Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4362B",
+            "course_name": "19th-Century Philosophy",
+            "course_desc": "This course offers a detailed introduction to central figures of 19th-century European philosophy such as Hegel, Marx, Kierkegaard, and Nietzsche in the context of their responses to the Enlightenment, the condition of modernity, the growth of democracy, nationalism, capitalism, Darwin, secularization, and the critical project of Kant.   Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4362C",
+            "course_name": "Late 20th Century French Philosophy",
+            "course_desc": "This course offers a detailed introduction to central figures of 20th-century French philosophy such as Derrida, Foucault, Bergson, and Sartre in the context of their responses to technology, war, the condition of modernity, the growth of democracy and the so-called European Project.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4363A",
+            "course_name": "Philosophy and Science Fiction",
+            "course_desc": "In this course students will examine intersections between philosophy and science fiction around topics such as the nature of reality, the existence and nature of the divine, the limits of human knowledge, the meaning of free will, the notions of personhood, the nature of morality, and the meaning of life. Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4370",
+            "course_name": "Metaphysics",
+            "course_desc": "This course is a systematic study of metaphysical problems by examination of classical and modern texts. Topics considered will involve being and unity, mind and matter, God, causation and necessity, free will and determinism. (WI)  Prerequisite: [PHIL 2311 or PHIL 2312] and PHIL 2330 both with grades of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4371",
+            "course_name": "Asian Philosophy",
+            "course_desc": "The course covers mainly Chinese and Indian philosophy, such as Confucianism, Taoism, Buddhism. How do people in the orient look at the meanings of life, the nature of the world and their place in the world? This course shall shed light on these issues. May be repeated for credit. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4372",
+            "course_name": "Latin American Philosophy",
+            "course_desc": "Study of ancient Latin American thought, including Mayan, Aztec, Toltec, and Incan, pre- and post conquest Latin American philosophy, contemporary Latin American philosophy, and the thinking of Latin Americans in the U.S. (WI) (MULT) Prerequisite: PHIL 1305 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4373",
+            "course_name": "Themes in Africana Philosophy",
+            "course_desc": "In this course students will examine philosophy and philosophical practice as it emerges from the historical experiences of African Americans and the African Diaspora. Participants in the course will evaluate how the African-American philosophical tradition alters conventional philosophical accounts of subjectivity, knowledge, time, language, history, embodiment, memory, and justice. (WI) (MULT) Prerequisite: PHIL 1305 or PHIL 1320 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 4388",
+            "course_name": "Problems in Philosophy",
+            "course_desc": "Independent study of specific problems in philosophy. Open to students on an individual or small group basis by arrangement with the Department of Philosophy. Problem area, bibliography, and study paper outline are to be approved by the instructor. May be repeated once for additional credit. Prerequisite: PHIL 1305 or PHIL 1320 or PHIL 2311 or PHIL 2312 or PHIL 2330 any with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5100",
+            "course_name": "Practicum in Teaching Philosophy",
+            "course_desc": "This course orients Instructional Assistants to the principles of teaching philosophy responsibly. Topics include grades, evaluation of written work,\nclassroom management, academic values, and teaching style. This course is required for all new Instructional Assistants in Philosophy. This course does not earn graduate degree credit. Repeatable with different emphasis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "PHIL 5101",
+            "course_name": "Responsible Conduct of Research and Research Ethics",
+            "course_desc": "In this course students will examine issues, concepts, and cases in research ethics and the responsible conduct of research.  Designed to meet NSF and NIH requirements for training, topics will include research integrity, conflicts of interest, authorship, peer review, human and animal experimentation, mentorship, data, and values in science. This course does not earn graduate degree credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "PHIL 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PHIL 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PHIL 5301",
+            "course_name": "Applied Philosophy",
+            "course_desc": "Practical application of methods and teaching of philosophy to such major areas of human experience as religion, science, morality, politics, art, or literature. The study of one or more of these areas will demonstrate how philosophy contributes to the identification of issues as well as their resolution.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5302",
+            "course_name": "Dialogue",
+            "course_desc": "Study of literature about the nature, purpose, and significance of dialogue along with active participation in the dialogues of the Department of Philosophys Dialogue Series.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5303",
+            "course_name": "Philosophy of Technology",
+            "course_desc": "Study of philosophical and ethical dimensions of technology including the nature of technology and technological progress, the relation of humans to the\ntechnological environment, whether technology is value-laden, and the social character of technology.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5304",
+            "course_name": "Philosophy of Language",
+            "course_desc": "This course will examine the nature, structure, and uses of language and its role in conceptualizing and attempting to solve perennial philosophical problems. Features of language such as meaning, reference, truth, verification, and speech acts will be investigated and applied to issues of metaphysics and ontology, epistemology, and theory construction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5305",
+            "course_name": "Philosophical Writing",
+            "course_desc": "The course focuses on theoretical and methodological foundation necessary for producing philosophical works suitable for submission to conferences or journals. Students will analyze the standards for and engage in the process of developing papers for professional presentation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5306",
+            "course_name": "Foundation Studies",
+            "course_desc": "Foundation Studies in Philosophy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5314",
+            "course_name": "American Philosophy",
+            "course_desc": "This course is an examination of contributions of Americans to perennial philosophical issues, including the tradition of American Pragmatism.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5320",
+            "course_name": "History of Ethics",
+            "course_desc": "This course is a survey of major ethical theories in the Western philosophical tradition.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5322",
+            "course_name": "Professional Ethics",
+            "course_desc": "Study of major topics in business and professional ethics, including what a profession is, whether it differs from business, and what is involved with moral education, social responsibilities, and ethical standards of professional and business people.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5323",
+            "course_name": "Environmental Ethics",
+            "course_desc": "Study of ethical issues associated with the environment including the nature, use, preservation, and restoration of the environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5324",
+            "course_name": "Meaning of Life",
+            "course_desc": "Investigation of major theories of the meaning of life in Western and Eastern philosophies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5325",
+            "course_name": "Philosophy of Sex and Love",
+            "course_desc": "Critical examination of major philosophical theories on sex and love from ancient to modern times.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5326",
+            "course_name": "Philosophy and Sport",
+            "course_desc": "An examination of the philosophical issues that arise in sport. Topics include the social significance of sport, amateurism, the ethics of competition, the meaning of violence within sports, and other related issues. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5327",
+            "course_name": "Medical Ethics and Bio-ethics",
+            "course_desc": "Study of ethical issues, dilemmas, codes of conduct, and social responsibilities of health care professionals and bio-researchers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5328",
+            "course_name": "Major Work or Theme in Ethics",
+            "course_desc": "This course examines in detail a single significant work, theme or issue in ethics. May be repeated with a different focus.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5329",
+            "course_name": "Food Ethics",
+            "course_desc": "Eating raises hard moral questions. This course explores those question as well as potential answers. Standard topics include the nature of the food system, global hunger, food justice, consumer ethics, industrial agriculture and its alternatives, the plight of workers, overconsumption, and public health.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5331",
+            "course_name": "Philosophy of Law",
+            "course_desc": "This course is a systematic study of the nature and function of law and of such problems as the relation of law to morality, and the justification of punishment. Additional topics include the nature of legal reasoning and interpretation, theories of law, and salient features of legal systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5332",
+            "course_name": "Social and Political Philosophy",
+            "course_desc": "In this course students engage in an intensive examination of issues in political and social philosophy, including democracy, civil disobedience, anarchism, totalitarianism, and the nature of the state.  Participants develop knowledge of major theories, concepts, and methodologies  in social and political philosophy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5333",
+            "course_name": "Feminist Theory",
+            "course_desc": "This course serves as an in-depth introduction to the various theoretical frameworks that have and continue to inform scholarship in feminism. Participants explore differences and commonalities between distinct feminist theoretical traditions (liberal feminism, Marxist feminism, post-structuralism, psychoanalysis, queer theory) and learn to critically engage accounts of identity, difference, social movement, globalization, nationalism, and social change.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5334",
+            "course_name": "Philosophy of Economics",
+            "course_desc": "This course serves as an in-depth introduction to the various theoretical frameworks that have and continue to inform scholarship in philosophy of economics. Participants explore differences and commonalities between distinct theoretical traditions (including liberal, Marxist, post-structuralist, positivist, neo-liberal, institutionalist, rational choice) and learn to critically examine the nature of economic phenomena and the possibilities of knowledge in economics. Participants also learn to appraise, including ethical appraisal of economic outcomes, institutions, and processes.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5340",
+            "course_name": "Philosophical Logic",
+            "course_desc": "The course is an examination of the conceptual frameworks of and philosophical challenges to classical and alternative logics. Special attention will be paid to the use of the logics within metaphysics, the axiomatic method as used in logic and mathematics, philosophy of language, philosophy of mind, and meta-ethics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5351",
+            "course_name": "Philosophy of Education",
+            "course_desc": "Study of major philosophical theories on nature, value, and purpose of education.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5355",
+            "course_name": "Philosophy of Science",
+            "course_desc": "An examination of some of the fundamental concepts in science, including relevant evidence, induction, explanation, and commitments when accepting a scientific theory.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5356",
+            "course_name": "Philosophy of Knowledge",
+            "course_desc": "The course will consist of a close examination of topics in the philosophical theory of knowledge, such as skepticism, defining knowledge, the nature of justification, perception, and truth.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5360A",
+            "course_name": "Ethics and Dementia",
+            "course_desc": "This course provides an opportunity to examine ethical challenges posed by dementia for those with dementia, family members, caregivers, healthcare systems, policy makers, and others. Participants will critically explore ethics and dementia in clinical, social/cultural, everyday life, policy, end-of-life, and\nindividual perspectives.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5360B",
+            "course_name": "Moral Psychology",
+            "course_desc": "This seminar provides an introduction to the major theories, issues, and research relevant to the field of moral psychology. Drawing from a variety of fieldsphilosophy, social psychology, cognitive psychology, developmental psychology, and evolutionary theorywe will investigate what morality is, how it develops, and how it functions in society.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5360C",
+            "course_name": "Philosophy, Nonviolence, Sustainability, and Social Change",
+            "course_desc": "In this course students will study themes and concepts related to nonviolence, sustainability, and social change. Participants will critically examine the works of thinkers such as Thoreau, Addams, Tolstoy, Gandhi, King, and Chavez. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5360F",
+            "course_name": "Biopolitics, Governmentality, and Ungovernability",
+            "course_desc": "This course is an introduction to (1) biopolitics, or the government of life, (2) governmentality. or the frameworks, modalities, and mechanisms of governance, and (3) ungovernability, or the limits of and resistances to governance.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5361A",
+            "course_name": "Philosophy of Biology",
+            "course_desc": "In this course students will explore foundational questions in biology concerning the justification of biological theories, methods and concepts. Possible topics include concepts of fitness, units of selection, adaptationism, species, phylogenetic inference, homology, developmental systems, neuroscience, behavioral evolution, cooperation, altruism, evolutionary psychology, evolutionary ethics, cultural evolution, and race and gender.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5361B",
+            "course_name": "Philosophy of the Human Sciences",
+            "course_desc": "This course is a survey of current debates about the structure, nature, role, methodologies, scope, and aim of the human sciences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5361C",
+            "course_name": "Philosophy of Emotion",
+            "course_desc": "In this course students examine the understandings of emotions as developed in the history of philosophy, including topics such as somatic theories, cognitive theories, and philosophical accounts of feelings, mood, and other affective experiences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5361D",
+            "course_name": "Philosophy of Mind",
+            "course_desc": "In this course, students analyze both historical and contemporary philosophical attempts to explain the mind.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5361E",
+            "course_name": "Philosophy and Ethics in Virtual Reality",
+            "course_desc": "In this course, students investigate philosophical and ethical issues in virtual reality.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5361F",
+            "course_name": "Philosophy and Ethics of Artificial Intelligence",
+            "course_desc": "In this course, students will explore philosophical and ethical dimensions of Artificial Intelligence.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5362A",
+            "course_name": "Analytic Philosophy",
+            "course_desc": "Students in this course will examine major thinkers, works, theories, and problems of analytic philosophy.\nTopics will include the philosophy of language, logic, philosophy of mathematics, philosophy of mind,\nphilosophy of science, metaphysics, epistemology, ethics, metaethics, and philosophical methodology.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5362B",
+            "course_name": "19th Century Philosophy",
+            "course_desc": "This course offers a detailed introduction to central figures of 19th-century European philosophy such as Hegel, Marx, Kierkegaard, and Nietzsche in the context of their responses to the Enlightenment, the condition of modernity, the growth of democracy, nationalism, capitalism, Darwin, secularization, and the critical project of Kant.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5363A",
+            "course_name": "Philosophy and Science Fiction",
+            "course_desc": "In this seminar students will examine intersections between philosophy and science fiction around topics such as the nature of reality, the existence and nature of the divine, the limits of human knowledge, the meaning of free will, the notions of personhood, the nature of morality, and the meaning of life.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5372",
+            "course_name": "Latin American Philosophy",
+            "course_desc": "Students in this course study ancient Latin American thought, including Mayan, Aztec, Toltec, and Incan; pre- and post- conquest Latin American philosophy; contemporary Latin American philosophy; and the thinking of Latin Americans in the U.S.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5373",
+            "course_name": "Themes in Africana Philosophy",
+            "course_desc": "In this course students will examine philosophy and philosophical practice as it emerges from the historical experiences of African Americans and the African Diaspora. Participants in the course will evaluate how the African-American philosophical tradition alters conventional philosophical accounts of subjectivity, knowledge, time, language, history, embodiment, memory, and justice. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5388",
+            "course_name": "Problems in Philosophy",
+            "course_desc": "Independent study open to students on individual or small group basis. May be repeated for credit. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 5395",
+            "course_name": "Internship in Applied Philosophy",
+            "course_desc": "Structured practical experience in applied philosophy at a private or public setting. Supervision will be provided both by a member of the graduate faculty and by a key individual in the workplace. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PHIL 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis on PHIL 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PHIL 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PHIL 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PHIL 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "PHIL 7101",
+            "course_name": "Responsible Conduct of Research and Research Ethics",
+            "course_desc": "In this course students will examine issues, concepts, and cases in research ethics and the responsible conduct of research. Designed to meet NSF and NIH requirements for training, topics will include research integrity, conflicts of interest, authorship, peer review, human and animal experimentation, mentorship, data, and values in science. This course does not earn graduate degree credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "PHIL 7323",
+            "course_name": "Environmental Ethics and Sustainable Aquatic Resources",
+            "course_desc": "Examination of the ethical implications of environmental use and management policies and practices, with emphasis on sustainable aquatic resources.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PHIL 7355",
+            "course_name": "Philosophy of Science",
+            "course_desc": "Students in this course will investigate the nature and processes of scientific inquiry; the role of values in generating and using scientific knowledge; some of the fundamental concepts in science, including relevant evidence, induction, explanation; and the intellectual commitments made when accepting a scientific theory.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Portuguese",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/por/",
+    "courses": [
+        {
+            "course_code": "POR 1410",
+            "course_name": "Beginning Portugese 1",
+            "course_desc": "Introduction to listening, speaking, reading, and writing skills within a Brazilian cultural framework. Students who take POR 1410 toward degree requirements must also complete POR 1420. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "POR 1420",
+            "course_name": "Beginning Portuguese II",
+            "course_desc": "Continued practice in listening, speaking, reading, and writing skills within a Portuguese cultural framework. Students who take POR 1410 toward degree requirements must also complete POR 1420. (MULT) Prerequisites: POR 1410 with a grade of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "POR 2310",
+            "course_name": "Intermediate Portuguese I",
+            "course_desc": "Continued development and review of all language skills within a Portuguese cultural framework. (MULT) Prerequisite: POR 1420 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "POR 2320",
+            "course_name": "Intermediate Portuguese II",
+            "course_desc": "More advanced practice in all language skills with greater emphasis on reading with a Portuguese cultural framework. (MULT). Prerequisite: POR 2310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "POR 3308",
+            "course_name": "Advanced Composition and Conversation through the Brazilian Short Story",
+            "course_desc": "This course will help students advance their knowledge of the Portuguese language through the reading, discussion, and analysis of modern and contemporary Brazilian short stories. By reading the works of renowned writers students will be able to expand their vocabulary and develop fluent reading and writing skills. (WI) (MULT) Prerequisite: POR 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

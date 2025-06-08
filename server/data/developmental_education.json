@@ -1,0 +1,334 @@
+{
+    "name": "Developmental Education",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/de/",
+    "courses": [
+        {
+            "course_code": "DE 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "DE 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "DE 5305",
+            "course_name": "Diversity and Education in a P-16 Context",
+            "course_desc": "This course examines the core theories of diversity in a P-16 context. Emphasis will be placed on historical, theoretical, and pedagogical models relevant to understanding postsecondary diversity.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 5321",
+            "course_name": "The Community College",
+            "course_desc": "Introduction to the community college and to its roles and functions in American education. Special attention will be directed to evolution, development, and patterns of organization, purposes programs, personnel and current issues of the community college. Students take DAE 5383 or DE 5321 may not take DE 7321 for doctoral level credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 5324",
+            "course_name": "Teaching Learning Strategies and Critical Thinking",
+            "course_desc": "Theory and pedagogy of learning strategies, problem solving, and critical thinking in the college and adult classroom. Topics will include variables in teaching and learning methods of assessment, and approaches to instructions. Students taking DAE 5371 or DE 5324 may not take DE 7324 for doctoral level credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 5326",
+            "course_name": "Curriculum Design in Postsecondary Developmental Education",
+            "course_desc": "This course focuses on principles and processes of curriculum design in postsecondary developmental education contexts.  The course scope includes an emphasis on the foundational literature in curriculum theory, as well as historical and current curricular structures and best practices specific to developmental education.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 5327",
+            "course_name": "Student Motivation and Self-Regulation",
+            "course_desc": "This course focuses on research-based theories of student motivation and self-regulation. It also highlights practical applications of these theories for students in developmental education and postsecondary contexts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 5339",
+            "course_name": "Assessment and Evaluation in Developmental Education",
+            "course_desc": "Foundations of students assessment and program evaluation for developmental education programs. Topics include: quantitative and qualitative classroom assessment; formative vs. summative assessment; test interpretation; social, legal, and ethical implications of assessment; reliability and validity; norm vs. criterion tests; placement test; program evaluation models; as well as formative and summative evaluation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 5365",
+            "course_name": "Administration of Developmental Education",
+            "course_desc": "An overview of the field of developmental education and of the various types of programs designed to meet the needs of the underprepared learner. Special emphasis is on needs assessment, program design, implementation, management and leadership, and evaluation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 5373",
+            "course_name": "Grant Development and Management",
+            "course_desc": "Course purposes include demystifying grant proposal writing and becoming acquainted with grant management resources. Student will locate funding sources, develop a proposal and budget, and explore accountability issues and processes for funded projects. Emphasis is on optimizing location and use of online grant information and developing professional networks. Students taking DAE 5373 may not take ED 7373 for doctoral level credit.",
+            "course_credits": "\n3 Credit Hours \n15 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 5375",
+            "course_name": "Learners in Developmental Education Contexts",
+            "course_desc": "This course provides a profile of the underprepared postsecondary student and an overview of the programs and instructional strategies appropriate for use with that target population. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 5378",
+            "course_name": "Problems in Developmental Education",
+            "course_desc": "This course is designed to examine topical problems faced by practitioners in developmental education. The topic of the course may change. Course may be repeated for credit with different topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 5379",
+            "course_name": "Independent Study",
+            "course_desc": "Individual problems or research topics designed to place emphasis on selected areas of study. May be repeated once for additional credit at the discretion of the advisor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 5384",
+            "course_name": "Internship in Developmental Education",
+            "course_desc": "Students seeking the M.A. degree must complete a one-semester, 150 clock hour practicum in an institution or agency other than their own; site selection needs approval of program coordinator. Practicum students will participate in leadership activities involving program planning, management, budgeting, and evaluation. Prerequisites: foundation and core courses.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "DE 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the Thesis 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "DE 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "DE 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "DE 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "DE 7199",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Developmental Education are to be accomplished under direct supervision of the dissertation chair. While conducting research and writing, students must be continuously enrolled each long semester (and in summer semesters as appropriate).",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "DE 7299",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Developmental Education are to be accomplished under direct supervision of the dissertation chair. While conducting research and writing, students must be continuously enrolled each long semester (and in summer semesters as appropriate).",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "DE 7301",
+            "course_name": "Understanding Learners in Developmental Education Contexts",
+            "course_desc": "This course identifies the evolution, characteristics, demographics, and needs of learners in Developmental Education contexts. Emphasis is placed on understanding internal factors, including the cognitive, affective, and psychosocial needs of students, as well as on analyzing external factors, including the social, political and institutional forces that impact learners' educational experiences. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7302",
+            "course_name": "Policy and Politics in Developmental Education",
+            "course_desc": "This course addresses the policy and politics of planning, funding, implementing, and evaluating Developmental Education programs in postsecondary education.  Readings and discussions focus on current and historical issues relevant to addressing the academic needs of educationally disadvantaged students from the perspective of researchers, program directors, policy analysts, and instructors.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7303",
+            "course_name": "Teaching and Learning in Developmental Education",
+            "course_desc": "The course focuses on the institutional development, intellectual development, learner development, and self-development for effective teaching and learning in developmental education. Topics include instructional and learner theories, pedagogies, assessment and evaluation techniques, and best practices for instruction and intervention.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7304A",
+            "course_name": "Curriculum Design in Developmental Education",
+            "course_desc": "This course focuses on principles and processes of curriculum design and implementation in developmental education contexts, including examination of emerging research and issues. The course pedagogy also engages students in independent curriculum research, planning, and problem-solving.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7304B",
+            "course_name": "Theory and Research of Digital Literacies",
+            "course_desc": "This course focuses on understanding the complex relationships between technology, teaching, and learning in varied developmental education environments. Tools and strategies for planning, integrating, and assessing technology-supported instruction are explored within frameworks linking theory to practice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7304D",
+            "course_name": "Transformative Learning",
+            "course_desc": "This course introduces students to the core principles of transformative learning. The course is a theory-driven, project-based advanced class designed to enable students to develop theoretical perspectives, engage in intensive practice, and understand the use of transformative learning for applications with postsecondary individuals, groups, and organizations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7304E",
+            "course_name": "Current Topics in Motivation Intervention Research",
+            "course_desc": "This course focuses on analyzing, synthesizing, discussing, and applying cutting-edge research on various types of motivation interventions in education. Emphasis will be placed on theory, research, and practice in postsecondary educational settings and Developmental Education contexts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7304F",
+            "course_name": "Current Topics in Strategic and Self-Regulated Learning Intervention Research",
+            "course_desc": "This course examines cutting-edge research on strategic and self-regulated learning interventions. Emphasis will be placed on theory, research, and practice relevant to postsecondary educational settings, however, students will be encouraged to apply course content to their areas of interest which may be outside of postsecondary educational settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7305",
+            "course_name": "Diversity in P-16 Educational Contexts",
+            "course_desc": "This course uses critical multicultural frameworks to trace the evolution of learners in a P-16 educational system. Students in this course examine school practices and policies in an attempt to map the educational trajectory and improve the educational experiences of P-16 students who are underrepresented and underserved. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7321",
+            "course_name": "The Community College",
+            "course_desc": "Introduction to community college and to its roles and functions in American education. Special attention will be directed to evolution, development and patterns of organization, purposes, programs, personnel and current issues of the community college.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7322",
+            "course_name": "Learning Support Centers in Postsecondary Settings",
+            "course_desc": "The course explores the learning assistance movement in postsecondary settings including its history, leaders, and current research. Topics include program planning; leadership, organization, and management; human and financial resources; facilities and equipment; legal responsibilities; equal opportunity and access; diversity; ethics; campus and community relations; and assessment and evaluation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7323",
+            "course_name": "Academic Support for Students with Learning Disabilities",
+            "course_desc": "The course focuses on Learning Disabilities (LD) and Executive Function (EF) Disorders and their nature, prevalence, and significance in postsecondary environments. Topics include theories about the origins and nature of LD and EF, development across the lifespan, characteristics of individuals, and approaches to service, delivery and teaching. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7324",
+            "course_name": "Teaching Learning Strategies and Critical Thinking in Postsecondary Contexts",
+            "course_desc": "This course explores theory and pedagogy of learning strategies, problem solving, and critical thinking skills in postsecondary contexts. Topics include variables in teaching and learning, methods of assessment, and approaches to instruction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7325",
+            "course_name": "Advising, Coaching, and Mentoring Learners in Postsecondary Education",
+            "course_desc": "The course will focus on theories and techniques of academic advising, coaching, and mentoring skills for  learners enrolled in postsecondary education. Didactic and experiential activities will provide students enrolled in the course with opportunities to learn and practice skill development within these academic support programs.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7327",
+            "course_name": "Student Motivation and Self-Regulation",
+            "course_desc": "This course focuses on research-based theories of student motivation and self-regulation. It also highlights practical applications of these theories for students in developmental education and postsecondary contexts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7380",
+            "course_name": "Managing Developmental Education Programs",
+            "course_desc": "This course focuses on the theoretical and practical elements of management of Developmental Education programs in higher education. Readings and discussions focus generally on best practices in higher education leadership and specifically on best practices in leadership and management in Developmental Education.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DE 7381",
+            "course_name": "Practicum",
+            "course_desc": "A 150-clock hour, one-semester practical experience in an institution or agency other than one's own; site selection needs approval of program coordinator. Practicum students will participate in leadership activities to include program planning, management, budgeting, and/or evaluation.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "DE 7399",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Developmental Education are to be accomplished under direct supervision of the dissertation chair. While conducting research and writing, students must be continuously enrolled each long semester (and in summer semesters as appropriate).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "DE 7599",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Developmental Education are to be accomplished under direct supervision of the dissertation chair. While conducting research and writing, students must be continuously enrolled each long semester (and in summer semesters as appropriate).",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "DE 7699",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Developmental Education are to be accomplished under direct supervision of the dissertation chair. While conducting research and writing, students must be continuously enrolled each long semester (and in summer semesters as appropriate).",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "DE 7999",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Developmental Education are to be accomplished under direct supervision of the dissertation chair. While conducting research and writing, students must be continuously enrolled each long semester (and in summer semesters as appropriate).",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

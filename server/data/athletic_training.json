@@ -1,0 +1,326 @@
+{
+    "name": "Athletic Training",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/at/",
+    "courses": [
+        {
+            "course_code": "AT 2298",
+            "course_name": "Orientation to Athletic Training Profession",
+            "course_desc": "The purpose of this course is to provide the student with an introduction to the academic and clinical aspects of the profession of athletic training.  The course includes the history of the profession, basic knowledge and skills, principles, and techniques used by an athletic trainer.  The student will participate in educational observation of clinical experiences with a certified athletic trainer to gain more knowledge of the profession of athletic training. Prerequisite: HIM 2360 with grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 2356",
+            "course_name": "Prevention and Care of Athletic Injuries",
+            "course_desc": "This course focuses on the theoretical and practical aspects of the prevention, treatment, and rehabilitation of athletic injuries.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 2400",
+            "course_name": "Functional Anatomy",
+            "course_desc": "The students will learn to qualitatively analyze the movements of the human body while integrating musculoskeletal anatomy and neuromuscular physiology principles. Corequisite: BIO 2430 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 3298",
+            "course_name": "Foundations of Athletic Training Practice",
+            "course_desc": "The purpose of this course is to provide the students with a foundation in clinical skills associated with the athletic training profession.  The course will include observational experiences. Prerequisite: HIM 2360 and AT 2298 both with grades of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 3311",
+            "course_name": "Clinical Assessment I",
+            "course_desc": "This course instructs students in the knowledge and skills used in the clinical evaluation of injuries and illnesses involving the head and face, brain, cervical spine, upper extremity, thorax, and pulmonary and cardiovascular systems. Prerequisite: AT 2356 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 3312",
+            "course_name": "Clinical Assessment II",
+            "course_desc": "This course instructs students about the preliminary and secondary survey with emphasis on clinical assessment of lumbar spine and lower extremity injuries as well as abdomen, gastrointestinal, genitourinary, endocrine, dermatological, and systemic illnesses. Prerequisite: AT 3311 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 3358",
+            "course_name": "Clinical Pathopharmacology",
+            "course_desc": "This course combines pathophysiology, the study of dynamic aspects of disease processes and study of drugs prescribed to prevent, diagnose, cure, or care for disease across the lifespan. Content includes etiology, pathogenesis, clinical presentation, implications for treatment, and pharmacological management. Prerequisite: BIO 2430 or [BIO 2451 and BIO 2452] either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 3400",
+            "course_name": "Gross Applied Anatomy",
+            "course_desc": "This course provides a study of the structure and function of the human body with particular emphasis on the muscular, skeletal, vascular and nervous systems. Attention will be on the anatomy and physiology of the body systems focusing on understanding specific functions of body tissues. Laboratory study of the human cadaver is included. Prerequisite: AT 2400 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 4313",
+            "course_name": "Clinical Therapeutic Interventions",
+            "course_desc": "This course provides a theoretical and clinical background in the use of therapeutic interventions in physical medicine, both modalities and exercise, for patients with musculoskeletal and neurological injuries. Prerequisite: AT 3311 and AT 3312 both with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 4360",
+            "course_name": "Internship in Clinical Settings",
+            "course_desc": "Students will be introduced to the clinical aspects of allied health professions by being assigned to a minimum of two clinical sites.  Prerequisite: AT 3311 and AT 3312 both with a grade of \"C\" or better and a minimum 2.75 Texas State GPA.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5101",
+            "course_name": "Graduate Assistant Development",
+            "course_desc": "This course is required of all graduate assistants and provides regular in-service and planned periodic evaluations of instructional responsibilities. Graduate assistants are required to register for this course in the spring semester of their \nemployment. This course does not earn graduate degree credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "AT 5120",
+            "course_name": "Principles in Athletic Training",
+            "course_desc": "This course builds upon current competence of health and exercise sciences to instill an evidence based, graduate-level proficiency of best practices in athletic training and healthcare.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5191",
+            "course_name": "Capstone I",
+            "course_desc": "This course is a supervised project to analyze outcomes in a defined area of clinical practice.  The course includes patient outcomes data collection in a practice-based research environment. Completion of full research sequence is required for graduation.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5192",
+            "course_name": "Capstone II",
+            "course_desc": "This course is a continuation of the research sequence that culminates in a supervised project to analyze outcomes in a defined area of clinical practice.  The course includes completion of data collection and analysis for an oral presentation and final paper and poster.  Completion of this last course is required  Prerequisite: AT 5191.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "AT 5201",
+            "course_name": "Graduate Assistant Development",
+            "course_desc": "This course is required of all graduate assistants and provides in-service and planned periodic evaluations of instructional responsibilities.  Graduate assistants are required to register for this course in the fall semester of their employment. This course does not earn graduate degree credit.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "AT 5230",
+            "course_name": "Clinical Experience I",
+            "course_desc": "This course will integrate topics in athletic injury evaluation, management and intervention into an immersive clinical education experience designed to assess professional behaviors, cognitive knowledge, psychomotor skills and proficiency-based case simulations. The course incorporates didactic and clinical education at an assigned clinical site under the supervision of a clinical instructor. Prerequisite: AT 5320.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5231",
+            "course_name": "Clinical Experience II",
+            "course_desc": "This course will integrate topics in athletic injury evaluation, management and intervention into an immersive clinical education experience designed to assess professional behaviors, cognitive knowledge, psychomotor skills and proficiency-based case simulations. The course incorporates didactic and clinical education at an assigned clinical site under the supervision of a clinical instructor. Prerequisite: AT 5230.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5232",
+            "course_name": "Clinical Experience III",
+            "course_desc": "This course will integrate topics in athletic injury evaluation, management and intervention into an immersive clinical education experience designed to assess professional behaviors, cognitive knowledge, psychomotor skills and proficiency-based case simulations. The course incorporates didactic and clinical education at an assigned clinical site under the supervision of a clinical instructor. Prerequisite: AT 5230; AT 5231.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "AT 5300",
+            "course_name": "Musculoskeletal Assessment of the Lower Extremities",
+            "course_desc": "This course will present students with a study and critical analysis of injury and illness signs and symptoms. Specific tests and skills used in the clinical evaluation and assessment involving the lower extremities will be included. Prerequisite: AT 5400 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5301",
+            "course_name": "Musculoskeletal Assessment of the Upper Extremity",
+            "course_desc": "This course will present students with a study and critical analysis of injury and illness signs and symptoms. Specific tests and skills used in the clinical evaluation and assessment involving the upper extremities will be included. Prerequisite: AT 5400 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5305",
+            "course_name": "Musculoskeletal Assessment of Head/Face/Spine and Neurological Systems",
+            "course_desc": "This course will enable the student to critically analyze the specific tests and skills used in the clinical evaluation and assessment involving the head, spine and neurological systems. Prerequisite: AT 5300 and AT 5301 and AT 5400 all with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5313",
+            "course_name": "Therapeutic Interventions I",
+            "course_desc": "This course is designed to provide both a theoretical and clinical basis for the standardized systems approach to therapeutic modality applications to treat patients with musculoskeletal conditions and injury. Prerequisite: AT 5400 with a grade of \"B\" or better. Corequisite: AT 5301 and AT 5300 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5314",
+            "course_name": "Therapeutic Interventions II",
+            "course_desc": "This course is designed to examine both a theoretical and clinical basis for the standardized systems approach to therapeutic exercise applications to treat patients with musculoskeletal conditions and injury. Prerequisite: AT 5313 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5320",
+            "course_name": "General Medical Conditions Assessment and Care",
+            "course_desc": "This course will enable the student to recognize, evaluate, differentiate and manage common systemic and traumatic conditions and diseases.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5333",
+            "course_name": "Internship in Athletic Training",
+            "course_desc": "This 400-hour internship provides students with professionally related experience. Students may work with diverse clinical populations in varying athletic training settings. Internship is approved and supervised by Program Coordinator or assigned faculty. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n40 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5334",
+            "course_name": "Clinical Experience IV",
+            "course_desc": "This course will integrate topics in athletic injury evaluation, management and intervention into an immersive clinical education experience designed to assess professional behaviors, cognitive knowledge, psychomotor skills and proficiency-based case simulations. The course incorporates didactic and clinical education at an assigned clinical site under the supervision of a clinical instructor. Prerequisite: AT 5230; AT 5231; AT 5232; AT 5333.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n30 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5335",
+            "course_name": "Clinical Experience V",
+            "course_desc": "This course will integrate topics in athletic injury evaluation, management and intervention into an immersive clinical education experience designed to assess professional behaviors, cognitive knowledge, psychomotor skills and proficiency-based case simulations. The course incorporates didactic and clinical education at an assigned clinical site under the supervision of a clinical instructor. Prerequisite: AT 5230; AT 5231; AT 5232; AT 5333; AT 5334.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n30 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5340",
+            "course_name": "Research Methods and Evidence Based Practice in Athletic Training",
+            "course_desc": "This course is designed to provide the student with an understanding of the statistical terminology when reading and appraising research studies in order to use evidence to inform clinical practice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5341",
+            "course_name": "Pathopharmacology",
+            "course_desc": "This course will examine the physiological responses and progression of injuries, illnesses, and diseases to the physically active individual. Additionally, this course will provide instruction in the principles and issues of the physiological and psychological response to the pharmacological use and/or abuse of substances.  Prerequisite: AT 5320.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5342",
+            "course_name": "Administration and Leadership in Athletic Training",
+            "course_desc": "This course will evaluate administrative aspects of an athletic training program management such as: risk management, medical record keeping, facilities, third-party reimbursement, health informatics and other current professional issues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5343",
+            "course_name": "Interdisciplinary Approach to Athletic Training",
+            "course_desc": "This course will examine the practice and educational implications of effective and efficient interprofessional teamwork and collaboration in patient care.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5344",
+            "course_name": "Advanced Clinical Decision Making",
+            "course_desc": "This course provides students various settings to explore aspects of patient evaluation, intervention and outcomes in a simulated learning environment. Students will identify issues in patient care including physical and psychosocial characteristics. Students will apply clinical decision-making skills learned in all courses leading up this final semester class.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5347",
+            "course_name": "Independent Study in Athletic Training",
+            "course_desc": "This course may be taken by a student who desires to work on a research problem or investigation in Athletic Training. The student gathers and analyzes pertinent data and submits a report of the results of the research. Repeatable once for credit. Prerequisite: ESS 5346 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in AT 5399B. Graded on a credit (CR), progress (PR), no credit (F) basis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "AT 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "AT 5400",
+            "course_name": "Gross Applied Anatomy",
+            "course_desc": "This course will examine the structure and function of the human body with emphasis on the skeletal and muscular systems.  The course focuses on anatomy and physiology of systems of special interest to students preparing to become athletic trainers. Laboratory study of the human cadaver is included.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "AT 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "AT 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

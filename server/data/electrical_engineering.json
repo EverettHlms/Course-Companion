@@ -1,0 +1,542 @@
+{
+    "name": "Electrical Engineering",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ee/",
+    "courses": [
+        {
+            "course_code": "EE 2400",
+            "course_name": "Circuits I",
+            "course_desc": "This course provides an introduction to the profession of Electrical Engineering and its specialties. Fundamental DC and sinusoidal steady-state circuit analysis techniques include Ohm's law, power, Kirchoff's laws, and Thevenin and Norton equivalent circuits. Prerequisites: MATH 2471 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 2420",
+            "course_name": "Digital Logic",
+            "course_desc": "An introduction to fundamental computer technologies, including Boolean logic design, logic circuits and devices, and basic computer hardware are studied. Laboratories provide hands-on experience with electricity, combinational and sequential digital circuits, and computer hardware. Corequisite: CS 1428 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 3326",
+            "course_name": "Numerical and Scientific Data Analysis Using Python",
+            "course_desc": "This course introduces Python programming for engineers. Topics include basics of Python programming, introduction to numerical Python (NumPy), scientific programming using Python (SciPy), data visualization using Matplotlib, data processing using Pandas and introduction to Object Oriented Programming using Python.   Prerequisite: CS 1342 or CS 1428 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 3340",
+            "course_name": "Electromagnetics",
+            "course_desc": "Topics in this course include wave propagation, Maxwells equations, transmission lines, wave guides, and antennas. Prerequisite: EE 3400 and MATH 2393 and PHYS 2326 and PHYS 2335 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 3350",
+            "course_name": "Electronics I",
+            "course_desc": "Analysis and design of active device equivalent circuits with emphasis on transistors, switching circuits, and operational amplifiers. Prerequisites: EE 3400 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 3355",
+            "course_name": "Solid State Devices",
+            "course_desc": "Semiconductor materials, principles of carrier motion, operating principles and circuit models for diodes, bipolar transistors and field-effect transistors. Introduction to integrated circuits. Prerequisite: EE 3400 and PHYS 2326 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 3370",
+            "course_name": "Signals and Systems",
+            "course_desc": "Frequency domain representation of signals and systems and frequency domain concepts for circuit analysis and design. Transfer function and frequency response, Laplace and z-transforms, Fourier series, Fourier transform, and sampling. Prerequisite: EE 3400 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 3400",
+            "course_name": "Circuits II",
+            "course_desc": "This course includes a brief review of EE 2400, transient analysis, application of Laplace transforms, Bode plots, and network principles.  Materials learning in EE 2400 is extended and applied here. Prerequisites: EE 2400 and MATH 3323 both with grades of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 3420",
+            "course_name": "Microprocessors",
+            "course_desc": "Introduction to microprocessors, principles of operation, assembly language programming, timing analysis, and I/O interfacing. Prerequisites: EE 2420 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4180",
+            "course_name": "Electric Machines Lab",
+            "course_desc": "This course is the lab component of EE 4380 Electric Machines and consists of the hands-on exploration and analysis of various electric machines and their controllers.  Prerequisite: EE 3340 with a grade of \"C\" or better. Corequisite: EE 4380 and EE 4360 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4321",
+            "course_name": "Digital Systems Design Using HDL",
+            "course_desc": "This course will cover the design of digital systems using HDL including implementation of custom microprocessor and peripheral architectures.  Prerequisite:  EE 3420 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4323",
+            "course_name": "Digital Image Processing",
+            "course_desc": "This course provides the necessary fundamental techniques to analyze and process digital images. It covers principles, concepts, and techniques of digital image processing and computer vision. Prerequisite: EE 3370 and EE 3420 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4331",
+            "course_name": "Introduction to Machine Learning for Engineering Applications",
+            "course_desc": "This course covers an introduction to machine learning focused on deep learning techniques using engineering applications with Python. Topics include model characteristics, neural network theory, classifiers for network and signal processing applications, regression and convolutional modeling for object-detection, time-series and forecasting machine learning models for Smart City concepts. Prerequisite: CS 1428 or CS 1342 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4332",
+            "course_name": "Introduction to Computer-Aided Engineering Simulation on HPC Systems",
+            "course_desc": "This course covers the introductory development of simulations for engineering applications that are solved using High-Performance Computing environments. Topics include programming techniques for multicore processors, processor and memory architecture, computation for dense and sparse linear algebra applications, computational temperature analysis, fluid dynamics, stencil, stochastic algorithms, and other applications. Prerequisite: CS 1428 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4350",
+            "course_name": "Electronics II",
+            "course_desc": "Analysis and design of integrated circuits, feedback, and frequency response. Prerequisites: EE 3350 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Multicultural Perspective",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4351",
+            "course_name": "Fundamentals of Electroceramics",
+            "course_desc": "Introduction to binary and ternary phase diagrams, non-centro-symmetric crystal structures and symmetry groups, nonlinear dielectrics (including ferroelectricity, piezoelectricity, pyroelectricity), nonlinear magnetics, oxide wideband gap semiconductors, detectors and sensors, brief introduction to MEMS, radhard electronics, and spintronics technology.  Research oriented labs related to materials processing, characterization, fabrication, and testing.  Prerequisite: ENGR 2300 with a grade of \"C\" or better and a minimum 2.25 Overall GPA. Corequisite: EE 3355 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4352",
+            "course_name": "Introduction to VLSI Design",
+            "course_desc": "Analysis of design of CMOS integrated circuits. Introduction to CAD tools for VLSI design. Prerequisites: EE 3350 and [CS 2420 or EE 2420] both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4353",
+            "course_name": "Fundamentals of Advanced Semiconductor Technology",
+            "course_desc": "Key concepts of advanced semiconductor technology including Moores law, MOSFETs and CMOS, CMOS scaling, high-K gate dielectrics, new channel materials replacing silicon, three dimensional device structures, compound semiconductor MESFET, HEMT, LED, Lasers and solar cells. Prerequisite: EE 3355 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4354",
+            "course_name": "Flexible Electronics",
+            "course_desc": "This course will cover the materials systems, processes, device physics and applications of flexible electronics.  The materials range from amorphous and nanocrystalline silicon, organic and polymeric semiconductors to solution cast films of carbon nanotubes.  Real device discussions include high speed transistors, photovoltaics, flexible flat-panel displays, medical image sensors, etc. Prerequisites: EE 3350 and EE 3355 and EE 4350 all with grades of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4355",
+            "course_name": "Analog and Mixed Signal Design",
+            "course_desc": "Operational amplifier design applications, feedback, offset, stability, and compensation. Introduction to random signals and noise, discrete time circuitry analog-to-digital converters, and digital-to-analog converters. Prerequisites: EE 3370 and EE 4350 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4356",
+            "course_name": "Power Electronics",
+            "course_desc": "This course provides an introduction to power electronics and the use of such circuits for the control and conversion of electric power.  Topics include semiconductor power devices and characteristics, DC-DC and multilevel converters, power inverters, and AC voltage controllers.   Prerequisite: EE 4350 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4357",
+            "course_name": "Introduction to Power Systems",
+            "course_desc": "This course introduces the analysis of various elements of power systems, including power generation, transformer action, transmission line modeling, symmetrical components, power factor correction, real and quadrature power calculations, load flow analysis, and economic considerations in operating systems.   Prerequisite: EE 3400 or ENGR 3373 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4358",
+            "course_name": "Introduction to Microelectromechanical Systems",
+            "course_desc": "This course will cover fabrication techniques for microelectromechanical devices and systems as well as provide an introduction to the design of micromechanical transducers.  Co-requisite: MFGE 4392 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4359",
+            "course_name": "Advanced Electronic Materials and Devices",
+            "course_desc": "This course introduces students to modern fabrication techniques, properties, and applications of conventional and emerging electronic materials. Topics include thin film deposition techniques and modern fabrication concepts, heterointerfaces, and structural, electronic, thermal, magnetic, and optical properties of electronic materials. The course includes discussions about practical devices, including solar cells, light-emitting devices, display devices, and emerging flexible electronic devices. Prerequisite: EE 3350 with a grade \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4360",
+            "course_name": "Linear Control Systems",
+            "course_desc": "This course provides an introduction to linear continuous-time and discrete-time automatic control systems.  Topics include time and frequency domain modeling and analysis, state variable analysis, feedback, transient and steady state response, stability, and sensitivity. Prerequisite: EE 3370 and MATH 3377 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4370",
+            "course_name": "Communication Systems",
+            "course_desc": "This course covers transmission of signals through linear systems, analog and digital modulation, filtering, and noise. Prerequisites: EE 3370 and IE 3320 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4372",
+            "course_name": "Communication Networks",
+            "course_desc": "This course covers data communication concepts, protocols, algorithms, 7-layer OSI model, physical media, LAN architecture and components, Ethernet, TCP/IP, and related standards. Prerequisite: EE 3420 with a grade of \"C\" or better. Corequisite: EE 3370 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4374",
+            "course_name": "Introduction to Wireless Communication",
+            "course_desc": "Principles, practice, and system overview of mobile systems. Modulation, demodulation, coding, encoding, and multiple access techniques. Prerequisites: EE 4370 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4375",
+            "course_name": "Building a Smart Grid Architecture",
+            "course_desc": "In this course, students will learn the current 20th-century power grid structure and the key elements required to transform it to a 21st-century Smart Grid.  Topics include two-way power/data flow to monitor, control, manage and integrate traditional bulk generation and bulk/renewable/distributed generation. Prerequisite: EE 3370 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4376",
+            "course_name": "Introduction to Telecommunications",
+            "course_desc": "Fundamentals of telecommunications, telephone networks, switching and transmission systems, circuit and packet switching, cell processing, and queuing theory and applications. Co-requisite: EE 4370 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4377",
+            "course_name": "Introduction to Digital Signal Processing",
+            "course_desc": "Discrete systems, convolution, spectral analysis, and FIR and IIR filter design. Prerequisites: EE 3370 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4378",
+            "course_name": "Data Compression and Error Control Coding",
+            "course_desc": "Introduction to information theory, information content of messages, entropy and source coding, data compression, channel capacity data translation codes, and fundamentals of error correcting codes. Corequisite: EE 4370 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4380",
+            "course_name": "Electric Machines",
+            "course_desc": "This course teaches the principles and analysis of electromechanical systems. Students will develop analytical techniques for predicting device and system interaction characteristics, strengthen understanding of the phenomena and interactions in electromechanics, and learn to design major classes of electric machines.  Prerequisite: EE 3340 with a grade of \"C\" or better. Corequisite: EE 4180 and EE 4360 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4381",
+            "course_name": "Sustainable Energy & Storage",
+            "course_desc": "This course examines the consumption and production of energy and the principles and technologies behind renewable energy sources.  It also introduces the basics of energy storage systems such as batteries, gravitational, and hybrid.    Prerequisite: EE 3400 and PHYS 2326 and CHEM 1335 all with a grade of \"C\" or better. Corequisite: EE 4357 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4382",
+            "course_name": "Advanced Power Systems",
+            "course_desc": "This course is an advanced treatment of various elements of power systems, including symmetrical and unsymmetrical faults, symmetrical components, system protection, transient stability, transient operation of transmission lines, and supervisory control and data acquisition (SCADA). Prerequisite: EE 4357 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4390",
+            "course_name": "Electrical Engineering Design I",
+            "course_desc": "This course is a team-based design of a system or component, which will include oral presentations and written reports. (WI) Prerequisites: EE 3420 and EE 3350 and EE 3370 and IE 3320 all with grades of \"C\" or better. Corequisites: EE 4352 or EE 4356 or EE 4360 or EE 4370 any with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4391",
+            "course_name": "Electrical Engineering Design II",
+            "course_desc": "Advanced team-based design of a system or component, which will include oral presentations and written reports. (WI) Prerequisites: EE 4390 with a grade of \"C\" or better. Corequisite: EE 4352 or EE 4370 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4392",
+            "course_name": "Microelectronics Manufacturing I",
+            "course_desc": "This course provides an overview of integrated circuit fabrication.  This includes crystal growth, wafer preparation, epitaxial growth, oxidation, diffusion, ion-implantation, thin film deposition, lithography, etching, device and circuit formation, packaging, and testing. The laboratory component involves production and testing of a functional semiconductor device. Prerequisite: CHEM 1341 or CHEM 1335 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4394",
+            "course_name": "Microelectronics Manufacturing II",
+            "course_desc": "Topics include atomic models for diffusion, oxidation and ion implantation; topics related to thin film processes, e.g. CVD and PVD; planarization by chemical-mechanical polishing and rapid thermal processing; and process integration for bipolar and MOS device fabrication. Students will design processes and model them using a simulation. Prerequisite: EE 4392 or MFGE 4392 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4399A",
+            "course_name": "Dynamic Data Acquisition and Analysis",
+            "course_desc": "Methods for acquiring and analyzing dynamic (time-varying) data. Frequency domain analysis, analog-to-digital conversion, windowing, and digital filtering taught in the context of various industrial applications. Prerequisite: EE 3370 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4399B",
+            "course_name": "Overview of Information Theory and Coding",
+            "course_desc": "Fundamentals of Information Theory, Huffman coding, image encoding techniques, Hamming and BCH error control codes, Reed-Solomon coding, convolutional codes and the Viterbi decoding algorithm. Prerequisite: EE 3370 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 4399I",
+            "course_name": "Fundamentals of Sound Systems Engineering",
+            "course_desc": "This course provides an introduction to sound systems engineering and its fundamental principles applied in developing audio and sound systems for various industries. This course will develop a theoretical and practical understanding of the fundamentals of sound engineering, including acoustics, audio components, sound processing, and test & measurement. Prerequisite: EE 2420 and EE 3350 and EE 3370 and PHYS 2326 and PHYS 2126 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5320",
+            "course_name": "Advanced Computer Architecture and Arithmetic",
+            "course_desc": "This course teaches design and analysis of high-performance computer systems, focusing on quantitative analysis of the latest processors and compilers.  Current processor architectures are surveyed for system design. Topics include instruction sets, parallelizing architectures, pipelining, I/O, memory and cache organization, parallel/vector processing, fast arithmetic units design, and implementation using HDL. Prerequisites: EE 3420 and CS 3339 both with grades of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5321",
+            "course_name": "Computer-Aided Engineering Simulations on HPC Systems",
+            "course_desc": "This course covers development of simulations for engineering applications that are solved using High Performance Computing (HPC) environments.  Topics include programming techniques for multicore processors, processor and memory architecture, computation for dense and spare linear algebra applications, computational temperature analysis, fluid dynamics, stencil and stochastic algorithms, and other applications. Prerequisite: EE 5320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5323",
+            "course_name": "Digital Image Processing",
+            "course_desc": "This course provides the necessary fundamental techniques to analyze and process digital images.  It covers principles, concepts, and techniques of digital image processing and computer vision.  Restricted to students enrolled in the MS Engineering program. Prerequisite: EE 3420 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5330",
+            "course_name": "Embedded and Real-Time Computing",
+            "course_desc": "This course teaches development of embedded computing systems with strong resource constraints. Key concepts include managing constrained memory and processing speed limitations, and programming for soft and hard real-time constraints. Students will learn use of a Real-Time Operating System (RTOS). Prerequisites: EE 3420 and CS 3339 both with grades of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5331",
+            "course_name": "Machine Learning for Engineering Applications",
+            "course_desc": "This course covers an introduction to machine learning focused on deep learning techniques using engineering applications with Python. Topics include model characteristics, neural network theory, classifiers for network and signal processing applications, regression and convolutional modeling for object-detection, time-series and forecasting machine learning models for Smart City concepts. Prerequisite: ENGR 5310 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5350",
+            "course_name": "Advanced Electronic Circuit Design",
+            "course_desc": "This course includes low and high power RF amplifier design techniques, oscillators, FM demodulators, limiters, and mixer design.  Additional topics include circuit design to minimize intermodulation and other forms of distortion, and RD and high-speed analog circuits with emphasis on digital-friendly applications.  Prerequisite: EE 4350 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5353",
+            "course_name": "Fundamentals of Advanced Semiconductor Technology",
+            "course_desc": "In this course students will learn key concepts and trends of advanced semiconductor device technology. Topics include Moores law, MOSFET, CMOS and scaling, high-K gate dielectrics, new channel materials replacing silicon, three dimensional and compound semiconductor device structures. In addition students will be involved in laboratories and seminar presentations.  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5354",
+            "course_name": "Flexible Electronics",
+            "course_desc": "This course will cover the materials systems, processes, device physics and applications of flexible electronics. The materials range from amorphous and nanocrystalline silicon, organic and polymeric semiconductors to solution cast films of carbon nanotubes. Real device discussions include high speed transistors, photovoltaics, flexible flat-panel displays, medical image sensors, etc.   Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5355",
+            "course_name": "Electronic Materials and Devices",
+            "course_desc": "This course covers theoretical concepts applicable to the understanding of unique properties exhibited by electronic materials, especially by dielectrics, oxide semiconductors, ferroelectrics, pyroelectrics, piezoelectrics, magnetic, and multifunctional and multiferroic materials.  The various microelectronic devices and modern novel technologies based on these materials are emphasized. Prerequisite: EE 3350 with a grade of \"B\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5357",
+            "course_name": "Power Systems for Engineering",
+            "course_desc": "This course introduces the analysis of various elements of power systems, including power generation, transformer action, transmission line modeling, symmetrical components, power factor correction, real and quadrature power calculations, load flow analysis, and economic considerations in operating systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5360",
+            "course_name": "Thin Film Technology",
+            "course_desc": "This course covers the theoretical and practical aspects of thin film technology in modern devices. The design and fabrication of thin film heterostructures is discussed. Growth and nucleation of epitaxial thin films with diverse properties and devices with combined properties will be emphasized. Prerequisite: EE 3350 with a grade of \"B\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5361",
+            "course_name": "Nanofabrication Technology for Semiconductor Device Processing",
+            "course_desc": "This course provides an overview of nanofabrication techniques for conventional and emerging micro- and nano-electronic devices. Topics include semiconductor crystal growth, wafer preparation, epitaxial growth, oxidation, control of dopant profiles for the formation of shallow junctions, ion-implantation, thin film deposition, photolithography, metallization etching, device and circuit formation, and testing. Prerequisite: EE 3350 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5372",
+            "course_name": "Advanced Networking",
+            "course_desc": "This course develops important theoretical and application topics related to advanced networking. Theoretical topics are introduced using mathematical treatments, including queuing theory and some random processes. The course includes applications of these topics to communications networks, and focuses on architectures, applications and technologies which affect modern computer and data networks.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5374",
+            "course_name": "Introduction to Wireless Communication",
+            "course_desc": "This course teaches principles and practices in designing and analyzing cellular and other wireless communication systems. Topics include RF propagation modeling, fast and slow fading, modulation, demodulation, coding, and multiple access techniques. Prerequisite: EE 4370 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5375",
+            "course_name": "Smart Grid: an Application Development Platform",
+            "course_desc": "In this course, students will learn how to develop real applications for the smart grid and model its performance with simulations and stochastic models. Topics include energy informatics, smart metering, home energy management, demand response, load disaggregation and APIs/OpenData. The mathematical tools used include: Optimization/Control, Machine Learning and Stochastic Processes. Prerequisites: EE 3370 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5377",
+            "course_name": "Statistical Signal Processing",
+            "course_desc": "This course develops the theory and applications of random processes using mathematical treatments, including elementary discrete and continuous time linear systems theory, elementary probability, and transform theory. Topics include applications of random processes to information and communication theory, estimation and detection, control, signal processing, and stochastic systems theory. Prerequisite: ENGR 5310 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5380",
+            "course_name": "Advanced Electric Machines",
+            "course_desc": "This course teaches the principles and analysis of electromechanical systems. Students will develop analytical techniques for predicting device and system interaction characteristics as well as learn to design major classes of electric machines.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5381",
+            "course_name": "Advanced Sustainable Energy & Storage",
+            "course_desc": "This course examines the consumption and production of energy and the principles and technologies behind renewable energy sources. It also introduces the basics of energy storage systems such as batteries, gravitational, and hybrid. Current research in the field is examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5382",
+            "course_name": "Advanced Power Systems Analysis",
+            "course_desc": "This course is an advanced treatment of various elements of power systems, including case studies, analysis of relevant peer-reviewed literature, symmetrical and unsymmetrical faults, symmetrical components, system protection, transient stability, transient operation of transmission lines, and supervisory control and data acquisition (SCADA).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5398A",
+            "course_name": "Antenna Theory, Design and Applications",
+            "course_desc": "This course covers the basic theory, design and applications of antennas. The topics include antenna radiation, fundamental parameters of antennas, linear wire antennas, loop antennas, antenna arrays, long-periodic antennas, horn antennas, microstrip antennas and modern nano-antennas. Prerequisite: EE 3340 or EE 3370 either with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5398B",
+            "course_name": "Electronic Materials and Beyond for Sustainable Energy",
+            "course_desc": "This course covers the basic science and technology for sustainable energy from the view of materials, where electronic materials are highly emphasized. The topics include solar cells, thermoelectrics, batteries, supercapacitors, artificial photosynthesis, fuel cells, biomass and nuclear energy. Prerequisite: EE 3355 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5398C",
+            "course_name": "Multimedia Signal Processing",
+            "course_desc": "This course covers theory and applications of digital signal processing to multimedia signals, including speech, audio, image, and video. Key concepts and algorithms are discussed first, followed by a review of relevant industry standards. Hardware architectures and real-time implementation concepts appropriate for multimedia signals are also included. Prerequisites: EE 3370 and [EE 4323 or EE 4377] both with grades of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 5398D",
+            "course_name": "Electroceramics",
+            "course_desc": "This course covers binary and ternary phase diagrams, non-centro-symmetric crystal structures and symmetry groups, nonlinear dielectrics (ferroelectricity, piezoelectricity, pyroelectricity), nonlinear magnetics, oxide wideband gap semiconductors, detectors and sensors, introduction to MEMS, radhard electonics, and spintronics technology. Labs and additional research-oriented instruction are related to materials processing, characterization, fabrication, and testing. Prerequisite: EE 3355 with a grade of \"B\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 7354",
+            "course_name": "Advanced Flexible Electronics",
+            "course_desc": "This course covers the materials systems, processes, device physics and applications of flexible electronics.  Study of materials will include amorphous and nanocrystalline silicon, organic and polymeric semiconductors, and solution cast films of carbon nanotubes, graphene and other 2D materials. Contemporary research and advancement in the areas of high-speed transistors, switches, photovoltaics, and communication devices will be covered.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "EE 7359",
+            "course_name": "Research in Electrical Engineering",
+            "course_desc": "This research course is for doctoral students in electrical engineering who have not yet passed their candidacy exam, typically under supervision of the PhD Research Advisor.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n12 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

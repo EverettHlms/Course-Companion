@@ -1,0 +1,86 @@
+{
+    "name": "Chinese",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/chi/",
+    "courses": [
+        {
+            "course_code": "CHI 1410",
+            "course_name": "Beginning Chinese I",
+            "course_desc": "Introduction to listening, speaking, reading, and writing skills within a Chinese cultural framework. Students who take CHI 1410 toward degree requirements must also complete CHI 1420. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHI 1420",
+            "course_name": "Beginning Chinese II",
+            "course_desc": "This course provides continued instruction and practice in listening, speaking, reading, and writing skills within a Chinese cultural framework. Students who take CHI 1410 toward degree requirements must also complete CHI 1420. (MULT)  Prerequisite: CHI 1410 with a grade of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHI 2310",
+            "course_name": "Intermediate Chinese I",
+            "course_desc": "This course provides continued development and review in listening, speaking, reading, and writing skills within a Chinese cultural framework. (WI)(MULT)  Prerequisites: CHI 1420 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHI 2320",
+            "course_name": "Intermediate Chinese II",
+            "course_desc": "This course provides more advanced practice in all language skills with greater emphasis on reading within a  Chinese cultural framework. (WI)(MULT)  Prerequisites: CHI 2310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHI 3301",
+            "course_name": "Conversational Chinese",
+            "course_desc": "This course is designed to improve oral communication skills in Chinese using current video and text media.  The course will include the development of vocabulary and grammar necessary for communication and will focus on selected cultural themes.  Students' group video projects will be posted on a course blog. Course may be repeated once for credit when topics vary. (WI)(MULT)  Prerequisites: CHI 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHI 3302",
+            "course_name": "Chinese for Business",
+            "course_desc": "This course focuses on the use of written and spoken Chinese in global business contexts, as well as exploring economic, demographic, and cultural factors that influence commercial interactions. Students learn to use formal Chinese to write reports, job-related letters, and emails and to give presentations. (MULT)  Prerequisite: CHI 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHI 3303",
+            "course_name": "Chinese for Media",
+            "course_desc": "This course focuses on the study of Chinese-language media to enhance understanding of political affairs and social concerns while developing students' oral and written language skills. The course includes materials from various types of media outlets from across the Chinese-speaking world. (MULT)  Prerequisite: CHI 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHI 3304",
+            "course_name": "Chinese-English Translation",
+            "course_desc": "This course engages students in translation as a method of improving their reading ability in Chinese as well as developing the cultural competence needed to render the nuances of Chinese texts into English. The course emphasizes key concepts of translation theory and methodology. Texts include media articles, literature, and professional or technical texts.  Prerequisite: CHI 3302 or CHI 3303 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHI 3305",
+            "course_name": "Modern Chinese Literature and Film",
+            "course_desc": "This course offers a survey of Chinese and Taiwanese literature and film in the Chinese language since the beginning of the 20th century. Readings include poems, short stories, and essays in styles as varied as revolutionary, romantic, modernist, nativist, popular, and experimental. Major themes of discussion include tradition and modernity, masculinity and femininity, elite and popular, individual and national identities, class consciousness, and tensions between Chinese and Western culture. This course is taught in Chinese. Written texts are level-appropriate excerpts or abridged editions of original works. Films are shown in Chinese with English subtitles. The course includes a service-learning component. Prerequisite: CHI 3302 or CHI 3303 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CHI 4390",
+            "course_name": "Studies in Chinese Language and Culture",
+            "course_desc": "Students will conduct an independent study project in Chinese language or culture.(MULT) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

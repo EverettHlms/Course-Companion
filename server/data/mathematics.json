@@ -1,0 +1,1430 @@
+{
+    "name": "Mathematics",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/math/",
+    "courses": [
+        {
+            "course_code": "MATH 1101",
+            "course_name": "Math Education Intervention",
+            "course_desc": "Students benefit from innovative, research-based approaches for learning mathematics, and this course will deliver supplemental mathematical instruction as one such intervention. Students will be assessed using college readiness indicators or other information to determine individualized approaches. The course is designed for students in 1000 level mathematics courses who feel they would benefit from additional course based support. Prerequisite: Departmental Approval. Corequisite: MATH 1312 or MATH 1315 or MATH 1316 or MATH 1319.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n24 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 1300",
+            "course_name": "Elementary Algebra",
+            "course_desc": "This course is designed to review and strengthen basic mathematical skills. Topics may include number concepts, computation, elementary algebra, geometry, and mathematical reasoning. The credit earned for this course does not count toward any degree offered at this university.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Developmental/Remedial|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Developmental"
+        },
+        {
+            "course_code": "MATH 1311",
+            "course_name": "Intermediate Algebra",
+            "course_desc": "This preparatory course for college algebra includes linear equations and inequalities, rational expressions, exponents and radicals, quadratics and word problems. This course is designed for students who've graduated from high school with no more than the minimum mathematics requirements or for students who've been away from mathematics for years. Prerequisites: TSI Assessment Test Score of 345 or more.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Developmental/Remedial|Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Developmental"
+        },
+        {
+            "course_code": "MATH 1312",
+            "course_name": "College Statistics and Algebra",
+            "course_desc": "Algebra (as used in elementary statistics) is studied, including linear and quadratic equations, inequalities, functions and their graphs, logarithms, systems of equations, and applications of mathematics.  Emphasis is made on statistical concepts, such as least squares regression, distributions confidence intervals, & hypothesis testing.  This course is not intended to substitute for MATH 1315 as a prerequisite. Prerequisite: College Readiness in Mathematics according to the TSI regulations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Mathematics Core 020|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 1315",
+            "course_name": "College Algebra",
+            "course_desc": "Course topics include linear and quadratic equations, inequalities, functions, exponentials and logarithms, systems of equations using matrices, applications, and other college algebra topics as time permits.  Prerequisite: College Readiness in Mathematics according to the TSI regulations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Mathematics Core 020|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 1316",
+            "course_name": "Survey of Contemporary Mathematics",
+            "course_desc": "This course is a study of the uses of mathematics in society today. Emphasis is on concepts rather than technical details.   Prerequisite: College Readiness in Mathematics according to TSI regulations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Mathematics Core 020|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 1317",
+            "course_name": "Plane Trigonometry",
+            "course_desc": "This course covers right triangles, radian and degree measures, trigonometric functions and their graphs, trigonometric identities, including multiple and half-angle identities, inverse trigonometric functions, trigonometric equations, general triangles, and complex numbers. Prerequisite: [MATH 1315 with a grade of \"C\" or better] or [Accuplacer College Mathematics score of 86 or better] or [Compass College Algebra score of 46 or better] or [Next-Generation Advanced Algebra and Functions Test of 263 or better].",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Mathematics Core 020|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 1319",
+            "course_name": "Mathematics for Business and Economics I",
+            "course_desc": "Topics from college algebra and finite mathematics applied to business and economics are covered, including applications of equations and inequalities, simple and compound interest, and annuities.  Prerequisite: College Readiness in Mathematics according to the TSI regulations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Mathematics Core 020|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 1329",
+            "course_name": "Mathematics for Business and Economics II",
+            "course_desc": "This course covers topics from finite mathematics and elementary differential calculus applied to business and economics. Prerequisite: [MATH 1315 or MATH 1319 with a grade of \"C\" or better] or [ACT Mathematics score of 27 or better] or [SAT Math Section score of 600 or better] or [Accuplacer College Mathematics score of 86 or better] or [Compass College Algebra score of 46 or better] or [Next-Generation Advanced Algebra and Functions Test of 263 or better].",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Mathematics Core 020|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 2311",
+            "course_name": "Principles of Mathematics I",
+            "course_desc": "This course is intended to build and reinforce a foundation in fundamental mathematics concepts and skills for teaching. It includes the conceptual development of the base ten numeration system, the structure and properties of the various number systems and operations, and number theory. All topics are explored with an emphasis on problem-solving and critical thinking. Prerequisite: MATH 1312 or MATH 1315 or MATH 1319  or MATH 2321 or MATH 2417 any with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 2312",
+            "course_name": "Informal Geometry",
+            "course_desc": "As a continuation of MATH 2311, this course builds and reinforces a foundation in fundamental mathematical concepts and skills. It includes the concepts of geometry, measurement, probability, and statistics with an emphasis on geometry and measurement as well as problem-solving and critical thinking.  Prerequisite: MATH 2311 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 2321",
+            "course_name": "Calculus for Life Sciences I",
+            "course_desc": "This course studies exponential, logarithmic, and trigonometric functions and their applications, limits, derivatives, indefinite and definite integrals, and the Fundamental Theorem of Calculus. Applications from the life sciences receive particular emphasis.  Prerequisite: [MATH 1315 or MATH 1319 or MATH 1329 or MATH 2417 with a grade of \"C\" or better] or [ACT Mathematics score of 24 or better] or [New ACT Mathematics score of 25 or better] or [SAT Math Section score of 550 or better] or [Accuplacer College Mathematics score of 86 or better] or [Compass College Algebra score of 46 or better] or [Next-Generation Advanced Algebra and Functions Test of 263 or better].",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Mathematics Core 020|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 2328",
+            "course_name": "Elementary Statistics",
+            "course_desc": "This course is an algebra-based introduction to descriptive statistics, the interpretation of data, random sampling, design of experiments, probability, and the Central Limit Theorem. Inferential statistics topics include the foundational concepts for confidence intervals and hypothesis testing for simple experiments. Prerequisite: [MATH 1312 or MATH 1315 or MATH 1319 with a grade of \"C\" or better] or [MATH 1329 or 2321 or MATH 2417 or MATH 2471 with a grade of \"D\" or better] or [ACT Mathematics score of 24 or better] or [New ACT Mathematics score of 25 or better] or [SAT Math Section score of 550 or better] or [Next-Generation Advanced Algebra and Functions Test of 263 or better].",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 2331",
+            "course_name": "Calculus for Life Science II",
+            "course_desc": "This course is an extension of MATH 2321 and includes techniques and applications of integration, differential equations, probability, and discrete and continuous distributions.  Prerequisite: MATH 2321 with a grade of C or better or MATH 2471 with a grade of D or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 2358",
+            "course_name": "Discrete Mathematics I",
+            "course_desc": "This course is a study of discrete mathematical structures commonly encountered in computing hardware and software are studied. Topics include logic, functions, elementary set theory, proof techniques, mathematical induction, numeric sequences, elementary number theory, and graph theory.  Prerequisite: [MATH 1315 or MATH 1329 with a grade of \"C\" or better] or [MATH 2417 or MATH 2471 with a grade of D of better].",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 2393",
+            "course_name": "Calculus III",
+            "course_desc": "The course topics include vectors and the geometry of space, functions of several variables, vector-valued functions, partial derivatives, extreme values, multiple integrals, vector fields, line and surface integrals, Green's Theorem, Stokes' Theorem, the Divergence Theorem, and applications of the preceding in the sciences. Prerequisite: MATH 2472 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 2417",
+            "course_name": "Pre-Calculus Mathematics",
+            "course_desc": "This course is a survey of functions, trigonometry, and analytic geometry.  Students algebraic skills are reinforced throughout the course. Prerequisites: [MATH 1315 or MATH 1319 with a grade of C or better] or [ACT Mathematics score of 24 or better] or [New ACT Mathematics score of 25 or better] or [SAT Math Section score of 550 or better] or [Accuplacer College Mathematics score of 86 or better] or [Compass College Algebra score of 46 or better] or [Next-Generation Advanced Algebra and Functions Test of 263 or better].",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Mathematics Core 020|Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 2471",
+            "course_name": "Calculus I",
+            "course_desc": "This first course in differential and integral calculus covers limits and continuity, functions and graphing, derivatives, integrals, and applications of calculus to science, engineering, and other technical fields.  Prerequisites:  [MATH 2417 with a grade of C or better] or [ACT Mathematics score of 27 or better] or [SAT Math Section score of 600 or better] or [Accuplacer College Mathematics score of 103 or better] or  [Compass Trigonometry score of 46 or better] or [Next-Generation Advanced Algebra and Functions Test score of 276 or better].",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Mathematics Core 020|Dif Tui- Science & Engineering|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 2472",
+            "course_name": "Calculus II",
+            "course_desc": "This course continues the study of differential and integral calculus from MATH 2471.  The topics include techniques of integration, improper integrals, parametric equations and polar coordinates, applications of calculus, sequences and series, and an introduction to partial derivatives. (MULP) \n Prerequisite: MATH 2471 with a grade of C or better.",
+            "course_credits": "\n4 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Mathematics CAO 092|Dif Tui- Science & Engineering|Lab Required|Multicultural Perspective",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 2473",
+            "course_name": "Integral Calculus with Multivariables and Series",
+            "course_desc": "This course is a continuation of differential and integral calculus.  Select topics from Calculus II and Calculus III are covered including methods of integration, sequences and series, and introduction to partial derivatives.  Prerequisite: MATH 2471 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Component Area Core 090|Mathematics CAO 092|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 3305",
+            "course_name": "Introduction to Probability and Statistics",
+            "course_desc": "This is a calculus-based probability and statistics course. Topics include probability, conditional probability, discrete and continuous random variables, univariate and multivariate distributions of random variables, mathematical expectations, and moment-generating functions.   Prerequisite: MATH 2472 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 3306",
+            "course_name": "Introduction to Statistical Methods",
+            "course_desc": "This is a calculus-based statistics course covering such topics as essential descriptive statistics, probability, discrete and continuous probability distributions, sampling distributions, concepts of estimation and hypothesis testing, confidence intervals, hypothesis tests based on one or more samples, and simple linear regression. Prerequisite: MATH 2472 with a grade of \"C\" or better and a 2.75 overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 3315",
+            "course_name": "Foundations of Geometry",
+            "course_desc": "In this course students seeking teacher certification will study Euclidean Geometry and will be introduced to non-Euclidean Geometries. Dynamic geometry software and historical aspects of geometry will be integrated into the course. This course may not be applied to a minor in mathematics.  Prerequisite: MATH 2321 or MATH 2471 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 3323",
+            "course_name": "Differential Equations",
+            "course_desc": "In this course various methods of solving common types of ordinary differential equations are studied. Students learn the conditions under which solutions to first-order and second-order ordinary differential equations exist and are unique. Applications to science, engineering, and technology receive emphasis throughout the course.  Prerequisite: MATH 2472 or MATH 2473 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 3324",
+            "course_name": "Applied Multivariate Statistics",
+            "course_desc": "This course is an introduction to applied multivariate statistical methods including multiple regression, analysis of variance, logistic regression, and time series. In addition, this course introduces the student to the use of statistical software including the proper application, limitations, and interpretations of results. Prerequisite: [MATH 2471 or MATH 2321] and [MATH 2328 or MATH 3305] both with a C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 3325",
+            "course_name": "Number Systems",
+            "course_desc": "In this course, students construct the natural numbers algebraically, establishing the basic vocabulary and proof techniques of abstract algebra and the structural properties of the natural, integral, rational, real, and complex number systems.  Corequisite: MATH 2471 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 3330",
+            "course_name": "Introduction to Advanced Mathematics",
+            "course_desc": "This course introduces fundamental methods of proof and the core language of modern mathematics. Topics include the theory of sets, logic, relations, functions, the cardinality of sets, and related subjects.  Prerequisite: MATH 2471 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 3348",
+            "course_name": "Deterministic Operations Research",
+            "course_desc": "This course provides a broad overview of deterministic operations research techniques. Linear programming, including the simplex method, duality, and sensitivity analysis, will be covered. Further selected topics are integer programming, dynamic programming, scheduling models, game theory, and associated topics.   Prerequisite: MATH 2472 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 3376",
+            "course_name": "Applied Linear Algebra",
+            "course_desc": "This course covers linear algebra and matrix theory while considering their computational aspects.  Topics include a variety of methods for solving systems and related properties.  Emphasis is placed on topics useful in civil engineering, applied mathematics, and other disciplines, serving as a preparatory course for the finite element method.  Prerequisite: MATH 2472 or MATH 2473 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 3377",
+            "course_name": "Linear Algebra",
+            "course_desc": "An introductory course in linear algebra covering systems of linear equations, vector spaces, linear transformations, matrices, and additional topics as time permits. Mathematical proofs are an essential part of this course.   Prerequisite: MATH 2472 with a grade of C or higher.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 3380",
+            "course_name": "Analysis I",
+            "course_desc": "This is a course covering the introduction to the theory of real functions. Topics include limits, continuity, derivatives, and associated topics. Prerequisite: MATH 3330 and MATH 2472 both with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 3383",
+            "course_name": "Numerical Analysis I",
+            "course_desc": "This course focuses on basic numerical methods in mathematics to solve functional problems in fields such as engineering and applied sciences. This course covers instructions in computer arithmetic, solutions of equations, interpolation, numerical differentiation/integration, and applications to scientific and industrial applications.  Prerequisite: MATH 2472 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 3398",
+            "course_name": "Discrete Mathematics II",
+            "course_desc": "This course continues the studies in Discrete Math I, topics include combinatorics, countability and counting arguments, discrete probability, relations, recursion and recurrence, generating functions, algorithms, and growth of functions. Prerequisite: MATH 2358 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4302",
+            "course_name": "Principles of Mathematics II",
+            "course_desc": "Algebraic reasoning and probability with selected topics from quantitative reasoning, measurement, statistics, and geometry are integrated with middle school pedagogical practices such as inquiry-based learning and the use of technology. Appropriate correlated lessons, writing components, and culturally responsive teaching are incorporated. (WI) Prerequisite: MATH 2312 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4303",
+            "course_name": "Capstone Mathematics for Middle School Teachers",
+            "course_desc": "A rigorous, integrated, analytical perspective of mathematical topics; quantitative reasoning, geometry and measurement, probability and statistics, number theory, and algebraic reasoning. This course may not be applied to a mathematics minor. Must be taken before student teaching.   Prerequisite: [MATH 2331 or MATH 2472] and MATH 3315 with grades of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4304",
+            "course_name": "Capstone Mathematics for Secondary Teachers (of Mathematics)",
+            "course_desc": "Basic concepts underlying algebra, geometry, trigonometry, and calculus are taught from an advanced standpoint, including historical, philosophical, and cultural significance. This course may not be applied to a minor in mathematics. Must be taken before student teaching.   Prerequisite: MATH 3315 and [MATH 2331 or MATH 2472] with grades of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4305",
+            "course_name": "Advanced Probability and Statistics",
+            "course_desc": "This mathematical statistics course focuses on statistical inferences and data analysis. Topics include functions of random variables and their distributions, the Central Limit Theorem, point estimators and their properties, concepts and applications of interval estimation of population parameters, and the theory and applications of statistical tests of hypotheses.   Prerequisite: MATH 3305 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4306",
+            "course_name": "Fourier Series and Boundary Value Problems",
+            "course_desc": "Advanced solution methods for ordinary differential equations and partial differential equations are studied, focusing on series approximations and Fourier series solutions.  Applications of boundary value problems typical of scientific applications are studied.   Prerequisite: MATH 3323 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4307",
+            "course_name": "Modern Algebra",
+            "course_desc": "This course covers structures, structure-preserving functions, and other fundamental concepts of modern algebra, emphasizing group theory.   Prerequisite: MATH 3330 and [MATH 3325 or MATH 3377] both with grades of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4311",
+            "course_name": "Introduction to the History of Mathematics",
+            "course_desc": "This course is a survey of the development of major mathematical topics, including geometry, algebra, calculus, and advanced mathematics. Philosophical and cultural aspects will be integrated with the structure, theorems, and applications of mathematics. (WI) Prerequisite: MATH 3315 and [MATH 2331 or MATH 2472] both with grades of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4315",
+            "course_name": "Analysis II",
+            "course_desc": "A continuation of MATH 3380, this courses topics include differentiation, integration, series, and sequences of functions, and associated topics.  Prerequisite: MATH 3380 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4327",
+            "course_name": "Introduction to Complex Analysis and Its Applications",
+            "course_desc": "This course introduces topics in the theory of functions of a complex variable (contour integrals, series, residues of analytic functions, and conformal mappings) with engineering and science applications. These include solving boundary value problems, locating zeros of analytic functions, analyzing two-dimensional heat and fluid flows, and calculating inverse Laplace transforms. Prerequisite: [MATH 2393 or MATH 2473] and MATH 3323 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4330",
+            "course_name": "General Topology",
+            "course_desc": "In this course, students study the concepts of convergence, continuity, compactness, connectedness, and fixed points in topological spaces, particularly in metric spaces.  Prerequisite: MATH 3330 and MATH 2472 both with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4336",
+            "course_name": "Studies in Applied Mathematics",
+            "course_desc": "This course covers selected topics including Laplace transforms, complex variables, advanced calculus for applications, calculus of variations, integral and differential equations, vector analysis, and other topics from applied mathematics. It may be repeated once for credit with a different topic.  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4337A",
+            "course_name": "Topological Data Analysis",
+            "course_desc": "This research-based course introduces students to computational topology and topological data analysis. In addition to studying existing data studies from the recent scientific literature, students will also analyze a data set they have personally chosen. Students will present their progress and results both orally and in writing.  Prerequisite: MATH 3377.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4337B",
+            "course_name": "Research in Discrete Mathematics",
+            "course_desc": "This course is an introduction to creative mathematical activities. It provides an opportunity to perform research in discrete mathematics, as well as to learn how to present mathematical results both orally and in writing. These skills are essential for those students continuing into graduate studies.  Prerequisite: Texas State GPA 3.25; MATH 2358. Corequisite: MATH 3398.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4337C",
+            "course_name": "Numerical Methods for Ordinary Differential Equations",
+            "course_desc": "This research-based course has students investigate known methods of numerically solving ordinary differential equations (Runge-Kutte, Adams, Predictor-Corrector, etc.). Students will research the effect of  variations on these methods by implementing their algorithm modifications in mathematical software and reporting on their results. Prerequisite: MATH 2472 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4337D",
+            "course_name": "Topics in Topology and Algebra",
+            "course_desc": "This course introduces students to modern research methods in topology and algebra. Specific topics will vary based on student interest and input, but the basic concepts and methods of algebraic topology (homology and cohomology groups, homotopy groups), homotopy theory, and simplicial methods form the backbone of this course. Prerequisite: MATH 3330 with a grade of \"C\" or better and a minimum 2.0 Texas State GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4337H",
+            "course_name": "Undergraduate Research in Topology and Artificial Neural Networks",
+            "course_desc": "The course will introduce the mathematics behind Artificial Neural Networks (ANN) with an eye towards applying topology to study ANNs. Topics include general machine learning concepts, feedforward neural networks, the gradient descent algorithm, the universal approximation theorem, convolutional neural networks, topology, and VC dimension. Students will customize a basic artificial neural network written in Python through hands-on projects. Prerequisite: MATH 2471 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4350",
+            "course_name": "Introduction to Combinatorics",
+            "course_desc": "This course presents fundamental combinatorial concepts, including standard techniques and methods of proof specific to the field. Topics include advanced counting, generating functions, linear and nonlinear recurrence relations, combinatorial designs. Applications of the topics will be explored as time permits. Prerequisite: MATH 2472 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4383",
+            "course_name": "Numerical Analysis II",
+            "course_desc": "This course focuses on various mathematical and computational methods in modeling, analyzing, and simulating scientific and engineering problems. Topics include approximation, optimization, differential equations, scientific computation, and scientific and industrial applications.   Prerequisite: MATH 3383 and MATH 3323 both with a grades of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 4393",
+            "course_name": "Introduction to Finite Element Methods",
+            "course_desc": "This course introduces weak formulations of the partial differential equations and the finite element approximation of this weak form. Theory and computations are balanced. Topics include finite element methods for approximating solutions of partial differential equations and related properties.  Emphasis topics are in civil engineering, applied mathematics, and related disciplines. Prerequisite: [MATH 3376 or MATH 3377] and MATH 3323 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5111",
+            "course_name": "Graduate Assistant Training",
+            "course_desc": "This course is concerned with techniques used in the teaching of mathematics. This course is required as a condition of employment for graduate teaching and instructional assistants. This course does not earn graduate degree credit. Repeatable with different emphasis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MATH 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 5272A",
+            "course_name": "Teaching Geometry through Problem Solving and Discovery Learning",
+            "course_desc": "This course investigates the problem-solving heuristics embedded in the secondary school geometry curriculum and explores how to implement problem solving in geometry classrooms. This course also examines the unique Hungarian style method of discovery learning in mathematics, developed for students aged 12-18. The method referred to as the Posa Method is similar to inquiry based learning with an emphasis on problem solving.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5272B",
+            "course_name": "Gamification and Playfulness in Teaching Mathematics",
+            "course_desc": "This course focuses on the non-game context of education and presents applications of game elements with special attention to teaching mathematics. Mathematics concepts are uncovered through the use of mathematical games and hands-on manipulatives that foster playfulness.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 5301",
+            "course_name": "Partial Differential Equations",
+            "course_desc": "Theory and application of partial differential equations; derivation of the differential equation; use of vector and Tensor methods; equations of the\nfirst order; wave equations; vibrations and normal functions; Fourier series and integral; Cauchys methods, initial data; methods of Green; potentials; boundary problems; methods of Riemann-Volterra; characteristics. Prerequisites: MATH 3323 and consent of the instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5303",
+            "course_name": "History of Mathematics",
+            "course_desc": "A study of the development of mathematics and of the accomplishments of men and women who contributed to its progress. Cannot be used on a degree plan\nfor M.S. degree. Prerequisite: MATH 2472 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5304",
+            "course_name": "Topics in Mathematics for the Secondary Teacher",
+            "course_desc": "A study of the current trends and topics found in the secondary school mathematics curriculum with the goal of improving the mathematical background of the secondary teacher. Course content will be flexible and topics will be\nselected on the basis of student needs and interests. Cannot be used on degree plan for M.S. degree. Prerequisite: MATH 2472 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5305",
+            "course_name": "Advanced Course in Probability and Statistics",
+            "course_desc": "Advanced topics in probability and statistics. May be repeated once with different emphasis for additional credit. Prerequisite: MATH 3305.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5307",
+            "course_name": "Modern Algebra",
+            "course_desc": "Topics in modern algebra. Material will be adapted to the needs of the class. Prerequisite: MATH 4307 with a grade of \"C\" or better, or MATH 5384 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5311",
+            "course_name": "Foundations of Differential Equations",
+            "course_desc": "A critical study of the foundations of derivation equations, operator spaces, and such basic topics. Recent developments in this field will be investigated and independent investigation will be encouraged. Prerequisite: MATH 2393 and [MATH 3380 or MATH 5382] both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5312",
+            "course_name": "Functions of a Complex Variable",
+            "course_desc": "Modern developments in the field of a complex variable. Prerequisite: MATH 2393 and MATH 4315 and [MATH 3380 or MATH 5382] all with grades of \"C\" or better or departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5313",
+            "course_name": "Field Theory",
+            "course_desc": "Topics in field theory, separable extensions, and Galois Theory. Prerequisite:  MATH 4307 with a grade of \"C\" or better, or MATH 5384 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5314",
+            "course_name": "Number Theory",
+            "course_desc": "Topics in algebra selected from quadratic forms, elementary number theory, algebraic or analytic number theory, with material adapted to the needs of the class. Prerequisite: MATH 4307 with a grade of \"C\" or better, or MATH 5384 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5315",
+            "course_name": "Mathematical Statistics",
+            "course_desc": "This course discusses theoretical aspects of estimation theory and hypothesis testing procedures, with some of their important applications. The main topics include convergence of random variables, parameter estimation, properties of estimators, interval estimation, sufficiency and applications to the exponential family, hypothesis testing, decision theory, and Bayesian inference.  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5317",
+            "course_name": "Problems in Advanced Mathematics",
+            "course_desc": "Open to graduate students on an individual basis by arrangement with the mathematics department. A considerable degree of mathematical maturity is required. May be repeated with different emphasis. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MATH 5319",
+            "course_name": "The Theory of Integration",
+            "course_desc": "A course in the theory of integration with special emphasis on the Lebesgue integrals. A course in the theory of real variables, with a knowledge of point\nset theory, is desirable as a background for this course. A considerable amount of mathematical maturity is required. Prerequisite: MATH 4315 with a grade of \"C\" or better, or departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5329",
+            "course_name": "General Topology",
+            "course_desc": "Point-set topology with an emphasis on general topological spaces; separation axioms, connectivity, the metrization theorem, and the C-W complexes. Prerequisite: MATH 4330 with a grade of \"C\" or better, or departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5331",
+            "course_name": "Metric Spaces",
+            "course_desc": "Point-set topology with an emphasis on metric spaces and compactness but including a brief introduction to general topological spaces. Prerequisite: MATH 4330 with a grade of \"C\" or better, or departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5335",
+            "course_name": "Survival Analysis",
+            "course_desc": "This course introduces concepts and methods in the analysis of survival data. Topics include characteristics of survival data; basic functions; parametric models for survival time; maximum likelihood estimation of survival functions; two-sample test techniques; regression analysis with parametric and semi-parametric models; and mathematical and graphical methods for model checking. Prerequisite: Math 5305 with a grade of \"B\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5336",
+            "course_name": "Studies in Applied Mathematics",
+            "course_desc": "Topics selected from optimization and control theory, numerical analysis, calculus of variations, boundary value problems, special functions, tensor analysis, or other subfields of applied mathematics are studied. Repeatable for credit with different topic emphasis.  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5338",
+            "course_name": "Advanced Independent Study in Mathematics or Statistics",
+            "course_desc": "This course gives graduate students specializing in mathematical or statistical subjects the opportunity to study specialty subjects from individual Mathematics faculty's research interests. Work may consist of theoretical or empirical research or reviewing and integrating existing literature on the subject. Repeatable once for credit with different emphasis. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5340",
+            "course_name": "Scientific Computation",
+            "course_desc": "This course will involve the analysis of algorithms from science and mathematics, and the implementation of these algorithms using a computer algebra system.  Symbolic numerical and graphical techniques will be studied. Applications will be drawn from science, engineering, and mathematics.  A knowledge of differential equations is expected.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5345",
+            "course_name": "Regression Analysis",
+            "course_desc": "This course introduces formulation and statistical methodologies for simple and multiple regression, assessment of model fit, model design, and criteria\nfor selection of optimal regression models. Students will develop skills with the use of statistical packages and the writing of reports analyzing a variety of real-world data. Prerequisite: MATH 2472.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5350",
+            "course_name": "Combinatorics",
+            "course_desc": "This course, covers permutations, combinations, Stirling numbers, chromatic numbers, Ramsey numbers, generating functions, Polya theory, Latin squares and\nrandom block design. Prerequisite: MATH 3398 or consent of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5355",
+            "course_name": "Applied and Algorithmic Graph Theory",
+            "course_desc": "This course is designed to emphasize the close tie between the theoretical and algorithmic aspects. The topics may include basic concepts such as connectivity, trees, planarity, coloring of graphs, matchings, and networks. It also covers many\nalgorithms such as Max-flow Min-cut algorithm, maximum matching algorithm, and optimization algorithms for facility location problems in networks. Prerequisite: MATH 5388 or MATH 3398.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5358",
+            "course_name": "Applied Discrete Mathematics",
+            "course_desc": "Boolean algebra, counting techniques, discrete probability, graph theory, and related discrete mathematical structures that are commonly encountered in\ncomputer science. Prerequisite: MATH 2472 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5360",
+            "course_name": "Mathematical Modeling",
+            "course_desc": "This course introduces the process and techniques of mathematical modeling. It covers a variety of application areas from the natural sciences. Emphasis is placed on deterministic systems, stochastic models, and diffusion.  Prerequisite: [MATH 2393 and MATH 3323 both with grades of \"D\" or better and MATH 5301 with a grade of \"C\" or better] or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5373",
+            "course_name": "Theory of Functions of Real Variables",
+            "course_desc": "This course will discuss those topics that will enable the student to obtain a better grasp of the fundamental concepts of the calculus of real variables and the more recent developments of this analysis. Prerequisite: MATH 4315 with a grade of \"C\" or better, or departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5374",
+            "course_name": "Numerical Linear Algebra",
+            "course_desc": "This course introduces tools that mathematical scientists use with vectors and matrices. Applications include least squares and eigenvalue problems, and systems of equations from applied mathematics. The stability of algorithms to perturbations are considered.  Theory is balanced with numerically implementing algorithms, in particular for iterative methods for large, sparse systems. Prerequisite: MATH 3377 with a \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5376A",
+            "course_name": "Design and Analysis of Experiments",
+            "course_desc": "This course introduces fundamental concepts in the design of experiments, justification of linear models, randomization and principles of blocking. It also discusses the construction and analysis of basic designs including fractional\nreplication, composite designs, factorial designs, and incomplete block designs. Prerequisite: Approval of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5376B",
+            "course_name": "Analysis of Variance",
+            "course_desc": "This course introduces basic methods, one-way, two-way ANOVA procedures, and multifactor ANOVA designs. Prerequisite: Approval of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5376D",
+            "course_name": "Statistical Applications in Genetics and Bioinformatics",
+            "course_desc": "The statistical concepts and methods to be covered include important probability distributions, analysis of variance, regression analysis, hidden Markov model, and Markov Chain Monte Carlo methods. These methods will be used to address important and challenging questions arising in the analysis of large genetic and bioinformatic datasets. Prerequisite: Math4305 or equivalent.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5376E",
+            "course_name": "Introduction to Data Science",
+            "course_desc": "This course introduces basic concepts and methods in the field of data science. Topics include data wrangling, data exploration and visualization, optimization, deep learning, supervised learning subjects such as nearest-neighbor techniques, regression, Lasso, linear discriminant analysis, logistic regression, tree-based models, neural networks, as well as unsupervised learning subjects such as market basket analysis and cluster analysis, and random forests. The material will be approached with a blend of theory and application, and will include programming in Python, R, or another modern, popular language of the instructor's choice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5376F",
+            "course_name": "Introduction to Probability Theory and Models",
+            "course_desc": "This course covers the definitions, constructions, theorems, and techniques to build and analyze probability models. The emphasis of this class is the active construction and analysis of probability models.  However, we will develop a rigorous treatment of the requisite abstract theory in service of this goal. Topics include conditional expectation, the convergence of random variables, weak and strong law of large numbers, central limit theorem, random walk, Martingales, and Brownian motion.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5381",
+            "course_name": "Foundations of Set Theory",
+            "course_desc": "A formal study of the theory of sets, relations, functions, finite and infinite sets, set operations and other selected topics. This course will also train the student in the understanding of mathematical logic and the writing of proofs. Prerequisite:MATH 2472 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5382",
+            "course_name": "Foundation of Real Analysis",
+            "course_desc": "A course covering the foundations of mathematical analysis. Topics include: real numbers, sequences, series, and limits and continuity of functions.\nPrerequisite: MATH 5381.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5384",
+            "course_name": "Geometric Approach to Abstract Algebra",
+            "course_desc": "Definitions and elementary properties of groups, rings, integral domains, fields and vector spaces with great emphasis on the rings of integers, rational numbers, complex numbers, polynomials, and the interplay between algebra and geometry. Prerequisite: MATH 5381.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5386",
+            "course_name": "Knots and Surfaces, An Introduction to Low-Dimensional Topology",
+            "course_desc": "Knot polynomials and other knot invariants. The topological classification of surfaces and topological invariants of surfaces. Prerequisite: MATH 2472 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5388",
+            "course_name": "Discrete Mathematics",
+            "course_desc": "This course covers topics from: basic and advanced techniques of counting, recurrence relations, discrete probability and statistics, and applications of graph\ntheory. Prerequisites: MATH 2472 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5390",
+            "course_name": "Statistics",
+            "course_desc": "This course will cover not only some of the basic statistical ideas and techniques but also the mathematical and probabilistic underpinnings of these techniques with an emphasis on simulations and modeling. The planning, conducting, analysis, and reporting of experimental data will also be covered. Prerequisite: MATH 2472 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5392",
+            "course_name": "Survey of Geometries",
+            "course_desc": "A study of topics in geometry including geometrical transformations, the geometry fractals, projective geometry, Euclidean geometry, and non-Euclidean\ngeometry. Prerequisite: MATH 2472 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5393",
+            "course_name": "Numerical Optimization",
+            "course_desc": "This course focuses on optimization methods for a broad range of applications, such as engineering and applied sciences. Subjects are the basic theory of optimization, numerical algorithms to locate points satisfying optimality conditions and to analyze the convergence properties. Prerequisites:  MATH 2472 and MATH 3377 and MATH 3383, all with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in Mathematics 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 5472A",
+            "course_name": "Experiencing the Hungarian Approach through Observation and Teaching Practicum",
+            "course_desc": "This course provides a first-hand experience in putting the Hungarian style guided discovery into practice. As part of the course, students will spend one week at a mathematics camp for secondary students that is being run using the Hungarian style of teaching. Students will observe mathematics classes, discuss pedagogy with camp instructors, and design and teach their own lesson to camp participants.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 7111",
+            "course_name": "Seminar in Teaching",
+            "course_desc": "Seminar on individual study projects concerned with selected problems in the teaching of mathematics. This course does not earn graduate degree credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MATH 7188",
+            "course_name": "Seminar in Mathematics Education",
+            "course_desc": "Students are required to attend weekly research seminars in Mathematics Education and to give at least one research presentation in the seminar during the semester. This course is repeatable for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7199A",
+            "course_name": "Dissertation",
+            "course_desc": "Original research and writing in Mathematics Education to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 7299A",
+            "course_name": "Dissertation",
+            "course_desc": "This course represents a Mathematics Education student's dissertation enrollments. The course can be repeated as necessary. The dissertation credit (18 hours) will not be awarded until the dissertation is submitted for binding.\nPrerequisite: completion of the core and required concentration courses, or approval of student's dissertation advisor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 7301",
+            "course_name": "Studies in Mathematics",
+            "course_desc": "This course provides basic foundations in Mathematics for students entering the doctoral program in Mathematics or Mathematics Education. This course may be repeated. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MATH 7302",
+            "course_name": "History of Mathematics",
+            "course_desc": "A study of the development of mathematics and of the accomplishments of men and women who contributed to its progress.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7303",
+            "course_name": "Analysis I",
+            "course_desc": "This course covers foundations of modern analysis. Topics include: sequences, LimSup, LimInf, Sigma Algebras of sets that include open and closed sets,\nsequences of functions, pointwise and uniform convergence, lower and upper semi-continuity, Borel sets, outer measure, and Lebesgue measure. Prerequisite: MATH 4315.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7306",
+            "course_name": "Current Research in Math Education",
+            "course_desc": "This course surveys the various current social, political, and economic trends in local, state, national, and international settings that are related to research in Mathematics Education.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7307",
+            "course_name": "Algebra I",
+            "course_desc": "Applications of Algebra and topics in modern algebra, including permutation groups, symmetry groups, Sylow theorems, and select topics from Ring Theory.\nPrerequisite: MATH 4307.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7309",
+            "course_name": "Topology I",
+            "course_desc": "A course in point-set topology emphasizing topological spaces, continuous functions, connectedness, compactness, countability, separability, metrizability, CWcomplexes, simplicial complexes, nerves, and dimension theory. Prerequisite: MATH 4330.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7313",
+            "course_name": "Analysis II",
+            "course_desc": "This course covers the theory of integration with special emphasis on Lebesgue integrals. Topics include: Lebesgue integral, Bounded Convergence theorem,\ndifferentiation and integration, absolute continuity, and Lp spaces. Prerequisite: Math 7303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7315",
+            "course_name": "Calculus of Variations",
+            "course_desc": "This course will involve the study of properties of functionals including first and second variations, application to extremal problems, Euler-Lagrange equations, and stability theory.   Prerequisite: MATH 7303 with a grade of \"B\" or higher.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7317",
+            "course_name": "Algebra II",
+            "course_desc": "A study of the important algebraic structures of rings and fields. Topics covered include rings, ideals, modules, polynomial rings, Euclidean algorithm, finite\nfields, and field extensions. Topics also include an introduction to Galois Theory with an emphasis on the geometric applications. Prerequisite: MATH 7307.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7319",
+            "course_name": "Topology II: Algebraic Topology",
+            "course_desc": "This course covers the fundamental concepts and tools of algebraic topology. Topics include the fundamental group, covering spaces, homotopy type, the higher homotopy groups, singular homology theory, and the computation of\nhomology groups via exact sequences and applications. Prerequisite: MATH 7307 and MATH 7309.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7321",
+            "course_name": "Graph Theory",
+            "course_desc": "Topics in this course include trees, connectivity of  graphs, Eulerian graphs, Hamiltonian graphs, planar graphs, graph coloring, matchings, factorizations,\ndigraphs, networks, and network flow problems. Prerequisite: MATH 3398.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7323",
+            "course_name": "Theories of Knowing and Learning in Mathematics Education",
+            "course_desc": "This course surveys the major theories of knowing and learning that have influenced mathematics education. These theories include behaviorism, constructivism, sociocultural theories, situated cognition, and others.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7324",
+            "course_name": "Curriculum Design & Analysis",
+            "course_desc": "This course examines, analyzes, and evaluates the various concepts, topics, methods, and techniques that are related to curriculum design in Mathematics Education for grade levels P-16.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7325",
+            "course_name": "Statistics 1",
+            "course_desc": "A study of the mathematical and probabilistic underpinnings of the techniques used in statistical inference. Topics covered include sampling, sampling distributions, confidence intervals, and hypothesis testing with an emphasis on both simulations and derivations. Prerequisite: Math 2321 and Math 3305.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7328",
+            "course_name": "Instructional Techniques & Assessments",
+            "course_desc": "This course examines, analyzes, and evaluates the various concepts, topics, methods, and techniques of instruction in Mathematics Education and the related assessment procedures for each for grade levels P-20.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7331",
+            "course_name": "Combinatorics",
+            "course_desc": "This course is a study of fundamental principles of combinatorics. Topics include: permutations and combinations, the Pigeonhole principle, the principle of inclusion-exclusion, binomial and multinomial theorems, special counting sequences, partitions, posets, extremal set theory, generating functions, recurrence relations, and the Polya theory of counting. Prerequisite: MATH 3398.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7335",
+            "course_name": "Statistics II: Linear Modeling",
+            "course_desc": "A study of the formulation and statistical methodologies for fitting linear models. Topics include the general linear hypothesis, least-squares estimation, Gauss-Markov theorem, assessment of model fit, effects of departures from assumptions, model design, and criteria for selection of optimal regression models. Prerequisite: MATH 3377 and MATH 7325.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7337",
+            "course_name": "Mathematical Statistics II",
+            "course_desc": "This course covers foundations of classical and modern mathematical statistics. Topics include multivariate normal distributions, central limit theorem (including Lindeberg condition), data reduction principles, delta method, asymptotic theories for likelihood-based method, decision-theoretic formulation of estimation and testing of hypotheses, minimaxity, admissibility, and bootstrap.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7346",
+            "course_name": "Quantitative Research Analysis in Mathematics Education",
+            "course_desc": "This course surveys the various research techniques used in quantitative analysis for mathematics education and covers topics such as experimental design, statistical analysis, and use of appropriate design methodologies to achieve the strongest possible evidence to support or refute a knowledge claim.\nPrerequisite: MATH 7306 and MATH 7325.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7354",
+            "course_name": "Advanced Qualitative Research",
+            "course_desc": "This course encompasses the techniques and tools needed for the development, investigation, and demonstration of competence in conducting qualitative research in mathematics education. Principles of qualitative data analysis are a significant focus of the course, with particular attention given to specific methods used to code and analyze data.  Prerequisite: ED 7352 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7356B",
+            "course_name": "Advanced Qualitative Research",
+            "course_desc": "This course encompasses investigation, development, and demonstration of competence, design, and execution for mathematics education problems in qualitative research. Prerequisite: ED 7352 or CI 7352.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7356C",
+            "course_name": "Action Research in Mathematics Education",
+            "course_desc": "This course examines underlying theory and issues in action research model and the development of action research projects. Prerequisites: MATH 7346 or ED 7352.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7358",
+            "course_name": "Advanced Quantitative Research in Mathematics Education",
+            "course_desc": "This course surveys the various research techniques used in quantitative analysis for mathematics education and covers topics such as experimental design, statistical analysis, and the use of appropriate design methodologies to achieve the most substantial evidence to support or refute a knowledge claim.  Prerequisite: MATH 7346 with a grade of \"B\" or better or permission of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7361",
+            "course_name": "Seminar in Advanced Mathematics",
+            "course_desc": "Material in course will vary with the interest of students and faculty. A detailed study of subject matter may be chosen from advanced areas of analysis; algebra; topology and geometry; applied mathematics; and probability and statistics. This course is repeatable for credit when subject matter varies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7363A",
+            "course_name": "COMPLEX ANALYSIS",
+            "course_desc": "This course is a brief introduction to the complex number system and basic point-set topology of the complex plane, followed by a proof-based and rigorous study of the principal results of the analysis of functions of a single complex variable. Prerequisite: MATH 4315 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7363B",
+            "course_name": "NUMERICAL ANALYSIS",
+            "course_desc": "This course will involve the analysis of algorithms from science and mathematics, and the implementation of these algorithms using computer algebra systems. Symbolic, numerical, and graphical techniques will be studies. Applications will be drawn from the sciences, engineering, and mathematics. Prerequisite: MATH 3323 with a grade of \"D\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7363C",
+            "course_name": "FUNCTNL ANALYSIS",
+            "course_desc": "This course presents the three basic fundamentals theorems of functional analysis: the Hanh-Banach theorem, the uniform boundedness theorem, and the open mapping theorem. Prerequisite: MATH 7303 with a \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7363E",
+            "course_name": "Numerical Analysis II",
+            "course_desc": "This course will involve the analysis and numerical implementation of algorithms to solve partial differential equations. Applications will be drawn from science, engineering, and mathematics.  Topics include the numerical solution of linear partial differential equations and the related linear systems of equations. Prerequisite: MATH 7363B with a letter grade of a \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7363F",
+            "course_name": "Functional Analysis II",
+            "course_desc": "This course will involve the analysis of infinite dimensional vector spaces including spaces of functions, measures, and distributions.  Topics include Fourier transforms, theory of Banach spaces, and operator theory. Prerequisite: MATH 7363C with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7366A",
+            "course_name": "Teaching Post-Secondary Students (Developmental Math, Service Courses, and Majors)",
+            "course_desc": "This course examines how to develop and teach post-secondary students. The course references the recommendations of government agencies and professional organizations and allows for the investigation of research-based models. Prerequisites: MATH 7306.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7366B",
+            "course_name": "Teaching K-12 Students (Elementary, Middle School, and High School)",
+            "course_desc": "This course examines how to develop and teach K-12 students. The course references the recommendations of government agencies and professional organizations and allows for the investigation of research-based models. Prerequisite: MATH 7306.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7366C",
+            "course_name": "Teaching Teachers (In-Service; Pre-Service)",
+            "course_desc": "This course examines how to prepare teachers of mathematics. The course references the recommendations of government agencies and professional organizations and allows for the investigation of research-based models.\nPrerequisite: MATH 7306.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7366D",
+            "course_name": "Teaching Specialized Content",
+            "course_desc": "This course will be an in-depth study of a specialized content area in mathematics with an emphasis on teaching. The specific content area will vary by instructor. Examples include Euclidean Simplex Geometry and Discrete Probability Spaces\nwith Implications for Public School Curriculum.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7366E",
+            "course_name": "Developmental Mathematics Curriculum",
+            "course_desc": "This course surveys the research, development, and evaluation of the scope and sequence of developmental mathematics curriculum. The course references the recommendations of government agencies and professional organizations and allows for the investigation of research-based models.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7366F",
+            "course_name": "Research in Undergraduate Mathematics Education I",
+            "course_desc": "Students will develop the requisite knowledge to become a good consumer of Research in Undergraduate Mathematics Education (RUME) research. The course will cover the theoretical underpinnings of current and historic RUME research. Students will develop the knowledge to understand relevant theoretical stances and the role they play in research.  Prerequisite: Math 7306 or permission from the instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7366G",
+            "course_name": "Research in Undergraduate Mathematics Education II",
+            "course_desc": "In this course, students will develop necessary knowledge to design/conduct RUME research via a topic-driven look at current RUME research. Core topics include proof, analysis/calculus, abstract algebra, linear algebra, and differential equations. Students will develop a depth of knowledge related to these topics and engage in research design and development. Prerequisite: MATH7306 and MATH7366F.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7367B",
+            "course_name": "ADV GROUP THEORY",
+            "course_desc": "This course covers topics including properties of solvable, p-solvable and nilpotent groups, group actions, transfer theorems, simple groups and composition series, the generalized Fitting subgroup, automorphism groups, classical groups and linear representations of groups. Prerequisite: MATH 7307 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7369C",
+            "course_name": "Low-dimensional topology",
+            "course_desc": "This course is an introduction to low-dimensional topology. Topics include surfaces, 3-manifolds, knots, and 4-manifolds.  Prerequisite: MATH 7307 and MATH 7309 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7369D",
+            "course_name": "Characteristic Classes",
+            "course_desc": "This course is an introduction to vector bundles and characteristic classes. Topics covered include Stiefel-Whitney classes, Chern classes, Euler class, Pontrjagin classes, and their computation. Additional topics may include manifold immersion problems. Prerequisite: MATH 7317 and MATH 7319 both with grades of a \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7369E",
+            "course_name": "Differential Geometry",
+            "course_desc": "This course is an introduction to modern tools of differential geometry. Topics covered include manifolds, Riemannian metrics, connections, covariant derivatives, geodesics, curvatures, extrinsic and intrinsic computations. Other possible topics include hyperbolic geometry, Lie groups, Chern-Weil theory, surfaces of prescribed mean curvature, the Gauss-Bonnet theorem, and the Cartan-Hadamard theorem. Prerequisite: MATH 7307 and MATH 7309 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7371A",
+            "course_name": "Advanced Graph Theory",
+            "course_desc": "Topics in this course include Turan's problems, Ramsey theory, random graph theory, extremal graph theory, algebraic graph theory, domination of graphs, distance problems, and applications. Prerequisite: MATH 7321.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7371B",
+            "course_name": "Advanced Combinatorics",
+            "course_desc": "Topics in this course include Block designs, Latin squares, combinatorial optimization problems, coding theory, matroids, difference sets, and finite\ngeometry. Prerequisite: MATH 7331.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7371C",
+            "course_name": "Combinatorial Number Theory",
+            "course_desc": "A study of fundamental techniques in combinatorial number theory. Topics will include Waring's problem, additive number theory, and probabilistic methods in number theory. Prerequisite: MATH 7331.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7371D",
+            "course_name": "Discrete Optimization",
+            "course_desc": "A study of some fundamental techniques in discrete optimization. Topics include discrete optimization, linear programming, integer programming, integer nonlinear programming, dynamic programming, location problem, scheduling problem, transportation problem, postman problem, traveling salesman problem, matroids, and NP-completeness. Prerequisites: MATH 7321 and 7331.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7371E",
+            "course_name": "Algorithms and Complexity",
+            "course_desc": "A study of some fundamental concepts of computability and complexity. Topics include polynomially bounded problems, NP-complete problems, exponentially hard problems, undecidable problems, and reducibility. Prerequisite: MATH 7331.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7371F",
+            "course_name": "Probabilistic Methods in Discrete Mathematics",
+            "course_desc": "A study of some fundamental probabilistic techniques used to solve problems in graph theory, combinatorics, combinatorial number theory, combinatorial geometry, and algorithm. Topics include linearity of expectation, alterations, second moment, local lemma, correlation inequalities, martingales, Poisson\nparadigm, and pseudo-randomness. Prerequisites: MATH 7321 and 7331.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7371G",
+            "course_name": "Applied Discrete Mathematics",
+            "course_desc": "This course introduces fundamental concepts in logic, Boolean algebra, and binomial coefficients; and applications in different fields such as complexity of algorithms and network theory. Prerequisites: MATH 2472 and MATH 4307, all with a grade of C or better, or with departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7371H",
+            "course_name": "Combinatorial Networks",
+            "course_desc": "Combinatorial Networks is an area of study of certain types of networks using combinatorial methods extensively. This course introduces fundamental basics as well as the latest development in this area of research. Prerequisite: MATH 5307/7307 with a grade of \"C\" or higher.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7373B",
+            "course_name": "Partial Differential Equations I",
+            "course_desc": "This course covers the theory and application of partial deferential equations, typical equations of mathematical physics, Cauchy problem for equations of the first order, classification of second-order equations, Cauchy problem for second-order hyperbolic equations, Duhamel's principle, potential theory and elliptic equations, maximum principle, and parabolic equations.  Prerequisite: MATH 3323, 3373 and 3380 with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7373C",
+            "course_name": "Partial Differential Equations II",
+            "course_desc": "This course covers the existence and uniqueness theory for boundary value problems of partial differential equations (PDE) including the topics linear evolution equations, variational techniques, non-variational techniques, Hamilton-Jacobi equations, conservation laws. Prerequisite: MATH 7373B with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7373G",
+            "course_name": "Spectral Methods",
+            "course_desc": "This course covers the essentials of spectral collocation methods with an emphasis on numerically implementing algorithms.  The problems studied will include ordinary and partial differential equations connected with fluid mechanics, quantum mechanics, waves, and other fields.  The techniques used will include both Fourier and Chebychev methods. Prerequisite: MATH 7363E with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7375C",
+            "course_name": "Time Series Analysis",
+            "course_desc": "A study of the theory of time-dependent data. The analysis includes modeling, estimation, and testing; alternating between the time domain; using autoregressive and moving average models and the frequency domain; and using spectral analysis. Prerequisite: MATH 7335.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7375D",
+            "course_name": "Advanced linear Modeling",
+            "course_desc": "The course provides an extension of regression methodology to more general settings where standard assumptions for ordinary least squares are violated. Topics include generalized least squares, robust regression, bootstrap, regression in the presence of autocorrelated errors, generalized linear models, and logistic and Poisson regression. Prerequisite: MATH 7335.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7375E",
+            "course_name": "Computational Statistics",
+            "course_desc": "This course focuses on commonly used sampling and optimization algorithms in statistics. Topics include accept-reject method, importance sampling, Markov Chain Monte Carlo algorithms, Fisher scoring algorithm, expectation-maximization algorithm, and minorization-maximization algorithm. Prerequisite: MATH 5305 or equivalent with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7375F",
+            "course_name": "Multivariate Data Analysis",
+            "course_desc": "This course focuses on statistical methodologies based on multivariate analysis. Topics include multivariate normal distribution, tests of hypothesis on means, multivariate analysis of variance, discriminant analysis, principal component analysis, factor analysis and canonical correlation analysis.  Prerequisite: MATH 5305 and (MATH 3376 or MATH 3377) with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7375G",
+            "course_name": "Bayesian Methods",
+            "course_desc": "This course focuses on Bayesian statistical analysis and associated theories. Topics include one-parameter and multi-parameter Bayesian models, choices of priors, formulation of regression models in the Bayesian framework, and related data analysis.  Prerequisite: MATH 5305 or equivalent with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7375I",
+            "course_name": "Advanced Statistical Learning",
+            "course_desc": "This course covers the theoretical foundations in statistical learning and deep learning. Topics include the framework of empirical risk minimization, metric entropy, Vapnik-Chervonenkis dimension, Rademacher and Gaussian complexity, symmetrization and chaining techniques, contraction principle, uniform law of large numbers, sample complexity, and neural networks. Prerequisite: MATH 7337 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7378A",
+            "course_name": "Problem Solving, Reasoning, and Proof",
+            "course_desc": "A study of the fundamental concepts of problem solving, logic, set theory, and mathematical proof and applications of these concepts in mathematics curriculum for grades P-20. Prerequisite: MATH 7306.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7378B",
+            "course_name": "Connecting and Communicating Math",
+            "course_desc": "This course examines one of the basic principles involved in mathematics education: Connecting and Communicating Mathematics. This fundamental theme will be reviewed, researched, and discussed. Prerequisite: MATH 7306.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7378C",
+            "course_name": "Representing Fundamental Math Ideas (Function, Data Analysis, and Enumeration)",
+            "course_desc": "This course examines the basic principles involved in mathematics education.\nThe process of representing fundamental mathematical ideas will be reviewed, researched, and discussed. Prerequisite: MATH 7306.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7378D",
+            "course_name": "Math Technologies",
+            "course_desc": "This course examines the basic principles involved in mathematics education: Technology. This fundamental theme will be reviewed, researched, and discussed. Prerequisite: MATH 7306.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7378E",
+            "course_name": "Developmental Mathematics Perspectives",
+            "course_desc": "This course examines developmental mathematics-specific strands including technological course support and placement tools/decisions. Issues related to the first mathematics core course required of undergraduates will aslo be addressed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7378F",
+            "course_name": "Research on Mathematical Problem Solving in Secondary Schools",
+            "course_desc": "In this course a careful study is made of elementary techniques for problem solving in a variety of domains, including algebra, number theory, combinatorics, geometry, and logic puzzles. Students will learn these techniques by actually working on a collection of problems in each of these areas. Students will read and examine research about various aspects of problem solving and research in math education that includes both teacher training and student learning.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7378G",
+            "course_name": "Discourse Processes, Traditions, and Analysis in Mathematics Education",
+            "course_desc": "Discourse and discourse analysis have been used to answer research questions across disciplines throughout the humanities and social sciences. This course will focus on theory and methods for the analysis of discourse in mathematical settings. We will learn how different approaches to discourse are used to understand mathematics learning.  Prerequisite: MATH 7306.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7378H",
+            "course_name": "Equity in Mathematics Education",
+            "course_desc": "Equity in Mathematics Education is a course examining research on equity issues in mathematics education. These equity issues will range from race, culture, class, and gender as they relate to the teaching, learning, and schooling of mathematics education. We will look at how equity is framed within the field of mathematics education, what has been addressed, and what has not been conceptualized. The course will help students understand the literature in the field, critique the extant research literature, design research, and consider important facets of teaching for various student groups. Prerequisite: MATH 7306 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7385",
+            "course_name": "Independent Study in Mathematics",
+            "course_desc": "Student will work directly with a faculty member and develop in-depth knowledge in a specific topic area of mathematics. Topics vary according to students needs and demands. Repeatable with different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7386",
+            "course_name": "Independent Study in Mathematics Education",
+            "course_desc": "Student will work directly with a faculty member and develop in-depth knowledge in a specific topic area of Mathematics Education. Topics vary according to student's needs and demands. Repeatable with different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7387",
+            "course_name": "Consulting",
+            "course_desc": "This course focuses on developing skills in the collaborative practice of mathematics and statistics. This will be done through class discussion, readings, and different projects. Students will learn how to apply mathematics or statistics to solve real-world problems through case studies and collaborative projects. They will also learn how to apply ethical considerations to their professional practice. Taking this course will allow students to gain skills in problem solving and providing consulting services.  Prerequisite: MATH 5305 or equivalent with a grade of a \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 7389",
+            "course_name": "Internship",
+            "course_desc": "In this course, students will work under the supervision of a faculty member to gain practical knowledge in their field. Student experience can come from industry, government agencies, or other sources but must directly apply to furthering knowledge of applications of mathematics or mathematics education.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MATH 7396",
+            "course_name": "Mathematics Education Research Seminar",
+            "course_desc": "Collaborative research projects with faculty through identifying an educational issue, reviewing literature, creating a research question, designing a methodology, analyzing data, drawing conclusions, implications, and creating a draft of a publishable paper.  Prerequisite:  MATH 7356, and ED 7352 or MATH 7346, all with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 7399A",
+            "course_name": "Dissertation",
+            "course_desc": "This course represents a Mathematics or  Mathematics Education student's dissertation enrollments. The course can be repeated as necessary. The dissertation credit (18 hours) will not be awarded until the dissertation is submitted for binding. Prerequisite: completion of the core and required concentration courses, or approval of student's dissertation advisor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 7599A",
+            "course_name": "Dissertation",
+            "course_desc": "This course represents a Mathematics Education student's dissertation enrollments. The course can be repeated as necessary. The dissertation credit (18 hours) will not be awarded until the dissertation is submitted for binding.\nPrerequisite: completion of the core and required concentration courses, or approval of student's dissertation advisor.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 7699A",
+            "course_name": "Dissertation",
+            "course_desc": "This course represents a Mathematics Education student's dissertation enrollments. The course can be repeated as necessary. The dissertation credit (18 hours) will not be awarded until the dissertation is submitted for binding.\nPrerequisite: completion of the core and required concentration courses, or approval of student's dissertation advisor.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MATH 7999A",
+            "course_name": "Dissertation",
+            "course_desc": "This course represents a Mathematics Education student's dissertation enrollments. The course can be repeated as necessary. The dissertation credit (18 hours) will not be awarded until the dissertation is submitted for binding.\nPrerequisite: completion of the core and required concentration courses, or approval of student's dissertation advisor.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

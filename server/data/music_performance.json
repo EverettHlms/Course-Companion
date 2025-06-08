@@ -1,0 +1,1134 @@
+{
+    "name": "Music Performance",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/musp/",
+    "courses": [
+        {
+            "course_code": "MUSP 1120",
+            "course_name": "Applied Voice",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the vocal area. May be repeated for credit.  BA in music status is required as well as MU 1000, and the appropriate major ensemble must be taken concurrently. Corequisite: MU 1000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1121",
+            "course_name": "Vocal Techniques",
+            "course_desc": "Vocal Techniques. Vocal instruction focusing on technique, musicality and performance for the beginning singer. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1130",
+            "course_name": "Applied Keyboard",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the keyboard area. May be repeated for credit. BA in music status is required as well as MU 1000, and the appropriate major ensemble must be taken concurrently. Corequisite: MU 1000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1135",
+            "course_name": "Piano Techniques I",
+            "course_desc": "This is an introductory course to develop piano technique and musical style through sight-reading, scales, chords, harmonization, and improvisation.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1136",
+            "course_name": "Piano Techniques II",
+            "course_desc": "Beginning level course to develop piano technique and musical style through sight-reading, scales, chords, harmonization, and improvisation. Prerequisites: MUSP 1135 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1137",
+            "course_name": "Piano Techniques III",
+            "course_desc": "Intermediate level course to develop piano technique and musical style through sight-reading, scales, chords, harmonization and improvisation.  Prerequisite: MUSP 1136 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1138",
+            "course_name": "Piano Techniques IV",
+            "course_desc": "Advanced level course to develop piano technique and musical style through sight-reading, scales, chords, harmonization and improvisation. Prerequisite: MUSP 1137 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1140",
+            "course_name": "Applied Woodwind",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the woodwind area. May be repeated for credit. BA in music status is required as well as MU 1000, and the appropriate major ensemble must be taken concurrently. Corequisite: MU 1000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1150",
+            "course_name": "Applied Brass",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the brass area. May be repeated for credit. BA in music status is required as well as MU 1000, and the appropriate major ensemble must be taken concurrently. Corequisite: MU 1000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1160",
+            "course_name": "Applied String",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the string area. May be repeated for credit. BA in music status is required as well as MU 1000, and the appropriate major ensemble must be taken concurrently. Corequisite: MU 1000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1170",
+            "course_name": "Applied Percussion",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the percussion area. May be repeated for credit. Music major status is required as well as MU 1000, and the appropriate major ensemble must be taken concurrently. Corequisite: MU 1000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1180",
+            "course_name": "Introduction to Composition",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the composition area. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1220",
+            "course_name": "Applied Voice",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the vocal area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1230",
+            "course_name": "Applied Keyboard",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the keyboard area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1240",
+            "course_name": "Applied Woodwind",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the woodwind area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1250",
+            "course_name": "Applied Brass",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the brass area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1260",
+            "course_name": "Applied String",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the stringl area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1270",
+            "course_name": "Applied Percussion",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the percussion area. May be repeated for credit. Corequisite: MU 1000 with a grade of \"C\" or better; MUSE 3120, MUSE 3123, MUSE 3130, MUSE 3131, MUSE 3150, MUSE 3160, MUSE 3161, MUSE 3162; with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1280",
+            "course_name": "Applied Composition",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the composition area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 1325",
+            "course_name": "Class Piano for Non-Music Majors",
+            "course_desc": "This course explores aspects of music in the context of developing basic keyboard skills. In addition to developing technical proficiency at the piano, students learn the basics of music theory and aural skills, while exploring various genres of music, including classical and modern styles.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2120",
+            "course_name": "Applied Voice",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the vocal area. May be repeated for credit. BA in music status is required as well as MU 2000, and the appropriate major ensemble must be taken concurrently. Corequisite: MU 2000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2125",
+            "course_name": "Applied Voice for non-majors",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance for individual vocal development. May be repeated for credit. Permission from instructor required to enroll.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2130",
+            "course_name": "Applied Keyboard",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the keyboard area. May be repeated for credit. BA in music status is required as well as MU 2000, and the appropriate major ensemble must be taken concurrently. Corequisite: MU 2000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2135",
+            "course_name": "Applied Keyboard for non-majors",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance for individual keyboard development. May be repeated for credit. Permission from instructor required to enroll.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2140",
+            "course_name": "Applied Woodwind",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the woodwind area. May be repeated for credit. BA in music status is required as well as MU 2000, and the appropriate major ensemble must be taken concurrently. Corequisite: MU 2000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2145",
+            "course_name": "Applied Woodwind for non-majors",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance for individual woodwind development. May be repeated for credit. Permission from instructor required to enroll.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2150",
+            "course_name": "Applied Brass",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the brass area. May be repeated for credit. BA in music status is required as well as MU 2000, and the appropriate major ensemble must be taken concurrently. Corequisite: MU 2000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2155",
+            "course_name": "Applied Brass for non-majors",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance for individual brass development. May be repeated for credit. Permission from instructor required to enroll.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2160",
+            "course_name": "Applied String",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the string area. May be repeated for credit. BA in music status is required as well as MU 2000, and the appropriate major ensemble must be taken concurrently. Corequisite: MU 2000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2165",
+            "course_name": "Applied String for non-majors",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance for individual string development. May be repeated for credit. Permission from instructor required to enroll.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2170",
+            "course_name": "Applied Percussion",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the percussion area. This course may be repeated for credit. Music major status is required as well as MU 2000, and the appropriate major ensemble must be taken concurrently. Corequisite: MU 2000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2175",
+            "course_name": "Applied Percussion for non-majors",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance for individual percussion development. May be repeated for credit. Permission from instructor required to enroll.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2180",
+            "course_name": "Applied Composition",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the composition area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2185",
+            "course_name": "Applied Composition for non-majors",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance for individual composition development. May be repeated for credit. Permission from instructor required to enroll.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2191",
+            "course_name": "Electronic Music I",
+            "course_desc": "Theoretical and working knowledge of sound synthesis, MIDI, and computer-based composition emphasizing practical applications using available software and instruments. Major subject areas: hardware and software, virtual instruments, sampling & playback devices, timbre control, MIDI synchronization, sequencing, digital audio workstations, editing, mixing, notation, and composition. Full major in SRT required.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2192",
+            "course_name": "Electronic Music II",
+            "course_desc": "Continuation of the theoretical/working knowledge of sound synthesis, MIDI, and computer-based composition emphasizing practical applications using available software and instruments. Major subject areas: hardware & software, virtual instruments, sampling & playback devices, timbre control, MIDI synchronization, sequencing, digital audio workstations, editing, mixing, notation, and composition. Full major in SRT required. Prerequisite: MUSP 2191.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2220",
+            "course_name": "Applied Voice",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the vocal area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2225",
+            "course_name": "Applied Voice for non-majors",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance for individual vocal development. May be repeated for credit. Permission from instructor required to enroll.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2230",
+            "course_name": "Applied Keyboard",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the keyboard area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2235",
+            "course_name": "Applied Keyboard for non-majors",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance for individual keyboard development. May be repeated for credit. Permission from instructor required to enroll.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2240",
+            "course_name": "Applied Woodwind",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the woodwind area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2245",
+            "course_name": "Applied Woodwind for non-majors",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance for individual woodwind development. May be repeated for credit. Permission from instructor required to enroll.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2250",
+            "course_name": "Applied Brass",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the brass area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2255",
+            "course_name": "Applied Brass for non-majors",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance for individual brass development. May be repeated for credit. Permission from instructor required to enroll.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2260",
+            "course_name": "Applied String",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the string area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2265",
+            "course_name": "Applied String for non-majors",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance for individual string development. May be repeated for credit. Permission from instructor required to enroll.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2270",
+            "course_name": "Applied Percussion",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the percussion area. May be repeated for credit. Corequisite: MU 2000 with a grade of \"C\" or better; MUSE 3120, MUSE 3123, MUSE 3130, MUSE 3131, MUSE 3150, MUSE 3160, MUSE 3161, MUSE 3162 or equivalent; with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2280",
+            "course_name": "Applied Composition",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the composition area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 2285",
+            "course_name": "Applied Composition for non-majors",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance for individual composition development. May be repeated for credit.  Permission from instructor required to enroll.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3120",
+            "course_name": "Applied Voice",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the vocal area. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3130",
+            "course_name": "Applied Keyboard",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the keyboard area. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3131",
+            "course_name": "Jazz Piano Techniques I",
+            "course_desc": "Beginning piano techniques, introducing scales and chords used in the jazz idiom. (MULT) Prerequisite: MUSP 1136 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3132",
+            "course_name": "Jazz Piano Techniques II",
+            "course_desc": "Continuing study of piano technique in the jazz idiom and application of skills through performance and arranging. (MULT) Prerequisites: MUSP 3131 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3140",
+            "course_name": "Applied Woodwind",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the woodwind area. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3145",
+            "course_name": "Woodwind Techniques I",
+            "course_desc": "Basic teaching and performance techniques of the clarinet and saxophone. Requires successful completion of the Upper Level Competency Review in Music Studies or permission from the instructor to enroll.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3147",
+            "course_name": "Woodwind Techniques II",
+            "course_desc": "Basic teaching and performance techniques of the flute and double reeds.  Requires successful completion of the Upper Level Competency Review in Music Studies or permission from the instructor to enroll.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3150",
+            "course_name": "Applied Brass",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the brass area. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3155",
+            "course_name": "Brass Techniques I",
+            "course_desc": "Basic teaching and performance techniques of the high brass instruments.  Requires successful completion of the Upper Level Competency Review in Music Studies or permission from the instructor to enroll.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Perspective",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3157",
+            "course_name": "Brass Techniques II",
+            "course_desc": "Continuation of the basic teaching and performance techniques of the low brass instruments. Requires successful completion of the Upper Level Competency Review in Music Studies or permission from the instructor to enroll.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Perspective",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3160",
+            "course_name": "Applied String",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the string area. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3165",
+            "course_name": "String Techniques",
+            "course_desc": "Basic teaching and performance techniques of the violin, viola, cello and double bass. Full major in Music Studies required.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3166",
+            "course_name": "String Techniques Practicum",
+            "course_desc": "In this course students will apply string pedagogy through various teaching activities.   Corequisite: MUSP 3165 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3170",
+            "course_name": "Applied Percussion",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the percussion area. May be repeated for credit. Music major status required as well as MU 3000 and the appropriate major ensemble must be taken concurrently. Corequisite: MU 3000.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3175",
+            "course_name": "Percussion Techniques",
+            "course_desc": "Basic teaching and performance techniques of marching and concert percussion. Full major in Music Studies required.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3180",
+            "course_name": "Applied Composition",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the composition area. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3191",
+            "course_name": "Electronic Music III",
+            "course_desc": "Further exploration into the theoretical and working knowledge of sound synthesis, MIDI, and computer-based composition emphasizing practical applications using available software and instruments. Major subject areas: hardware and software, virtual instruments, sampling & playback devices, timbre control, MIDI synchronization, sequencing, digital audio workstations, editing, mixing, notation, and composition. Prerequisite: MUSP 2192 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3192",
+            "course_name": "Electronic Music IV",
+            "course_desc": "Final studies in the theoretical and working knowledge of sound synthesis, MIDI, and computer-based composition emphasizing practical applications using available software and instruments. Major subject areas: hardware and software, virtual instruments, sampling & playback devices, timbre control, MIDI synchronization, sequencing, digital audio workstations, editing, mixing, notation, and composition. Prerequisites: MUSP 3191 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3195",
+            "course_name": "Instrumental Techniques for Choral Students",
+            "course_desc": "This course introduces basic teaching and performance techniques of band and orchestral instruments, instrumental ensembles and instrumental music programs for music students who consider instrumental music a secondary skill area. Full major in Music Studies, vocal concentration required.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3196",
+            "course_name": "Jazz and Latin Ensemble Techniques",
+            "course_desc": "This course explores the basic teaching and performance techniques of instrumentation, arranging and pedagogy in the areas of jazz and multicultural ensembles. Full major in Music Studies, instrumental concentrations. (MULT).",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Lab Required|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3197",
+            "course_name": "Choral/Vocal Techniques",
+            "course_desc": "This course will prepare instrumental music studies students with knowledge of and practice in basic vocal/choral techniques along with guidance in the choosing of appropriate choral literature in order that they may be successful in developing, directing, and maintaining choral programs in elementary-secondary schools. Full major in Music Studies required.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3220",
+            "course_name": "Applied Voice",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3230",
+            "course_name": "Applied Keyboard",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the keyboard area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3240",
+            "course_name": "Applied Woodwind",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the woodwind area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3241",
+            "course_name": "Woodwind Techniques - Single Reeds",
+            "course_desc": "In this course students will develop specific skills and knowledge for successful performance and instruction. Basic techniques of playing and teaching clarinet and saxophone, such as instrument assembly, embouchure, playing position, articulation, and arranging/orchestrating for single reeds, will be presented.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3247",
+            "course_name": "Woodwind Techniques - Flute and Double Reeds",
+            "course_desc": "In this course students will develop specific skills and knowledge for successful performance and instruction. Basic techniques of playing and teaching flute, oboe, and bassoon, such as instrument assembly, embouchure, playing position, and articulation; orchestrating for flute and double reeds; and arranging, will be presented.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3250",
+            "course_name": "Applied Brass",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the brass area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3251",
+            "course_name": "Brass Techniques - High Brass",
+            "course_desc": "This course will aid students in developing specific skills and understandings necessary for successful instrumental music teaching including: teaching, playing, and orchestrating/arranging for high brass instruments; lesson planning; and professional practice.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3255",
+            "course_name": "Wind Instrumental Techniques for String Students",
+            "course_desc": "This course is designed to introduce basic teaching and performance techniques of the major wind instruments, with a focus on instructing full orchestra.  Students will observe, practice, and teach wind instruments in various settings. Full major in Music Studies, string concentration and Upper-Level review completion required. Prerequisite: MUSP 3165; MUSP 3265; with grades of \"C\" or higher.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3257",
+            "course_name": "Brass Techniques - Low Brass",
+            "course_desc": "This course will aid students in developing specific skills and understandings necessary for successful instrumental music teaching including: teaching, playing, and orchestrating/arranging for low brass instruments; lesson planning; and professional practice.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3260",
+            "course_name": "Applied String",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the string area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3261",
+            "course_name": "Mariachi Trumpet Techniques",
+            "course_desc": "This course addresses playing and teaching the trumpet within the Mariachi Ensemble. Topics cover history, tuning, stylistic playing techniques, and contemporary teaching methods.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3262",
+            "course_name": "Mariachi Violin Techniques",
+            "course_desc": "This course addresses playing and teaching the violin within the Mariachi Ensemble. Topics cover history, tuning, stylistic playing techniques, and contemporary teaching methods.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3263",
+            "course_name": "Mariachi Vihuela Techniques",
+            "course_desc": "This course addresses playing and teaching the vihuela within the Mariachi Ensemble. Topics cover history, tuning, stylistic playing techniques, and contemporary teaching methods.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3264",
+            "course_name": "Mariachi Guitarron Techniques",
+            "course_desc": "This course addresses playing and teaching the Guitarron within the Mariachi Ensemble. Topics cover history, tuning, stylistic playing techniques, and contemporary teaching methods.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3265",
+            "course_name": "String Techniques II",
+            "course_desc": "This course is designed to review beginning-level techniques and to introduce intermediate and advanced-level techniques related to string teaching and playing. Techniques and concepts will be explored through historical perspectives, pedagogical approaches, performance (on primary and secondary instruments), observations of teaching, and teaching experiences.  Prerequisite: MUSP 3165 with a grade of \"C\" or better.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3266",
+            "course_name": "Mariachi Voice Techniques",
+            "course_desc": "This course addresses singing and teaching within the Mariachi Ensemble. Topics cover history, tuning, range, stylistic singing techniques, contemporary teaching methods, and the foundations of vocal pedagogy.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3270",
+            "course_name": "Applied Percussion",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the percussion area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3275",
+            "course_name": "Percussion Techniques",
+            "course_desc": "In this course students will acquire skills and the basic techniques required for performance in the areas of drums, keyboard, timpani, marching percussion, accessory instruments, and drum set. Particular attention will be given to teaching materials and suggested pedagogical approaches for each area.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3280",
+            "course_name": "Applied Composition",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the composition area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3355",
+            "course_name": "Wind Instrumental Techniques for String Students",
+            "course_desc": "In this course students will explore basic teaching and performance techniques of the major wind instruments, with a focus on instructing full orchestra.  Students observe, practice, and teach wind instruments in various settings.  Prerequisite: MUSP 3165 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 3365",
+            "course_name": "String Techniques II",
+            "course_desc": "This course is designed to review beginning-level techniques and to introduce intermediate and advanced-level techniques related to string teaching and playing. Techniques and concepts will be explored through historical perspectives, pedagogical approaches, performance (on primary and secondary instruments), observations of teaching, orchestration/arranging for strings, and teaching experiences. Prerequisite: MUSP 3165 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4120",
+            "course_name": "Applied Voice",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature and performance in the vocal area.  May be repeated for credit.  Prerequisite:  Music major status or consent of instructor.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4130",
+            "course_name": "Applied Keyboard",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the keyboard area. Co-requisite: MUSP 4230.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4140",
+            "course_name": "Applied Woodwind",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the woodwind area. Co-requisite: MUSP 4240 with a grade of \"D\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4160",
+            "course_name": "Applied String",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the string area. Co-requisite: MUSP 4260.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4164",
+            "course_name": "Mariachi Melodia Techniques",
+            "course_desc": "This course provides students with the fundamentals of playing and teaching the melodic instruments associated with the Mariachi ensemble, with specific emphasis on the voice, violin, and trumpet.  Topics will cover history, tuning, and stylistic techniques associated with each instrument.  This course is repeatable for credit three times. (MULT).",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4165",
+            "course_name": "Mariachi Armonia Techniques",
+            "course_desc": "This course provides students with the fundamentals of playing and teaching the rhythm/harmony instruments in the Mariachi ensemble, with specific emphasis in the guitarron, vihuela/guitar, and the harp. Topics will cover history, tuning, strumming, and stylistic techniques specific to each instrument. This course is repeatable for credit three times. (MULT).",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4170",
+            "course_name": "Applied Percussion",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the percussion area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4180",
+            "course_name": "Applied Composition",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the composition area.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4220",
+            "course_name": "Applied Voice",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the vocal area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4230",
+            "course_name": "Applied Keyboard",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the keyboard area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4240",
+            "course_name": "Applied Woodwind",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the woodwind area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4250",
+            "course_name": "Applied Brass",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the brass area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4260",
+            "course_name": "Applied String",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the string area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4270",
+            "course_name": "Applied Percussion",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the percussion area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4280",
+            "course_name": "Applied Composition",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the composition area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 4350",
+            "course_name": "Applied Brass",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the brass area. May be repeated for credit. Prerequisite: Music major status or permission from instructor. Corequisites: Departmental Recital and appropriate major ensemble; Departmental Recital must be taken at the same level as lessons.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5100",
+            "course_name": "Mariachi Lince de Oro",
+            "course_desc": "This course provides learning opportunities for students interested in an introduction to the mariachi genre. Traditional mariachi repertoire is distributed, rehearsed, memorized, and performed.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5101",
+            "course_name": "Graduate Recital",
+            "course_desc": "A full-length, public recital in the appropriate applied music area. Should be taken simultaneously with a final semester of applied music instruction by those students in performance degree plans.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5120",
+            "course_name": "Applied Voice",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the vocal area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5127",
+            "course_name": "Applied Conducting",
+            "course_desc": "Through supervised private coaching, instruction focuses on baton technique, musicality, score reading, literature and performance in the conducting area, and\nrehearsal preparation with special emphasis on analysis and musical styles. May be repeated for additional credit. Prerequisite: Conducting Major or consent of the instructor.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5130",
+            "course_name": "Applied Keyboard",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the keyboard area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5140",
+            "course_name": "Applied Woodwind",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the woodwind area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5150",
+            "course_name": "Applied Brass",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the brass area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5160",
+            "course_name": "Applied String",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the string area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5164",
+            "course_name": "Mariachi Melodia Techniques",
+            "course_desc": "This course provides students with the fundamentals of playing and teaching the melodic instruments associated with the Mariachi ensemble, with specific emphasis on the voice, violin, and trumpet.  Topics will cover history, tuning, and stylistic techniques associated with each instrument.  This course is repeatable for credit three times. (MULT).",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5165",
+            "course_name": "Mariachi Armonia Techniques",
+            "course_desc": "This course provides students with the fundamentals of playing and teaching the rhythm/harmony instruments in the Mariachi ensemble, with specific emphasis in the guitarron, vihuela/guitar, and the harp. Topics will cover history, tuning, strumming, and stylistic techniques specific to each instrument. This course is repeatable for credit three times. (MULT).",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5166",
+            "course_name": "Latin Music Methods",
+            "course_desc": "This course provides students with knowledge that is essential to become effective directors of Mariachi and Salsa ensembles. Instruments, styles, repertory, and resources that are related to these ensembles will be discussed. (MULT).",
+            "course_credits": "\n1 Credit Hour \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5170",
+            "course_name": "Applied Percussion",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the percussion area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5175",
+            "course_name": "Afro-Cuban Hand Drumming",
+            "course_desc": "The fundamentals of playing and teaching Afro- Cuban Drums. Topics will cover history and knowledge of styles of the various Afro-Cuban percussion instruments. (MULT).",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5180",
+            "course_name": "Applied Composition",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the composition area. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5185",
+            "course_name": "Electronic Music Composition",
+            "course_desc": "Introduction to recording and tape manipulation techniques of music concrete, electro-acoustical music techniques involving digital and analog synthesizers, and the MIDI environment. May be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5220",
+            "course_name": "Applied Voice",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the vocal area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5227",
+            "course_name": "Applied Conducting",
+            "course_desc": "Through supervised private coaching, instruction focuses on baton technique, musicality, score reading, literature and performance in the conducting area, and\nrehearsal preparation with special emphasis on analysis and musical styles. May be repeated for additional credit. Prerequisite: Conducting Major or consent of the instructor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5230",
+            "course_name": "Applied Keyboard",
+            "course_desc": "In this course students will participate in supervised private coaching and instruction that focuses on technique, musicality, literature, and performance in the keyboard area. Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5240",
+            "course_name": "Applied Woodwind",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the woodwind area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5250",
+            "course_name": "Applied Brass",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the brass area. May be repeated for credit. Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5260",
+            "course_name": "Applied String",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the string area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5270",
+            "course_name": "Applied Percussion",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the percussion area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5280",
+            "course_name": "Applied Composition",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the composition area. May be repeated for credit.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5285",
+            "course_name": "Electronic Music Composition",
+            "course_desc": "Introduction to recording and tape manipulation techniques of music concrete, electro-acoustical music techniques involving digital and analog synthesizers, and the MIDI environment. May be repeated for credit.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5320",
+            "course_name": "Applied Voice",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the vocal area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5327",
+            "course_name": "Applied Conducting",
+            "course_desc": "Through supervised private coaching, instruction focuses on baton technique, musicality, score reading, literature and performance in the conducting area, and\nrehearsal preparation with special emphasis on analysis and musical styles. May be repeated for additional credit. Prerequisite: Conducting Major or consent of the instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5330",
+            "course_name": "Applied Keyboard",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the keyboard area. May be repeated for credit. Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5337",
+            "course_name": "Advanced Conducting",
+            "course_desc": "Music performance class designed for further development of baton technique, score reading, and rehearsal preparation with special emphasis on analysis and musical styles. May be repeated once with different emphasis for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5340",
+            "course_name": "Applied Woodwind",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the woodwind area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5350",
+            "course_name": "Applied Brass",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the brass area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5360",
+            "course_name": "Applied String",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the string area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5370",
+            "course_name": "Applied Percussion",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the percussion area. May be repeated for credit.  Prerequisite: Music major status or consent of instructor.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5380",
+            "course_name": "Applied Composition",
+            "course_desc": "Through supervised private coaching, instruction focuses on technique, musicality, literature, and performance in the composition area. May be repeated for credit.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MUSP 5385",
+            "course_name": "Electronic Music Composition",
+            "course_desc": "Introduction to recording and tape manipulation techniques of music concrete, electro-acoustical music techniques involving digital and analog synthesizers, and the MIDI environment. May be repeated for credit.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

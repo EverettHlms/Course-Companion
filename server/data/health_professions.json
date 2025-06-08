@@ -1,0 +1,22 @@
+{
+    "name": "Health Professions",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/hp/",
+    "courses": [
+        {
+            "course_code": "HP 3302",
+            "course_name": "Biostatistics",
+            "course_desc": "The course introduces major statistical concepts and procedures as applied to clinical science students with an emphasis on inferential statistics. Topics include: descriptive statistics, hypothesis testing, comparison statistics, relationship statistics, association statistics, and beginning epidemiological ratios. Students are introduced to major statistical packages. Prerequisite: MATH 1315 or MATH 1319 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HP 3325",
+            "course_name": "Healthcare Statistics",
+            "course_desc": "The course introduces major statistical concepts and procedures as applied to healthcare administration students with an emphasis on descriptive statistics. Topics include: healthcare statistical terminology, descriptive statistics, hypothesis testing, comparison statistics, relationship statistics, and association statistics. Prerequisite: MATH 1315 or MATH 1319 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

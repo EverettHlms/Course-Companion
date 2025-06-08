@@ -1,0 +1,238 @@
+{
+    "name": "French",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/fr/",
+    "courses": [
+        {
+            "course_code": "FR 1410",
+            "course_name": "Beginning French I",
+            "course_desc": "Introduction to listening, speaking, reading, and writing skills within a French cultural framework. Students who take FR 1410 toward degree requirements must also complete FR 1420. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 1420",
+            "course_name": "Beginning French II",
+            "course_desc": "Continued practice in listening, speaking, reading, and writing skills within a French cultural framework. Students who take FR 1410 toward degree requirements must also complete FR 1420. (MULT) Prerequisite: FR 1410 with a grade of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 1421",
+            "course_name": "Beginning French for Speakers of Spanish",
+            "course_desc": "This course introduces speakers of Spanish to listening, speaking, reading, and writing skills within a French-speaking cultural framework. Students apply their knowledge of Spanish to communicate more effectively in French. Students may not apply credit to their degree plans for both FR 1420 and FR 1421.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 2310",
+            "course_name": "Intermediate French I",
+            "course_desc": "Students will continue to develop and review all language skills within a French and Francophone cultural framework. (MULT)  Prerequisite: FR 1420 or FR 1421 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 2311",
+            "course_name": "Intermediate French for Speakers of Spanish I",
+            "course_desc": "This course facilities Spanish speakers to continue to develop and review all language skills within a French-speaking cultural framework. Spanish speakers will apply their knowledge of Spanish to communicate more effectively in French. Students may not apply credit to their degree plans for both FR 2310 and FR 2311.  Prerequisite: FR 1420 or FR 1421 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 2320",
+            "course_name": "Intermediate French II",
+            "course_desc": "Students will practice more advanced language skills with greater emphasis on reading within a French cultural framework. (MULT) Prerequisite: FR 2310 or FR 2311 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 2321",
+            "course_name": "Intermediate French for Speakers of Spanish II",
+            "course_desc": "This course exposes students to the practice of more advanced language skills with greater emphasis on reading within a French-speaking cultural framework. Spanish speakers will apply their knowledge of Spanish to communicate more effectively in French. Prerequisite: FR 2310 or FR 2311 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 3303",
+            "course_name": "French Composition and Conversation",
+            "course_desc": "This course introduces students to extended writing and conversation in French. Students will examine contemporary French and Francophone life from a variety of focuses: social, cultural, and professional. This course will prepare students for taking other advanced literature, cultural, and business courses in French.(MULT) Prerequisite: FR 2320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 3305",
+            "course_name": "Acting French",
+            "course_desc": "An introduction to upper division courses in French designed to strengthen reading skills and oral command of the language through the study and performance of short French plays from the classical to the contemporary period. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 3306",
+            "course_name": "Masterpieces of French Literature",
+            "course_desc": "Masterpieces of French literature in various genres from different periods with emphasis on the modern period. Repeatable for credit with different emphasis. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 3308",
+            "course_name": "French Translation I",
+            "course_desc": "This course introduces students to translation from French to English. Students identify key translation techniques, interpret and discuss French texts, and propose translations for them. They compare, analyze and evaluate translations and revise their own work based on suggestions. This course prepares students for a course in specialized translation. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 3310",
+            "course_name": "French Pronunciation and Intonation",
+            "course_desc": "Study and intensive practice of problems in French pronunciation and intonation. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 3341",
+            "course_name": "Advanced Grammar in French",
+            "course_desc": "A study of more advanced grammatical, syntactical, and stylistic problems in mastering the French language with the aim of strengthening students' command of the structure of French and developing skills for more effective writing. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 3350",
+            "course_name": "History of French Cinema I, 1895-1960",
+            "course_desc": "This course introduces students to the history of French Cinema from the medium's origins in 1895 to the late 1950s. Students will learn about major developments in film narrative and technology in France from the silent to the classic eras. May be repeated for credit when topic varies. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 3351",
+            "course_name": "Cinema of the French-Speaking World, 1960-present",
+            "course_desc": "This course introduces students to the history of cinema of the French-speaking world from the late 1950s to the present. May be repeated for credit when topic varies. (MULT)(WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 3381",
+            "course_name": "Business French I",
+            "course_desc": "A course designed for students interested in business related careers. The course will help students to become familiar with basic French business language and the specifics of Francophone business cultures. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 4304B",
+            "course_name": "French Genre Fiction",
+            "course_desc": "This course focuses on the study of specific fictional works associated with a particular genre (e.g., crime fiction, the fantastic, and science-fiction) and the authors who are exemplars of that narrative category. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 4304C",
+            "course_name": "Francophone Literature, Cinema, and Culture",
+            "course_desc": "This course introduces students to the richness and diversity of the Francophone world through the study of its literature, film, and art.  Prerequisite: FR 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 4304D",
+            "course_name": "Iconic Figures of the French-Speaking World",
+            "course_desc": "This course introduces students to major historical periods and/or cultural movements through the examination of an iconic figure-actual or allegorical-that served as a catalyst of events and cultural productions in the French-speaking world. The course may be repeated for credit when topic varies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 4307",
+            "course_name": "Study of French Language",
+            "course_desc": "This course introduces students to the scientific study of the French language through discussion of readings with examples in both English and French.(MULT)  Prerequisite: FR 3310 or FR 3341 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 4308",
+            "course_name": "French Translation II",
+            "course_desc": "This course provides a theoretical framework for the advanced study of translation and an introduction to specific fields such as legal, business, financial, technical and medical translation as well as localization. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 4330A",
+            "course_name": "History of French Media",
+            "course_desc": "This course introduces students to a survey of the history of the French press from the early modern to the post-World War II period. Topics include the roles of ideology and collective memory, of illustration and caricature, of propaganda and censorship, and of the development of the French intellectual figure. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 4330B",
+            "course_name": "Contemporary Issues in French Media",
+            "course_desc": "This course focuses on contemporary French media  printed, broadcast, and online  from the postwar period to the present. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 4341",
+            "course_name": "French Composition and Stylistics",
+            "course_desc": "Students will incorporate their more advanced grammatical and syntactical skills with the study of style in the writing of compositions in French. Writing exercises will explore a variety of expository techniques from description, narration, dialogue, portraits, to the writing of letters. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 4350A",
+            "course_name": "French Poetic Realist Cinema",
+            "course_desc": "This course will study the films and directors associated with Poetic Realism, the film style of the 1930s in France and an important precursor to Italian Neorealism.(MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 4350C",
+            "course_name": "French Directors Series",
+            "course_desc": "This course offers students an in-depth examination of the films, themes, and styles associated with specific contemporary or classic French directors. Taught in English. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 4370",
+            "course_name": "Cultures of the French-Speaking World",
+            "course_desc": "This course is a survey of the cultural institutions of France or the French-speaking world. Repeatable for credit with different emphasis. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 4380",
+            "course_name": "Service-Learning in French",
+            "course_desc": "This course is a supervised work (business or educational) or volunteer (refugee shelter) experience in a French-speaking environment. Students work a minimum of 75 hours, performing duties at least 80% in French. Prerequisite: FR 2320 with a grade of D or better AND department approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "FR 4390",
+            "course_name": "Studies in French Culture, Language, or Literature",
+            "course_desc": "A course designed to offer students an opportunity to pursue independent studies in special areas of interest beyond those of other catalog courses. The course is generally available only to graduating seniors who have completed at least two advanced courses or graduate students with special needs. May be repeated once for additional credit. (MULT) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

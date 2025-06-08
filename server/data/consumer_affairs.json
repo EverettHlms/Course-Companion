@@ -1,0 +1,102 @@
+{
+    "name": "Consumer Affairs",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ca/",
+    "courses": [
+        {
+            "course_code": "CA 1341",
+            "course_name": "Consumers in the Marketplace",
+            "course_desc": "This course is an introduction to consumerism.  Topics covered include: the consumer's role in the economy; consumer responses to the pressures of the economy (credit, inflation, and savings); and an analysis of the largest consumer expenditures (housing, food, and transportation).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CA 1347",
+            "course_name": "Family and Personal Resource Management",
+            "course_desc": "This course focuses on the analysis of family and personal management processes including resource identification and factors that impact management and decision making (i.e., public policy and career implications).  Contemporary issues in the field are covered.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CA 2341",
+            "course_name": "Digital Applications in Consumer Finance",
+            "course_desc": "This course focuses on the technology applications that are used to analyze consumer's financial situation, needs, and goals. Topics include constructing personal financial statements; cash flow; time value of money related to education, retirement, life insurance; and amortization. Students will use calculators, Microsoft Excel, and personal financial planning software.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CA 2351",
+            "course_name": "Behavioral and Personal Financial Management",
+            "course_desc": "This course provides an investigation of behavioral finance as it impacts the individual, families, U.S. economic system, and ultimately society. Cognitive and social factors that impact the financial decision making of individuals are examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Soc & Behav Sciences Core 080",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CA 3341",
+            "course_name": "Personal and Family Finance Goals and Strategies",
+            "course_desc": "In this course students will examine personal/family financial management during different stages of the family life cycle.  Topics include budgeting/recordkeeping to achieve economic goals, the role of credit and the need for financial counseling; economic risks and available protection; and alternative forms of saving and investments.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CA 3342",
+            "course_name": "Consumer Law",
+            "course_desc": "This course explores the relationship between consumer laws (federal and state) and policy.  Topics include consumer protection legislation which defines the consumer's rights/responsibilities and the appropriate avenues of redress on the part of the consumer.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CA 3351",
+            "course_name": "Consumer Financial Management I",
+            "course_desc": "Principles and practices of individual and family financial management relating to insurance needs and selection, investment strategies to realize financial goals and income tax planning to improve financial well-being will be addressed. Technical skills required of financial couselors, planners and human resource management are emphasized. Prerequisite: CA 1341 or CA 2351 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CA 3352",
+            "course_name": "Consumer Financial Management II",
+            "course_desc": "Principles and practices of individual and family financial management relating to retirement and estate planning to improve financial well-being will be presented. Technical skills required of financial counselors, planners and human resource management will be emphasized. Prerequisite: CA 1341 or CA 2351 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CA 4301",
+            "course_name": "Internship in Consumer Affairs",
+            "course_desc": "This course is an Internship program in Consumer Affairs related professions, services, business, or industry. Must meet college, department and program requirements.  Repeatable for credit with different emphasis. (Capstone Course) (WI) Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CA 4341",
+            "course_name": "Personal and Family Financial Counseling",
+            "course_desc": "This course is an in-depth study of the role of the financial counselor.  Topics covered will increase awareness and knowledge of the characteristics of persons with financial difficulties, complexity of factors affecting such situations, desireable relationships between the helper and helped, and an awareness of community resources. Prerequisite: [CA 1341 or CA 1347 or CA 2351 or CA 3341]  and [CA 3351 or CA 3352] all with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CA 4342",
+            "course_name": "Personal and Family Financial Counseling Practicum",
+            "course_desc": "This course focuses on applying financial counseling and consulting skills consistent with accepting financial counselor roles.  Content includes theoretical models of financial counseling. Prerequisite: CA 4341 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CA 4391",
+            "course_name": "Independent Study in Consumer Affairs",
+            "course_desc": "This course involves independent reading and/or research on a specific topic related to students' primary area of interest. Work may consist of research, reviews, and integration of existing literature, or other appropriate independent work.  Course may be repeated once for credit with approval of instructor.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

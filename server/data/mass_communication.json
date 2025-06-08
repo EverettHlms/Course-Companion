@@ -1,0 +1,1286 @@
+{
+    "name": "Mass Communication",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/mc/",
+    "courses": [
+        {
+            "course_code": "MC 1100S",
+            "course_name": "Interviewing for Storytelling",
+            "course_desc": "This course students cover source selection, interview preparation, interviewing techniques, and how to use material from the interview. Students will learn and practice interviewing skills over the course of the semester. They will also discuss what makes a successful interview.   Prerequisite: MC 1313 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 1301",
+            "course_name": "Introduction to Mass Communication",
+            "course_desc": "A survey of the mass media and other areas of mass communication designed to acquaint the student with the field of communication and what it offers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 1313",
+            "course_name": "Media Writing",
+            "course_desc": "This course is an introduction to the major forms of Media Writing: electronic media, journalism and digital. (WI).",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 2111",
+            "course_name": "Media Practicum",
+            "course_desc": "Students perform supervised media work of at least 60 hours for the semester. Credit requires prior written contract with a supervising faculty member.  May be repeated twice. Prerequisite: Minimum 2.0 Overall GPA and instructor approval.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MC 3100",
+            "course_name": "Grammar for Media Professionals",
+            "course_desc": "Students will refine their English grammar skills to a proficiency level needed to be successful communication professionals and media practitioners.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3111",
+            "course_name": "Drone Bootcamp",
+            "course_desc": "This course explores new tools and skills relevant to the digital age, particularly the usage of drones in reporting, videography and multimedia. This course introduces the concepts and practical usage of drone storytelling and prepares students to take the FAA Part 107 exam.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3112",
+            "course_name": "Social Media Analytics Platforms",
+            "course_desc": "This course prepares students for and assists them in achieving industry-recognized social media certifications.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3113",
+            "course_name": "3D Drone Modeling",
+            "course_desc": "This course explores new tools and skills relevant to the digital age. Students explores the growing field of photogrammetry and using drones to produce 3D models.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3114",
+            "course_name": "Career Exploration: Destination America",
+            "course_desc": "This career exploration course provides opportunities for students to visit and network with media professionals in the United States. It immerses students in a wide range of organizations. Meetings could include PR firms, ad agencies, governmental organizations, professional sports teams and museums.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3115",
+            "course_name": "Digital Media Tools and Skills",
+            "course_desc": "This course explores new tools and skills relevant to the digital age. Topics can include data visualization, spreadsheet usage, media-creation software, mobile reporting, drones and sensors in journalism and video editing.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3116",
+            "course_name": "Digital Media Innovation Concepts",
+            "course_desc": "This course explores concepts relevant to the digital age. Topics may include digital media history, ethics, law and will address online privacy, security, crime, identity and censorship.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3117",
+            "course_name": "Freelancing for Media Professionals",
+            "course_desc": "This course provides a practical overview of business topics related to all media and communication fields. Students learn the art of freelancing, networking, negotiating and other topics designed to assist in developing their career.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3118",
+            "course_name": "Careers in Media",
+            "course_desc": "This course allows students to engage in career exploration in the media professions.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3119",
+            "course_name": "Fundamentals of Layout and Design",
+            "course_desc": "Students learn desktop publishing basics using appropriate software. The course covers topics including creating documents for print or digital use, mastering tools required to create a simple page layout consisting of text and imagery and preparing files for review or publication.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3120",
+            "course_name": "Editing and Enhancing Digital Imagery",
+            "course_desc": "In this course students learn how to edit, enhance, and create digital imagery for print and web use.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3121",
+            "course_name": "TV News Production",
+            "course_desc": "In this course, students will serve as the production crew for the TV News course.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3122",
+            "course_name": "Search Engine Optimization Fundamentals",
+            "course_desc": "In this course, students will examine the strategic use of search engine optimization (SEO) in relation to website design, content creation and marketing. Students will explore the fundamentals of SEO and skills like link building and keyword research, which are needed to perform SEO tasks for businesses and organizations. Prerequisite: MC 4381 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3306",
+            "course_name": "Writing for the Electronic Media",
+            "course_desc": "The study and practice of writing copy for the electronic media, including the composition of commercials, news stories, public service announcements, promotions and documentaries. (WI) Prerequisites: MC 1313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3307",
+            "course_name": "Audio Production",
+            "course_desc": "This course covers the basics of digital audio production with emphasis on techniques used in producing commercials, public service announcements and promotions. Lab requirements include various studio and field recording experiences and structured group meetings.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3311",
+            "course_name": "Video Production",
+            "course_desc": "In this course, students will explore the basics of analog and digital video production. Emphasis on techniques used in producing newscasts, commercials, public service announcements, promotions. Lab requirements include field and studio production.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3312",
+            "course_name": "Television News",
+            "course_desc": "In this course, students will explore standard theory and practice of electronic news gathering and production, including writing copy to match video and synchronization of audio and video in news stories. Students work on a campus news program. (WI) Prerequisites: [MC 3306 or MC 3321] and [MC 3311 or MC 4323 or MC 4324] both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3313",
+            "course_name": "Foundations of Public Relations Writing",
+            "course_desc": "This course introduces students to a wide range of print & digital publications and writing assignments found in public relations.  Prerequisite: MC 3343 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3314",
+            "course_name": "Social Media for Strategic Communication",
+            "course_desc": "This course explores emerging technologies and media influencing strategic communication research and practices. Prerequisite: [MC 3343 or MC 3367] and MC 4381 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3319",
+            "course_name": "Visual Communication",
+            "course_desc": "This course studies the principles, theories, and language of visual communication, emphasizing the evaluation and use of images in mass media. It is designed to help you integrate words and pictures in mass communication and to gain a greater appreciation of our visual world.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3321",
+            "course_name": "News Writing and Reporting I",
+            "course_desc": "Integrating writing and reporting skills to produce stories across media platforms, including print and online, with an emphasis on storytelling.  The study of techniques for locating and assessing information from multiple sources, including interviewing, fact verification, online research and the use of libraries. (WI) Prerequisites: MC 1313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3343",
+            "course_name": "Introduction to Public Relations",
+            "course_desc": "This is the introductory course for the public relations sequence. Students will explore the functions of public relations in the digital age in the development of strategic communications for corporations, companies, government offices, non-profit organizations and public relations agencies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3355",
+            "course_name": "Mass Media and Society",
+            "course_desc": "This course offers an examination of the roles of the mass media in American society, including an analysis of the philosophical basis of media structure; mass media as business; media effects of public issues, morals and tastes; and other contemporary issues within a global media context.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3360",
+            "course_name": "Public Relations Research",
+            "course_desc": "Students study the principles, techniques and problems of social science research and digital analytics as they relate to the planning and evaluation of strategic communication.    Prerequisite: MC 3343 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3367",
+            "course_name": "Advertising",
+            "course_desc": "A broad overview of advertising including history, role and responsibility, and impact of the digital revolution. Key topics will be research, account service, media planning, creative, sales promotion, public relations, campaigns, and the advertising agency.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3372",
+            "course_name": "Advertising Media Planning",
+            "course_desc": "This course is the study of planning and buying messages in traditional and new media to creatively and effectively reach targeted prospects. Attention is given to media characteristics, scheduling, testing and buying efficiencies.   Prerequisite: MC 3367 and MC 4317, all with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3375",
+            "course_name": "Electronic Media as Entertainment",
+            "course_desc": "This course will explore the principles and strategies of winning audiences for the electronic media: television radio, cable, satellite and the internet.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3379",
+            "course_name": "Client Management",
+            "course_desc": "This course is the study of managerial methods in strategic communications. Students develop leadership skills, demonstrate managerial tactics and grow professional communications abilities including: setting goals, managing strategic brand building, new business development, budgeting and growing and maintaining client-agency relationships. Prerequisite: MC 3343 or MC 3367 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3383",
+            "course_name": "Editing and Managing Content",
+            "course_desc": "In this course students will incorporate words, images, sound and data into storytelling across platforms. This course tightens the focus on audience, accuracy, meaning, logic, organization, style and form. (WI).  Prerequisites: MC 1313 or MC 3313 either with a  grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3390",
+            "course_name": "Media Design",
+            "course_desc": "This course is the study and application of advanced principles of media design including: basic design principles, typography, color, photography, video, and multimedia.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dual Enrollment Permitted|Lab Required|Time Conflicts Permitted",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 3394",
+            "course_name": "Management of Electronic Media",
+            "course_desc": "The study of the management of electronic media, including sales, federal regulation, and responsibilities to society, community and stockholders.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4130",
+            "course_name": "Internship",
+            "course_desc": "This course requires a minimum of 100 hours of off-campus experience, written contract with internship coordinator and portfolio of completed work. Students cannot gain more than six hours of credit for any combination of: MC 4130, MC 4230 and MC 4330. Prerequisites: 30 credit hours, good academic standing, and appropriate sequence coursework.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n5 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4230",
+            "course_name": "Internship",
+            "course_desc": "This course requires a minimum of 150 hours of off-campus experience, written contract with internship coordinator and portfolio of completed work. Students cannot gain more than six hours of credit for any combination of: MC 4130, MC 4230 and MC 4330. Prerequisites: 30 credit hours, good academic standing, and appropriate sequence coursework.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4301",
+            "course_name": "Media Law and Ethics",
+            "course_desc": "This course offers a study of law governing journalism, advertising, electronic media and public relations. Restricted to junior standing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4302",
+            "course_name": "History of Mass Media",
+            "course_desc": "Students will study the development of mass media, advertising and public relations in the United States from 1690 to the present.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4303",
+            "course_name": "International Advertising",
+            "course_desc": "Overview of international marketing and advertising; problems and opportunities of a global economy. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4304",
+            "course_name": "Advertising Portfolio",
+            "course_desc": "In this course students create and produce professional advertising portfolios by serving as copywriters and art directors as part of collaborative teams. Prerequisites: MC 3367 and MC 4333 both with grades of \"C\" or better. Corequisite: MC 4338 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4305",
+            "course_name": "Theories of Mass Communication",
+            "course_desc": "A study of the predominant theories of communication, including mass media effects, functions and controls. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4306",
+            "course_name": "Advertising Competition",
+            "course_desc": "This course focuses on developing an integrated marketing communications campaign for a national client as part of the National Student Advertising Competition. Students will create a campaign from the developmental through the execution process.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4307",
+            "course_name": "Advertising Campaigns",
+            "course_desc": "In this course students develop, coordinate and evaluate a complete advertising campaign for specific clients. Students conduct market research, formulate objectives and strategies, recommend media plans and develop creative executions through plans books and presentations. (WI) Prerequisites: MC 3372 and MC 4317 and MC 4333 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4308",
+            "course_name": "Women and Minorities in the Media",
+            "course_desc": "Analysis of the images of women and minorities in the media and their status as media professionals. Includes study of the alternative media. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4309",
+            "course_name": "Visual Literacy: Film",
+            "course_desc": "The course will teach how meaning is constructed in visual images by using film as a practical medium. It provides the necessary skills to critique and create effective images. It is especially useful for students majoring in image-based sequences of the mass communication major, particularly broadcasting and advertising.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4310",
+            "course_name": "International Communication",
+            "course_desc": "A study of media systems worldwide in different socioeconomic contexts and an examination of patterns of international communication flow. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4311",
+            "course_name": "Independent Study",
+            "course_desc": "Students complete an academic project requiring the equivalent of 160 hours work. Requires prior written contract with faculty member and portfolio of completed work. Cannot be repeated.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n12 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4312",
+            "course_name": "Photojournalism",
+            "course_desc": "In this course students develop skills in camera operation, learn computer software applications and learn how to combine words with stories.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4313",
+            "course_name": "Advanced Writing for Public Relations",
+            "course_desc": "This course provides an examination and application of digital and traditional communication tools required for effective public relations.  Emphasis is placed on the strategic use of digital media in a modern communication society. (WI) Prerequisites: MC 3313 and MC 3343 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4315",
+            "course_name": "Web Design Publishing",
+            "course_desc": "In this course students develop skills in web page construction including Web editing, image and graphic manipulation, animation, and audio and video editing. Prerequisite: [MC 1313 or MC 3313] and MC 4381 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4316D",
+            "course_name": "Advertising Media Sales",
+            "course_desc": "An overview of advertising, media selling, and salesmanship, sales strategies, sales management, and case histories designed to acquaint students with a vital function of the business. Prerequisite: MC 3367 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4317",
+            "course_name": "Advertising Strategic Planning",
+            "course_desc": "This course is a hands-on introduction to applied advertising research and account planning. Primary, survey and qualitative research methods are designed, executed and presented by students for the purpose of integrating the consumers perspective into creative strategy.  Prerequisites: MC 3367 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4318",
+            "course_name": "Media Ethics",
+            "course_desc": "The study of freedom and responsibilities of the mass media practitioners and institutions, explored within the framework of ethical theories. Consideration of values, codes of ethics, moral development, professionalism and institutional constraints as applied to the media of information, persuasion and entertainment will be examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4319",
+            "course_name": "Latinas/Latinos and the Media",
+            "course_desc": "The course focuses on demographic developments related to Latinos in the US; their portrayals in the media; the effects those portrayals; the history and current status of selected Latino-oriented media and ancillary media companies and organizations; and the role of the media in Latino politics. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4320",
+            "course_name": "Public Relations Campaigns",
+            "course_desc": "This course is a comprehensive study of effective public relations in a modern society. Students learn the professional approach to the practice of public relations that includes internet applications and how to evaluate its function and value while applying ethical standards of conduct. (WI).  Prerequisite: MC 3360 and MC 3314 and MC 4313 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4322",
+            "course_name": "Health Communication Campaigns",
+            "course_desc": "This class will provide an overview of the theory and practice of designing, producing and evaluating health-communication campaigns. We will examine persuasive approaches to behavioral change; audience, message and channel factors in campaign development. Our work will emphasize communication approaches, including mass media, social marketing and new media..",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4323",
+            "course_name": "Multimedia Journalism",
+            "course_desc": "Students will be introduced to topics related to online journalism.  Topics covered will include the online journalism profession, Web credibility, online reporting sources, cyberlaw including libel and copyright, blogging and podcasting, and basic multimedia design.  Students will both critique and create online materials. Prerequisites: MC 1313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4324",
+            "course_name": "Visual Storytelling",
+            "course_desc": "This course is an introduction to basic elements of video journalistic storytelling for today's converged newsrooms.  Students gather information using journalism practices, such as in-person interviews, and learn to use video newsgathering technologies to produce stories for online and other digital platforms.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4325",
+            "course_name": "Coding and Data Skills for Communicators",
+            "course_desc": "Students are introduced to programming and data concepts relevant to communicators.  Data visualization and storytelling tools and techniques are covered as related to journalism, advertising and public relations. Prerequisites: MC 4315 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4326",
+            "course_name": "Advanced Social Media and Analytics",
+            "course_desc": "This course will provide students with an advanced understanding of social media, marketing plans and social media analytics.  Students will build company and/or journalistic profiles on social networks - Facebook, Twitter, Pinterest, YouTube, Instagram and more - to engage with audiences and communities and utilize analytical tools to track success.  Prerequisite: MC 4381 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4327",
+            "course_name": "Mobile Media and Development",
+            "course_desc": "This course will introduce students to mobile communication and production that is relevant to mass communication.  As mobile devices are a vital communication medium in our everyday life, it is essential to understand how mobile communication works and how to effectively produce online content for mobile devices.  Prerequisite: MC 4315 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4328",
+            "course_name": "Digital Media Innovation Capstone",
+            "course_desc": "In this course students explore innovation, creativity and product development associated with digital entrepreneurship.  Through a speaker series, students will be introduced to important concepts and ideas from thought leaders and innovators at the intersection of media and technology. Prerequisites: MC 4315 and MC 4326 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4329",
+            "course_name": "Sports Media",
+            "course_desc": "Sports Media explores the synergy among sports, athletes, media, public relations, advertising-marketing-promotion, and sports information disciplines and audiences in a multi-platform media environment.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4330",
+            "course_name": "Internship",
+            "course_desc": "This course requires 180 hours of off-campus experience, written contract with internship coordinator and portfolio of completed work. Students cannot gain more than six hours of credit for any combination of: MC 4130, MC 4230 and MC 4330. Prerequisites: 30 credit hours, good academic standing, and appropriate sequence coursework.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n15 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4331",
+            "course_name": "Strategic Sports Communication",
+            "course_desc": "This course focuses on the application of communication strategies and tactics used by sports teams and leagues to manage relationships with various stakeholders and promote their brand using multiple mass media channels.  Students will learn about emerging trends in strategic sports communication and the sociological aspects of sports fans.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4332",
+            "course_name": "Public Relations Fundraising and Special Events",
+            "course_desc": "This is a specialized course dealing with the development and implementation of fundraising. Topics include grants, special events, and annual/capital campaigns. Prerequisite: MC 3313 and MC 3343 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4333",
+            "course_name": "Creative Thinking & Advertising Concepting",
+            "course_desc": "This course focuses on the advancement of creative thinking and translating those skills into developing a creative concept to support an advertising strategy. This class will provide tools to develop ideas, and an understanding how the creative team works with other teams in advertising.   Prerequisite: MC 3367 and MC 4317; A minimum grade of \"C\" is required in all prerequisites.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4335",
+            "course_name": "Mass Communication Capstone",
+            "course_desc": "This course integrates a variety of mass communication skills to produce a substantial project or research for the mass communication major capstone. Prerequisite: MC 3360 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4336B",
+            "course_name": "Documentaries",
+            "course_desc": "A course in reporting and production of comprehensive public affairs and feature stories for the electronic media. Prerequisite: MC 3312. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4336H",
+            "course_name": "Web Content Strategy for Organizations",
+            "course_desc": "This course builds on students web development skills to focus on strategic content creation and management with an emphasis on building sites for small- to medium-sized organizations. Students will learn to understand an organizations messaging needs and create effective websites using state of the art content management techniques.  Prerequisite: MC 4315 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4336I",
+            "course_name": "Video and Broadcast Production for Sports",
+            "course_desc": "In this course, students will develop the production skills required in sports broadcast and production. This includes field producing live sport broadcasts, control room operation, interviewing for sports, and shooting video and editing video and audio for sports. This course will also include a section on announcing, reporting and interviewing for sports.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4336J",
+            "course_name": "Texas State Career Accelerator Program",
+            "course_desc": "This course prepares students to work in teams and build digital products for a diverse set of clients. Students may choose from the available tracks that provide experience in coding, data analysis, web development, social media and other technology topics related to mass communication and media careers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4337",
+            "course_name": "Data Journalism",
+            "course_desc": "Students will use a variety of tools and software to acquire and analyze data to produce news stories and data visualizations.  Prerequisite: MC 1313, MC 4381; with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4338",
+            "course_name": "Advanced Advertising Copy and Layout",
+            "course_desc": "This course is an advanced copywriting and advertising layout course. Students expand their creative concepting abilities, digital techniques, art direction skills and writing capabilities to create professional-level creative ad campaigns. Prerequisite: MC 4333 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4339",
+            "course_name": "Advanced Strategic Planning",
+            "course_desc": "In this course students expand upon skills learned in account planning to further students ability to define business problems, analyze data, discover insights and define appropriate communications strategy.  Prerequisite: MC 3372 or MC 4333 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4340",
+            "course_name": "Media Analytics and Strategy",
+            "course_desc": "In this course students strategically and creatively analyze media metrics to identify problems/challenges and use insights gathered to develop a strategic media plan.  Prerequisite: MC 3372 and SOCI 3307 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4341",
+            "course_name": "The Power of Brands",
+            "course_desc": "This course explores how companies use their brands to create awareness, shift perceptions, gain market share and connect emotionally to consumers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4342",
+            "course_name": "Strategic Professionalism",
+            "course_desc": "This course provides students with the knowledge and skills necessary to present themselves and their creative ideas in a professional and strategic way. This course provides students skills for creative and strategic presentations, business etiquette, business communications/writing, job search skills/tactics and professional self-promotion with the Strategic Communications industry.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4343",
+            "course_name": "Immersive Storytelling",
+            "course_desc": "This course examines storytelling opportunities brought on by immersive technology (virtual, augmented and mixed reality). Providing hands-on experience with 360 video cameras, virtual reality headsets, smartphones and other applications, students explore new ways for the media to communicate with audiences and consumers.  Prerequisite: MC 4381 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4345",
+            "course_name": "Drone Storytelling",
+            "course_desc": "This course explores storytelling opportunities using drones  both traditional photography and videography from the air and innovative methods like photogrammetry, or the use of 3D modeling technology.  Prerequisite: MC 4381 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4346",
+            "course_name": "Artificial Intelligence and Automation for Media Professionals",
+            "course_desc": "This course focuses on new storytelling opportunities brought on by advances in artificial intelligence in the digital media industry. From generative AI to virtual assistants, students will learn machine-learning techniques and gain hands-on experience building automated experiences. Prerequisite: MC 4381 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4347",
+            "course_name": "Social Media Video",
+            "course_desc": "This course provides students an opportunity to produce short-form and long-form video storytelling for social media. Students learn how to develop a brands video marketing strategy across multiple social media platforms. Prerequisite: MC 4381 with a letter grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4348",
+            "course_name": "Visual Production Capstone",
+            "course_desc": "This course exposes students to immersive and in-depth visual storytelling, including photography and video techniques. Students create long-form, documentary-style visual content in the field and in a studio and will learn emerging techniques in visual storytelling. Prerequisite: [MC 3306 or MC 3321] and [MC 3311 or MC 4323 or MC 4324] both with a letter grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4356A",
+            "course_name": "Science Writing and Reporting",
+            "course_desc": "Students learn to interpret complex concepts and present accurate, engaging news and feature stories about the latest research. Prerequisite: MC 1313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4356B",
+            "course_name": "Editorials, Columns, and Reviews",
+            "course_desc": "The study and writing of newspaper, magazine and online editorials, columns, and books, film and music reviews. Prerequisite: MC 1313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4356C",
+            "course_name": "Community Affairs",
+            "course_desc": "A lecture-discussion course, dealing with the coverage of local economy and business, government and social services functions as well as political activities like elections and lobbying efforts. Prerequisite: MC 1313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Lab Required|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4356F",
+            "course_name": "Feature Writing",
+            "course_desc": "A course designed to expose students to the art of feature writing through the study of acclaimed works of literary journalism. Students will develop a narrative voice of their own while studying and analyzing the techniques of a diverse group of writers. (WI) Prerequisite: MC 1313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Lab Required|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4356J",
+            "course_name": "Data Journalism II",
+            "course_desc": "This course builds on the basics of data journalism and combines the use of publicly available data, data analysis and data visualization techniques with the journalism skills of news judgment, interviewing and reporting to produce compelling content worthy of publication. Prerequisite: MC 4337 with a letter grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4357",
+            "course_name": "Sports as News",
+            "course_desc": "In this course students report, write and produce content for both print and electronic media.  Students interview players, coaches and administrators of collegiate athletics and work with media professionals to better understand challenges and demands of contemporary sports coverage. \n Prerequisites: MC 1313 or MC 3313 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4376C",
+            "course_name": "Public Relations Case Studies",
+            "course_desc": "Public Relations Case Studies will seek, with case studies and problems, to help future practitioners develop agility in the principles and the application of effective two-way communications in a wide variety of situations likely to confront them and their employers.   Prerequisite: MC 3343 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4376D",
+            "course_name": "Public Relations Writing & Design",
+            "course_desc": "Students will gain a broad understanding of the wide range of print publications and writing assignments found in public relations. They will learn how to research, organize, write and design a variety of print pieces for targeted audiences using a popular design and layout program. (WI)   Prerequisites: MC 3313 and MC 3343 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Lab Required|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4376F",
+            "course_name": "International Strategic Communication",
+            "course_desc": "This course will explore advertising and public relations practices in foreign countries through readings, discussion and site visits within media organizations in foreign countries. Marketing practices abroad will be compared to those in the United States. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4376G",
+            "course_name": "Media Relations",
+            "course_desc": "This course is an introduction to the role that media relations play in strategic communication. It explores the strategies and tools used by public relations professionals to form beneficial relationships with the media. Topics include analyzing the media landscape, creating media lists, analyzing news opportunities, handling media interviews and live news events, developing media training, producing strategic media plans, employing new media strategies, and evaluating media relations efforts.  Prerequisite: [MC 3313 or MC 1313] with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4377",
+            "course_name": "Crisis Communication for Strategic Communication",
+            "course_desc": "This course examines strategic communication practices throughout the three stages of a crisis event. Special emphasis is placed on crisis planning, media relationships, image restoration, ethical responses, and organizational learning. Prerequisite: MC 3313 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4381",
+            "course_name": "Fundamentals of Digital and Online Media",
+            "course_desc": "Students will be introduced to topics related to digital/online media and mass communication. Course covers the effects of the Internet and related technologies on the fields of journalism, interactive advertising and public relations, search engines, personal branding, social networking and mobile platforms.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4382L",
+            "course_name": "Feature Writing and Freelancing",
+            "course_desc": "This course is designed to introduce students to the technical expertise, research methods, interviewing skills and narrative techniques pertinent to feature writing. The course also explores how to target a feature story to a specific audience and how to submit feature stories for publication to newspapers and magazines. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4382O",
+            "course_name": "Travel Journalism",
+            "course_desc": "Exploration of techniques of writing journalistic travel narratives for the media. The course may involve travel at the students own expense.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4382Q",
+            "course_name": "Media in Asia and Southeast Asia",
+            "course_desc": "This course will study media systems in Asia and Southeast Asia and examine the different socioeconomic contexts and patterns of information flow. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4382Y",
+            "course_name": "Mobile Storytelling in the Outdoors",
+            "course_desc": "This course explores mobile tools and skills relevant to the digital age, particularly the usage of smart phones in storytelling. Students will use those skills to produce video and social content in the outdoors.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4386",
+            "course_name": "Journalism Project",
+            "course_desc": "This is a senior portfolio course integrating a variety of journalism skills to produce a substantial work ready for publication online and in print. (WI) Prerequisites: MC 3321 and MC 3383 and [MC 4323 or MC 4324] all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4387",
+            "course_name": "Storytelling and the Border",
+            "course_desc": "In this course students will be introduced to long-form nonfiction writing. Students will concentrate on multimedia reporting while focusing their reporting on the relationship between Central Texas and the U.S.-Mexico border. Students will provide coverage and analysis of news and trends. (WI) Prerequisite: MC 1313 and [MC 4323 or MC 4324] both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 4388",
+            "course_name": "Advanced Photojournalism",
+            "course_desc": "This course builds upon the skills acquired in MC 4312-Photojournalism. Students develop their photojournalism skills by using advanced photojournalism techniques to produce projects, such as those that profile a segment of an area population and others.  Prerequisite: MC 4312 with a letter grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Prerequisite: MC 5399A and completed course work.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MC 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Prerequisite: MC 5399A and completed course work.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MC 5300",
+            "course_name": "Teaching Techniques in Mass Communication",
+            "course_desc": "This course is an introduction to curriculum, instruction, and assessment methods in the teaching of Mass Communication. It provides an orientation as well as regular in-service training and planned periodic evaluations of instructional responsibilities. This course does not earn graduate degree credit. This course is only open to graduate teaching and instructional assistants.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MC 5301",
+            "course_name": "Mass Media and Society",
+            "course_desc": "A seminar devoted to analysis and discussion of significant contemporary issues in mass communication, including a study of the history of the development of mass communication media. Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5302",
+            "course_name": "Research Methods in Mass Communication",
+            "course_desc": "Investigation of the tools and techniques of both qualitative and quantitative research methods used in the study of mass communication, including surveys, content analysis, experimental designs and case studies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5303",
+            "course_name": "Theories of Mass Communication",
+            "course_desc": "Examination of the literature of mass communication theory and discussion of theoretical approaches and models.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5304T",
+            "course_name": "Health Communication Campaigns",
+            "course_desc": "Provides an overview of the theory and practice of designing, producing and evaluating health-communication campaigns. Examines persuasive approaches to behavioral change as well as audience, message and channel factors in health-campaign development. Emphasizes communication approaches, including mass media, social networking and new media.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5306B",
+            "course_name": "The Psychology of Social Media",
+            "course_desc": "This course reviews social cognitive theories and research about the way social media users both produce and consume social media messages. It will examine clinical psychological and psychiatric effects that take place among social media users who do not have a clinical diagnosis.  Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5306F",
+            "course_name": "Content Analysis",
+            "course_desc": "Content analysis is a systematic way to analyze the content of documented communications, whether they are written, audio/visual or digital. This course will examine the methodological steps involved in conducting a quantitative content analysis, design and execute a content analysis study. Corequisite: MC 5303 or MC5302.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5306H",
+            "course_name": "Foundations For Mass Communication Graduate Studies",
+            "course_desc": "This course will familiarize students with the structure of the mass communication discipline, prominent theorists and historical developments, as well as expose them to the process of research and writing in the discipline of mass communication. Corequisites: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5306I",
+            "course_name": "Collecting, Analyzing and Presenting Data",
+            "course_desc": "This course will introduce students to skills for working with data as well as perspectives from which to think critically about the use of data in contemporary society. It will focus on three stages of working with data: collection, analysis and presentation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5306J",
+            "course_name": "Mass Media Design",
+            "course_desc": "Study and application of advanced principles of media design including: basic design principles, typography, color, photography, video, and digital media. Students will learn production skills for existing and new media.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5306L",
+            "course_name": "Refugees, Nonprofit Organizations and Strategic Communication",
+            "course_desc": "This course analyzes strategic communication of nonprofit organizations serving refugees and asylum seekers. Students are introduced to organizations that serve these marginalized populations in Texas and to the problems, challenges and opportunities these organizations face. Students will conduct research and produce a project on an issue related to this topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5306M",
+            "course_name": "Social Media Strategies, Campaigns and Analytics",
+            "course_desc": "This course will expose students to the principles and strategies behind social media campaigns. It will discuss the interactions, channels, SEO, and social media metrics used to gauge the success of a social media campaign. Students will also examine successful social media case studies.  Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5306N",
+            "course_name": "Mass Communication History",
+            "course_desc": "History of Mass Media is a course that examines the development of the American mass media, including advertising and public relations, from 1690 to the present.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5307",
+            "course_name": "Project",
+            "course_desc": "A major communication effort to demonstrate command of the skills necessary to work at advanced levels in mass communication. For example, it may be broadcast documentary, advertising or public relations campaign, or a newspaper series. This course is the master's capstone for those on the professional project track. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5308",
+            "course_name": "Seminar in Strategic Communication",
+            "course_desc": "This course broadens students' understanding of issues related to advertising and public relations through an integrated communication perspective. Students learn the decision-making process, learn what problems real organizations experience and evaluate how they resolve issues in such areas as client-agency relationships, strategic planning/management and globalization.  Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5309",
+            "course_name": "Gender, Race, and Class in the Media",
+            "course_desc": "This course takes a theoretical approach to the study of representations of gender, race, and class in the mass media. A historical overview will be followed by an in-depth look at current conditions. (MULT). Corequisite: MC 5303 or MC 5302.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5310",
+            "course_name": "Global Media Issues",
+            "course_desc": "This course examines the media systems worldwide in different socioeconomic contexts and studies the patterns of international information flow. The course includes theories governing international communication. Students learn how and why communication takes place between different nations and the impact of this communication on individual nations. (MULT). Corequisite: MC 5303 or MC 5302.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5311",
+            "course_name": "Independent Study",
+            "course_desc": "Study of a special interest that offers academic or professional improvement and growth in the field of Mass Communication. May be repeated once with different emphasis for additional credit. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5312",
+            "course_name": "Digital Media Design",
+            "course_desc": "This course instructs students in Web development and design. Students learn Hypertext Markup Language (HTML) and Cascading Stylesheets (CSS) coding and are introduced to graphics and multimedia programs and web development frameworks. The class addresses the history and social implications of creating for the web. Prerequisite: MC 5302 or MC 5303 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5313",
+            "course_name": "Media Law and Ethics",
+            "course_desc": "Study of laws and regulations as they pertain to media operations and the internal and external codes that guide media behavior. Freedom and responsibilities of the mass media practitioners and institutions will also be explored within the framework of ethical theories.  Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5315",
+            "course_name": "Creative Problem Solving in Mass Communication",
+            "course_desc": "This class examines the psychology of creativity and its application in mass communication to media management, broadcasting, advertising, and public relations. Students learn a variety of ideation techniques and structured creative problem solving methods to better understand their own creative thinking process and how to facilitate creative thinking in groups. Corequisite: MC 5303 or MC 5302.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5316",
+            "course_name": "Digital Media Issues",
+            "course_desc": "This course will examine the role of digital media, including the Internet, Web and mobile technologies. Issues discussed will include social media and cyberculture research, technology diffusion, data journalism, analytics and the effects of digital technologies on society and culture, with a focus on ethics and regulation.  Corequisite: MC 5303 or MC 5302.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5317",
+            "course_name": "Advanced Digital Media",
+            "course_desc": "This course builds on web development skills to create interactive presentations and data visualizations. Students are introduced to advanced programming and data concepts relevant to communicators. Theoretical and practical considerations of emerging technologies to the media industry will be integrated with production techniques. Prerequisite: MC 5312. Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5318",
+            "course_name": "Media Ethics",
+            "course_desc": "The study of freedom and responsibilities of mass media practitioners and institutions, explored within the framework of ethical theories. Students will learn philosophical constructs as well as contemporary ethicists. Consideration of values, codes of ethics, moral development, professionalism, and institutional constraints as applied to media of information, persuasion and entertainment. Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5319",
+            "course_name": "Mass Media and Politics",
+            "course_desc": "The class will review key literature in the area of mass media and politics. It examines the relationship between the press and the government, as well as how the mass media covers politics at the statewide and national level. Corequisite: MC 5303 or MC 5302.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5321",
+            "course_name": "Latinos and Media",
+            "course_desc": "An immersion into the study of Latinos, their representations in media, and media oriented to Latinos. The course will require students to engage in in-depth research about Latinos and media issues. (MULT) Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5322",
+            "course_name": "Global Media Strategy in Advertising and Public Relations",
+            "course_desc": "This course provides an in-depth examination of multinational communication organizations, including news media, public relations, and advertising companies. In addition, the course examines organizational roles, impact and strategic functions in a global marketplace. (MULT) Prerequisite: MC 5302 or MC 5303 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5323",
+            "course_name": "Current Issues in Mass Communication",
+            "course_desc": "This course examines current theoretical and professional issues in mass communication. This course may be repeated once with a different emphasis for credit. Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5324",
+            "course_name": "Media Writing",
+            "course_desc": "This course is designed to impart media writing skills. Students learn information gathering, interviewing skills, and writing techniques pertinent to different media. Students produce content (e.g., stories and digital pieces) that could be published across a wide variety of media outlets.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5326",
+            "course_name": "Strategic Communication Campaigns",
+            "course_desc": "This course is a comprehensive study of strategic communication campaign planning with emphasis on public relations and advertising. Students combine theory and practice to develop, coordinate and evaluate advertising/public relations campaigns for key audiences. Prerequisite: MC 5308 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5327",
+            "course_name": "Visual Communication",
+            "course_desc": "This course examines the principles, theories, and language of visual communication, emphasizing the evaluation and use of images in digital mass media. Students will learn about media influences on their perceptions of reality and their behavior, the elements of visual literacy, and multicultural and global perspectives in visual media. Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5328",
+            "course_name": "Digital Story Production",
+            "course_desc": "This course involves discussion, development and analysis of multimedia stories, documentary video, and digital media. Students explore digital media techniques used in writing and producing multimedia stories. They learn visual aspects of storytelling and how to produce digital stories. Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5329",
+            "course_name": "Media Systems in Latin America",
+            "course_desc": "Students analyze media systems Latin America within their historical, cultural and political contexts. The course provides a comparative perspective of the role of the media within the region, their national markets and international Latino market. Students will ground these investigations with theories of international communication and information flow. (MULT) Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5330",
+            "course_name": "Internship in Mass Communication",
+            "course_desc": "Students acquire on-the-job experience in an off-campus media setting where they can apply the skills and knowledge acquired through mass communication graduate course work. Requires 180 hours of work off-campus, a written report, a portfolio of work product, and a supervisor's evaluation. Prerequisite: Departmental and Instructor approval. Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n12 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MC 5332",
+            "course_name": "SXTXState Project",
+            "course_desc": "This course involves attendance at and coverage of the South By Southwest Interactive Conference. Students will prepare for the event, attend panels, interview participants and produce digital content about the experience. Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5333",
+            "course_name": "Digital Media Entrepreneurship",
+            "course_desc": "This course explores innovation and creativity associated with digital entrepreneurship. Students will be introduced to important concepts and ideas from thought leaders and innovators at the intersection of media and technology. Students will research and develop their own digital media products. Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5334",
+            "course_name": "Storytelling Across Platforms",
+            "course_desc": "Students learn the tools, channels and techniques available for multimedia storytellers The course introduces new and emerging ways to tell stories, including social media, photo and video platforms, branding and audience engagement, mobile media and data visualization.  Prerequisite: MC 5328. Corequisite: MC 5302 or MC 5303.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5335",
+            "course_name": "Code Camp I",
+            "course_desc": "In this course students are immersed in programming concepts relevant to communicators. Students will practice document object model manipulation using appropriate software to create interactive Web projects. Prerequisite: MC 5312 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5336",
+            "course_name": "Code Camp II",
+            "course_desc": "In this course students are immersed in data and visualization concepts relevant to communicators. Students will create interactive data visualization projects. Prerequisite: MC 5312 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5337",
+            "course_name": "Global Media in the Connected World",
+            "course_desc": "This course critically analyzes the role and use of traditional, digital and social media in a connected world. Students examine the prospects, challenges and applications of global media in areas such as socioeconomic development, political participation, digital divide, strategic communication, global crises and global entertainment.  Prerequisite: MC 5302 or MC 5303 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5338",
+            "course_name": "Ethics and Crisis in Strategic Communication",
+            "course_desc": "In this course students examine strategic communication practices throughout the stages of a crisis and ethical considerations. Special emphasis is placed on the crisis cycle, media relationships, image restoration, ethical responses, and organizational learning. Prerequisite: MC 5308 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5339",
+            "course_name": "Managing Digital Content",
+            "course_desc": "This course introduces concepts, skills and processes for working with content management systems. Students learn to assess organizations content needs and to develop appropriate content management solutions. Topics covered in this course include user research, information architecture and content strategy. Prerequisite: MC 5302 or MC 5303 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5340",
+            "course_name": "Media Product Strategy",
+            "course_desc": "This course examines current theoretical and professional issues in mass communication. Specifically, this course provides students with practical knowledge of theories of human-computer interaction, and communication design principles and standards. Prerequisite: MC 5302 or MC 5303 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5341",
+            "course_name": "Feature Writing",
+            "course_desc": "This course provides an in-depth understanding of the technical expertise, research methods, interviewing skills and narrative techniques pertinent to feature writing. The course also explores how to target a feature story to a specific audience and how to submit feature stories for publication to newspapers and magazines, print and online.  Prerequisite: MC 5324 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5342",
+            "course_name": "Global Media Systems",
+            "course_desc": "This study abroad course prepares students to think critically and analytically about media systems and functions in different countries with emphasis on the location/s of the study abroad program. The course provides students with practical knowledge and insights gained by visiting media organizations abroad. Prerequisite: MC 5302 or MC 5303 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5343",
+            "course_name": "Global Strategic Communication Practices",
+            "course_desc": "In this course, students analyze and discuss issues and challenges of contemporary global strategic communication practices and focus on gaining first-hand experience by visiting public relations, advertising and other communication agencies abroad. This course provides professional development and networking opportunities. Prerequisite: MC 5302 or MC 5303 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5344",
+            "course_name": "Data Storytelling in Mass Communication",
+            "course_desc": "In this course students will be introduced to data-related topics and skills that will further their careers in a variety of communications professions. Data visualization and storytelling tools and techniques are covered as related to journalism, advertising and public relations.  Prerequisite: MC 5324 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5345",
+            "course_name": "Advanced Digital Story Production",
+            "course_desc": "This course examines current theoretical and professional issues in visual digital storytelling. Students explore advanced digital media techniques used in writing and producing multimedia stories. Students produce sophisticated visual digital stories for use across a variety of platforms using differing styles.  Prerequisite: MC 5328 with a grade of a \"B\" or better. Corequisite: MC 5303 and MC 5302 both with a grade of a \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 5399A",
+            "course_name": "Thesis",
+            "course_desc": "A scholarly study of communication behavior, the purpose of which is to\nbroaden understanding of what mass media do, how they do it, and with what effects. It may be quantitative, historical or rely upon another appropriate methodology. No thesis credit is awarded until student has completed the thesis in MC 5399B. Prerequisite: Completed course work.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MC 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Prerequisite: MC 5399A and completed course work.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MC 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Prerequisite: MC 5399A and completed course work.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MC 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The student continues to enroll in this course until the thesis is submitted for binding. Prerequisite: MC 5399A and completed course work.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MC 7304A",
+            "course_name": "Seminar in Advertising and Public Relations",
+            "course_desc": "Analysis and discussion of the development and role of advertising and public relations in the field of mass communication.  Prerequisite: Doctoral level standing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 7304B",
+            "course_name": "International Communication",
+            "course_desc": "A review of international communication theories and a critical examination of the world media systems and information flow patterns. (MULT)  Prerequisite: Doctoral level standing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MC 7311",
+            "course_name": "Directed Research in Mass Communication",
+            "course_desc": "Independent study of a specific mass communication research area. May be repeated with different emphasis for additional credit.  Prerequisite: Doctoral level standing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

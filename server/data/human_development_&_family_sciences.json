@@ -1,0 +1,422 @@
+{
+    "name": "Human Development & Family Sciences",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/hdfs/",
+    "courses": [
+        {
+            "course_code": "HDFS 1351",
+            "course_name": "Lifespan Development",
+            "course_desc": "This course focuses on developmental principles underlying behavior as experienced in physical, intellectual, emotional and social changes across the lifespan. Emphasis is on adult development.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 1355",
+            "course_name": "Introduction to Family Relationships",
+            "course_desc": "This course covers a range of research-based topics including the universality and uniqueness of American families, the establishment and maintenance of relationships, family formation, parenthood, and other aspects related to individual and family relationships through the lifespan.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 2311",
+            "course_name": "Statistics and Data Analysis for Human Development and Family Sciences",
+            "course_desc": "This course is an introduction to statistical concepts within the field of HDFS, including the implementation of statistical techniques using computer software. Concepts include the methods, assumptions, and limitations of statistical analysis, reporting statistical findings, and interpreting statistical results reported in media and scientific outlets.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 2351",
+            "course_name": "Child Development",
+            "course_desc": "This course focuses on development across domains from conception to adolescence.  The course includes opportunities to apply knowledge of child development to observations of children.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 2353",
+            "course_name": "Principles of Guidance",
+            "course_desc": "Students examine research, theory, and developmentally appropriate practices related to childrens social development and child guidance techniques. Participation in the Child Development Center is required. Prerequisite: FCD 2351 or HDFS 2351 either with a grade of  \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 3344",
+            "course_name": "Introduction to Infant and Early Childhood Mental Health",
+            "course_desc": "This course is an introduction to the study of social and emotional development of infants and young children within the context of the family. The emphasis of this course is on the role of the infant mental health specialist in strengthening the development of young children.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 3351",
+            "course_name": "Creative Experiences for Children",
+            "course_desc": "This course focuses on developmentally appropriate creative methods, materials, and planning for childrens programs through language, literature, music, art, play, science, math, technology, and social studies. Participation in the Child Development Center is required. Prerequisite: FCD 2353 or HDFS 2353 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 3356",
+            "course_name": "Introduction to Early Childhood Intervention",
+            "course_desc": "This course provides an interdisciplinary orientation to the professional discipline of Early Childhood Intervention (ECI) and the Early Intervention Specialist (EIS). Prerequisite: FCD 2351 or HDFS 2351 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 3358",
+            "course_name": "Practicum in Child Development",
+            "course_desc": "Students participate in structured practical experience in approved early care and education programs. Prerequisite: [FCD 2353 or HDFS 2353] and [FCD 3351 or HDFS 3351] both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 3359",
+            "course_name": "Family Diversity",
+            "course_desc": "This course explores both the internal dynamics and external environments of diverse family forms, including prevalence, social conditions leading to and sustaining their existence, common stereotypes, and recent research. Prerequisite: FCD 1355 or FCD 3355 or HDFS 1355 any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 3394",
+            "course_name": "Adolescent Development",
+            "course_desc": "This course analyzes adolescent development from a research and theoretical perspective. Emphasis is on current critical issues for adolescents in the context of family and society.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 4301",
+            "course_name": "Internship in Human Development and Family Sciences",
+            "course_desc": "This course provides internship fieldwork in related professions, services, industry, or business for students in Human Development and Family Sciences. Students must meet college, school, and program requirements.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HDFS 4302C",
+            "course_name": "Human Welfare Across the Lifespan",
+            "course_desc": "This course will focus on the analysis of the dynamics of family, partner, and community violence occurring across the lifespan. Students examine history, theory, and research related to physical, sexual, and psychological abuse, including root causes, impacts on individuals and families, and best practices in working with survivors.  Prerequisite: [HDFS 1351 or FCS 1351] and [HDFS 1355 or FCS 1355] all with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 4304",
+            "course_name": "Conducting Research with Latinx Adolescent Families",
+            "course_desc": "This course is an introduction to research with Latinx adolescent families and other marginalized populations. As research assistants, students explore current issues and gain hands-on research experience conducting interviews with Latinx adolescent families. Prerequisite: Minimum 2.5 Texas State GPA and instructor approval. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 4305",
+            "course_name": "Conducting Research in Early Childhood",
+            "course_desc": "This course provides students an opportunity to explore and develop fundamental concepts, principles, and methods of research in early childhood, with emphasis on critiques, interpreting, and applying research results and participating in the research process. Prerequisite: Minimum 2.5 Texas State GPA and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HDFS 4351",
+            "course_name": "Cultural Diversity in Families",
+            "course_desc": "This course focuses on cultural diversity with an emphasis on different racial and/or ethnic groups, religions, and social classes. Students explore selected family science research methods and topics including family functions, family life patterns, multicultural groups, agents of enculturation, and family life education as they relate to cultural diversity. (WI)(MULT) Prerequisite: FCD 1355 or FCD 3355 or HDFS 1355 any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 4352",
+            "course_name": "Administration of Programs for Children",
+            "course_desc": "This course addresses the history, philosophy, and ethics of programs for young children. Emphasis is on responsibilities of the child care administrator in relation to staff, budgets, facility laws, and standards of agency management. Prerequisite: FCD 2353 or HDFS 2353 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 4353",
+            "course_name": "Introduction to Child Life",
+            "course_desc": "This course introduces students to theoretical and practical methods of working with children and their families in health care settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 4354",
+            "course_name": "Play and Child Development",
+            "course_desc": "This course focuses on the therapeutic aspects and learning objectives of play in infants, children, youth, and young adults. This course explores the foundations and theories of play in the growth, development and learning of children. Medical play, play therapy, music therapy, and art therapy are incorporated into the course curriculum. The influence of play environments on childrens play is also explored. Prerequisite: HDFS 2351 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 4355",
+            "course_name": "Family Theory",
+            "course_desc": "This course focuses on the study and comparison of various theories, family structures, and transitions. Interaction strategies to enhance successful family function across various family structures and transitions will be analyzed. Prerequisite: FCD 1355 or FCD 3355 or HDFS 1355 any with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 4356",
+            "course_name": "Administration of Human Service Organizations",
+            "course_desc": "This course focuses on the implementation of human service organizations.  Leadership and management of human service organizations, including staffing, strategic planning, problem solving, grant writing, and ethical leadership is emphasized. Prerequisite: FCD 2353 or HDFS 2353 either with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 4357",
+            "course_name": "Grief and Bereavement in Children, Adolescents, and Parents",
+            "course_desc": "This course focuses on grief and bereavement throughout the life cycle. Topics include historical, current, cultural, spiritual, and religious perspectives, ambiguous loss, transitions, palliative care, self-awareness, and self-care. This course focuses on the health and well-being of children and families. Students analyze grief and bereavement implications for child life specialists.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 4358",
+            "course_name": "Latinx Youth and Families",
+            "course_desc": "This course is an introduction to research regarding the development of Latinx youth and families, exploring the most common physical, cognitive, and socio-emotional aspects of development. Students learn that these changes are dynamically interrelated and diverse, often depending on factors such as gender and cultural values. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 4391",
+            "course_name": "Independent Study in Human Development and Family Sciences",
+            "course_desc": "This course provides opportunity for independent reading and/or research on a specific topic related to a students primary area of interest.  Work includes research, reviews, and the integration of existing literature or other appropriate independent work. (WI).",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5100",
+            "course_name": "Introduction to Human Development and Family Sciences",
+            "course_desc": "This course focuses on gaining information and competencies important to graduate study success. It includes academic expectations for graduate students, as well as information related to the Human Development and Family Sciences graduate program.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HDFS 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The focus of this course is on data collection, analysis, and writing of thesis. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HDFS 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The focus of this course is on data collection, analysis, and writing of thesis. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HDFS 5302A",
+            "course_name": "Social Cognitive Development in Childhood and Adolescence",
+            "course_desc": "This course addresses foundations and theories of social cognitive development of children and adolescence. Current research on social cognitive development is emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5302B",
+            "course_name": "Advanced Adolescent Development",
+            "course_desc": "This course focuses on theoretical analysis and current research of adolescent development. Topics may include developmental transitions, contexts, and issues in diverse adolescents in the contemporary society.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5302C",
+            "course_name": "Administration and Evaluation of Family and Child Service Programs",
+            "course_desc": "This course focuses on the management and effectiveness of diverse family and child service programs. This course will include the following topics: management strategies, leadership skills, cultural responsiveness, program evaluation strategies and methods, fiscal management, and ethics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5305",
+            "course_name": "Foundations of Play",
+            "course_desc": "This course analyzes foundations and theories of play as it relates to the development of children. Course content includes medical play, play therapy, music therapy, art therapy, and animal therapy as they are applied in professional settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5340",
+            "course_name": "Advanced Cultural Diversity of Families",
+            "course_desc": "This course focuses on cultural diversity with an emphasis on contemporary, culturally relevant responses to societal trends.  Topics include a critical analysis of cultural competency, multiculturalism, and the strategies implemented to successfully engage in meaningful interactions at the community level.  The course incorporates family science research methods to explore topics including family structure and function, family life patterns, multicultural groups, and agents of acculturation. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5341",
+            "course_name": "Advanced Child Development",
+            "course_desc": "This course focuses on the developmental processes and influences from conception through adolescence and emphasizes the interactive relationship of biological and environmental factors in the total development of the child.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5343",
+            "course_name": "Child Life Specialist",
+            "course_desc": "This course introduces students to the scope of Child Life practice, the impact of illness and injury on children and families, patient experience, family centered care, therapeutic play and psychological preparation for treatment and healthcare interventions.  The course focuses on theoretical and evidence-based practices used in Child Life practice when interacting with children and families in a variety of healthcare settings. This courses includes content necessary for pursuing application to Child Life Internships and the National Child Life Certification Exam.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5344",
+            "course_name": "Infant and Early Childhood Mental Health",
+            "course_desc": "This course provides an interdisciplinary understanding of the social and emotional development of infants and young children within the context of the family.  Focus is on the role of the infant mental health specialist in strengthening the development of young children and the parent-child relationship.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5347",
+            "course_name": "Grief and Bereavement in Children, Adolescents, and Parents",
+            "course_desc": "This course focuses on grief and bereavement throughout the life cycle. Topics include a historical overview of the theoretical models on grief and bereavement, influences on grief and bereavement responses, and current perspectives on helping the bereaved cope. Students analyze grief and bereavement implications for child life specialists.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5348",
+            "course_name": "Pain and Anxiety Management for Children",
+            "course_desc": "This course provides child life students with theoretical foundations and applied non-pharmacological strategies for assessing childrens pain and anxiety and assisting them with alleviation during healthcare experiences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5350",
+            "course_name": "Research Design and Methods in Human Development and Family Sciences",
+            "course_desc": "This course includes evaluation of research concepts, methods, and strategies in human development and family sciences. The topics focus on the nature of scientific research, sampling, measurement, data collection, types of socio-behavioral research, data analysis, and evaluation of research reports.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5351",
+            "course_name": "Advanced Theory in Human Development and Family Sciences",
+            "course_desc": "This course includes a critical evaluation of theoretical concepts and current research in human development and family sciences. Recent trends in family and developmental theories are emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5352",
+            "course_name": "Issues in Human Development and Family Sciences",
+            "course_desc": "This course examines current issues in human development and family sciences from  conceptual, methodological, and multi-disciplinary perspectives. Emphasis is on current research and theories, and their application.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5353",
+            "course_name": "Program Evaluation in Human Development and Family Sciences",
+            "course_desc": "This course focuses on the diversity and effectiveness of family and child services programs at the federal, state, and community levels. Program evaluation strategies and measures, fiscal management, and grant writing are included.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5355",
+            "course_name": "Advanced Independent Study",
+            "course_desc": "This course provides opportunity for individual work on problems related to students primary area of specialization. Work consists of empirical research or critical reviews and integration of existing literature. Course may be repeated once for credit when topics vary.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5356",
+            "course_name": "Advanced Program Administration",
+            "course_desc": "This course focuses on human services organizations. Management theory and strategies, strategic planning, program development and implementation, personnel management, and public policy are emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5357",
+            "course_name": "Comparative Studies in Child Development",
+            "course_desc": "This course focuses on the study of cultural values and beliefs and the reflection of these in child development practices. The interactive influence of culture and global policies is addressed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HDFS 5358",
+            "course_name": "Practicum in Human Development and Family Sciences I",
+            "course_desc": "This course provides opportunity for structured practical experience in human development and family sciences programs. Supervision is provided by a member of the graduate faculty and a designated individual at the work site.  Focus is on experiential learning.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HDFS 5359",
+            "course_name": "Practicum in Human Development and Family Sciences II",
+            "course_desc": "This course provides a continued practical experience in human development and family sciences programs. Supervision is provided by a member of the graduate faculty and a designated individual at the work site. A research report is integrated with practical application. Prerequisite: FCD 5358 or HDFS 5358 either with a grade of \"CR\".",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HDFS 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. Focus is on identification of thesis topic, review of literature, and research design. No thesis credit is awarded until a student has completed the thesis in Human Development and Family Sciences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HDFS 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The focus of this course is on data collection, analysis, and writing of thesis. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HDFS 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The focus of this course is on data collection, analysis, and writing of thesis. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HDFS 5659",
+            "course_name": "Internship in Child Life",
+            "course_desc": "This course is a structured hospital experience for individuals who plan to pursue a career in child life. Students are provided the opportunity to work in a hospital setting under the direction of a certified child life specialist.  Successful completion of this course is required for all applicants pursuing application to Child Life Internships and the National Child Life Certification Exam.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n38 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HDFS 5660",
+            "course_name": "Advanced Practicum",
+            "course_desc": "This course is a structured field experience for individuals who plan to pursue a career in the field of human development and family sciences. Students are provided the opportunity to work in a community setting such as a nonprofit organization, government agency, or healthcare setting.   Prerequisite: Instructor approval.",
+            "course_credits": "\n6 Credit Hours \n0 Lecture Contact Hours \n20 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HDFS 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollment. The focus of this course is on data collection, analysis, and writing of thesis. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

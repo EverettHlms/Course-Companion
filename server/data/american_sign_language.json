@@ -1,0 +1,38 @@
+{
+    "name": "American Sign Language",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/asl/",
+    "courses": [
+        {
+            "course_code": "ASL 1410",
+            "course_name": "Beginning American Sign Language I",
+            "course_desc": "Introduction to understanding and using American Sign Language within the cultural framework of the deaf community. Students who take ASL 1410 toward degree requirements must also complete ASL 1420. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ASL 1420",
+            "course_name": "Beginning American Sign Language II",
+            "course_desc": "Continued practice in understanding and using American Sign Language within the cultural framework of the deaf community. Students who take ASL 1410 toward degree requirements must also complete ASL 1420. Prerequisite: ASL 1410 with a grade of \"D\" or better. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ASL 2310",
+            "course_name": "Intermediate American Sign Language I",
+            "course_desc": "Continued development and review of American Sign Language within the cultural framework of the deaf community. Prerequisite: ASL 1420 with a grade of \"D\" or better. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ASL 2320",
+            "course_name": "Intermediate American Sign Language II",
+            "course_desc": "More advanced practice in American Sign Language within the cultural framework of the deaf community. Prerequisite: ASL 2310 with a grade of \"D\" or better. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

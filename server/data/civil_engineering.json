@@ -1,0 +1,582 @@
+{
+    "name": "Civil Engineering",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ce/",
+    "courses": [
+        {
+            "course_code": "CE 1210",
+            "course_name": "Introduction to Smart Infrastructure",
+            "course_desc": "This course is an overarching study of municipal and private infrastructure and the use of modern technology and techniques to monitor and manage these assets.  Topics and case studies examine transportation, water resources, utilities, and other construction projects. General topics related to the civil engineering profession are also covered.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 2340",
+            "course_name": "Infrastructure Materials",
+            "course_desc": "This course examines the composition, production, engineering properties, and in-place behavior of materials used to construct and repair infrastructure assets.  Sensing devices used to monitor a material are discussed.  Students will learn to follow standard test methods, perform data acquisition, conduct data analysis, and visualize test data. Prerequisite: CHEM 1335 and ENGR 3311 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 2350",
+            "course_name": "Structural Analysis",
+            "course_desc": "This course is an introduction to the loading, response, analysis, and monitoring of infrastructure assets. Determinate and indeterminate structures are studied. Analysis by classic and modern computational methods are covered. The analysis of data obtained from sensing devices in, on, or remote to an infrastructure asset is discussed. Prerequisite: ENGR 3311 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 3310",
+            "course_name": "Applications in Smart Infrastructure",
+            "course_desc": "This course presents students with realistic civil engineering scenarios involving various infrastructure assets. The course is taught in a combination of classroom lectures and lab hands-on projects. With concepts learned in lectures, students work in teams on state of the art smart infrastructure sensor technologies to gather, transmit, and analyze measured data with the objective of developing a solution for each individual project. Prerequisite: CE 1210 and CS 1342 and ENGR 3373 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 3320",
+            "course_name": "Environmental Engineering",
+            "course_desc": "This course is an introduction to environmental engineering. Topics include treatment of water, wastewater, air pollution, solid waste pollution, and hazardous materials. Standard test procedures for evaluating physical, chemical, and biological treatment processes are introduced. The use of technology to manage treatment processes and facilities will be introduced. Prerequisite: CHEM 1335 and [(BIO 1130 and BIO 1330) or (BIO 1131 and BIO 1331) or GEOL 1410] all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 3330",
+            "course_name": "Soil Mechanics",
+            "course_desc": "This course examines the engineering characteristics of soil.  Topics include identification, compaction, shear strength, consolidation, vertical stress, and deformation.  Standard laboratory test methods are followed.  Advanced data analysis, interpretation, and visualization techniques are presented. Prerequisite: ENGR 3311 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 3331",
+            "course_name": "Infrastructure Foundations",
+            "course_desc": "This course investigates foundation systems which support infrastructure assets.  Shallow and deep foundations, piles, footings, mats, and retaining walls may be covered.  Foundations are evaluated for consolidation, rate of settlement, stress distribution, elastic settlement, and bearing capacity. Life-cycle management of foundations will be examined. Prerequisite: CE 3330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 3350",
+            "course_name": "Design of Reinforced Concrete Infrastructure",
+            "course_desc": "This course covers the analysis and design of reinforced concrete infrastructure assets.  Topics include columns, beams, one-way slabs, and footings.  Students will learn how to read, interpret, and use specifications and design codes.  The use of technology to monitor the behavior of a reinforced concrete infrastructure asset will be introduced. Prerequisite: CE 2340 and CE 2350 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 3360",
+            "course_name": "Transportation Planning and Infrastructure",
+            "course_desc": "This course is an introduction to the planning and design of transportation infrastructure assets.  Social, economic, safety, and engineering issues impacting transportation are examined.  Interactions between users, vehicles, and the infrastructure will be addressed.  The expanding use of technology to enhance transportation systems will be examined. Prerequisite: IE 3320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4100",
+            "course_name": "Civil Engineering Undergraduate Research",
+            "course_desc": "Undergraduate students investigate a special topic in civil engineering by developing a research idea, conducting a literature review, researching the topic, and presenting the findings. Research plans will be developed on an individual basis with strict faculty supervision.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4200",
+            "course_name": "Civil Engineering Undergraduate Research",
+            "course_desc": "Undergraduate students investigate a special topic in civil engineering by developing a research idea, conducting a literature review, researching the topic, and presenting the findings. Research plans will be developed on an individual basis with strict faculty supervision.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4300",
+            "course_name": "Civil Engineering Undergraduate Research",
+            "course_desc": "Undergraduate students investigate a special topic in civil engineering by developing a research idea, conducting a literature review, researching the topic, and presenting the findings. Research plans will be developed on an individual basis with strict faculty supervision.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4310",
+            "course_name": "Infrastructure Sensor Technologies",
+            "course_desc": "This course is an advanced study of the sensor technologies available to monitor the performance and behavior of infrastructure assets. Prerequisite: CE 3310 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4311",
+            "course_name": "Communication Systems for Smart Infrastructure",
+            "course_desc": "This course examines the issues and processes involved in the transmission of data between sensor devices and data storage centers.  Topics include data communication principles, transmission signals, wireless and wired communication systems, security, and examples of best practices.  Prerequisite: ENGR 3373 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4320",
+            "course_name": "Biological Wastewater Management",
+            "course_desc": "This course examines biological treatment processes for domestic and industrial wastewater.  The use of sensor technologies to monitor the effectiveness of a treatment option is also addressed. Prerequisite: CE 3320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4321",
+            "course_name": "Hazardous Waste Management",
+            "course_desc": "This course is a study of best management practices relative to hazardous waste.  Topics include contamination processes, site investigations, detection, analysis methods, evaluation methods, and risk management, and treatment protocols.  The use of technology to manage the life-cycle performance of contaminated hazardous wastes sites will be studied. Prerequisite: CE 3320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4322",
+            "course_name": "Air Pollution Management",
+            "course_desc": "This course is an introductory study of air pollution.  Topics include sources, quality, meteorological influences, atmospheric dispersion modeling, and control methods. The use of sensor technologies to monitor the effectiveness of an air pollution control option is also addressed. Prerequisite: CE 3320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4323",
+            "course_name": "Physical and Chemical Treatment of Water",
+            "course_desc": "This course is a study of the physical and chemical processes used to clean water and wastewater.  The use of sensors to monitor treatment processes is also addressed. Prerequisite: CE 3320 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4330",
+            "course_name": "Design of Retaining Structures",
+            "course_desc": "This course examines the design of geotechnical structures, such as a retaining wall, that retain soil or another material.  The use of technology to manage the life-cycle performance of retaining structures will be studied. Prerequisite: CE 3331 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4350",
+            "course_name": "Design of Prestressed Concrete Infrastructure",
+            "course_desc": "This course covers the analysis and design of prestressed concrete infrastructure assets.  Topics include columns, beams, slabs, pipes, and piles.  Students will learn how to read, interpret, and use specifications and design codes.  The use of technology to monitor the behavior of a prestressed concrete infrastructure asset will be introduced. Prerequisite: CE 3350 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4351",
+            "course_name": "Design of Steel Infrastructure",
+            "course_desc": "This course covers the analysis and design of steel infrastructure assets.  Topics include connections, columns, beams, and beam-columns.  Students will learn how to read, interpret, and use specifications and design codes.  The use of technology to analyze the behavior of steel infrastructure assets will be introduced. Prerequisite: CE 2350 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4360",
+            "course_name": "Intelligent Transportation Systems",
+            "course_desc": "This course is a study of the components, technologies, and infrastructure assets that comprise intelligent transportation systems (ITS).  Smart technologies, data acquisition, and communication sub-systems will be examined within the context of personal, commercial, and public transportation.  Coverage will include mobility, public safety, socio-economic and environmental factors impacting transportation systems. Prerequisite: CE 3310 and CE 3360 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4361",
+            "course_name": "Highway Engineering",
+            "course_desc": "This course covers alignment, interchange, construction, and maintenance issues related to highways.  Topics include cross-sections, horizontal and vertical alignment, sight distance, pavement design, drainage analysis, traffic engineering, highway capacity, and construction materials. The analysis of data obtained from sensing devices during construction or use of a highway is also discussed. Prerequisite: CE 3360 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4362",
+            "course_name": "Traffic Engineering",
+            "course_desc": "This course is a basic introduction of the components of a highway traffic system and fundamentals of traffic engineering;  analysis of traffic stream characteristics, levels of service, and capacity of urban and rural highways; study of warrants for traffic control devices;  design and analysis of traffic signals and timing plans; analysis of urban and highway traffic characteristics using simulation software.  Prerequisite: CE 3360 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4370",
+            "course_name": "Hydraulics",
+            "course_desc": "This course is an examination of the properties, distribution, and circulation of water.  Topics include pipe flow, pipe networks, pumps, and open channel flow. The use of sensors to monitor fluid flow, pressure, and leaks will be addressed.  Advanced data analysis and visualization techniques will be presented. Prerequisite: ENGR 3380 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4371",
+            "course_name": "Hydrology",
+            "course_desc": "This course is an examination of surface and groundwater hydrology.  Topics include the hydrologic cycle, groundwater flow, wells, storm water management practices, open channel flow, stream flow measurements, hydrologic routing, modeling, probability, and applications.  The use of sensors to monitor hydrologic activity is also addressed. Prerequisite: CE 4370 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4390",
+            "course_name": "Civil Engineering Design I",
+            "course_desc": "This is the first in a two-course sequence meant to prepare students for engineering practice with a culminating major design experience. This course covers the planning, scheduling, budgeting, and management aspects of a technology-enhanced infrastructure design project. (WI) Prerequisite: CE 3330 with grade of \"C\" or better. Corequisite: CE 3310 and CE 3350 and CE 3360, all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4391",
+            "course_name": "Civil Engineering Design II",
+            "course_desc": "This is the second in a two-course sequence meant to prepare students for engineering practice with a culminating major design experience. This course focuses on the completion of all phases of the design project. Prerequisite: CE 3320 and CE 4390 both with grades of \"C\" or better. Corequisite: CE 3331 and CE 4370 and GEO 4356 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 4392",
+            "course_name": "Sustainable Infrastructure",
+            "course_desc": "This course examines the sustainability characteristics of various infrastructure assets.  The assets and characteristics examined will be established by the course instructor.  Examples include pervious pavements, sustainable construction materials, and sustainability in the design process.  The use of technology to manage the life-cycle performance of an asset will be studied. Prerequisite: CE 3331, CE 3350, CE 3360, and ENGR 3380 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Science & Engineering",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 5320",
+            "course_name": "Water Quality Management",
+            "course_desc": "This course is an advanced study of the processes used to monitor, measure, and manage water quality for municipal, commercial, or industrial use.  The use of technology to enhance water quality management processes is also investigated. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 5331",
+            "course_name": "Computational Methods in Geosystems",
+            "course_desc": "This course is an introduction to finite element methods (FEM) as applicable to a range of problems in physics and engineering. A survey of finite element analyses with a review of differential equations, boundary conditions, integral forms and numerical integration will be covered. This course particularly focuses on the steady-state and transient problems encountered in geotechnical, geomechanical, and hydrological engineering.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 5340",
+            "course_name": "Advanced Infrastructure Materials",
+            "course_desc": "This course provides a comprehensive presentation of advanced infrastructure materials including cement concrete, asphalt concrete, wood, steel, etc.  Emphasis is placed on a fundamental understanding of the raw ingredients of cement concrete and how these ingredients affect concrete fresh and hardened properties. A brief introduction of other common infrastructure materials is also included in this course.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 5350",
+            "course_name": "Highway Bridge Design",
+            "course_desc": "This course covers the design of highway bridge structures, including both the super- and sub-structure.  Design is in accordance with current Federal Highway Administration  (FHWA) specifications. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 5360",
+            "course_name": "Pavement Design",
+            "course_desc": "This course covers the design of concrete, asphalt, and pervious pavements.  Included are highway pavements, urban streets, airport pavements, industrial pavements, and roller compacted concrete.  Design is in accordance with current FHWA specifications.  Common construction methods are also addressed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 5370",
+            "course_name": "Urban Stormwater Management",
+            "course_desc": "This course examines the planning, design, operation, and maintenance of urban stormwater management systems.  Political, social, economic, and environmental influences on such systems are examined.  The impact of extreme events on stormwater systems and the urban landscape are also considered. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 5390",
+            "course_name": "Infrastructure Systems Analysis",
+            "course_desc": "This course is an advanced study of the planning, operation, and maintenance of municipal and commercial infrastructure assets.  Political, social, economic, environmental, and engineering influences on infrastructure systems are addressed.  Use of technology to enhance the safety and economic value of the infrastructure is also investigated. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 5391",
+            "course_name": "Advanced Mechanics of Materials",
+            "course_desc": "This course is an advanced study of stress, strain, and deformation in elastic bodies.  Topics covered include torsion, unsymmetrical bending, nonlinear beams, stress concentrations, beams on elastic foundations, Mohrs circle, and an introduction to the theory of elasticity.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7199",
+            "course_name": "Dissertation",
+            "course_desc": "This course includes original research and writing in civil engineering, to be accomplished under direct supervision of the PhD research advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CE 7299",
+            "course_name": "Dissertation",
+            "course_desc": "This course includes original research and writing in civil engineering, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CE 7320",
+            "course_name": "Water Quality Management",
+            "course_desc": "This course is an advanced study of the processes used to monitor, measure, and manage water quality for municipal, commercial, or industrial use.  The use of technology to enhance water quality management processes is also investigated.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7322",
+            "course_name": "Low Impact Development and Green Infrastructure",
+            "course_desc": "This course covers the principles and practices of Low Impact Development and Green Infrastructure (LID/GI) for sustainable development including water sustainability through rain harvesting, small systems, resource recovery, and technology-enhanced innovation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7323",
+            "course_name": "Soil and Groundwater Remediation",
+            "course_desc": "This course covers various remediation technologies to clean up contaminated soil and groundwater. Topics include, but are not limited to, subsurface hydrology, contaminant fate and transport, physicochemical and biological remediation, monitoring, and brownfield redevelopment. The significance of subsurface contamination and importance of environmental health will also be addressed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7330",
+            "course_name": "Advanced Soil Mechanics",
+            "course_desc": "This course is a fundamental graduate-level geotechnical engineering course, covering the physical, mechanical, hydraulic, and electrical properties of soil. The mandatory laboratory component will provide hands-on experience with characterizing soils for engineering purposes (stress-deformation and strength characteristics) and help to familiarize students with ASTM geotechnical laboratory testing procedures and standards.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7332",
+            "course_name": "Earth Retaining Structures and Slopes",
+            "course_desc": "The course will cover the design and analysis of various earth retaining structures as well as slope stability analysis. Fundamental lateral earth pressure theories will be taught, followed by application through design for gravity walls, cantilever walls, mechanically stabilized earth walls, soil nails, and tiebacks.  Slope stability analysis will include infinite methods, methods of slices, chart methods, and finite element methods with commercial software. Additional topics include slope remediation techniques and geosynthetics for slope stabilization.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7333",
+            "course_name": "Fluid Flow in Porous Media",
+            "course_desc": "In this course, the fundamental theory of transport and fluid flow in heterogeneous porous media will be presented. First, the equations that govern transport and fluid flow processes will be derived. Both analytical and numerical methods will be used to solve these equations in order to characterize and predict flow fields in porous media. These skills will then be applied to practical problems that involve porous media such as soils, rocks, biological tissues, concrete, etc. The knowledge gained from studies of fluid flow in natural porous materials will be employed to design/optimize systems with engineered porous media.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7334",
+            "course_name": "Advanced Foundation Engineering",
+            "course_desc": "This course examines advanced topics in foundations design including design, analysis and construction of shallow and deep foundations. Deep foundations include driven piles, drilled shafts, micropiles, and auger cast in place piles. The course will cover bearing/axial capacity, settlement, pile group effects, and lateral capacity of the various foundation types. Additional topics include subsurface exploration and analysis of pile behavior using wave equation analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7336",
+            "course_name": "Discrete Element Methods for Granular Materials",
+            "course_desc": "This course is an introduction to discrete element methods (DEM) as applicable to a range of problems in physics and engineering that deal with granular materials. It brings together various methods and skills for particle-scale or discrete-element numerical simulation of granular media. It covers a broad range of topics from basic concepts and methods towards more advanced aspects and technical details applicable to the current research on granular materials. This course particularly focuses on the transient motion of hard and soft particles encountered in geotechnical, geomechanical, geomaterial, and hydrological engineering.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7340",
+            "course_name": "Advanced Infrastructure Materials",
+            "course_desc": "This course provides a comprehensive presentation of advanced infrastructure materials including cement concrete, asphalt concrete, wood, steel, and others. Emphasis is placed on a fundamental understanding of the raw ingredients of cement concrete and how these ingredients affect concrete fresh and hardened properties. A brief introduction of other common infrastructure materials is also included in this course. Students will be asked to solve an infrastructure material related problem using advanced analytical and simulation tools.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7341",
+            "course_name": "Advanced Bituminous Materials",
+            "course_desc": "This course provides a comprehensive presentation of bituminous materials, mix design procedures, and construction techniques. Emphasis is placed on a fundamental understanding of asphalt cements and aggregates, and how these materials affect mixture design and pavement performance. Modern asphalt pavement design and construction practices are also introduced.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7350",
+            "course_name": "Highway Bridge Design",
+            "course_desc": "This course covers the design of highway bridge structures, including both the super- and sub-structure. Design is in accordance with current Federal Highway Administration (FHWA) specifications.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7351",
+            "course_name": "Advanced Reinforced Concrete Members",
+            "course_desc": "This course covers advanced topics related to reinforced concrete materials and specifications, and the behavior and design of reinforced concrete members. The topics include the following: flexural behavior and design of reinforced concrete, behavior and design of slender columns, design of structural components, frame joints, and walls, serviceability and durability issues, and anchorage design using splices, hooks, and mechanical devices.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7352",
+            "course_name": "Advanced Prestressed Concrete",
+            "course_desc": "This course covers the theories, principles, and concepts of prestressed concrete, including analysis and design of prestressed components for axial, flexure, shear, and torsion. This course will also introduce the applications of prestressed elements in various types of infrastructure.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7353",
+            "course_name": "Earthquake Engineering",
+            "course_desc": "This course covers the theories, principles, and concepts of earthquake waves and wave equations, structural dynamics, and the effect of earthquakes on structures, including modal analysis and linear and nonlinear analyses of single- and multi-degree of freedom systems. Additionally, different earthquake-resistant design principles (e.g., force-based, displacement-based, and energy-based) will be discussed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7360",
+            "course_name": "Pavement Design",
+            "course_desc": "This course covers the design of concrete, asphalt, and pervious pavements. Included are highway pavements, urban streets, airport pavements, industrial pavements, and roller compacted concrete. Design is in accordance with current FHWA specifications. Common construction methods are also addressed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7361",
+            "course_name": "Pavement Asset Management",
+            "course_desc": "This course discusses applications of pavement condition evaluation technologies, pavement distress data analysis and modeling, and pavement maintenance and rehabilitation decision making in the management of pavement systems. Topics include methods of evaluating field performance of rigid and flexible pavements by measuring surface distresses, profiles, friction resistance, and structural integrity. In addition, the course discusses pavement performance evaluation models, and ranking and optimization methods for decision-making of pavement maintenance and rehabilitation strategies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7362",
+            "course_name": "Advanced Traffic Engineering",
+            "course_desc": "This course evaluates components of transportation systems by applying principles of transportation engineering, geometric design of highways, and study of warrants for traffic control devices. Additional topics include analysis of traffic flow theory and characteristics, levels of service, and capacity of urban and rural highways, design and analysis of traffic signals and timing plans, and analysis of urban and highway traffic characteristics using simulation software.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7363",
+            "course_name": "Road Infrastructure Safety",
+            "course_desc": "This course provides an introduction to road infrastructure safety.  Topics include fundamentals of road safety analysis, highway safety management systems, count data modeling, crash severity modeling, highway safety design, basics of artificial intelligence and machine learning, human factors, and design based on safe system approach (SSA).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7364",
+            "course_name": "Non Destructive Testing and Forensic Studies",
+            "course_desc": "This course focuses on applications of non-destructive testing (NDT) technologies in pavement infrastructure forensic studies. The course covers typical modern NDT devices employed in transportation testing and evaluation including ground penetrating radar, 3-D laser scanning, falling weight deflectometer, traffic-speed deflectometer, high-speed inertial profiler, and impact echo. The course will provide in-depth content on the principles of these NDT technologies. Based on these technologies, a series of real-world projects will be comprehensively discussed as forensic study cases. The objective is to develop engineering decision making skills in effectively identifying the root-course of distresses or failures based on the NDT test results.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7366",
+            "course_name": "Advanced Statistical and Econometric Modeling",
+            "course_desc": "This course focuses on a comprehensive understanding of statistical and econometric analysis techniques, emphasizing their application in civil engineering and scientific data analysis. It covers model-estimation methods that extend beyond traditional statistics courses, providing students with a broad range of data-analysis applications while discussing underlying theories and limitations for proper comprehension and application. Prerequisite: CE 7363 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Graduate Assistantship",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7370",
+            "course_name": "Urban Stormwater Management",
+            "course_desc": "This course examines the planning, design, operation, and maintenance of urban stormwater management systems. Political, social, economic, and environmental influences on such systems are examined. The impact of extreme events on stormwater systems and the urban landscape are also considered.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7371",
+            "course_name": "Remote Sensing in Hydrology",
+            "course_desc": "This course focuses on the basics of remote sensing, data collection, processing, and analysis for a wide range of applications for hydrology and water resources at different scales. Topics include the hydrologic cycle, relevant sensor types, the electromagnetic spectrum, active/passive microwave remote sensing (precipitation, soil moisture, snow, vegetation water content, etc.), thermal sensing of evapotranspiration, and the gravity method of groundwater. This course also covers an introduction to data assimilation and practical approaches with remote sensing data for water resources management including floods and drought monitoring.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7372",
+            "course_name": "Water, Climate, and Disasters",
+            "course_desc": "This course introduces the interactions between water and climate systems and their relationship with occurrences, magnitude, and frequencies of natural disasters with a focus on climate impacts on hydrology, water resources, and extreme events (e.g., floods, drought, heat waves, landslides, and wildfires). This course covers disaster risk management and adaptation strategies for a sustainable and resilient natural environment and human society against weather and climate extreme disasters.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7390",
+            "course_name": "Infrastructure Systems Analysis",
+            "course_desc": "This course is an advanced study of the planning, operation, and maintenance of municipal and commercial infrastructure assets. Political, social, economic, environmental, and engineering influences on infrastructure systems are addressed. Use of technology to enhance the safety and economic value of the infrastructure is also investigated.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7391",
+            "course_name": "Advanced Mechanics of Materials",
+            "course_desc": "This course is an advanced study of stress, strain, and deformation in elastic bodies. Topics covered include torsion, unsymmetrical bending, nonlinear beams, stress concentrations, beams on elastic foundations, Mohrs circle, and an introduction to the theory of elasticity.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7393",
+            "course_name": "Artificial Intelligence Applications in Civil Engineering",
+            "course_desc": "This course explores the interface between artificial intelligence (AI) and civil engineering. The course covers foundational topics including civil engineering basics, AI fundamentals, matrix algebra, and data preprocessing. The curriculum also includes specific AI methodologies, like supervised, unsupervised, deep learning, and explainable AI, in addition to natural language processing. It highlights emerging technologies in civil engineering and the ethical and social implications of AI in the sector.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7394",
+            "course_name": "Climate Change Impact and Adaptation in Civil Engineering",
+            "course_desc": "This course provides an introduction to global and regional climate change processes, drivers, and impacts. Case studies are presented for the regional impacts of climate change on extreme weather, water availability, and energy and transportation systems. Students are introduced to a variety of natural hazards and possible mitigation approaches as well as principles of design, including adaptable design and design for failure. Students select the problems they want to solve and develop their projects. Students carry out exercises with relevant data sets, write critiques of key issues, and complete a focused term project.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7395",
+            "course_name": "Finite Element Modeling in Civil Engineering",
+            "course_desc": "This course is an introduction to finite element methods (FEM) as applicable to a range of problems in physics and engineering. A survey of finite element analyses with a review of differential equations, boundary conditions, integral forms and numerical integration will be covered. This course particularly focuses on the steady-state and transient problems encountered in geotechnical, geomechanical, and hydrological engineering.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7396",
+            "course_name": "Life Cycle Assessment of Infrastructure",
+            "course_desc": "This course provides analytical tools and methods for implementing principles of life cycle analysis for civil engineering infrastructure. Civil infrastructure systems are critical assets that are subjected to damage, service-life deterioration, and increasing maintenance and rehabilitation cost. Effective infrastructure management and principles of sustainable development can help to find an optimal compromise between economic growth and environmental protection for all stakeholders. Life cycle assessment (LCA) is an important decision support framework for estimating and assessing the environmental impacts attributable to the life cycle of civil infrastructure systems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "CE 7399",
+            "course_name": "Dissertation",
+            "course_desc": "This course includes original research and writing in civil engineering, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CE 7599",
+            "course_name": "Dissertation",
+            "course_desc": "This course includes original research and writing in civil engineering, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CE 7699",
+            "course_name": "Dissertation",
+            "course_desc": "This course includes original research and writing in civil engineering, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n6 Credit Hours \n6 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "CE 7999",
+            "course_name": "Dissertation",
+            "course_desc": "This course includes original research and writing in civil engineering, to be accomplished under direct supervision of the dissertation advisor. While conducting dissertation research and writing, students must be continuously enrolled each long semester.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

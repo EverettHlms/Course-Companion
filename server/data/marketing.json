@@ -1,0 +1,406 @@
+{
+    "name": "Marketing",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/mkt/",
+    "courses": [
+        {
+            "course_code": "MKT 3340",
+            "course_name": "Entrepreneurial Marketing",
+            "course_desc": "Entrepreneurial Marketing is the primary means of fast growth. Students learn to identify and develop the most efficient ways to grow a business with a toolkit of new marketing practices that can help startups and emerging firms gain a foothold in crowded markets. This course is appropriate for the students who have an entrepreneurial mindset, which is a way of thinking or set of skills that enable people to identify and make the most of opportunities, overcome and learn from setbacks, and succeed in various settings. Prerequisite: MKT 3343 and [QMST 2333 or MATH 2328] both with grades of D or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 3343",
+            "course_name": "Principles of Marketing",
+            "course_desc": "This course studies the strategic marketing process, which creates value for consumers and organizations through integrated production and distribution of products. It examines the marketing process in the context of the global, cultural, economic, legal/regulatory environment. It also examines ethical and socially-responsible marketing and the impact of information technology.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 3350",
+            "course_name": "Consumer Behavior",
+            "course_desc": "A study of the role of the consumer in marketing. Considers the motivation, personality, attitudes, perceptions, lifestyle, and decision-making processes of consumers. Prerequisite: MKT 3343 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 3355",
+            "course_name": "Retailing",
+            "course_desc": "A study of the principles of retail store management, including market and trade area analysis, store location and design, organization and operation management, merchandising, inventory control, and promotion and pricing policies. Prerequisite: MKT 3343 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 3358",
+            "course_name": "Professional Selling",
+            "course_desc": "A study of the professional selling process including strategically planning sales calls, strengthening communication skills, responding helpfully to objections, obtaining commitment and building partnerships. Examines cultivating committed relationships, strategic alliances, and partnering skills to provide total sales quality to the company, suppliers, and customers. Prerequisite: MKT 3343 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 3360",
+            "course_name": "Sales Management",
+            "course_desc": "A study of issues related to planning for, managing, motivating, directing, and controlling a sales force and related sales territories. Both international and domestic perspectives are addressed. Special emphasis is given to the efficiency (cost consideration) and effectiveness (satisfaction consideration) of sales management. Prerequisite: MKT 3358 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 3362",
+            "course_name": "Studies in Free Enterprises",
+            "course_desc": "The course will focus on developing goal setting, project identification, project planning and management, marketing, financing, and implementing student directed educational programs. The projects are aimed at increasing citizen awareness and understanding of business and economic issues. (WI) Prerequisite: MKT 3343 with a grade of \"D\" or better and a minimum 2.0 overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 3365",
+            "course_name": "Services Marketing",
+            "course_desc": "The services sector dominates the U.S. economy and is becoming critical for competitive advantage in companies across the globe and in all industry sectors. This course examines the foundations of services marketing, which are necessary to create, promise, and deliver a successful, interactive customer experience. Prerequisite: MKT 3343 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 3370",
+            "course_name": "Marketing Research",
+            "course_desc": "This course offers a comprehensive study of marketing research process that includes formulating a problem, developing a research plan, determining a sample, analyzing data, preparing a research report, and linking the consumer, customer, public, and marketer through information. Prerequisite: MKT 3343 and [QMST 2333 or MATH 2328] both with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 3375",
+            "course_name": "Marketing for Social Change",
+            "course_desc": "This class uses marketing principles and techniques to influence a target audience to voluntarily accept, reject, modify, or abandon a behavior for the benefit of individuals, groups, or society as a whole. In this hands-on course students develop and implement marketing campaigns for social change on behalf of non-profit clients. (WI) Prerequisite: MKT 3343 and MKT 3350 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 3380",
+            "course_name": "Sports Marketing",
+            "course_desc": "Examines four components of sports marketing, including: (1) the foundation of sports marketing, (2) marketing through sports, including sponsorship, endorsement, and licensing strategies, (3) the marketing of sports, including marketing mix strategies, and (4) emerging topics in sports marketing, including relationship marketing, technology, and controversial issues. Prerequisite: MKT 3343 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 3385",
+            "course_name": "Ethnic and Niche Marketing",
+            "course_desc": "The course introduces students to marketing approaches used to understand and market products/services to U.S. ethnic and/or subgroups of consumers. The course includes consumer behavior and research techniques as well as implications to the marketing mix. Prerequisite: MKT 3350 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 3387",
+            "course_name": "Digital Marketing",
+            "course_desc": "Introduces methods for dynamically and directly reaching customers using digital promotion methods. Through discussion of digital marketing concepts and hands-on projects and assignments, students explore how website design, search engine optimization, paid search, digital display advertising, email marketing, and social media can be utilized to achieve desirable marketing outcomes. Prerequisite: MKT 3343 and [ANLY 2333 or MATH 2328] both with a grade of \"C\" or better and minimum 2.0 GPA overall.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 3390",
+            "course_name": "Marketing Health Care",
+            "course_desc": "A study of marketing and its role in health care, including buyer and service provider behavior, relevant marketing principles and strategies, and emerging topics, such as medical tourism, universal health care, and health care regulations.  Prerequisite:  MKT 3343 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 4310",
+            "course_name": "International Marketing",
+            "course_desc": "A study of the international planning and coordination of marketing functions, marketing policies, and the analysis of marketing on an international scope including environmental and cultural aspects. (MULT). Prerequisite: MKT 3343 with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 4315",
+            "course_name": "Service Design",
+            "course_desc": "Service Design involves the planning and organizing of people, infrastructure, communication, and material components of a service in order to improve its quality and the interaction between service providers and customers. This course aims to provide hands-on experience that will enable students to develop competences in service design. Prerequisite: MKT 3365 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 4325",
+            "course_name": "Advanced Topics in Service Marketing",
+            "course_desc": "This class is a comprehensive study of services marketing theories, concepts, and strategies; it includes an examination of cost controls, research methodologies, branding, customer service innovation, consumer behavior, and service delivery.  Prerequisite: MKT 3343 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 4330",
+            "course_name": "Promotional Strategy",
+            "course_desc": "Analysis of promotional methods used in marketing and their relation to other business functions. Examines advertising, selling, and sales promotion. Prerequisite: MKT 3343 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Multicultural Perspective",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 4337",
+            "course_name": "Marketing Management",
+            "course_desc": "An integrative course that applies management concepts and techniques to the solution of marketing problems. Analyzes market segments and product positioning, product and product line price, channels of distribution, and promotion. (WI) (MULP) Prerequisite: [QMST 2333 or MATH 2328] and MKT 3343 and six additional hours of marketing courses all with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Multicultural Perspective|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 4340",
+            "course_name": "Marketing Analytics Foundations",
+            "course_desc": "The course explores data analysis techniques that are applied to real-world business problems. Students will learn how to analyze business data and how to make strategic decisions. In addition, students will learn how to monitor and predict marketing and sales metrics and how to turn data into actionable plans. Through discussions of marketing concepts and hands-on projects and assignments, students will learn how to use analytics to create positive organizational outcomes. Prerequisite: MKT 3343 and [ANLY 2333 or MATH 2328] both with grades of \"C\" or better and a minimum 2.0 overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 4341",
+            "course_name": "Marketing Data Visualization",
+            "course_desc": "This course delves into the role of data visualization in modern marketing. Students will use the industry's top data visualization tools to analyze and present marketing metrics for actionable insights. We'll tackle best practices for organizing and presenting data using real-world scenarios. All course materials, assignments, and projects will be conducted in cutting-edge, highly demanded data visualization platforms, giving you the skills needed to tell compelling, data-driven stories. By the end of the course, you'll be adept at understanding your data, crafting clear visual narratives, and effectively communicating your findings to a target audienceall through the use of data graphics. Prerequisite:  MKT 3343 and [ANLY 2333 or MATH 2328} both with grades of \"C\" or better and a minimum 2.0 overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 4392",
+            "course_name": "Sales Internship",
+            "course_desc": "This course provides an integration of professional and academic experience through a Sales internship with an external employer. Credit awarded as pass/fail. Prerequisites: MKT 3343 and MKT 3358 both with grades of \"D\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MKT 4393",
+            "course_name": "Services Marketing Internship",
+            "course_desc": "This course provides an integration of professional and academic experience through a Service internship with an external employer. Credit awarded as pass/fail. Prerequisites: MKT 3343 and MKT 3365 both with grades of \"D\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MKT 4395",
+            "course_name": "Independent Study in Marketing",
+            "course_desc": "Directed research and extensive written assignment on a selected topic related to students area of interest. Work may consist of literature reviews, integration of literature, or other appropriate independent research. May be repeated once for credit with different emphasis. (WI) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 4396",
+            "course_name": "Directed Study in Professional Sales",
+            "course_desc": "Directed study and research in selected professional sales topics. May be repeated for credit with a different emphasis. Prerequisite: MKT 3343 and MKT 3358 both with grades of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 4397",
+            "course_name": "Directed Study in Marketing",
+            "course_desc": "Directed study and research in selected marketing topics, including the development of a promotional or marketing plan. Course can be offered as individual instruction or as an organized class. Repeatable for credit with different emphasis. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Dual Enrollment Permitted",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 4399",
+            "course_name": "Marketing Internship",
+            "course_desc": "This course provides an integration of professional and academic experience through internship with an external employer. Credit awarded as pass/fail. Prerequisite: MKT 3343 with a \"D\" or better and Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n15 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MKT 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MKT 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MKT 5321",
+            "course_name": "Marketing Management",
+            "course_desc": "A study of the planning and coordination of marketing functions, marketing policies, and the analysis of marketing administration. Prerequisite: B A 5351 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5322",
+            "course_name": "Marketing Research Methods",
+            "course_desc": "An advanced study of the marketing research process to include problem formulation, determination of sources of information and research design, design of data collection forms, design of the sample, collection of the data, analysis and interpretation of the data, preparation of the research report, and oral presentation of the research findings. Prerequisite: MKT 5321 and QMST 5334 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5323",
+            "course_name": "Qualitative Research in Marketing",
+            "course_desc": "This course examines qualitative methods as used in marketing and market research. Topics include the design and execution of qualitative research projects using various qualitative methodological approaches. Activities include application of qualitative methods for conducting research. Students will apply learning in a qualitative research project.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5330",
+            "course_name": "International Marketing",
+            "course_desc": "An application of marketing concepts to the global business environment. Examines marketing in the light of international economic, social, cultural, business, and environmental factors. Prerequisite: B A 5351 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5331",
+            "course_name": "Integrated Marketing Communications",
+            "course_desc": "An analysis of consumer behavior in the marketplace and its application to the preparation and presentation of a complete integrated marketing communications plan for a local, regional, and/or national client. Prerequisite: MKT 5321 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5335",
+            "course_name": "Services Marketing",
+            "course_desc": "Services dominate the U.S. economy and are becoming critical for competitive advantage in companies across the globe and in all industry sectors. This course examines the foundations of services marketing, which are necessary to create, promise, and deliver a successful, interactive customer experience. Prerequisite: MKT 5321 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5340",
+            "course_name": "Digital Marketing",
+            "course_desc": "This course examines marketing strategies in the digital environment. It examines the latest technology and analytical tools used in e-marketing and e-commerce, including online advertising, mobile marketing, social media marketing, search marketing, email marketing, and web analytics. Prerequisite: MKT 5321 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5341",
+            "course_name": "Social Media Marketing and Analysis",
+            "course_desc": "This course provides a conceptual foundation and practical approach for conducting social media analysis and developing a social media marketing plan and/or campaign will be presented. Students will gain hands-on experience using social media strategically to achieve desired marketing goals through a hands-on project. Students will also earn applicable digital marketing certifications. Prerequisite: MKT 5321 with a grade of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5345",
+            "course_name": "Marketing Analytics",
+            "course_desc": "This course is a study of the scientific approach that connects customer data and competitive information to drive marketing decision-making.  The course explores customer data analysis techniques and their theoretical foundations that are applied to real world business problems.  Students will learn software, conduct data analysis and communicate the results. Prerequisite: MKT 5321 and QMST 5334 both with grades of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5346",
+            "course_name": "Contemporary Topics in Marketing Analytics",
+            "course_desc": "This course covers contemporary topics in marketing analytics. Students will learn (1) concepts and methods in strategic marketing analytics, (2) analytical and mapping tools in geospatial data and information, (3) concepts and methods in Bayesian Networks, (4) Topic Analysis using big data in marketing, and (5) other emerging analytical tools and methods in marketing. Prerequisite: QMST 5334 with a grade of C or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5347",
+            "course_name": "AI and Data Visualization for Marketing",
+            "course_desc": "This course consists of applied training in foundational topics for artificial intelligence and data visualization. It covers both prediction as well as classification problems. While many technical aspects are covered, the main emphasis is on knowing how to apply a wide range of modern techniques to specific marketing problems.  Prerequisite: MKT 5321 and QMST 5334 both with grades of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5348",
+            "course_name": "Python for Marketing Analytics",
+            "course_desc": "This course consists of learning Python and using this programming language for data analysis and visualization. This course will help to leverage the power of historical data and to develop models that project future trends. Python will be used for exploratory data analysis, market forecasting, customer segmentation, deep learning, social media analysis and analysis of marketing images and videos. Prerequisite: MKT 5321 and QMST 5334 both with grades of \"C\" or better or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5350",
+            "course_name": "Strategic Marketing Analysis and Planning",
+            "course_desc": "This course examines strategic marketing decision making through the analysis and interpretation of marketing intelligence, metrics, and dashboards. Topics will include data-driven decision making on marketing challenges pertaining to customers, brands, marketing mix decisions, online strategy and social media, market performance, and firm profitability.  Prerequisite: MKT 5322 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5395",
+            "course_name": "Independent Study in Marketing",
+            "course_desc": "Individual problems or topics will be designed and completed to emphasize selected areas of study in Marketing. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5397I",
+            "course_name": "Entrepreneurial Marketing",
+            "course_desc": "Entrepreneurship involves the discovery, implementation, and pursuit of new business opportunities. Successful execution of an entrepreneurial idea requires an effective marketing plan and related skills. In this course, we will investigate how marketing concepts (product, price, promotion, place, people, processes, brand image, segmentation, targeting, positioning, quality perceptions) can facilitate entrepreneurs'  realization of their ideas. A conceptual foundation and practical approach for developing an entrepreneurship-focused marketing plan will be discussed. Using a hands-on approach, students will gain skills and knowledge on the effective use of marketing concepts to achieve entrepreneurial goals.  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5398",
+            "course_name": "Internship in Marketing",
+            "course_desc": "Internship in marketing is an external employer supervised, experiential learning course that enables a student to integrate professional and graduate business coursework.   Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n20 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MKT 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollments.  No thesis credit is awarded until student has completed the thesis in Marketing Research and Analysis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MKT 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MKT 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MKT 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments.  The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MKT 7321",
+            "course_name": "Marketing Management",
+            "course_desc": "This course covers concepts, activities, and techniques related to the planning and coordination of marketing functions, marketing policies, and the analysis of marketing administration.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

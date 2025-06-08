@@ -1,0 +1,54 @@
+{
+    "name": "Diversity Studies",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/dvst/",
+    "courses": [
+        {
+            "course_code": "DVST 3301",
+            "course_name": "Introduction to Diversity Studies",
+            "course_desc": "The course is a general, multi-disciplinary and comparative survey of U.S diversity issues. It highlights the traditional minorities, such as African, Latino/a American, Native, and Asian Americas, as well as European American ethnic groups. It also  explores issues related to religion, age, sexual orientation, gender identity, and physical ability/disability. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DVST 3320",
+            "course_name": "Introduction to Global Diversity Issues",
+            "course_desc": "This course provides an understanding of relationship between U.S and other nations in terms of economics, politics, and culture. Students will examine how colonialism shaped developed and underdeveloped nations, investigate grassroots activism in response to globalization and will examine how policies formulation by one country has consequences for other countries. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DVST 3325",
+            "course_name": "Social Difference of Groups in Society",
+            "course_desc": "This course introduces students to theories of social difference, such as race, class, gender, sexuality, age, and disability/ability using a case study analysis of social interactions within complex social, cultural, economic, or political systems. The focus is to explore the role of social institutions and organizations in constructing social difference and to study its impact on people's opportunities. Prerequisite: DVST 3301 with a grade of a \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DVST 5310",
+            "course_name": "Diversity Studies: Theories & Issues",
+            "course_desc": "Focusing on the four major ethnic groups (Native Americans, African Americans, Mexican Americans, and Asian Americans), this interdisciplinary course introduces critical theories and issues relating to race, class, ethnicity, culture, and other areas of diversity in the United States. The literature component of the course will supplement the theoretical texts. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DVST 5320",
+            "course_name": "Global Issues in Diversity",
+            "course_desc": "Course provides framework for analyzing diversity globally.  Examines how globalization acts to shape and re-shape ethnic identity and ethnic antagonism.  Course investigates how the shaping and re-shaping of ethnic identity influences immigration policy, reproductive rights, LGBTQ rights, and healthcare delivery. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "DVST 5388",
+            "course_name": "Independent Study in Diversity Studies",
+            "course_desc": "This course, which is part of an interdisciplinary minor, is open to graduate students on an individual basis by arrangement with the faculty member concerned. The course allows students to conduct research on diversity related topics in various academic fields. (MULT) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

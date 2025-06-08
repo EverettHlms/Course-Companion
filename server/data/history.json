@@ -1,0 +1,1998 @@
+{
+    "name": "History",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/hist/",
+    "courses": [
+        {
+            "course_code": "HIST 1310",
+            "course_name": "History of the United States to 1877",
+            "course_desc": "A general survey of the history of the United States from its settlement to the end of Reconstruction. (WI) (MULT) (MULP).",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): American History Core 060|Multicultural Perspective|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 1320",
+            "course_name": "History of the United States, 1877 to Date",
+            "course_desc": "A general survey of the history of the United States from Reconstruction to present. (WI) (MULT) (MULP).",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): American History Core 060|Multicultural Perspective|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 2310",
+            "course_name": "Western Civilization to 1715",
+            "course_desc": "A general survey of western civilization from earliest times to the end of the 17th century. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 2311",
+            "course_name": "History of World Civilization to the 17th Century",
+            "course_desc": "A general survey of world civilization from the earliest times to the 17th Century. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 2312",
+            "course_name": "History of World Civilization from the 17th Century",
+            "course_desc": "A general survey of world civilization from the 17th Century to the present. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 2320",
+            "course_name": "Western Civilization, 1715 to Date",
+            "course_desc": "A general survey of western civilization from the Treaty of Utrecht to the present. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 2327",
+            "course_name": "History of Mexican America to 1865",
+            "course_desc": "This course is a survey of the economic, social, political, intellectual, and cultural history of Mexican Americans/Chicanx to 1865. Topics the course addresses include: conquest and mestizaje; the rise and fall of native and African slavery, colonial Mexicos relationship to other global economies, the development of New Spains/Mexicos northern frontier, how gender and power shaped the emergence of Mexican identities, independence movements, mission secularization, Texas independence, the U.S.Mexico wars, and U.S. expansion and civil war.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): American History Core 060|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 2328",
+            "course_name": "History of Mexican America from 1865",
+            "course_desc": "This course is a survey of the economic, social, political, intellectual, and cultural history of Mexican Americans/Chicanx since 1865. Topics the course addresses include: the making of borders and borderlands, the impact of the Treaty of Guadalupe Hidalgo, and uses gender to explain migration and citizenship and expulsion, nineteenth-century activism and displacement, industrialization and the making of a transnational Mexican working class, the Mexican Revolution, urbanization, WWII and organized advocacy, the Chicano Movement, changing identifications, globalization, and immigration restriction.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): American History Core 060|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 2381",
+            "course_name": "African American History to 1877",
+            "course_desc": "This course is a survey of the social, political, economic, cultural and intellectual history of people of African descent in the formation and development of the United States to the Civil War/Reconstruction period. African American History to 1877 includes the study of African origins and legacy, trans-Atlantic slave trade and the experiences of African Americans during the Colonial, Revolutionary, Early National, Antebellum, and the Civil War/Reconstruction Era. This course presents African American history as an integral part of U.S. History.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): American History Core 060|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 2382",
+            "course_name": "African American History from 1877",
+            "course_desc": "This course is a survey of the social, political, economic, cultural, and intellectual history of people of African descent in the United States from the end of the Reconstruction period to the present. African American History since 1877 examines segregation, disenfranchisement, civil rights, migrations, industrialization, world wars, the Harlem Renaissance, and the conditions of African Americans in the Great Depression, Cold War, and post-Cold War eras. This course enables students to understand African American history as an integral part of US history.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): American History Core 060|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3310",
+            "course_name": "History of Europe, 1815-1919",
+            "course_desc": "The background, course, and results of World War I, with emphasis on imperialism, diplomatic alliances, and nationalistic rivalries from the Congress of Vienna to the Paris peace settlements. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3311",
+            "course_name": "History of Europe Since 1919",
+            "course_desc": "The rise of Communism, Fascism, and Nazism; the background of World War II, and the post-war problems of peace. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3312",
+            "course_name": "Renaissance and Reformation",
+            "course_desc": "The cultural, political, and economic changes that marked the transition from the Middle Ages in Europe to the modern period; special attention to the decline of the medieval church and the Protestant revolt. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3313",
+            "course_name": "Europe During the Old Regime, 1600-1760",
+            "course_desc": "A study of European society and institutions in the 17th and 18th centuries\nwith special attention to the development of absolute and constitutional monarchy, the scientific revolution, and the intellectual ferment of the Enlightenment. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3314",
+            "course_name": "Revolutionary Europe, 1760-1815",
+            "course_desc": "A study of the dynamics of revolutionary change in France and the rest of\nthe European continent from the period of the Seven Years War through the fall of Napoleon Bonaparte. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3315",
+            "course_name": "History of England to 1603",
+            "course_desc": "The development of the English nation from prehistoric times to the end of the Tudor Dynasty in 1603. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3316",
+            "course_name": "History of England Since 1603",
+            "course_desc": "The English nation and the British Empire from 1603 through the modern era. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3317",
+            "course_name": "US Women's History to 1877",
+            "course_desc": "This course surveys the diversity of women's experiences in the United States from the colonial era to 1877. The social, economic, political, and intellectual realms of women's worlds, both public and private, are explored. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3318",
+            "course_name": "US Women's History since 1877",
+            "course_desc": "This course surveys the diversity of women's experiences in the United States from 1877 to the present. The social, economic, political, and intellectual realms of women's worlds, both public and private, are explored. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3319",
+            "course_name": "History of Brazil",
+            "course_desc": "This course surveys the history of Brazil, from pre-Columbian times until the present, with a focus on the development of a national culture. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3320",
+            "course_name": "History of Mexico",
+            "course_desc": "A survey of the national period of Mexican history from the independence movement to the present. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3322",
+            "course_name": "Colonial History of Latin America to 1828",
+            "course_desc": "A study of the colonial period of Latin America from the early Spanish and Portuguese colonization to the beginning of the period of independence. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3324",
+            "course_name": "Latin America from Independence to Present",
+            "course_desc": "This course examines the history of Latin America from independence to present. Explores the challenges of formation and consolidation of the new states; of economic policy and development; the rise of Populism and the age of reforms; revolutions and revolutionary movements; and present challenges. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3325G",
+            "course_name": "Modern Revolutions in Latin American History",
+            "course_desc": "This course will focus on the historical antecedents and events surrounding the Mexican, Guatemalan, Cuban, Chilean, and Nicaraguan revolutions. The purpose is to analyze these five revolutions and to come to an understanding of the current problems facing Latin America. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3325I",
+            "course_name": "Resistance and Rebellion in Colonial Latin America",
+            "course_desc": "This research-based course analyzes the political dynamics of resistance, rebellion, and social control within Latin American colonial societies, from the pax colonial of the seventeenth century to the Age of Andean Insurrection of the second half of the eighteenth century. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3325J",
+            "course_name": "Diplomacy Seminar",
+            "course_desc": "A senior-level seminar that explores overarching topics in Diplomacy (including intelligence, negotiation, speech and report writing, protocol, and media and risk management) through reading, writing, research and group discussion. This course is a required capstone for all Diplomacy minors and should be taken in the last semester of minor coursework. Departmental Approval required. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3326",
+            "course_name": "The Southern Cone of Latin America",
+            "course_desc": "A topical survey of Argentina, Chile, Brazil, and Uruguay which stresses the political balance, geopolitical interests, and forces of commonality and division that have influenced this region since the colonial period. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3327",
+            "course_name": "History of Mexico to 1848",
+            "course_desc": "A survey of Mexico from prehistoric times to the Treaty of Guadalupe Hidalgo. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3328",
+            "course_name": "Militarism in Latin America",
+            "course_desc": "This course provides an in-depth survey of militarism and the causes and processes of transition to democracy in Latin America. Students examine the major characteristics of different types of military regimes in Latin America with particular attention to the military regimes in Argentina, Chile, Brazil, and Uruguay, and their relinquishing of power for democratic transitions. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3329",
+            "course_name": "Spanish Borderlands, 1521-1821",
+            "course_desc": "A survey of the history of the Spanish frontier in North America and its hinterlands from the earliest explorations to the end of Spanish rule in 1821. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3332",
+            "course_name": "History of Early Modern Spain from 1492 to 1808",
+            "course_desc": "This course traces the history of Spain and its transoceanic empire from the reign of the Catholic Monarchs, Isabel I of Castile and Fernando II of Aragon, in the late fifteenth century to the Peninsular War against Napoleons invading forces in the early nineteenth century. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3333",
+            "course_name": "History of Modern Spain from 1808 to Present",
+            "course_desc": "This course covers over two hundred years of Spanish history, beginning during Europes revolutionary era through Spains fall into fascism, its transition to democracy and integration into the European Union. Students will engage with issues related to Spains history and culture, considering issues of religion, race, gender, sexuality, nationalism, and class. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3335",
+            "course_name": "Spain of the Three Religions: Muslims, Christians, and Jews in Premodern Iberia",
+            "course_desc": "This course covers the history of Muslims, Christians, and Jews in Spain from Islamic conquests in the 700s to expulsions of Jews and Muslims from the peninsula in the 1400s and 1600s. For most of this 900-year chronology, however, Muslims, Christians, and Jews lived in close proximity, sometimes as neighbors, causing scholars to dub this era as Spain of the three religions. This class investigates the dynamics between these religious groups as they evolved across time, exploring themes like the politics of conversion, the role of gender in interfaith relations, intellectual exchange, and the relationship between royal authority and religion.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3337",
+            "course_name": "History of US Foreign Policy Making in the Muslim World",
+            "course_desc": "This course examines the history of U.S. foreign policy-making in the Muslim Middle East in the twentieth century by exploring selected incidents in the history of U.S. foreign policy towards the Middle East. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3338",
+            "course_name": "History of Religion in India",
+            "course_desc": "This course surveys the historical development of religious traditions within India including Vedic, Buddhist, Jain, Hindu, Christian, Islamic, and Sikh traditions. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3340",
+            "course_name": "History of the United States, 1877-1914",
+            "course_desc": "A survey of American history from the end of Reconstruction to the outbreak of World War I with an emphasis on the pertinent historical literature. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3341",
+            "course_name": "History of the United States, 1914-1945",
+            "course_desc": "The study of American history from World War I through World War II with an emphasis on the pertinent historical literature. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3342",
+            "course_name": "Social and Intellectual History of the United States, 1607-1865",
+            "course_desc": "A history of American culture, with emphasis on the development of religious, political, social, and philosophical ideas through the Civil War. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3343",
+            "course_name": "Social and Intellectual History of the United States Since 1865",
+            "course_desc": "A study of the development of the United States after 1865, with emphasis on the social, political, economic,aesthetic, and philosophical ideas that have influenced contemporary American culture. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3346",
+            "course_name": "The Civil War and Reconstruction",
+            "course_desc": "The history of the United States from the Compromise of 1850 through the election of 1876. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3349",
+            "course_name": "The Constitution of the United States",
+            "course_desc": "An intensive study of the origin and development of the Constitution of the United States. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3352",
+            "course_name": "Western America",
+            "course_desc": "A general examination of the Trans-Mississippi West, its major cultural, economic, political, and social frontiers, and its development as a region and as a national component, from 1803 to the present. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3353",
+            "course_name": "The US - Mexico Border and its Communities: A History",
+            "course_desc": "This course is a thematic examination of the region including Texas, California and the states that include the Great Basin, the Southern Rockies, and the Sonoran Desert from Mexican Independence in 1821 to the present. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3357",
+            "course_name": "History of US Foreign Relations",
+            "course_desc": "A study of American diplomacy since the Civil War. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3359",
+            "course_name": "African American History",
+            "course_desc": "A survey of African-American history, 1619 to the present. Emphases include African and European backgrounds, hemispheric slavery, slavery in early America, the antislavery movement, the Civil War and Reconstruction, post-Reconstruction culture and society, and Civil Rights movement. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3363",
+            "course_name": "Colonial North America to 1763",
+            "course_desc": "An intensive study of selected topics in the history of the settlement and expansion of British North America, including the development of the social, economic, and political life of the American colonies. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3365",
+            "course_name": "US Early Republic, 1788-1828",
+            "course_desc": "History of the early national era, 1788-1828, with emphasis on development of the first party system in American politics, the social and economic issues, the expansion of southern slavery, and the western frontier. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3366",
+            "course_name": "Introduction to Public History",
+            "course_desc": "This course offers an introduction to the work of public historians who interpret history outside the classroom in settings like museums, historic sites, archives, and national parks. Topics explored in this course include: methods used by public historians to preserve historic buildings and exhibit museum collections; how to engage the public with the past through storytelling and digital history projects; and the challenges faced by public historians to mediate popular memory and myth. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368B",
+            "course_name": "Law and Society in Early America",
+            "course_desc": "A survey of American law and society from its European antecedents to the mid-nineteenth century. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368E",
+            "course_name": "United States Westward Expansionism, 1776-1861",
+            "course_desc": "This course examines the expansion of the United State across the North American continent from the time of the American Revolution to the beginning of the Civil War. Special attention will be devoted to the Louisiana Purchase, the annexation of Texas, the Mexican Cession of 1848, and the Gadsden Purchase. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368H",
+            "course_name": "LBJ's America",
+            "course_desc": "This is a team-taught course covering LBJs evolution as politician. Beginning with LBJs early career, students will learn the New Deal/Rooseveltian roots of LBJs political philosophy. Second, students will discuss LBJs presidency, Great Society, and Civil Rights legislation. Lastly, students will study LBJs Cold War politics, particularly the Vietnam conflict. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368J",
+            "course_name": "The Space Race",
+            "course_desc": "This course traces the history of space exploration, focusing on the competition between the United States and Russia since the launch of Sputnik in 1957. Themes include the creation and role of NASA, the scientific and economic impact of rocket science, and the political use of the space program. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368K",
+            "course_name": "American Cultural History",
+            "course_desc": "This course examines the history of specific expressive, popular, and symbolic forms of US culture in shaping American intellectual life, aesthetics, and material culture during the post- Civil War  mid 20th century period. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368L",
+            "course_name": "History of Mexican American Music in the Southwest",
+            "course_desc": "This class will explore Mexican American Music in all of its forms as it has developed in the American Southwest. The course will begin with an historical review of the region. It will then explore, from Islamic Spain to the contemporary Southwest, the development of musical language, styles and fusions. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368M",
+            "course_name": "Popular Music and Social Movements in 20th Century America",
+            "course_desc": "The examination of music as both a reflection of historical trends and a tool of social change will illuminate the relationship between music, culture, politics, and protest movements in 20th-century American history. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368P",
+            "course_name": "The US and Britain in the Sixties",
+            "course_desc": "This course explores the political, social and cultural changes experienced by Americans and Britons during the \"long 1960s\" (1955-1975). Students will examine key events in each country separately before focusing on the commonalities and differences. Special attention will be paid to the transfer of movements across the Atlantic. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368S",
+            "course_name": "History of Music and Race in the American South",
+            "course_desc": "This course examines how the complex musical landscape of the American South, including blues, gospel, jazz, folk, country, bluegrass, Cajun, zydeco, rockabilly, and others, reflects the interaction of larger social, historical, ethnic, racial, political, and economic forces in that region from the eighteenth century to the present. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368T",
+            "course_name": "American Songbook",
+            "course_desc": "This course examines the music of American from the colonial era to the 1960s.  By exploring songs as primary source documents, students will analyze lyrical themes that illuminate historical trends from diverse perspectives,  Beginning with British America, the course traces musical contributions of many demographic groups that comprise American society.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368U",
+            "course_name": "US - Cuban Relations",
+            "course_desc": "This course will provide students with an overview of relations between the United States and Cuba from 1865 to 2006.  Themes include economic, political, military, and cultural inter-development through Cuban independence movements, U.S. military occupation, shared cultural and economic movements, and the growing animosity from Castro's Revolution to recent years. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368X",
+            "course_name": "Organization of the Modern American State",
+            "course_desc": "This course analyzes changes in political culture, policies, and organizational dynamics that shaped the American state, 1870 - Present.  It examines how interest groups, experts, and bureaucrats helped transform a weak American state into one that affects most parts of citizens' daily lives, despite America's traditional aversion to centralized power.  (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368Y",
+            "course_name": "Walking in the Way of Peace, War & Slavery: Quakers in American History",
+            "course_desc": "From their earliest roles as agitators to the Puritan Citty on a Hill and as founders of Pennsylvania, The Best Poor Mans Country, to their early embrace of abolition and notable pacifist resistance in the Revolution, Civil War, WWII and Vietnam the Society of Friends has played an out sized role in American History. This course will take a thematic approach to focus on several key points at the intersection of Quaker and American history, concentrating particularly on two issues: the Quaker relationship to slavery and the slave trade, and the Quaker response to warfare.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3368Z",
+            "course_name": "A Global History of Pandemics",
+            "course_desc": "This class will investigate the history of pandemics. This course includes the Justinian plague of the 6th century, the Black Death of 1347-52, the smallpox pandemic caused by the Spanish Empire, the Spanish influenza outbreak of 1918, the polio pandemic, the influenza pandemic of 1957, the HIV/AIDS pandemic, and the COVID-19 pandemic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3371A",
+            "course_name": "Conflict and Creativity in US Urban and Suburban History",
+            "course_desc": "This course surveys the changing functions, scale, and quality of urban society in the United States.  Special emphasis will be placed upon urban politics, or how changing demographics, physical environments, public and private institutions, and economies both grew out of and gave rise to political tensions between Americans. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3371B",
+            "course_name": "Health and Illness in American History",
+            "course_desc": "From concerns epidemics might undermine proper American racial orders to anxieties over democracy and health care financing (Obamacare), health and illness have reflected and shaped the ways Americans understand themselves, their policies, and their societies.  This course examines two centuries of this complicated and fascinating history. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3371C",
+            "course_name": "History Behind the Headlines: Current Debates in a Historical Perspective",
+            "course_desc": "This course will allow students the opportunity to explore the historical roots and development of some of the most pressing questions that dominate our current political climate and policy debates.   Students will seek to put the past in the present, looking at how American history shapes the debates of today.  We will cover topics such as the history of pandemics and our government response, the history of mass incarceration and police brutality, the rise of the conservative movement and neoliberal capitalism, and other immigration policy debates.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3371D",
+            "course_name": "The History of US Policing and Prisons",
+            "course_desc": "This course traces the historical development of policing and prisons in the United States, introducing students to the historical method and creating opportunities for original research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3372",
+            "course_name": "Texas History: A Survey",
+            "course_desc": "A one-semester survey of Texas History which will emphasize political, economic\nand social development from prehistory to the twentieth century. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3373C",
+            "course_name": "The History of Rural Women",
+            "course_desc": "This course surveys rural women in the United States from the founding of the nation to the present. Topics include womens work in the agricultural economy, female influence in community and agrarian organizations, and the relations ship between rural and government services from regional, national, and global perspectives. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3373D",
+            "course_name": "History of American Feminisms, 1960-2020",
+            "course_desc": "This course covers the history of feminist activism from 1960 to 2020 in the United States.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3374A",
+            "course_name": "History of Christianity 1300-1700",
+            "course_desc": "This course examines selected individuals and movements that embody key concerns of Christians during the most tumultuous era in Western Church history.  The course begins in the fourteenth century so that students may gain perspective on reform efforts predating, and decisively influencing, the break with Rome catalyzed by Martin Luther.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3374D",
+            "course_name": "Reframing Medieval Power: Rulers of the Mediterranean",
+            "course_desc": "This course explores often overlooked rulers and centers of power of the Middle Ages to expand discussion beyond white male kings of Christian Europe. Powerful queens, African dynasties, and Muslim rulers are some narratives included alongside those of European monarchies. Readings include modern scholarship and medieval sources like mirrors for princes, crusade chronicles, and legal texts, as well as works on art and architecture.  Assignments include short essays and discussion, and there will be a multi-day class role-playing simulation where students will be cast as real medieval people with personal goals and diplomatic missions to negotiate with their peers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3375A",
+            "course_name": "Topics in Working Class History",
+            "course_desc": "Examines topics in US working class history with emphasis on the experiences of organized and unorganized workers in the context of their social, cultural, political, and workplace environments and  the role of the working class in shaping US society. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3375E",
+            "course_name": "History of Womens Health in the United States",
+            "course_desc": "This course examines the history of womens health and healthcare in the United States from Colonial America to present day debates over female bodily autonomy, including but not limited to abortion, access to prenatal, postpartum, and maternal care, birth control, and trans healthcare. Topics and themes covered in the course include the ways in which the state attempted to control womens access to sex-specific healthcare and how women demanded and created more transparency and forged new avenues of medical autonomy.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3376",
+            "course_name": "American Religious History",
+            "course_desc": "This course in religious history explores the theological, social, and political evolution of religions and the development of the leading trends in religious beliefs and practices in the United States from pre-European encounters to the present. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3377",
+            "course_name": "History of Country Music",
+            "course_desc": "This course examines the evolution of country music and how it reflects larger social, cultural, historical economic, political, ethnic, and demographic changes taking place within American society. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3378",
+            "course_name": "History of the Blues",
+            "course_desc": "This course examines the evolution of the blues and other forms of African-American music throughout American history, with an emphasis on how blues music reflects the rich and complex traditions of the African-American community and helped give birth to rock & roll. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3379",
+            "course_name": "History of Rock and Roll",
+            "course_desc": "This course traces the various ethnic, social, cultural, political, economic, and demographic forces in American society that helped shape rock and roll music. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3380",
+            "course_name": "The Desegregation of the South from 1944-1970",
+            "course_desc": "Course will address the history and the historiography of the desegregation of the South from 1944-1970. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3381",
+            "course_name": "Democracy and Education",
+            "course_desc": "This course provides an overview of the relationship (and tension) between democracy and education in the U.S. between 1865 and 1930, when emancipation, westward expansion, rural poverty, and growing immigrant and working-class populations motivated reassessment and reform of public education in an attempt to meet individual and societal needs. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3382",
+            "course_name": "Immigration and US History",
+            "course_desc": "This course examines the history of immigration to the United States beginning with the colonial era and extending through present day. It considers the causes of immigration; the social, cultural and economic experiences of various immigrant groups; the development of immigrant group identities; and American responses to immigration.(WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 3384",
+            "course_name": "History and Culture of Modern India",
+            "course_desc": "This course surveys the history of modern India. The course covers the Mughal Empire, British Colonialism, Mahatma Gandhi and the Indian Independence Movement, the establishment of the nations of India and Pakistan, and recent political and historical developments in India. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4304",
+            "course_name": "Ancient Rome and the Mediterranean 500 BC to 500 AD",
+            "course_desc": "A survey of Roman History from the Republican period to the fall of the Western Empire with emphasis on its Mediterranean milieu. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4307",
+            "course_name": "Medieval European History, 300-1400",
+            "course_desc": "A study of the Latin West and the Byzantine East during the Middle Ages with emphasis on the continuity of Greco-Roman culture as it encounters Islam and the Barbarians. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4316",
+            "course_name": "Roman and Medieval Britain",
+            "course_desc": "This course is a study in British history from the arrival of the Romans in Britain to 1603. This course integrates classroom discussions, readings, virtual excursions and discussions of the major events and features of Roman and Medieval history in Britain. Students are introduced to issues, personalities, movements and developments, encompassing political, governmental, constitutional, social, religious, economic and cultural topics. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4317",
+            "course_name": "Tudor-Stuart England, 1485-1689",
+            "course_desc": "A study of the constitutional, social, political, and religious developments in England during the Tudor-Stuart dynasties. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4318B",
+            "course_name": "Race in the Middle Ages: Exclusion and Belonging in the Mediterranean",
+            "course_desc": "This course will teach students how a constellation of physical, cultural, and religious characteristics became encoded with racializing meanings before the 17th c. In the diverse Mediterranean, people justified violence, privilege, exclusion, and belonging by constructing notions of sameness and difference. Medieval race-thinking appears in Christian and Islamic literature, religious texts on curses, blood purity statutes, human diversity in art, laws about womens chastity, and geographies of so-called monstrous races. Delving into such sources, students will pursue research that investigates how the history of race and racecraft is deeply related to medieval definitions of power, morality, community, and identity.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4318C",
+            "course_name": "Spy vs Spy: Intelligence & Counterintelligence in World War II",
+            "course_desc": "This course examines key intelligence operations and agencies active in the Arab world/North Africa. Students assess tradecraft, querying the extent to which intelligence work complemented the Allies' domestic and foreign policies. Half of the courses content focuses on Queer, Trans, and LGBTQIAP+ experiences of World War II.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4318N",
+            "course_name": "Immigration in European History",
+            "course_desc": "While we typically think of Europe as a fixed, finite continent, its borders are more porous than we often realize. This class examines the movement of people from Europe and to Europe in the nineteenth and twentieth centuries.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4318S",
+            "course_name": "Britain and the World",
+            "course_desc": "Mainstream British history still neglects the world's influence upon domestic developments, and British overseas history remains largely confined to the study of the British Empire.  This course takes a broader approach, investigating Britain's interactions with the wider world from 1688 to the present.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4318U",
+            "course_name": "Industrial Britain",
+            "course_desc": "This course will examine the physical impact that industrialization had on the Great Britain - bridges, canals, factories - and the cultural/social effects on factory and seaside resort towns and ocean ports.  The class will address what role industrialization played in Britain becoming world industrial and imperial power. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4318W",
+            "course_name": "Queer Youth History",
+            "course_desc": "This transatlantic course examines the emergence of both youth and queer culture in urban spaces through a study of gender, sexuality, race, class, and nationalism. With a wide-ranging chronological and geographical scope, the selected queer/youth cultures represent diverse spatial, aesthetic, economic, political, and socio-cultural histories.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4318X",
+            "course_name": "Scottish History from the Wars of Independence to the Present",
+            "course_desc": "This class will investigate the history of Scotland from the 13th century (the Wars of Independence from England) to the present day.  It will focus on major personalities and important events both within and without Scotland as well as the culture and society of this proud and ancient nation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4318Y",
+            "course_name": "The Global Teenager",
+            "course_desc": "This course covers the historical development of the category of the teenager across the globe, exploring the similarities and differences of the teenage experience across a variety of regional contexts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4318Z",
+            "course_name": "Podcasting History: Making Marginalized Voices Heard",
+            "course_desc": "In this course students will work collaboratively to create history podcasts on topics related to race, gender, class, nationality, and sexuality for public audiences. Students will learn relevant software and cultural history research methods, as well as how to script and record podcasts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4320",
+            "course_name": "Origins of Christianity",
+            "course_desc": "A survey of the development of the institutional church from the founding of the first primitive communities of believers to the rending of Christian unity in the 16th century. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4323",
+            "course_name": "France and the Modern World",
+            "course_desc": "This course surveys important phenomena in nineteenth and twentieth-century French history that have had an impact on the development of the modern world. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4325",
+            "course_name": "Islamic History to 1798",
+            "course_desc": "This course explores the history and culture of the Arab and Muslim peoples in the Middle East and North Africa from the late 6th century to Napoleon's invasion of Egypt in 1798. Emphasis is placed on the interrelationships of indigenous socio-economic structures and intellectual developments in Islamic theology and Shar' a law. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4326",
+            "course_name": "The Modern Middle East",
+            "course_desc": "This course emphasizes economic social and intellectual developments in the Arab Middle East and North Africa in the 19th and 20th centuries. Some attention will be paid to Iran in the period after World War II. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4327",
+            "course_name": "The Problem of Palestine",
+            "course_desc": "Examination of Arab Palestine. Ottoman records to 1914, Israel's creation in 1948, and Jordan's loss of control of the West Bank and Gaza in 1967 will be surveyed. The Palestinian Diaspora, Yasir Arafat's leadership, and the \"Intifada,\" also will be examined. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4328",
+            "course_name": "History of India",
+            "course_desc": "This course is an introduction to the history of India from ancient times to the creation of the modern nation-state of India. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4331",
+            "course_name": "Piracy Through the Ages",
+            "course_desc": "An activity based on greed, and sometimes survival, piracy has existed since humans took to the seas.  This course investigates the global history of piracy beginning with the Vikings.  The history of piracy in the Caribbean, Asia, and the Mediterranean will be covered and compared to the piracy of today. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4332",
+            "course_name": "European Colonialism",
+            "course_desc": "This course explores the worldwide development of European colonial systems since the fifteenth century. The course emphasizes how native peoples responded to European attempts to introduce economic, political, and cultural prerogatives in a variety of world settings such as South and Southeast Asia, Africa, and North and South America.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4333",
+            "course_name": "The History of Russia and Eurasia to 1917",
+            "course_desc": "A survey of Kievan Rus, Muscovy, and the Russian Empire to 1917. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4334",
+            "course_name": "The History of Russia and Eurasia from 1917 to Present",
+            "course_desc": "A survey of the history of the former Soviet Union and post-Soviet society from 1917 to the present. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4335",
+            "course_name": "20TH CENT EAST EUR",
+            "course_desc": "A survey of the history of Eastern Europe. May be repeated with a different emphasis. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4336",
+            "course_name": "Germany from 1815 to Present",
+            "course_desc": "The political, social, economic, and cultural development of Germany since\nNapoleonic times. Includes the Confederation period, unification under Bismarck, the Second Empire, National Socialism, and the post-war period. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4337",
+            "course_name": "Germany and National Socialism, 1918-1945",
+            "course_desc": "Survey of German history and the Nazi movement. Topics covered will include the Weimar Republic, Hitler's rise to power, everyday life in Nazi Germany and in peace and war and the Holocaust. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4341",
+            "course_name": "The History of Modern Britain",
+            "course_desc": "This course examines the history of imperial Britain from the early ninteenth century to the present day. Students analyze the cultural and intellectual foundations of modern British society, including the growth of its industrial economy, the development of representative politics, and the evolution of its relationship with empire.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4342",
+            "course_name": "Modern Africa",
+            "course_desc": "The course presents a chronological narrative of Africa from the beginning of the nineteenth century until the present day. Students engage with the continents social, cultural, and intellectual history through topics and themes that include the spread of Islam and Christianity, the Atlantic and Indian Ocean trade worlds, twentieth-century colonialism, and anti-colonial nationalism. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4343",
+            "course_name": "Modern China, 1600 to the Present",
+            "course_desc": "A survey of the political, social, economic, and intellectual history of China from 1600 to the present. Emphasis on the issues of domestic troubles and external aggression, and on the revolutionary changes in the 19th and 20th centuries. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4344",
+            "course_name": "Modern Japan, 1600-Present",
+            "course_desc": "A survey of the political, social, economic, and intellectual history of Japan from 1600 to the present. Focus on the radical changes in the state, society, and economy in the 19th and 20th centuries and on the impact of these changes on Japans status in the world today. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4345",
+            "course_name": "Postwar Japan",
+            "course_desc": "This course explores Japans development from the 1940s through the 1970s. The emphasis is on the continuities and discontinuities from the wartime to the postwar regime, American influence on policies and discourses on post-occupation society, the legacies of the war in culture and society, and the repercussions of economic affluence. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4346",
+            "course_name": "Modern Korea",
+            "course_desc": "This course is a survey of the political, social, economic, and intellectual history of modern Korea, focusing on the external aggression and internal transformation between 1876 and 1910, the impact of the Japanese rule, the split into two Koreas in 1945, and the North/South developments and interactions since then. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4347",
+            "course_name": "History of Hong Kong",
+            "course_desc": "This course is a survey of the political, social, economic, and intellectual history of Hong Kong from 1842 to the present.  Focus is on British colonial rule, the Handover in 1997, and the current status of the Hong Kong Special Administrative Region of the People's Republic of China. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4348",
+            "course_name": "Mahatma Gandhi and Nonviolence",
+            "course_desc": "This course will offer students the opportunity to explore Mahatma Gandhi's leadership of the movement against British colonialism in India and the legacy of Gandhi's strategies of non-violent non-cooperation in other political movements of the twentieth century. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4349",
+            "course_name": "History of Drugs",
+            "course_desc": "This course examines the impact of drugs on societies, how drug use has changed throughout history corresponding to major changes in society, and the ways in which drugs have influenced international trade and political economics. Psychoactive substances (from stimulants to hallucinogens) have played a major role in shaping human societies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4350A",
+            "course_name": "Slavery and Emancipation in the Americas",
+            "course_desc": "An Atlantic and continental perspective of the institutionalization of the slave trade, the adaptation of the plantation system and the evolution of slave laws, the various models of emancipation in the Americas, followed by the modified forms of indigenous and foreign slave labor adopted in the Americas. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4350D",
+            "course_name": "Empire and Identity in Central Asia",
+            "course_desc": "This course explores the historical development of local, ethnic, and national identity in Central Asia from the 13th-century Mongol conquest to the present. The course concludes with explorations of the transnational links within the region and the challenges and possibilities for the five Central Asian republics in the post-Soviet era. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4350E",
+            "course_name": "Gender in Latin American History",
+            "course_desc": "This course surveys the role of gender in Latin American history, from pre-conquest to the present. It analyzes Latin American politics, culture, and economics, and gives particular attention to the creation and resistance of social norms. The course strengthens analytical skills through extensive discussion and writing. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4350K",
+            "course_name": "Gender & Militarization in the Arab World",
+            "course_desc": "For women and men in the modern Arab world, national identity and sovereignty  or civil war  influence how they live. This class takes advantage of cutting-edge scholarship on the twentieth-century Middle East to hone students skills in historical analysis. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4350L",
+            "course_name": "History of Southeast Asia",
+            "course_desc": "This course explores the region of Southeast Asia from its earliest origins through the periods of European colonialism, nationalism, revolution, and the transformation of old societies into new nations. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4350R",
+            "course_name": "Workers and Work in the Arab World",
+            "course_desc": "Of 255 million people in 22 predominantly-Arab countries in North Africa and the Middle East, over the past 150 years, most have worked at some kind of job or another.  In this course we will consider how labor politics introduce state regulations to gender, national and sexual identities. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4350T",
+            "course_name": "Japanese Urban Life",
+            "course_desc": "Home to the worlds largest city, Edo, at the end of the eighteenth century, Japan has been influenced over many centuries by a vibrant and distinctive urban culture. Through works of history, fiction, film, geography, and urban planning, this course introduces students to the characteristics and development of Japanese urban.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4350V",
+            "course_name": "History of Pakistan",
+            "course_desc": "This course is an introduction to the history and culture of Pakistan.  Broadly covering the 5000 year history of the region, from origins, the introduction of Islam and creation of the modern state, the course focuses on the cultural developments of the region, along with highlights of major political developments. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4350Y",
+            "course_name": "Development of Secularism in Ottoman Empire and Modern Turkey",
+            "course_desc": "The emergence of Turkey as a secular state is a peculiar example among the countries with predominantly Muslim populations. This course aims to provide students with an historical survey of the secularization of the Ottoman state and the development that led to the emergence of modern Turkey.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4352",
+            "course_name": "Black Women and Black Protest in America",
+            "course_desc": "This course traces the participation of Black women in every stage of Black protest in America from slavery and Reconstruction thru the Civil Rights and Black nationalist movements to present day. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4353",
+            "course_name": "WWI: The Great War",
+            "course_desc": "This course covers the history of the First World War by examining the experiences of both soldiers and civilians across multiple continents. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4360",
+            "course_name": "History of the United States, 1945 to 1968",
+            "course_desc": "A study of the interplay of economic, social, political, and cultural forces that shaped American society from the end of World War II to the presidential election of 1968. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4361",
+            "course_name": "History of the United States, 1968 to the Present",
+            "course_desc": "A study of the interplay of economic, social, political and cultural forces that have shaped American society from 1968 to the present. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4362",
+            "course_name": "Peace and Nonviolence Movements",
+            "course_desc": "This course explores the origins, development, and impact of peace and nonviolence movements globally. It examines the roles that religion, class, gender, race, ethnicity, and nationalism have played in shaping social and political perceptions of injustice and public attitudes toward movement goals.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4364",
+            "course_name": "Military History of the United States",
+            "course_desc": "A specialized study of the military problems of the United States since 1789 and their impact upon non-military problems. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4365",
+            "course_name": "Age of Revolution in North America, 1763-1789",
+            "course_desc": "A history of the American people during the age of the American Revolution, from the beginning of the crisis with Britain to the adoption of the Constitution. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4367",
+            "course_name": "US Antebellum Era, 1812-1861",
+            "course_desc": "A survey of conflicting American attitudes about the desirability of a strong central government, rapid economic growth, aggressive national expansion, and human slavery in a democratic society. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4368",
+            "course_name": "War and Society",
+            "course_desc": "A study of the relationship of war with social and cultural institutions from the 18th century to the present. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4369",
+            "course_name": "Introduction to Ethnohistory",
+            "course_desc": "This course familiarizes students with the ethnohistorical method, a multidisciplinary approach to the study of the historical, social, and cultural processes undergone by indigenous peoples before, during, and after contact with nation-states. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4371",
+            "course_name": "Introduction to American Indian History",
+            "course_desc": "This course promotes understanding of the role played by the native peoples of North America in the history of the United States. Among the subjects to be covered through lectures and discussions: initial migrations and cultural development; impact of European conquest; adaptation; removal and reservation life; 20th century adjustments. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4372",
+            "course_name": "Latina/o/x Histories",
+            "course_desc": "This course is a survey of the political, economic, and social-cultural role of Latinas/os in the United States.  (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4373",
+            "course_name": "Economic and Social History of the Americas",
+            "course_desc": "Comparative history of the Americas with special attention to the United States, Canada, and Mexico. Explores different patterns of economic growth and their impact on societies and international relations. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4374A",
+            "course_name": "History of American Sexualities",
+            "course_desc": "This course examines the history of sexuality in the United States from the colonial period to the end of the twentieth century. The course emphasizes the diversity of sexual behaviors, the role of sexual regulation, and modes of thought in the past.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4374B",
+            "course_name": "History Lab: European Cinema and Film Festival",
+            "course_desc": "In this course, students will collaborate on a significant faculty-directed research project or public history project as part of a team. Students will learn research methods, project design strategies, and implementation skills. Projects can include working on peer-reviewed research, symposium organization, and/or exhibitions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4375A",
+            "course_name": "Critical Issues in Texas History",
+            "course_desc": "Emphasis will be on significant critical issues in Texas history. Topics will include: Mexican independence, Texas and U.S. expansion, the Texas Revolution and the Mexican War, the Civil War and Reconstruction, Spindletop, the Depression and WWII, and the rise of urban, high-tech Texas. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4375B",
+            "course_name": "African-American Experience in Texas",
+            "course_desc": "People of African ancestry have played a role in Texas history since Estebanico accompanied Cabeza de Vaca in exploring the region in the 1530s. As slaves, soldiers, and cowboys, Afro-Texans have participated in the states development while being at the center of controversies regarding rights, racemixing and economic opportunity. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4376",
+            "course_name": "The History of Texas Music",
+            "course_desc": "Examination of the evolution of music in Texas and the American Southwest, emphasizing how music reflects the richly diverse ethnic and cultural heritage of the region. It also considers the importance of ethnic identity and other social, political, and economic factors in shaping the Southwest, its people, and its music. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4377",
+            "course_name": "Social Justice and Reform Movements in the United States",
+            "course_desc": "This course introduces students to the history of U.S. social justice movements. It defines activism as individual, community, and political acts designed to create social, political, and economic change at both the local and national levels. The course explores a series of topics, including the Black Freedom Movement, Chicano Movement, Indigenous Peoples Movement, voting rights, labor movements, and student activism, among other topics in U.S. social movement history.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4379",
+            "course_name": "Internship in Public History",
+            "course_desc": "This course offers a supervised work experience related to students career interests in historical institutions. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIST 4380",
+            "course_name": "Historical Resources and Practices",
+            "course_desc": "This course is required for students seeking teacher certification in History. This course is an introductory methods course designed to familiarize students with general historical practice and its application in secondary teaching. (WI) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4388",
+            "course_name": "Problems in History",
+            "course_desc": "This is an independent study course open to advanced students on an individual basis. Repeatable for credit with different emphasis. (WI) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 4399",
+            "course_name": "Senior Seminar",
+            "course_desc": "This course is required for History majors not seeking teaching certification. In this course students refine skills and techniques essential to the historical profession. Students analyze primary and secondary sources, apply methods, and write a term paper. Prerequisite: 24 semester credit hours in History with a grade point average of at least 2.25 in those hours. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIST 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIST 5301",
+            "course_name": "Instructional Methods Practicum for Graduate Assistants",
+            "course_desc": "Required as a condition of employment for graduate teaching and instructional assistants. This course provides regular in-service and planned periodic evaluations of instructional responsibilities. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "HIST 5307",
+            "course_name": "Medieval European History: Contemporary Trends in Medieval Historiography",
+            "course_desc": "This course introduces graduate students to the craft of the medieval historian, with emphasis on major contemporary shifts in American historiography of the European Middle Ages.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5309D",
+            "course_name": "Early Modern Spain",
+            "course_desc": "A seminar based on selected topics in political, social, intellectual, and economic history of Spain from 1450 to 1815. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5310",
+            "course_name": "Western European History Since 1815",
+            "course_desc": "A seminar based on selected topics in the history of Western Europe from 1815 to the present. May be repeated with a different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5313",
+            "course_name": "Early American History",
+            "course_desc": "A seminar based on selected topics in the Colonial Revolutionary and Early National periods of the United States history. May be repeated with different\nemphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5314",
+            "course_name": "Ethnohistory",
+            "course_desc": "This seminar seeks to familiarize students with current questions, methods, theories, and debates in ethnohistory, a multidisciplinary approach to the history of indigenous peoples. Materials studied will include both classic and recent ethnohistorical works. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5315A",
+            "course_name": "American Sexualities",
+            "course_desc": "This course addresses the history of sexualities in the United States from the colonial era to present to shed light on the ways that sexuality has shaped social life, establish conventions, and created spaces to defy norms. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5315B",
+            "course_name": "Queer History: GLBT Histories in the United States",
+            "course_desc": "This course examines the histories of different sexual minorities from the colonial era to present, though the majority of the course focuses on the twentieth century, to explore the rise of the modern lesbian, gay, bisexual, and transgender identities, politics, and culture. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5316A",
+            "course_name": "Women's Rights in Comparative Perspective",
+            "course_desc": "This course considers national, transnational, and global development of campaigns for womens rights since the nineteenth century.  The course examines how women agitated for their rights in different cultural and historical moments.  Students will gain familiarity with comparative feminisms, the gendered nature of liberal movements, and womens activism in national and international arenas. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5316B",
+            "course_name": "Women and Empire",
+            "course_desc": "From 1492 until World War II the globe was dominated by imperialism.  This course considers the ways that women, in the metropoles of Europe and throughout colonial settings, found their lives shaped by empire. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5316C",
+            "course_name": "Women and Gender in the Early Modern Atlantic World",
+            "course_desc": "This course introduces students to the themes, topics, and issues that animate the histories of African, European, and indigenous women in the Atlantic World from 1500 to 1800. Emphasis will be placed on comparisons between empires and on the methodological challenges of researching early modern women.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5318A",
+            "course_name": "Eighteenth Century England",
+            "course_desc": "A seminar based on selected topics in political, social, intellectual, and economic history of England from 1688 to 1815. May be repeated with a different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5318C",
+            "course_name": "The Age of the Stuarts",
+            "course_desc": "A study of selected topics in English history between 1603 and 1714.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5318D",
+            "course_name": "European Imperialism",
+            "course_desc": "Europe's penchant for building empires helped to greatly enhance their influence (economic, political, and cultural) from the fifteenth to the twentieth century.  The course will review the major European empires and discuss the extent of their influence during this 500 year span.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5318E",
+            "course_name": "European Sexualities",
+            "course_desc": "This course examines the history of sexuality of Europe in the modern era. It considers how the history of sexuality intersects with and explicates many of the crucial events in modern European history including empire, total war, communism, fascism, decolonization, and immigration.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5318F",
+            "course_name": "European Fascisms and Historical Memory",
+            "course_desc": "This course compares historical and contemporary manifestations of fascism in Europe. It considers how the historical memory of fascism has impacted historical memory of the past, contemporary movements, legal structures, museums, and other historical monuments in Europe today.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5319",
+            "course_name": "The Age of the Tudors",
+            "course_desc": "This readings-based course emphasizes differing interpretations of selected topics in English history from circa 1485 to 1603. Constitutional, political, governmental, social, religious, and cultural aspects of the era are covered.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5323A",
+            "course_name": "Society and Culture in Brazil",
+            "course_desc": "This seminar explores the social and cultural history of Brazil through its various ages, the Age of Sugar, the Age of Coffee, the Age of Pedro II, the Belle Epoque, and the worlds of the sugar and coffee barons. It explores the character of these ages marked by the grand plantation houses, devotion to European models, and the conflict with a slave society, covering the years from the colonial period to the turn of the twentieth century. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5323B",
+            "course_name": "History of Race and Slavery in Brazil",
+            "course_desc": "This course assesses the literature on race relations and slavery in Brazil.  It situates the topic within a comparative, Atlantic framework and provides a critical understanding of the chief issues and debates in the field. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5324B",
+            "course_name": "Race, Class, and Nation in Modern Latin America",
+            "course_desc": "A seminar that examines the relationship between race, class, and nation building in Latin America, beginning with  independence in the nineteenth century and continuing to contemporary times. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5324C",
+            "course_name": "Slavery and Emancipation in the Americas",
+            "course_desc": "This course examines slavery in the Americas in its full social, political, and economic context. Students will enlarge their understanding of slavery by using an international, transatlantic framework for comparison. The course strengthens analytical skills through extensive discussion as well as significant writing and research. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5324D",
+            "course_name": "Writing the History of Latin America: The Colonial Era",
+            "course_desc": "This readings seminar provides a critical assessment of the main themes and debates of colonial Latin American historiography.  The course discusses the different paradigms under which historians have approached the cultures and societies of the region under Spanish and Portuguese rule, emphasizing on the latest trends and developments. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5324E",
+            "course_name": "Modern Latin American Revolutions",
+            "course_desc": "The course is a seminar that examines and compares the causes, consequences and results of Latin America's twentieth century revolutions. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5325A",
+            "course_name": "History of Mexico to 1848",
+            "course_desc": "A topic course studying the history of Mexico from pre-historic times to the Treaty of Guadalupe Hidalgo. The course encompasses the development of Indian societies from the Yucatan to the American Southwest preceding the Spanish conquest, the social, economic, and political development of Spanish colonial Mexico, the War in Independence, and the formation of the new nation through the war with the United States. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5325C",
+            "course_name": "Revolutionary Mexico",
+            "course_desc": "A graduate seminar that explores the interrelated economic, social, political, and cultural conditions and forces that shaped revolutionary Mexico.  Ideological currents that impacted the period will be examined. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5325D",
+            "course_name": "Mexico Since the Revolution",
+            "course_desc": "This class is a Graduate Seminar covering the History of Post-Revolutionary Mexico.  This course will explore the history of Mexico since the Revolution, including the social, cultural, and economic legacies of the Revolution, as well as the process of State building, one party rule, globalization, and the transition to democracy. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5335",
+            "course_name": "Twentieth-Century Russia",
+            "course_desc": "A seminar based on selected topics in recent Russian history. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5336",
+            "course_name": "East European History",
+            "course_desc": "A seminar based on selected topics in recent East European history. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5341B",
+            "course_name": "Caribbean Transnationalism and Diplomacy",
+            "course_desc": "This seminar focuses on the international relations of the twentieth-century Caribbean, with emphasis on interactions between Cuba, the Dominican Republic, Haiti, Jamaica, the United States, and Venezuela. Students will analyze the ways that international action and response in these countries have affected policy, government, and international social movements. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5343",
+            "course_name": "The Progressive Era",
+            "course_desc": "This course is a seminar on the rise of industrial capitalism and corporate power and the public response to the related restructuring of the social and economic order between 1890 and 1920, with particular emphasis on the strengths and weaknesses of progressivism as a democratic movement for reform. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5344",
+            "course_name": "History and Memory",
+            "course_desc": "This course examines the way that groups shape the the collective memory of past events, how memory shifts over time, and the way it can be influenced by present influences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5345D",
+            "course_name": "Oral History: Theory & Practice",
+            "course_desc": "A seminar based upon developing a theoretical and practical understanding of the techniques of oral historical research and document preservation and presentation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5345M",
+            "course_name": "History of Utopian Communities",
+            "course_desc": "This seminar examines utopian experiments in American History. Starting with John Winthrops 1630 City upon a Hill, the course explores both religious and secular communal ventures through the eighteenth and nineteenth centuries. The course concludes with an examination of counter-cultural, twentieth-century communes, intentional communities, and cultic separatists.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5345N",
+            "course_name": "Transformation of the South",
+            "course_desc": "This course is a readings research seminar on African-American culture and life in the twentieth century South from 1890-1971. The course provides the students with a thorough historical examination through biographies and community studies of specific issues and events that ended legal segregation in the South. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5345O",
+            "course_name": "Immigration and US History",
+            "course_desc": "This course focuses on North American immigration history from colonial times to the present and looks at how both immigrants and native-born Americans struggled to reconcile conflicting notions of identity and national loyalty. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5345P",
+            "course_name": "History of Mexican American Music in the Southwest",
+            "course_desc": "This class will introduce students to the musical history of Islamic Spain, Spanish Colonial Mexico, and Mexico and investigate the influences of these traditions on the development of Mexican-American music in the American Southwest. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5345Q",
+            "course_name": "Gender and Citizenship",
+            "course_desc": "This course is designed to introduce students to the literature in United States history that addresses issues of gender and how they relate to US citizenship from the colonial period to the present. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5345R",
+            "course_name": "History of Country Music",
+            "course_desc": "This seminar traces the various ethnic, social, cultural, political, economic, and demographic forces in American society that have helped shape country music. Students will also explore how this uniquely American cultural idiom mirrors the historical evolution of the United States.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5345S",
+            "course_name": "Theories and Methods in Popular Music History/Culture Studies",
+            "course_desc": "This is a course in the theories and methods of cultural studies and popular music history for graduate students.  It is intended to review the history of debates and methodologies in the field to prepare students to do original work that fits into the larger conversations in popular music studies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5345T",
+            "course_name": "Biography and American History",
+            "course_desc": "In this class students will delve into the practice of biography and the ways in which biographers convey American history and culture through a life story.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5345U",
+            "course_name": "Dark Tourism: Interpreting Historic Sites of Oppression, Death, and Disaster",
+            "course_desc": "This course examines issues and effective methods of interpreting historic sites open to visitors associated with tragic historical events and practices, such as battlefields, concentration camps, massacre sites, and plantation houses, that are to the public. Dark tourism sites in the United States and around the world will be examined.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5346",
+            "course_name": "African American History",
+            "course_desc": "This course is an intensive readings and research seminar in African American History. Through the uses of lectures, biographies, institutional histories and community studies, students will be introduced to the different interpretive themes and methodologies that have created the myriad of historical interpretations and reinterpretations of African American History. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5347",
+            "course_name": "Texas History",
+            "course_desc": "A seminar based on selected topics in the history of Texas. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5348",
+            "course_name": "History of Texas Music",
+            "course_desc": "This course examines the evolution of music in Texas and the American Southwest from pre-Colombian times to the present, with an emphasis on how music reflects the ethnically diverse history and culture of the region. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5350",
+            "course_name": "The Frontier in American History",
+            "course_desc": "A seminar based on selected topics in the history of the frontier in American development. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5351B",
+            "course_name": "Cold War America",
+            "course_desc": "This course examines the Cold War years 1945 to 1960, concentrating on the domestic scene. The class will discuss the major issues of domestic politics, society, and culture, through the use of both primary and secondary sources. They will also examine the historiography of the period. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5351C",
+            "course_name": "Race, Gender, and Ethnicity in American Labor History",
+            "course_desc": "This graduate seminar explores the impact of race, gender, and ethnicity upon American Labor History. Readings integrate race, gender, and ethnicity as categories of analysis into the study of class formation, experiences, and consciousness within the American labor force. The focus will be on unorganized as well as organized workers in the context of their social, cultural, political, and workplace environments. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5351D",
+            "course_name": "Politics & Society of Postwar America, 1945-Present",
+            "course_desc": "This course will explore the interaction of political, economic, and social forces in the years following the Second World War.  Emphasis will be placed on analyzing the interdependent relationship between political structures, social movements, and economic circumstances. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5351E",
+            "course_name": "Foundations of the US Conservation Movement",
+            "course_desc": "The course will provide an overview of the conservation movement from the writings of Henry David Thoreau to publication of Rachel Carson's Silent Spring. Emphasis will be on social and cultural influences, with particular attention to government programs, naturalist literature, activism, movement leaders, and landmarks of environmental debate.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5351F",
+            "course_name": "US Women's History",
+            "course_desc": "This course offers graduate students an introduction in the topics, themes, and issues that animate the history of women in the US. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5351H",
+            "course_name": "US Latino/a History",
+            "course_desc": "This course explores the histories, cultures, and politics that shape Latino/a experiences in the United States and examines the way Latino communities helped shape the making of the nation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5353",
+            "course_name": "Greater Southwestern History",
+            "course_desc": "A seminar based on selected topics in the history of the Greater American Southwest. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5358",
+            "course_name": "Sectionalism & Slavery in the United States",
+            "course_desc": "This course assesses the literature on the causes and consequences of the sectional conflict between the American North and the South before the Civil War, with particular focus on works examining the slavery issue and the way it exacerbated American sectionalism, leading to the fracturing of the American nation. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5361",
+            "course_name": "Historiography and Methods",
+            "course_desc": "A general introduction to key concepts, approaches, and challenges involved in reading, researching, and writing history at the professional level.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5362",
+            "course_name": "Military History",
+            "course_desc": "This seminar is based on selected topics in military history. May be repeated with different emphases up to nine hours.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5363",
+            "course_name": "Antebellum American Society & Culture",
+            "course_desc": "This seminar explores the cultural dynamics, social relations, and political and economic structures that shaped the lives of ordinary Americans in the three decades before the Civil War. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5367",
+            "course_name": "US Era of Civil War and Reconstruction",
+            "course_desc": "A seminar that examines the history of the causes, course, and consequences of the American Civil War and the efforts to reconstruct the American Nation in its aftermath. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5369",
+            "course_name": "Music and Social Movements",
+            "course_desc": "This course examines the historical role music has played in a variety of social movements related to race, gender, ethnicity, religion, politics, economics, education, labor, civil rights, and other issues in U.S. history. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5371",
+            "course_name": "The Practice of Public History",
+            "course_desc": "A seminar addressing the definition, evolution, and philosophy of public history.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5372",
+            "course_name": "The Practice of Museum Studies and Material Culture",
+            "course_desc": "A seminar addressing the history, organization, and functions of history museums.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5373",
+            "course_name": "The Practice of Historic Preservation",
+            "course_desc": "A seminar addressing architectural history and preservation theory and practice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5374",
+            "course_name": "Public History Internship",
+            "course_desc": "Application of skills in public history in an on-the job setting. Internships will be selected by the student and instructor, and will be supervised by the instructor. May be repeated once for additional credit.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n15 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIST 5375A",
+            "course_name": "Documentary Film",
+            "course_desc": "The use of film & video in public programming; research & produce documents.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5375B",
+            "course_name": "Archival Management",
+            "course_desc": "A seminar based on the history, theory, and practice or archival management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5375C",
+            "course_name": "Cultural Resource Management",
+            "course_desc": "This seminar addresses the management of cultural resources such as historic buildings, historic sites, and other tangible remains of our heritage. It explores how cultural resources are preserved and managed under federal and state law, and the nature of the regulatory practice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5375D",
+            "course_name": "Material Culture in America",
+            "course_desc": "This course examines the interactions between people and things in American society. The ways in which Americans have created, used, altered, and thought about material objects help us to understand history. Readings and research will focus on the values and attitudes embodied in the production, use, and preservation of objects.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5375E",
+            "course_name": "Management & Administration in Historical Organizations",
+            "course_desc": "This course provides an introduction to the non-profit based management, leadership, and administration issues and practices for historical organizations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5375F",
+            "course_name": "Education Programs in Historical/Cultural Institutions",
+            "course_desc": "This course will study the role of education programs as primary to the missions of historical and cultural institutions and will explore how institutions create and evaluate formal and informal education programs and materials for a variety of audiences.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5375I",
+            "course_name": "Heritage in a Global Context",
+            "course_desc": "Heritage management is the interdisciplinary approach to the preservation, protection, and public use of the historical record.  This course examines definitions and approaches within a global context.  Theory and practice will be analyzed through case studies and real world examples. Current issues, sustainability and maritime issues/practices will be included. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5375J",
+            "course_name": "American Architectural History",
+            "course_desc": "This course will analyze the historical development of American architecture, and examine architecture as evidence of America's cultural, social, economic, and technological evolution from 1607 to the present.  Focus will be placed on the role of historic American architecture in the practice of public history.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5375K",
+            "course_name": "Evaluating HIstoric Sites",
+            "course_desc": "Every year millions of tourists flock to historic sites desiring to commune with \"real\" history, to \"feel\" the past. This course will introduce students to methods that scholars use to examine critically the interpretation of history at these sites without discounting the emotional connection to place that many visitors experience.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5375L",
+            "course_name": "Controversy and History",
+            "course_desc": "This seminar explores how controversy, power relations, and politics are embedded in the practice of public history.  It is designed to help the future practitioner navigate the complex political landscape of public history.  This course is informed by the professor's experience as a consultant and federal historian. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5375M",
+            "course_name": "Writing for Public History",
+            "course_desc": "This will be a course intensively focused on research and writing specifically for public history audiences through a variety of venues: journal articles, magazine/newspaper articles, brochures, promotional literature, personal essays, historical markers, reviews, websites, cultural resource management \"gray literature,\" and professional papers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5375N",
+            "course_name": "Digital  History",
+            "course_desc": "Students will study the history of print and digital media to better understand the practice of digital history. They will be introduced to a variety of digital approaches to the study of history, and they will  produce and contribute to a variety of digital projects.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5375O",
+            "course_name": "Records Management & Institutional Archives",
+            "course_desc": "This course will introduce students to the principles and theories in records management and institutional archives. It will provide practical experience creating a records retentions schedule, researching retention requirements and best practices, appraising records with enduring value, and establishing archival series to accommodate ongoing acquisition of institutional records.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5375P",
+            "course_name": "The Family and Child in History and Heritage",
+            "course_desc": "This course examines the historical development of the family and childhood using academic family history methods and public approaches to family heritage. It examines differing experiences of ancestors and concepts of family and childhood over time by race, class, and gender, reflecting shifts in culture, economy, and power relations. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5376",
+            "course_name": "Local and Community History",
+            "course_desc": "A seminar applying historical methods to the study of U.S. communities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5377",
+            "course_name": "Public History Project",
+            "course_desc": "A team project focusing on one or more aspects of public history-museum exhibit, historic site interpretation, historic resources survey, etc. Repeatable with a different emphasis.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIST 5379A",
+            "course_name": "Public History Final Masters Project",
+            "course_desc": "This course will be the initial development of an individualized, advanced student project in cooperation with a client or host institution, focused on any one or a combination of the public history areas of historic preservation, archives, oral history, museums, local and community history or cultural resource management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5379B",
+            "course_name": "Public History Final Masters Project",
+            "course_desc": "This course, to be taken during the last year of the Public History program, is the continuation of an individualized, advanced student project focused on any one or a combination of the public history areas of historic preservation, archives, oral history, museums, local and community history or cultural resource management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5381",
+            "course_name": "Chinese Communism",
+            "course_desc": "The Chinese Communist movement from 1919 to the present. Will focus on (1) urban and rural aspects of Chinese Communism; (2) the rise to power of the Chinese Communist Party on mainland China in 1949; and (3) the construction of the Party-State and Socialism in the Peoples Republic of China. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5382",
+            "course_name": "China and the Modern World",
+            "course_desc": "This course examines Chinese relations with the modern world from 1800 to the present, focusing on the external aggression and internal transformation between 1839 and 1945; the split into two Chinas in 1949; the mainland China/Taiwan developments, interactions between the two Chinese governments and among the world community since then. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5385",
+            "course_name": "Topics in the History of the Modern Middle East",
+            "course_desc": "A seminar based on selected topics from current histories of the Middle East during the 19th and 20th centuries.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5388",
+            "course_name": "Comprehensive Examinations",
+            "course_desc": "This course is designed for non-thesis masters degree students who need to prepare for their comprehensive exams (written and oral).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIST 5390",
+            "course_name": "Problems in Historical Research",
+            "course_desc": "This course is open to graduate students on an individual basis by arrangement with the department. May be repeated with the approval of the department chair.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5395D",
+            "course_name": "Interpretations of World History",
+            "course_desc": "A survey of world history that focuses on Western civilization as the catalyst of change in world history since the tenth century.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5395E",
+            "course_name": "Mahatma Gandhi in World History",
+            "course_desc": "In this course students explore how writers have narrated Gandhis life and interpreted his historical role. Students will research aspects of Gandhis life using primary sources. The focus of the course will be the study of material left out of histories on Gandhi and reasons for omitted material. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5395H",
+            "course_name": "European Colonialism",
+            "course_desc": "This seminar examines the variety of European imperial and colonial experiences around the world from ancient to modern times through selected primary sources and historical literature. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5395I",
+            "course_name": "Global Cold War",
+            "course_desc": "This seminar will survey literature characteristic of the \"new\" Cold War historiography, and introduce students to primary sources available at Alkek required to write valuable original work. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5395J",
+            "course_name": "Foreigners in Japan, 1850-2000",
+            "course_desc": "This course investigates a central question that arises in discussions of Japan: What have been the effects of foreign influences on Japanese society? Materials for study focus on memoirs written by foreigners  from Europe, the Americas, and East Asia  as they describe their lives in the country through various eras since 1850.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5398",
+            "course_name": "General Research Seminar",
+            "course_desc": "A seminar designed to enhance research and writing skills in history. May be repeated for credit as topic varies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in History 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIST 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIST 5588",
+            "course_name": "Comprehensive Examinations",
+            "course_desc": "This course is designed for non-thesis masters degree students who need to prepare for their comprehensive exams (written and oral) and retain half-time status.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIST 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIST 5988",
+            "course_name": "Comprehensive Examinations",
+            "course_desc": "This course is designed for non-thesis masters degree students who, having completed all other coursework, need to prepare for their comprehensive exams (written and oral) and retain full-time status.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIST 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "HIST 7372",
+            "course_name": "Practice of Museum Studies and Public History",
+            "course_desc": "This course addresses the history, organization, and functions of history museums. Students will consider issues of representation and contestation, authority and voice in collections and interpretation, and will address practical approaches to curation, exhibit development and assessment, and the visitor experience.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "HIST 7373",
+            "course_name": "The Practice of Historic Preservation",
+            "course_desc": "This course focuses on major aspects of the field of historic preservation including the history of the preservation movement, the National Register of Historic Places, federal regulations, historic properties and districts, American architectural styles, urban preservation, landscape preservation and cultural landscapes, preservation design, preservation technology, heritage interpretation, and preservation law.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

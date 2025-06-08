@@ -1,0 +1,110 @@
+{
+    "name": "Bilingual Education",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/bilg/",
+    "courses": [
+        {
+            "course_code": "BILG 3321",
+            "course_name": "Literacy Instruction for Emergent Bilingual Students EC-6",
+            "course_desc": "This course provides critical analysis and application of current reading and writing methods and materials with a focus on theories associated with literacy/biliteracy development and methodologies for emergent bilinguals. The course is taught in Spanish and English. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and 2.75 Overall GPA and Departmental Approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BILG 3332",
+            "course_name": "Foundations of Bilingual Education",
+            "course_desc": "This course introduces the sociocultural, linguistic, cognitive, and policy foundations of bilingual education and ESL education. The course is taught in Spanish and English and is designed for students to gain practice in academic reading and writing in Spanish. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to the Educator Preparation Program and 2.75 Overall GPA and Departmental Approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BILG 4325",
+            "course_name": "Classroom Management and Teacher-Student Relationships in Bilingual Classrooms",
+            "course_desc": "This course prepares students to build authentic, bilingual classroom communities, including effective methods for establishing shared responsibility, constructive communication, and successful teacher-student relationships. Classroom routines and pedagogical practices are discussed to mitigate difficulties and maximize learning and connection. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and a 2.75 Overall GPA and departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BILG 4350",
+            "course_name": "Mathematics in the Bilingual Education Classroom",
+            "course_desc": "The course provides an in-depth study of the mathematics content and methodology derived from research-based principles. To develop the mathematical understanding of emergent bilinguals through a field-based approach, the course emphasizes using cognition and bilingualism as learning resources to sustain mathematical knowledge using equity based-instruction and assessment. Prerequisite: 2.75 Overall GPA required. Junior classification required. Must be declared as seeking EC-6 Bilingual Generalist teacher certification. MATH 1315 (or one of the following: MATH 1319 or MATH 2417 or MATH 2471 or  MATH 2472); MATH 2311 and MATH 2312 all with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BILG 4360",
+            "course_name": "Methods and Materials for Teaching ESL in Bilingual Content Areas",
+            "course_desc": "This course addresses the content, methods, and materials of elementary ESL classroom instruction for English language learners across the curriculum as well as dual language learners learning through two languages. This course is taught in Spanish and English and offers students the opportunity to read and write in Spanish. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to the Educator Preparation Program and a 2.75 Overall GPA and Departmental Approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BILG 4361",
+            "course_name": "Transliterate Communities in Schools",
+            "course_desc": "This course explores how to provide equitable educational opportunities to emergent bilinguals and their families within and outside of schooling. Using relationship building and instructional practices, learners incorporate the multicultural, translingual and cognitive competencies of bilingual learners that emerge from their community, representing learning resources that advance academic achievement. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to the Educator Preparation Program and a 2.75 Overall GPA and Departmental Approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BILG 4362",
+            "course_name": "Teaching Across the Bilingual Content Areas EC-6",
+            "course_desc": "This course is a study of research-based content and instructional methods and strategies, materials and resources to teach bilingual learners the EC-6 academic curriculum based on content-related standards associated with the teaching of mathematics, science, social studies, and language arts. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisite: Admittance to the Educator Preparation Program and a 2.75 Overall GPA and Departmental Approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BILG 4365",
+            "course_name": "Biliteracy Development for Emergent Bilingual Learners",
+            "course_desc": "This course targets the dynamic, reciprocal process of literacy development in Spanish and English for emergent bilinguals. Theories, instructional methods and strategies, texts, and materials will be examined through an integrated approach that considers sociocultural, cognitive, linguistic, and political factors. The course will be taught in both Spanish and English. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite and corequisite coursework requirements. Prerequisites: Admittance to the Educator Preparation Program and a 2.75 Overall GPA and Departmental Approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BILG 4665",
+            "course_name": "Biliteracy Development and Assessment for Emergent Bilingual Learners",
+            "course_desc": "This course explores the dynamic, unique process of reading and writing development in Spanish and English for emergent bilingual learners. Theoretical frameworks, instructional methods, strategies, and materials for promoting biliteracy development are examined through an integrated approach that considers socio-cognitive, linguistic, historical, and political factors. This course is taught in Spanish and English and includes extensive experience in a bilingual elementary classroom. As this is part of a multi-course, field-based experience, students must apply in advance for placement and meet program-specific prerequisite coursework requirements. Prerequisite: Admittance to Educator Preparation Program and a 2.75 Overall GPA and Departmental Approval.",
+            "course_credits": "\n6 Credit Hours \n4 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BILG 5365",
+            "course_name": "Biliteracy Development in the Bilingual Education Classroom",
+            "course_desc": "This course is taught in Spanish and English, targeting the reciprocal process of literacy development in Spanish and English as a second language. Theories, methods, and approaches address learning and teaching processes that support biliteracy development of emergent bilingual within contexts framed by sociocultural, cognitive, linguistic, and affective factors. Prerequisite: CI 5337; CI 5387\nSPAN 3308; SPAN 3371; upper levels of SPAN; or advanced studies in SPAN with a grade of B or better; or, Bilingual Education certification.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BILG 5367",
+            "course_name": "Policy and Practice in Dual Language Immersion Education",
+            "course_desc": "This course focuses on current research in bilingual education and language in education policy and practice that shapes program models, curricula, and instruction in two-way and one-way dual language education. The course will be taught in Spanish and English and requires student work in each language. Prerequisites: CI 5387, CI 5337; SPAN 3308; SPAN 3371; or upper level SPAN courses; or advanced studies in SPAN having earned a grade of B or higher; or Bilingual Education certification.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BILG 5374",
+            "course_name": "Bilingual/ESL Academic Content Instruction",
+            "course_desc": "The focus of this course is the integration of native language instruction (Spanish) and English as a second language (ESL) to teach the academic content areas (mathematics, science, social studies, and language arts) for English Language Learners (ELLs) with an emphasis on the cognitive and sociocultural considerations. Prerequisite: SPAN 3308 or SPAN 3371 with a grade of \"B\" or better; or upper level SPAN course(s); or advanced studies in SPAN with a grade of \"B\" or better; or Bilingual Education certification.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "BILG 5388",
+            "course_name": "The Politics of Language",
+            "course_desc": "Using a critical linguistic perspective, this course examines the sociopolitical aspects of language in local, national, and global contexts.  Students learn about language ideologies and gain a profound understanding for how languages and language practices are intricately tied to the racial and economic power relations embedded in schools and society.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

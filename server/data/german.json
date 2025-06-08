@@ -1,0 +1,158 @@
+{
+    "name": "German",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/ger/",
+    "courses": [
+        {
+            "course_code": "GER 1410",
+            "course_name": "Beginning German I",
+            "course_desc": "Introduction to listening, speaking, reading, and writing skills within a German cultural framework. Students who take GER 1410 toward degree requirements must also complete GER 1420. (MULT).",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 1420",
+            "course_name": "Beginning German II",
+            "course_desc": "Continued practice in listening, speaking, reading, and writing skills within a German cultural framework. Students who take GER 1410 toward degree requirements must also complete GER 1420. (MULT) Prerequisite: GER 1410 with a grade of \"D\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 2310",
+            "course_name": "Intermediate German I",
+            "course_desc": "Continued development and review of all language skills within a German cultural framework. (MULT) Prerequisite: GER 1420 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 2320",
+            "course_name": "Intermediate German II",
+            "course_desc": "More advanced practice in all language skills with greater emphasis on reading within a German cultural framework. (MULT) Prerequisite: GER 2310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 3304A",
+            "course_name": "German Cinema",
+            "course_desc": "This course explores German film, history, and theory. Emphasis is placed on the interrelation of German and American uses of the medium. The course includes classic style (1910s), German Expressionism (1920s), cinema of Nazi Propaganda (1940s), the period of reconstruction (1950s), and the German New, and New New Waves. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 3304B",
+            "course_name": "German Colonialism, Orientalism, and Exoticism in Film and Literature",
+            "course_desc": "This course surveys German colonial narratives and theories from the 19th and the mid-20th century. The course examines how critics today interpret the political and aesthetic tropes around which texts are organized, focusing on how these colonial fantasies emphasized national differences between German and other European powers. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 3304C",
+            "course_name": "The Many Faces of Weimar Cinema: German Expressionist Films",
+            "course_desc": "The course provides an overview of the changing roles of German cinema in the early 20th century. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 3304D",
+            "course_name": "German Translation",
+            "course_desc": "In this course, students approach translation as a method of improving their reading ability in German, not only through language, but also in terms of cultural competence in dealing with texts from the German-speaking world. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 3305",
+            "course_name": "German on the Stage",
+            "course_desc": "This course is designed to strengthen reading skills and oral command of the language through the study and performance of a classical or contemporary German-language play. May be repeated for credit twice with different topics. (MULT)  Corequisite: GER 3310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 3310",
+            "course_name": "German Phonetics",
+            "course_desc": "This course introduces students to German phonetics, primarily German pronunciation, intonation, and stress. The course is taught in German. It may be repeated once with different content for additional credit. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 3320",
+            "course_name": "Improving German Communication Skills",
+            "course_desc": "This course provides extensive practice in speaking and writing German and in mastering advanced grammatical structures in speaking and writing. The course may be repeated once with different content for additional credit. Prerequisites: GER 2320 with a grade of \"D\" or better. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 3341",
+            "course_name": "Review of German Grammar",
+            "course_desc": "Students will review the foundations of German grammar and expand their skills at the intermediate/advanced level.  A strong foundation in German grammar is essential for mastering the language and communicating effectively in it.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 3370",
+            "course_name": "The Contemporary German-Speaking World",
+            "course_desc": "This course provides a background for a better understanding of Germany since the beginning of the twentieth century and of contemporary life and culture in Germany, Austria, and Switzerland. Course activities include oral and written reports. This course is taught in German. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 3380",
+            "course_name": "Business German in Global Economy",
+            "course_desc": "An introduction to the individual economies of each German state, the language and standards of the German business world, the tourist industry of Germany, and Germanys role in the European Community. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 4300",
+            "course_name": "Professional Internship in German",
+            "course_desc": "This course is a supervised work experience that provides an opportunity to use German in a professional setting. Planning sessions, training, and language lessons prepare students for the internship. Other requirements include reflective practice reports as assigned by the course instructor. Prerequisite: GER 2320 with a grade of \"D\" or better and department approval.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 4310",
+            "course_name": "Masterpieces of German Literature",
+            "course_desc": "An examination of major literary works representing the major genres and periods of German literature. The course may be repeated once with different content for additional credit. (MULT) Prerequisite: one GER 3000-level course or instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 4340",
+            "course_name": "Advanced Conversation, Composition, and Stylistics",
+            "course_desc": "This course is designed to strengthen command of the language through reading, writing, conversation, and oral presentations in German. The course may be repeated once with different content for additional credit. (WI) (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 4380",
+            "course_name": "German Civilization",
+            "course_desc": "The course introduces the history and culture of the German-speaking world from the Middle Ages through the nineteenth century. Students explore historical events and developments that have shaped this part of Europe, and engage with original texts that reflect those developments. This course is taught in German.  Prerequisite: GER 2320 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GER 4390",
+            "course_name": "Studies in German Culture, Language, or Literature",
+            "course_desc": "A course designed to offer students an opportunity to pursue independent studies in special areas of interest beyond those of other catalog courses. The course is generally available only to graduating seniors who have completed at least two advanced courses or graduate students with special needs. Applications must be submitted prior to the registration period each semester. May be repeated once for additional credit. (MULT) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

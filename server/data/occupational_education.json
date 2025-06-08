@@ -1,0 +1,182 @@
+{
+    "name": "Occupational Education",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/oced/",
+    "courses": [
+        {
+            "course_code": "OCED 1000",
+            "course_name": "Testing the change functionality in Banner",
+            "course_desc": "This is a test course only used to test the function of changing the subject prefix from OCED to OWLS with out creating a course deletion for OCED and a course addition or OWLS.",
+            "course_credits": "\n0 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 3310",
+            "course_name": "Human Problems in the Workplace",
+            "course_desc": "Overview of problems that supervisors, teachers, and co-workers encounter in business/industry, social service, military, or education.  This range of problems interferes with communication, performance, and development of proficiency in school/work.  Perspectives and reports on the incidence of these problems will be presented, as well as actions for these human problems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 3350",
+            "course_name": "Introduction to Interdisciplinary Studies for the Bachelor of Applied Arts and Sciences Degree",
+            "course_desc": "Students in this course will apply critical and reflective thinking to develop an individualized plan consisting of interdisciplinary studies courses that meet their career goals. Students will also assess their needs for earning credits through prior learning assessment (PLA), and identify potential capstone projects aligned with their professional goals.  Prerequisite: 2.25 Overall GPA; Texas State GPA of 2.25. Corequisite: OCED 4350.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 4111",
+            "course_name": "Independent Study in Occupational Education",
+            "course_desc": "This is an independent study course that allows research on topics in occupational education related to a students interests. Work may include individual research, critical reviews or integration of existing bodies of knowledge. Course may be repeated for credit.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 4302",
+            "course_name": "Trends and Issues in OWLS",
+            "course_desc": "This course examines emerging trends and issues impacting today's workplace. Topics may include aging workforce, financial and mental wellness, and diversity.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 4325",
+            "course_name": "Development and Change in Organizations",
+            "course_desc": "This course focuses on organization development and change in government, private business, not-for-profit, and educational organizations. Topics covered include evaluation models, interventions at the organization, individual, and team levels, as well as change management strategies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 4350",
+            "course_name": "Adult Development and Career Planning",
+            "course_desc": "This course introduces students to human development, learning theory, transition theory, interdisciplinary studies, career planning and assessment, and goal setting relevant to developing a professional growth plan. (WI). Prerequisite: 2.25 Overall GPA; Current Texas State students must also have a Texas State GPA of 2.25. Corequisite: OCED 3350.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 4360",
+            "course_name": "Bachelor of Applied Arts and Sciences Capstone Part 1",
+            "course_desc": "This is the first part of a two-part capstone devoted to the development of the student's supervised capstone project. Proposal development, review of literature, creation of timelines, and task analysis are stressed. Following instructor approval, work on the capstone project begins in this course. (WI)  Prerequisites:  OCED 3350 and OCED 4350 both with grades of \"D\" or better and instructor approval.  Corequisites:  OCED 4361 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n13 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 4361",
+            "course_name": "Bachelor of Applied Arts and Sciences Capstone Part 2",
+            "course_desc": "This is the second part of a two-part capstone devoted to the development of the student's supervised capstone project. Application of knowledge, abilities, and skills acquired in the degree program is stressed. It requires extensive reports and documentation. (WI)  Corequisite: OCED 4360 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n13 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 5101",
+            "course_name": "Instructional Skill Development",
+            "course_desc": "Graduate assistants are required to enroll in this course to be prepared to instruct/assist with classes in Occupational/Career and Technology Education.\nTopics covered are essential teaching strategies, techniques, evaluation design, online instruction, and effective instructional, motivational techniques. This course does not earn graduate degree credit.  Repeatable with different emphasis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "OCED 5300",
+            "course_name": "Interdisciplinary Research Methods",
+            "course_desc": "Basic and advanced concepts related to interdisciplinary research. Special emphasis will be placed on technical writing skills, electronic analysis of databases, appropriate statistical treatment of data, development and validation of\ninstruments, and interdisciplinary research design and procedures.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 5301",
+            "course_name": "Applied Interdisciplinary Research Part 1",
+            "course_desc": "The instructional intent is to provide the graduate students with an opportunity to apply their research skills. Students are carefully monitored and mentored in initiating, performing, and documenting their individualized research project. Prerequisite: OCED 5300 with a grade of \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 5302",
+            "course_name": "Applied Interdisciplinary Research Part 2",
+            "course_desc": "This course is the final course in the interdisciplinary research series. It requires the development of a comprehensive final research report including extensive tables and graphs. Students must also be prepared to present the findings of the research to the Occupational Education faculty and students at the Graduate Research Forum. Prerequisite: OCED 5301 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 5303",
+            "course_name": "Reflective and Experiential Learning Techniques",
+            "course_desc": "This course prepares graduate students for a field-based practicum. Students learn reflection and experiential learning techniques useful in the domain of careers, workplace, and leadership. They also locate, develop, and propose a professional practicum experience. Corequisite: CTE 5330 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 5304",
+            "course_name": "Professional Practicum",
+            "course_desc": "This course engages students in a field based experience designed in OCED 5360C, the previous course in the sequence. Students implement their practicum of approximately 120 hours in a work-based setting and concurrently collect ongoing reflections of their experience.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n8 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 5310",
+            "course_name": "Human Problems in the Workplace",
+            "course_desc": "Overview of problems that supervisors, teachers, and co-workers encounter in business/industry, social service, military, or education.  This range of problems interferes with communication, performance, and development of proficiency in school/work.  Perspectives and reports on the incidence of these problems will be presented, as well as actions for these human problems.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 5311",
+            "course_name": "Technology, Change, and Innovation in Organizations",
+            "course_desc": "This course provides students with opportunities to discover and apply theoretical perspectives on managing innovations within various organizational settings, such as work teams, departments, non-profits, governmental,  businesses, and educational institutions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 5315",
+            "course_name": "The Principles of Extramural Funding",
+            "course_desc": "This course explores competencies of locating external agency funding for occupational, workforce, and leadership research, teaching and extension. The principles of producing a competitive proposal that includes multi-, cross- and inter-disciplinary collaborations are also discussed. The development of the grant proposal, implementation, budget, and evaluation plan will be emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 5360B",
+            "course_name": "Critical Thinking in the Workplace",
+            "course_desc": "This course provides students with an opportunity to examine workplace decision making in terms of critical thinking. Current occupational approaches to critical thinking will be emphasized. Students will participate in simulations and case studies of critical thinking for the workplace.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 5360F",
+            "course_name": "The Basics of Extramural Funding",
+            "course_desc": "Emphasizing professional relationships of mutuality, collaboration, and respect for the client system, this course helps students develop knowledge and skills to enhance organizational resources, particularly in developing programs, raising funds, writing grant proposals, and marketing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 5361",
+            "course_name": "Human Systems in the Workplace",
+            "course_desc": "This course provides an overview of complexity science and systems theory. Students will explore how systematic inquiries are conducted within organizations, examine topics related to organizational dynamics, and apply systems theory to practical problems in organizations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "OCED 5362",
+            "course_name": "Leadership Development",
+            "course_desc": "This course examines leadership within the contexts of organization and workforce settings. Students will explore interdisciplinary approaches to leadership roles, topics related to leadership in organizations and the workplace, and practical application of leadership theories in real-life situations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

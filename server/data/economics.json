@@ -1,0 +1,206 @@
+{
+    "name": "Economics",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/eco/",
+    "courses": [
+        {
+            "course_code": "ECO 2301",
+            "course_name": "Principles of Economics",
+            "course_desc": "A non-technical study of micro and macroeconomic principles, including demand and supply, production and cost, market structures, aggregate output and performance of the economy, the business cycle and growth, unemployment and inflation, money and banking, fiscal policy, monetary policy, and international trade and finance. Not for business or economics majors.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Soc & Behav Sciences Core 080|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 2314",
+            "course_name": "Principles of Microeconomics",
+            "course_desc": "This course provides an introduction to the microeconomics of a modern industrial society. Emphasis is placed on supply and demand, cost and price concepts, market structures, income distribution, and similar issues. Prerequisite: MATH 1315 or MATH 1319 or MATH 1329 or MATH 2331 or MATH 2417 or MATH 2471 any with a grade of \"D\" or better or ACT Mathematics score of 27 or better or SAT Mathematics score of 580 or better or SAT Math Section Score 600 or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Soc & Behav Sciences Core 080|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 2315",
+            "course_name": "Principles of Macroeconomics",
+            "course_desc": "This course provides an introduction to the macroeconomics of a modern industrial society. Emphasis is placed on the analysis of national income, economic stability, fiscal policy, money and banking, economic growth, and international trade. Prerequisites: [AG 2383 or ECO 2314 either with a grade of \"D\" or better] and [MATH 1315 or MATH 1319 or MATH 1329 or MATH 2331 or MATH 2417 or MATH 2471 any with a grade of \"D\" or better or ACT Mathematics score of 27 or better or SAT Mathematics score of 580 or better or SAT Math Section Score 600 or better].",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 3301",
+            "course_name": "Economics of Sports",
+            "course_desc": "This course focuses on the business and economics aspects of professional and intercollegiate sports. Topics include the role of sports leagues, the demand for sports, the structure of labor markets in the four major sports, salaries of professional athletes, antitrust legislation, and intercollegiate athletics. Prerequisite: ECO 2314 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 3304",
+            "course_name": "Environmental Economics for Decision Makers",
+            "course_desc": "Economic analytical tools and concepts are used to understand how the environment, economy, and businesses interact and the importance of public policy in shaping this interaction. Natural resources as inputs to production are explored. Current policy issues and environmental problems provide illustration and application. Prerequisite: ECO 2301 or ECO 2314 either with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 3305",
+            "course_name": "Law and Economics",
+            "course_desc": "An analysis of the role of economics in the examination of law.  This course considers the influence that economic theories have had on legal theory, including contracts, property, torts, business regulation, and crime. Prerequisite: ECO 2301 or ECO 2314 either with a grade of \"C\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 3311",
+            "course_name": "Money and Banking",
+            "course_desc": "A study of money and credit in the modern economy. Examines the development of modern money and banking systems, the structure of the Federal Reserve System, and monetary theory. Prerequisite: ECO 2314 and ECO 2315 both with grades of \"C\" or better and [MATH 1329 or MATH 2331 or MATH 2471] any with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 3313",
+            "course_name": "Labor Economics",
+            "course_desc": "A study of the application to labor markets of supply and demand principles. Topics include the work/leisure decision, time allocation in the household, the demand for education and training, the firms use of labor inputs, the impact of unions, and discrimination in labor markets based on race and gender.  Prerequisite: ECO 2314 with a grade of \"C\" or better and [MATH 1329 or MATH 2331 or MATH 2471] any with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 3314",
+            "course_name": "Intermediate Microeconomics",
+            "course_desc": "A study of theories of supply and demand; consumer and producer decision-making; firm pricing policies; product and resource markets under conditions of perfect and imperfect competition; and imperfect and asymmetric information. Prerequisite: ECO 2314 and ECO 2315 with a grade of \"C\" or better and [MATH 1329 or MATH 2331 or MATH 2471] any with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 3315",
+            "course_name": "Intermediate Macroeconomics",
+            "course_desc": "An analysis of the traditional and modern theories of inflation, unemployment, long-run economic growth, and stabilization policies for promoting economic stability. Prerequisite: ECO 2314 and ECO 2315 both with grades of \"C\" or better and [MATH 1329 or MATH 2331 or MATH 2471] any with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 3317",
+            "course_name": "International Economics",
+            "course_desc": "A study of the basis for trade among nations and the means of its financing, customs unions, balance-of-payments problems, and similar issues. (MULT) Prerequisite: ECO 2314 and ECO 2315 both with grades of \"C\" or better and [MATH 1329 or MATH 2331 or MATH 2471] any with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 3320",
+            "course_name": "Emerging Market Economies",
+            "course_desc": "The course focuses on the structural characteristics of the emerging market economies, with an emphasis on analyzing the salient economic challenges and opportunities facing contemporary emerging market economies. (WI) Prerequisite: ECO 2314 and ECO 2315 both with grades of \"C\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 3327",
+            "course_name": "Public Finance",
+            "course_desc": "A study of the growth of the revenue and debt of the United States, taxation and tax incidence theory, and the effect of public expenditures and taxes on economic growth. (WI). Prerequisite: ECO 2314 and ECO 2315 both with grades of \"C\" or better and [MATH 1329 or MATH 2331 or MATH 2471] any with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 3334",
+            "course_name": "Business Enterprise and Public Policy",
+            "course_desc": "A survey of the development and structure of American industry and of governmental regulation of business. (WI) Prerequisite: ECO 2314 with a grade of \"C\" or better; MATH 1329 or MATH 2331 or MATH 2471 with a grade of \"D\" or better; Overall GPA 2.0.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 3335",
+            "course_name": "Managerial Economics",
+            "course_desc": "A study of the application of economic analysis in the formulation of business policies. Includes demand analysis and pricing policies. Prerequisite: ECO 2314 with a grade of \"C\" or better and [MATH 1329 or MATH 2331 or MATH 2471] any with a grade of \"D\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 3353",
+            "course_name": "Comparative Economic Systems",
+            "course_desc": "An analysis of the theory and practice of capitalism, socialism, and communism. Prerequisite: ECO 2301 or [ECO 2314 and ECO 2315] either with a grade of \"C\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 4305",
+            "course_name": "Urban and Regional Economics",
+            "course_desc": "A study of urban and regional economic issues including regional growth, crime, transportation, and the urban-rural interface. A focus on sources and uses of models and data unique to regional science and urban economics. (WI) Prerequisites: ECO 2314 and ECO 2315 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 4313",
+            "course_name": "Econometrics",
+            "course_desc": "This course studies statistical estimation, inference and forecasting methods used in economic research with a focus on models and methods unique to economics. Prerequisite: ECO 2314 and ECO 2315 and [MATH 2328 or QMST 2333] and [MATH 1329 or MATH 2331 or MATH 2471] all with grades of \"C\" or better and a minimum 2.0 Overall GPA.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 4381G",
+            "course_name": "Empirical Data Analysis",
+            "course_desc": "The application of data analysis and visualization techniques to analyze relationships between economic variables and convey findings in a clear and impactful way using programs such as Excel, SAS, Stata, and Python. Topics include descriptive statistics, simple and multiple regression analysis, statistical inference, and best practices in data visualization. Emphasis is placed on applications and hands-on data analysis.  Prerequisite: ECO 2314 and ECO 2315 and [MATH 1329 or MATH 2331 or MATH 2471] all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 4390",
+            "course_name": "Internship in Economics",
+            "course_desc": "This course provides an Integration of professional and academic experience through an internship with an external employer. Credit awarded as pass/fail. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ECO 4395",
+            "course_name": "Independent Study in Economics",
+            "course_desc": "An in-depth study of a single topic or related problem solved through economic research. May be repeated once for credit with different emphasis. (WI) Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dif Tui- Business Admin|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 5302",
+            "course_name": "Economic Theory and Policy",
+            "course_desc": "An intensive study of micro-and macroeconomic concepts; the price system as it functions under competition, monopoly, monopolistic competition and oligopoly; national income measurement and determination; business cycles; money and banking; monetary policy; fiscal policy and economic stabilization. May not be counted as an elective MBA course. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "ECO 5310",
+            "course_name": "International Economics",
+            "course_desc": "Examination of the patterns of trade and finance among nations, integrating the topics of exchange rates, trade barriers, customs unions, and macroeconomics policy into a unified treatment of international economic relations. (MULT) Prerequisite: B A 5353 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 5316",
+            "course_name": "Managerial Economics",
+            "course_desc": "The application of economic theory and analysis to the formulation of business policy, including demand analysis, production theory, linear programming, and pricing policy. (MBA with Technology Emphasis students complete TECH 5315.) Prerequisite: QMST 5334 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ECO 5320",
+            "course_name": "Emerging Market Economies",
+            "course_desc": "The course focuses on the structural characteristics of the emerging market economies, with an emphasis on analyzing the salient economic challenges and opportunities facing contemporary emerging market economies. Prerequisites: B A 5353 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

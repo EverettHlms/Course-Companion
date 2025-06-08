@@ -1,0 +1,118 @@
+{
+    "name": "Geology",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/geol/",
+    "courses": [
+        {
+            "course_code": "GEOL 1410",
+            "course_name": "Physical Geology",
+            "course_desc": "The study of materials making up the Earth, the processes that act upon them, and the results of these processes; the development of tools for the interpretation of earths history and structure, and the major geologic concepts.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEOL 1420",
+            "course_name": "Historical Geology",
+            "course_desc": "A continuation of physical geology leading to consideration of the geologic history of the Earth (with special emphasis on North America), the evolution of life, the continents through geologic time and the principles and procedures used in the interpretation of earth history. Prerequisite: GEOL 1410 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Life & Phys Sciences Core 030|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEOL 3410",
+            "course_name": "Sedimentation and Stratigraphy",
+            "course_desc": "This course will allow students to study the principles of weathering, transportation, deposition, and lithification of sediments. Primary structures and textures of sediments are used to determine environments of deposition.  Students will identify the recognition and classification of strata into stratigraphic units. Prerequisite: GEOL 3450 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEOL 3430",
+            "course_name": "Structural Geology",
+            "course_desc": "This course examines the description, classification, and origin of Earth structures and the stresses involved in their formation. Students will explore solutions of structural geology problems using analytical geometry, geologic maps, contouring of data, and preparation of cross sections. Prerequisites: GEOL 1420 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEOL 3450",
+            "course_name": "Earth Materials",
+            "course_desc": "This course provides an introduction to crystal chemistry, physical properties, and identification of major rock-forming minerals, sedimentary, igneous, and metamorphic rocks.  It brings together wide-ranging fundamental and key concepts in mineralogy and petrology to understand rocks and minerals and how they relate to the broader Earth, materials and environmental sciences. Prerequisite: GEOL 1410 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEOL 4121",
+            "course_name": "Directed Study",
+            "course_desc": "Independent study of a particular subject area in geology. Specific topic to be discussed and agreed upon prior to registration. May be repeated once with different emphasis and professor for additional credit. Prerequisite: GEOL 1420 with a grade of C or better and instructor approval.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEOL 4320",
+            "course_name": "Topics in Field Geology",
+            "course_desc": "This course provides on-site directed investigations of geology in locations remote from campus.  Prerequisite: GEOL 1420 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n1 Lecture Contact Hour \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEOL 4321",
+            "course_name": "Directed Study",
+            "course_desc": "This course is designed to provide a student with an opportunity to conduct independent research for credit in consultation with his or her Geology instructors. The course may be repeated once with a different content or instructor. Prerequisite: GEOL 1420 with a grade of C or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEOL 4330A",
+            "course_name": "Introduction to Petroleum Geology",
+            "course_desc": "This course discusses the origin and distribution of conventional and unconventional petroleum resources, source rocks, types of traps and seals, reservoir rock properties, exploration methods (seismic data analysis and interpretation, formation evaluation, subsurface mapping), reservoir characterization and modeling, reserves calculations. Prerequisite: GEOL 1420 with a grade of \"C\" or better. Corequisite: GEOL 4121 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEOL 4330B",
+            "course_name": "Planetary Geology",
+            "course_desc": "This course is a survey of the application of geologic principles to the rocky planets and satellites in the solar system. Prerequisite: GEOL 1420 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEOL 4330C",
+            "course_name": "Survey of Economic Mineral Deposits",
+            "course_desc": "This is a survey of the geology of economic resource derived from the Earth including metals, nonmetals, energy related resources and ground water.  Topics include genesis of economic deposits, methods of prospecting, methods of extraction, refining, and environmental impact. Prerequisite: GEOL 3450 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEOL 4330D",
+            "course_name": "Tectonics and Geology of the USA",
+            "course_desc": "Study of the geology of the USA from the tectonic point of view. The different tectonic processes including continental extension and formation of an ocean, convergence and mountain building, volcanism and seismic activity will be studied and illustrated using mostly examples based on the geology of the USA. Prerequisite: GEOL 1420 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEOL 4421",
+            "course_name": "Hydrogeology",
+            "course_desc": "This course will provide the student with an introduction to the science of hydrogeology, a conceptual and quantitative understanding of groundwater from a geological/mathematical/geochemical perspective, and experience with hydrogeology applications. (WI)  Prerequisites: GEOL 1420 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "GEOL 5421",
+            "course_name": "Hydrogeology",
+            "course_desc": "This course will provide the student with an introduction to the science of hydrogeology, a basic conceptual understanding of groundwater from a geological/mathematical/geochemical perspective, and experience with hydrogeology applications.",
+            "course_credits": "\n4 Credit Hours \n3 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

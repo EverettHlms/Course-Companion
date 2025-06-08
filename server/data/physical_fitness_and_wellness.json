@@ -1,0 +1,310 @@
+{
+    "name": "Physical Fitness and Wellness",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/pfw/",
+    "courses": [
+        {
+            "course_code": "PFW 1101",
+            "course_name": "Lifetime Fitness & Wellness",
+            "course_desc": "To develop knowledge, skills, and physical activity behaviors associated with personal fitness and wellness.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1110A",
+            "course_name": "Aerobic Conditioning",
+            "course_desc": "This course covers a variety of aerobic conditioning formats.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1110B",
+            "course_name": "Group Fitness",
+            "course_desc": "This course will include various types of aerobic/cardio exercise formats.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1110E",
+            "course_name": "Beginning Jogging & Conditioning",
+            "course_desc": "Beginning Jogging/Conditioning.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1110G",
+            "course_name": "Beginning Weight Lifting",
+            "course_desc": "Beginning Weight Lifting.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1110K",
+            "course_name": "Restricted Fitness Activities",
+            "course_desc": "Restricted Fitness Activities.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1130A",
+            "course_name": "Beginning Basketball",
+            "course_desc": "Beginning Basketball.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1130B",
+            "course_name": "Soccer",
+            "course_desc": "Soccer.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1140A",
+            "course_name": "Football Varsity",
+            "course_desc": "Football Varsity.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1140B",
+            "course_name": "BasketballMens Varsity",
+            "course_desc": "BasketballMens Varsity.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1140C",
+            "course_name": "BasketballWomens Varsity",
+            "course_desc": "BasketballWomens Varsity.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1140D",
+            "course_name": "Track & FieldMens Varsity",
+            "course_desc": "Track & FieldMens Varsity.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1140E",
+            "course_name": "Track & FieldWomens Varsity",
+            "course_desc": "Track & FieldWomens Varsity.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1140F",
+            "course_name": "Volleyball  Womens Varsity",
+            "course_desc": "Volleyball  Womens Varsity.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1140G",
+            "course_name": "BaseballMens Varsity",
+            "course_desc": "BaseballMens Varsity.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1140H",
+            "course_name": "SoftballWomens Varsity",
+            "course_desc": "SoftballWomens Varsity.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1140I",
+            "course_name": "Soccer-Womens Varsity",
+            "course_desc": "Soccer-Womens Varsity.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1149",
+            "course_name": "Strutters",
+            "course_desc": "Strutters.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n9 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1150B",
+            "course_name": "Beginning Bowling",
+            "course_desc": "Beginning Bowling.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1150D",
+            "course_name": "Beginning Golf",
+            "course_desc": "Beginning Golf.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1150G",
+            "course_name": "Restricted Leisure Activities",
+            "course_desc": "Restricted Leisure Activities.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1154",
+            "course_name": "Leisure/Recreation Activities",
+            "course_desc": "Leisure/Recreation Activities.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Header",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1154B",
+            "course_name": "Challenge Course Facilitation",
+            "course_desc": "This course provides an overview of leadership theories and skill development for indoor/outdoor challenge course activities, with an emphasis on safety management.  Students will develop skills necessary to facilitate either high or low elements of a challenge course. May be repeated once with different emphasis for credit.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1154C",
+            "course_name": "Backpacking",
+            "course_desc": "Backpacking.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1155G",
+            "course_name": "Racquetball",
+            "course_desc": "Racquetball.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1155H",
+            "course_name": "Beginning Tennis",
+            "course_desc": "Beginning Tennis.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1155N",
+            "course_name": "Pocket Billiards",
+            "course_desc": "Pocket Billiards.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1160B",
+            "course_name": "Beginning Volleyball",
+            "course_desc": "Beginning Volleyball.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1165A",
+            "course_name": "GolfMens Varsity",
+            "course_desc": "GolfMens Varsity.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1165C",
+            "course_name": "TennisWomens Varsity",
+            "course_desc": "TennisWomens Varsity.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1165D",
+            "course_name": "Golf  Womens Varsity",
+            "course_desc": "Golf  Womens Varsity.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1165E",
+            "course_name": "Varsity Cheerleaders",
+            "course_desc": "Varsity Cheerleaders.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1190A",
+            "course_name": "Canoeing",
+            "course_desc": "Canoeing.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1190F",
+            "course_name": "Beginning Scuba",
+            "course_desc": "Beginning Scuba.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1201",
+            "course_name": "Advanced and Master Scuba Diving",
+            "course_desc": "Students will gain advanced level scuba diving skills. Prerequisite: PFW 1190F with a grade of \"D\" or better.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1204",
+            "course_name": "Underwater Photography",
+            "course_desc": "Underwater Photography.",
+            "course_credits": "\n2 Credit Hours \n1 Lecture Contact Hour \n3 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 1301",
+            "course_name": "Social and Behavioral Dimensions of Physical Fitness and Wellness",
+            "course_desc": "Students will explore the role of physical activity in a healthy and productive society. The course focuses on social and cultural influences on motivation, values and beliefs related to physical activity, as well as the impact of physical activity on individual, community, and population.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Soc & Behav Sciences Core 080",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "PFW 2301",
+            "course_name": "Rescue SCUBA Diver /Diving First Aid for Professional Divers",
+            "course_desc": "This course trains divers in the knowledge and skills needed to manage risks and effectively handle limited in-water problems and diving related emergencies. The rescue portion includes assists, transports, surface rescues and rescues from depth involving both boat- and shore-based skin and scuba divers. The first aid portion includes duty of care and emotional response, dive emergency preparation, response and assessment, Oxygen first aid, AED, CPR for the healthcare professional, secondary care, and hazardous marine life injuries/first aid. Students with a SCUBA Diver or Advanced SCUBA Diver certification from another agency or institution will be accepted provided the student's diving. Prerequisite: PFW 1190F or PFW 1201 or equivalent any with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n2 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

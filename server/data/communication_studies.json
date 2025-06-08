@@ -1,0 +1,966 @@
+{
+    "name": "Communication Studies",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/comm/",
+    "courses": [
+        {
+            "course_code": "COMM 1310",
+            "course_name": "Fundamentals of Human Communication",
+            "course_desc": "This course examines the speaking and listening principles and techniques that are fundamental for human communication. The course aids students in the development of basic verbal and nonverbal communication knowledge and skills in a variety of specific contexts including interpersonal, small group, and public speaking. The course has a specific multicultural focus with an emphasis on ethics and diversity.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Communication Core 010|Component Area Core 090|Communication CAO 091|Lab Required|Time Conflicts Permitted",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 2111",
+            "course_name": "Speech and Debate Activities",
+            "course_desc": "A course designed to provide credit for participation in speech and debate activities. May be repeated for a total of four credits.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 2315",
+            "course_name": "Interpersonal Communication",
+            "course_desc": "This course studies communication principles and theories exploring interpersonal interactions with emphasis on conceptual foundations, personal growth and skill enhancement.  Prerequisite:  COMM 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 2326",
+            "course_name": "Interpretive Reading",
+            "course_desc": "A study of the techniques of the oral interpretation of literature with an emphasis on performance. Prerequisite: COMM 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 2330",
+            "course_name": "Small Group Communication",
+            "course_desc": "This course focuses on communication in small groups and teams including an analysis of the structure and skills involved in managing the task and relational components of group work.  Special emphasis is placed on problem solving discussion, effective meeting leadership and participation, and critical thinking.  Prerequisite:  COMM 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 2338",
+            "course_name": "Public Speaking",
+            "course_desc": "This course helps the student to develop personal speaking skills and introduces principles of contemporary types of speeches. Prerequisite: COMM 1310 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3301",
+            "course_name": "Empirical Research Methods",
+            "course_desc": "This course explores how to conduct and interpret communication research through the scientific method.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3302",
+            "course_name": "Rhetorical Research Methods",
+            "course_desc": "Students will explore and apply methods of analysis and evaluation of rhetorical discourse with emphasis on developing critical research and writing skills.  Students should complete COMM 3302 before enrolling in other advanced rhetorical studies courses. (WI) Prerequisite: COMM 1310 and COMM 2338 both with grades of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3310",
+            "course_name": "Communication Theory",
+            "course_desc": "This course explores the practical ways in which communication theory operates to foster self-awareness, to make sense of personal experiences, and to cultivate critical thinking.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3316F",
+            "course_name": "Rhetoric, Race, and Memory",
+            "course_desc": "This course explores how public articulations about what happened in the past inform our present and future. Through an exploration of how communities remember civil rights and racism, the course offers students with deeper insight into how communicative practices enable communal transformation and can sustain or disrupt communal identity.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3316I",
+            "course_name": "LGBTQ+ Communication Studies",
+            "course_desc": "This course investigates how communication impacts LGBTQ+ peoples experiences across their lives in relationships, organizations, healthcare, media, and society. Students examine how communication sustains both discrimination against LGBTQ+ people and their resistance, theorize how LGBTQ+ people navigate their holistic identities, and create LGBTQ+ justice across communication practices, cultures, and structures.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3318J",
+            "course_name": "Communication in Health Organizations",
+            "course_desc": "This course examines the delivery and exchange of messages within health organizations. Specific communication contexts to be emphasized will include interpersonal conflict, negotiating, communication networks, communication environments, virtual systems of communication, channel/media selection strategies, communication climate, communities of practice, public relations communication campaigns, and organizational crisis management.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3319",
+            "course_name": "Introduction to Organizational Communication",
+            "course_desc": "Applies communication and management theory along with contemporary research to understand messages in corporate, nonprofit, and volunteer organizations.  Prepares the students to think critically about their organizational experiences and use theory to assess and manage communication processes including supervisor-subordinate communication, conflict, and cultures.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Perspective|Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3320",
+            "course_name": "Sport Communication",
+            "course_desc": "Sport Communication provides a theoretical foundation to understand and apply interpersonal, organizational, team, and public communication skills in sport settings. Sample topics include: fan culture, racial identity and gender, player/coach interactions, and crisis communication. Students gain practical knowledge and skills to optimize verbal and nonverbal messages in sport contexts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3322",
+            "course_name": "Communication Career Readiness",
+            "course_desc": "This course helps students discover communication careers by assisting them in building a personalized career pathway through hands-on experiences, mentoring, networking, and examining the field of communication studies. Prerequisite: COMM 1310 with a grade of \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3324",
+            "course_name": "Professional Skills for the Global Workplace",
+            "course_desc": "This course provides a survey of relevant skills necessary to work in an international work setting. Through discussion, site-visits, and application activities, students will leave the course with an understanding and ability to apply these skills in their careers.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3325",
+            "course_name": "Communication and Conflict Management",
+            "course_desc": "Demonstrates the ways communication skills can be used to manage conflict. The class also provides an analytic framework for diagnosing conflict, negotiation, and mediation.  (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3326",
+            "course_name": "Family Communication",
+            "course_desc": "This course examines theory and research trends regarding the dynamics of family communication. Topics include parent-child, sibling, marital, and inter-generational interactions; family culture and roles; divorce and stepfamilies; conflict; stress and well-being.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3328",
+            "course_name": "Communication and Gender",
+            "course_desc": "Investigates the interactive nature of communication and gender, the creation of gender identities, and the role of gender and communication in a variety of settings. (MULT) (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3329",
+            "course_name": "Intercultural Communication",
+            "course_desc": "Presents theory and application of communication skills for a culturally diverse world. Develops verbal and nonverbal abilities in social and professional intercultural contexts. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3330",
+            "course_name": "Nonverbal Communication",
+            "course_desc": "Introduces the conceptual foundations of nonverbal communication. Theoretical components, research methods and applications of nonverbal communication are also explored in a variety of contexts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3332",
+            "course_name": "The Dark Side of Communication",
+            "course_desc": "This course examines communication that is considered challenging, complicated, stressful, or unpleasant. Topics include (but are not limited to) deception, teasing/bullying, jealousy, topic avoidance, and aggression. The phenomena covered range from the everyday to the extreme, and impact our well-being as well as our relationships.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3335",
+            "course_name": "Communication and Identity in International Work Cultures",
+            "course_desc": "This course explores how personal, cultural, organizational, and occupational identities shape workplaces.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3336",
+            "course_name": "Diversity and Communication",
+            "course_desc": "This course examines various styles of formal and informal communication, and builds awareness and understanding of diversity. It will address diversity issues in social characteristics such as age, gender, race, and sexual orientation. It will address how society communicates about issues related to diversity. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3342",
+            "course_name": "Interviewing Principles and Practices",
+            "course_desc": "This course explores the components and techniques that differentiate the interviewing process from other forms of communication. By understanding the intricacies of interviewing (goals, structure, question formats), students improve their ability to apply interview principles.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3345",
+            "course_name": "Argumentation and Debate",
+            "course_desc": "A study of basic principles of argumentation emphasizing analysis, evidence, reasoning, and refutation and their applications in formal and informal debate contexts. Students will do laboratory work with the University forensics squad.  Prerequisite: COMM 1310.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3350",
+            "course_name": "Public Advocacy and Civic Engagement",
+            "course_desc": "This course provides a theoretical foundation to understand the fundamentals of public deliberation, the individual's role in advocacy, and civic engagement in a democratic society. Sample topics include practices of engagement and inquiry, communication ethics, free expression and the responsibility of advocates.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 3358",
+            "course_name": "Professional Communication",
+            "course_desc": "Application of self-presentation and interaction concepts and skills to the transition from undergraduate studies to professional life, including job selection, resume preparation and presentation, interviewing, and interaction management in business and professional settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4111",
+            "course_name": "Practicum in Communication Studies",
+            "course_desc": "On-the-job experience working with faculty to assist with the department missions of teaching, research or service. Students may work in the department communication lab, assist faculty in the classroom, serve as faculty research assistants or other academic support tasks. May be repeated one time for additional credit. Prerequisite: Departmental approval.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4307",
+            "course_name": "Media Criticism",
+            "course_desc": "Explores the influence of media messages based upon communication and rhetorical theories in shaping perceptions and values. Focus is upon the rhetorical analysis of how the visual media of film and television communicate social, political, and personal attitudes and behaviors.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4310",
+            "course_name": "Methods of Teaching Communication Studies",
+            "course_desc": "A study of methods of teaching communication studies principles and skills for secondary school teachers. Students enrolled in teacher certification programs with a major in Nutrition, Consumer Affairs, Communication Studies or a second teaching field in Communication Studies should contact the Department of Communication Studies for approval to register.  (WI) Prerequisite: COMM 1310, COMM 2315, COMM 2330, or COMM 2338; with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4311",
+            "course_name": "Instructional Communication Practicum",
+            "course_desc": "This course provides students with an overview of instructional communication research, including teacher immediacy and clarity, and student responsiveness and engagement. Students will also work with a faculty supervisor as an instructional aide in which they will facilitate experiential activities and learn to assess lower-division assignments.  Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4315",
+            "course_name": "Directed Research in Communication Studies",
+            "course_desc": "Individual or group research projects at the advanced level that are not offered in the present curriculum. Permission and project approval must be obtained from the departmental chair prior to registration. May be repeated with different emphasis for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dual Enrollment Permitted",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4320",
+            "course_name": "Planning Communication Studies Activities and Events",
+            "course_desc": "This course is designed to assist individuals in the management and implementation of communication activities and events. The course includes practical experience in planning and directing individual events.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4321",
+            "course_name": "American Speeches",
+            "course_desc": "Analysis and evaluation of major American speeches and their influence on the history and culture of the United States from 1630 to the present.  Prerequisite: COMM 2338.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4322",
+            "course_name": "Rhetoric of Protest Movements",
+            "course_desc": "Explores the persuasive strategies used by protest and political movements to promote social and political change. Focuses upon the application of critical perspectives in understanding the stages, leadership styles, and rhetorical appeals characteristics of movements in American society. (MULT) Prerequisite: COMM 2338.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4324",
+            "course_name": "Organizational Rhetoric",
+            "course_desc": "Guided by principles of rhetoric, students will investigate a variety of functions for internal and external audiences. Functions will include building identity; managing issues, impressions, and crisis; and influencing organizational culture. Students will use this knowledge to create and analyze organizational messages.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4325",
+            "course_name": "Communication and Technology",
+            "course_desc": "This course explores how the use of information and communication technologies relates to interpersonal, organizational, public, political, and intercultural communication practices and outcomes.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4326",
+            "course_name": "Health Communication",
+            "course_desc": "This course provides students with an overview of major theoretical and practical issues for communicating about health issues in clinical, organizational, relational, and public contexts.  Students will gain knowledge and skills to improve patient health outcomes through effective message strategies.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4327",
+            "course_name": "Social Media in Organizations",
+            "course_desc": "Social Media in Organizations prepares students to be effective social media writers, resourceful workers, critical consumers, and savvy job seekers. We will consider members use of social media inside organizations as well as explore our peripheral connection with organizations as consumers and prospective employees.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4329",
+            "course_name": "Communication Training and Human Resource Development",
+            "course_desc": "This course presents the principles and skills of developing and presenting communication training programs. An emphasis is placed upon applications of communication skill development, communication theory, and instructional communication research in organizational contexts.  Prerequisite: COMM 2315, COMM 2330, or COMM 2338.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4331",
+            "course_name": "Persuasion",
+            "course_desc": "An investigation of rhetorical and behavioral theories of persuasion, the devising of persuasive campaigns, as well as the consumption and generation of persuasive messages in a variety of communication settings. Applicable for careers in business, law, and human relations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4336",
+            "course_name": "Diversity and Inclusion Training",
+            "course_desc": "In this course, we recognize, challenge, and seek to change imbalances in power structures that deny equal respect, dignity, and rights to inclusion for the socially marginalized. Within an immersive educational environment, students apply diversity-related topics and instructional communication methods to conduct diversity and inclusion training sessions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4338",
+            "course_name": "Advanced Public Speaking",
+            "course_desc": "In-depth critical analysis of speech construction and the development of presentation skills.  Prerequisite: COMM 2338.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4341",
+            "course_name": "Intercultural Communication in the Americas",
+            "course_desc": "This course investigates intercultural communication in various contexts of North, Central, Latin America and the Caribbean covered over two sections: (1) understanding the cultural differences (i.e., values, nonverbal communication, negotiation, business communication, family communication),  and (2) understanding transitional experiences of migrants from Central and Latin America, and the Caribbean. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4345",
+            "course_name": "Political Communication",
+            "course_desc": "A study of historical and contemporary political campaigns in the United States analyzing management strategies, promotional techniques, and rhetorical messages. Prerequisite: COMM 2338.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4346",
+            "course_name": "Environmental Communication and Sustainability",
+            "course_desc": "In this course, students learn how to analyze environmental communication messages and how they influence our understanding of environmental issues.  Students will examine public discourse including formal oratory, public debate, political communication, organizational communication, and mass mediated messages.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4347",
+            "course_name": "Leadership and Communication",
+            "course_desc": "An advanced course in communication designed to examine in detail the phenomenon of leadership in groups and organizations. Various theories and approaches to leadership will be surveyed with an emphasis on applying leadership principles.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4350",
+            "course_name": "Communication and Coping across the Lifespan",
+            "course_desc": "This course reviews research regarding the communicative management of stress during life transitions. We explore theoretical and practical implications of leading models of stress, coping, and support from communication and related disciplines with a specific emphasis on communicative processes (e.g., support and advice, disclosure and avoidance, advocacy) that facilitate and hinder the adjustment (e.g., psychological, relational, and physiological health) to stressors across the lifespan (e.g., emerging adulthood, family transitions and caregiving, chronic illness and end-of-life).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4351",
+            "course_name": "Relational Communication",
+            "course_desc": "The study of theory and research trends regarding communication in close relationships, including attraction and intimacy; relationship development, maintenance, and dissolution; affection and support; and conflict.  The theoretical and practical relevance of the social, emotional, and relational consequences of messages in emphasized throughout the course.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 4390",
+            "course_name": "Communication Internship",
+            "course_desc": "This course provides on the job experience in a communication related role in an approved organization.  Enrollment requires permission of the instructor, a minimum of 150 clock hours on the job, a written contract with the internship coordinator, and a final portfolio of work. May be repeated for additional credit. Prerequisites: 6 hours of upper level communication electives completed with a grade of C or higher. Restricted to full majors or minors in their junior or senior year. Good academic standing required.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COMM 5100",
+            "course_name": "Teaching Communication Studies",
+            "course_desc": "An introduction to curriculum, instruction, and assessment methods in the teaching of Communication Studies. Provides an orientation as well as regular in-service training and planned periodic evaluations of instructional responsibilities. This course does not earn graduate degree credit. Repeatable with different emphasis.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Graduate Assistantship|Exclude from Graduate GPA",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "COMM 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COMM 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding. Prerequisite: Instructor approval.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COMM 5301",
+            "course_name": "Quantitative Research Methods in Communication",
+            "course_desc": "This course is an examination of quantitative research methods in speech communication. Measurement procedures, statistics, experimental design, and descriptive research methods are investigated, as well as a consideration of scholarly writing and library research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5302",
+            "course_name": "Rhetorical Methods",
+            "course_desc": "A study of approaches to the analysis of public discourse directed toward establishing workable perspectives for students conducting rhetorical analysis. Required of communication studies majors.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5303",
+            "course_name": "Qualitative Research Methods in Communication",
+            "course_desc": "This course provides an introduction to qualitative methods of inquiry in communication. Students will learn and apply principles of qualitative research designs in data collection, analysis, and integration of narrative and non-numeric data in communication research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5304",
+            "course_name": "Work/Life Intersections",
+            "course_desc": "This course examines those situations where work and life intersect, and how humans use communication to create, negotiate, and manage work/life intersections.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5305",
+            "course_name": "Communication Ethics",
+            "course_desc": "This course explores common ethical dilemmas in personal and professional communication contexts. Various ethical decision-making frameworks, dialogic communication styles, and ethical case studies are emphasized to develop socially responsible and ethically sound communication strategies for diverse audiences, platforms, and situations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5306",
+            "course_name": "Communication for Leadership & Management",
+            "course_desc": "This course explores communication theories related to leadership and management in social and professional organizational contexts. Students will research, critically evaluate, and apply these frameworks to case studies where they can demonstrate their knowledge of effective leadership and management communication.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5307",
+            "course_name": "The Dark Side of Communication",
+            "course_desc": "This graduate seminar will examine aversive and problematic interactions in interpersonal, organizational, health, and instructional settings. Sample topics include (un)fairness, backstabbing/betrayal, breaking up, end of life communication, deception, teacher misbehaviors, and bullying. Students will take a research-based approach to understanding these undesirable, yet common, messages.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5309",
+            "course_name": "Proseminar in Communication Research Methods",
+            "course_desc": "The goal of this course is to provide students with an overview of the methods used in the discipline of Communication Studies. To that end, we will begin by introducing students to the history of the discipline followed by overviews of rhetorical, quantitative, and qualitative research methods.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5310",
+            "course_name": "Methods of Teaching Communication Studies",
+            "course_desc": "A study of the methods of the teaching speech communication principles and skills for secondary school teachers. Prerequisite: Admission to teacher certification program or permission of department chair.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5312",
+            "course_name": "Intercultural Communication",
+            "course_desc": "This course examines how culture evolves and is maintained through communicative systems of meaning.  The many ways in which language, culture, and communication interact with, influence, and manifest in each other in everyday experience are explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5313",
+            "course_name": "Relational Communication",
+            "course_desc": "This course provides a comprehensive overview of relational communication theories and research. Students engage with theory and research frameworks to think critically about relational communication perspectives and contributions, understand the strengths and limitations of those perspectives, and learn to contribute to new knowledge of relational communication.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5314",
+            "course_name": "Family Communication",
+            "course_desc": "This course explores the communication processes associated with families. Topic areas for exploration will include: storytelling, intimacy, conflict, rituals, religion, health-illness, and death. The goal is to further understand interdisciplinary research and theory related to family interactions embedded in larger webs of social, cultural, and generational relationships.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5315",
+            "course_name": "Directed Research in Communication Studies",
+            "course_desc": "A course to be offered to certain graduate students to allow for independent study in a specific area for which a regular course is not available. May be repeated with different emphasis for additional credit. Prerequisite: Departmental approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Dual Enrollment Permitted",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5318",
+            "course_name": "Interpersonal Communication",
+            "course_desc": "A review of current research in the area. Includes an examination of contemporary theories and research methods.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5319",
+            "course_name": "Organizational Communication",
+            "course_desc": "Examines organizational communication theory and research in applied organizational contexts. Provides communication professionals with an analytical framework for improving communication.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5320",
+            "course_name": "Directing Communication Studies and Theatre Activities",
+            "course_desc": "Designed to assist any teacher, whether of speech and drama or some other subject, in directing speech and drama activities. During the course, those in the class will actually direct debate, plays, declamation, and other activities. May be repeated with different emphasis for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5321",
+            "course_name": "Communication Assessment",
+            "course_desc": "An in-depth study of communication assessment techniques employed in the field of oral communication. Statistical, experimental, and observational methods of assessing oral communication in interpersonal, group, and classroom settings are included.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5324",
+            "course_name": "Seminar in Instructional Communication",
+            "course_desc": "Examines communication instruction theory and research and their practical applications in various instructional settings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5325",
+            "course_name": "Seminar in Human Communication Theory",
+            "course_desc": "This course is an examination of theories of human communication contexts including interpersonal, family, intercultural, organizational, and instructional communication. The course may be repeated with a different topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5327",
+            "course_name": "Contemporary Rhetorical Theory",
+            "course_desc": "A survey of the major contemporary theoretical perspectives and conceptual debates in rhetoric. Focuses upon critical interpretations and applications of theory in addition to study of primary theorists writings.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5329B",
+            "course_name": "Communication and Negotiation",
+            "course_desc": "Examines theory, research, and practice of conflict management and negotiation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5329D",
+            "course_name": "Managing Communication Technologies in the Workplace",
+            "course_desc": "Examines how communication technologies both help and hinder workplace communication. Examines theory, practical applications, key scholars and empirical research. Heavy focus on using case studies that provide context for learning how to thrive in the contemporary organization.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5329E",
+            "course_name": "Communication and Organizational Culture",
+            "course_desc": "A seminar about communication and organizational culture. Discussion and materials explore communication practices that enable people to identify themselves as members of an organization and bind themselves to each other. Students will have the opportunity to analyze an organization.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5329G",
+            "course_name": "Communication and Emotion",
+            "course_desc": "This course examines various ways in which interpersonal communication and emotion coexist and impact one another. The goal is to provide opportunities to learn about emotional experience and expression both in an abstract way (class readings and discussions) and in a more concrete fashion (conducting your own analyses and research).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5329H",
+            "course_name": "Work, Identity, and Difference",
+            "course_desc": "Work is influential in our social interactions, our understanding of our own and others identities, and our navigations of difference. We will explore the communication challenges of contemporary work in the United States through researching the history of work, excessive work, and communication construction of difference at work.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5329I",
+            "course_name": "Relational Health Communication",
+            "course_desc": "This course reviews the intersection of interpersonal and health communication theory, highlighting the impact of social involvement and communication processes on health outcomes, as well as the application of health communication theories in close relationship contexts.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5329J",
+            "course_name": "LGBTQ+ Rhetoric and Advocacy",
+            "course_desc": "This course explores historical and contemporary developments in of LGBTQ+ rhetoric and advocacy. In doing so, the course also examines how approaches to the study of LGBTQ+ rhetoric and advocacy, in terms of theory and methodology, has changed and shifted over time.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5329K",
+            "course_name": "End-of-Life Communication",
+            "course_desc": "This course will examine communication at the end-of-life (EOL). Students will discuss how people approach the EOL, and the end of relationships, through communication. Course material will highlight challenges and current issues surrounding EOL communication between terminally ill individuals and their family, friends, and medical professionals.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5329L",
+            "course_name": "Communicating Diversity and Inclusion",
+            "course_desc": "This course examines the relationship between communication and power imbalances that deny equal respect, dignity, and rights to inclusion for the socially marginalized. Building upon historical and contemporary research, students will be able to extend principles from the critical paradigm and instructional communication to act ethically when making decisions that impact socially marginalized groups, develop a research project that advances knowledge of diversity and inclusion, and conduct training to advance diversity and inclusion initiatives.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5329M",
+            "course_name": "Health Communication Campaigns",
+            "course_desc": "Contemporary theory and research from the field of Communication Studies make it possible to understand how and why health messages may impact future communication and behavior. This course explores how health-focused information can produce shared meaning between message senders and receives. Using a transactional communication framework, students will examine impacts of relationships, organizational roles, and networks of social relationships in relation to health outcomes of patients, families, organizations, and communities. Theoretical and applied research is used to guide the analysis of evidence-based messages that prevent disease and illness, reduce health risks, and promote behaviors that improve health.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5329N",
+            "course_name": "Rhetoric of Diversity",
+            "course_desc": "The course delves into the academic literature on rhetoric, diversity, and inclusion. This course explores how the values of diversity and inclusion are products of rhetorical negotiation and definition, examining how these concepts are used in a variety of context and for a wide array of purposes.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5329O",
+            "course_name": "Communication in Understudied Close Relationships",
+            "course_desc": "This course focuses on important relationships that may get glossed over in standard interpersonal communication seminars. More specifically, we will examine the various types of close relationships that comprise modern society, and current issues that affect those bonds. Students will investigate how communication functions to develop, maintain, enrich, or limit these understudied relationships.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5329P",
+            "course_name": "Communication & Identity in International Work Cultures",
+            "course_desc": "This course explores how personal, cultural, organizational, and occupational identities shape workplaces. By traveling to multiple countries abroad, we will explore how different employees make sense of their work identities. Tours across the country will enable students to better understand cultures influence on work, and business site visits will allow students to observe work, communication, and identities in a variety of organizations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5330",
+            "course_name": "Nonverbal Communication",
+            "course_desc": "A review of current theory and research of nonverbal communication behavior.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5331",
+            "course_name": "Persuasive Communication",
+            "course_desc": "An analysis of theories of persuasion. Emphasis placed on understanding established theories of attitude formation and change,  contemporary persuasion, research, and the application of persuasion theory.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5332",
+            "course_name": "Communication and Technology",
+            "course_desc": "Focuses on research and theories about the relationships between technology and communication behavior in interpersonal, group, and organization contexts. Also considers relationships between communication, technology, and culture.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5333",
+            "course_name": "Health Communication",
+            "course_desc": "This course provides an overview of health communication theory and research to explore how interpersonal, organizational, and cultural messages shape views of illness and the health care system. Topics will include health literacy, health risk messages, e-health, health disparities, and physician-patient interactions.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5340A",
+            "course_name": "Rhetorical Movements",
+            "course_desc": "This course examines the unique phenomenon of rhetorical movements.  Unlike rhetorical inquiries that typically focus upon the discourse of those in power, the study of rhetorical movements analyzes how individuals, who often have no other resources but their voices and their bodies, come together to attempt social and political changes.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5340B",
+            "course_name": "Free Speech and Extremism",
+            "course_desc": "One of the most unique and important foundations of American society is the right to free speech.  This course will begin with an examination of free speech in historical and contemporary society.  Because free speech is often contested (and protected) through extreme controversy, we will also focus on extremist rhetoric.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5340C",
+            "course_name": "Rhetoric of Women's Rights",
+            "course_desc": "This course examines the rhetoric of womens rights in the United States. We will analyze arguments of the nineteenth century abolitionist, temperance, and womens rights movements, and the public discourse of the twentieth century womens rights movements. We will also consider contemporary issues of gender and power in public argument.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5340D",
+            "course_name": "Argumentation & Public Advocacy",
+            "course_desc": "This course explores the theory and practice of argumentation and public advocacy. The course provides an overview of contemporary approaches to the study of argumentation and ethics. The course emphasizes the application of theories of argumentation and advocacy to recent examples.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5340E",
+            "course_name": "Science, Health, & Environmental Rhetoric",
+            "course_desc": "This graduate course explores the history, theories, and applications of rhetoric as it pertains to science, health and the environment. These fields are both interrelated and distinct in rhetorical studies. For instance, while environmental rhetoric includes the rhetorical construction of wilderness, it also includes studies of environmental justice & health disparities across gendered/classed/racial lines as well as debates over climate science & scientific consensus. Students will gain a broader understanding of rhetorical theory and how to complete rhetorical critique. Students can also expect to read academic articles, lead class discussions, and engage in independent academic research.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5342",
+            "course_name": "Historical Rhetoric and Social Influence",
+            "course_desc": "This course is an analytical study of speeches, speakers, groups, movements, and rhetorical strategies in history. Includes emphasis on the following topics: American Public Address, Rhetoric of Womans Suffrage, and other historic topics of interest. This course may be repeated with different emphasis or topic for additional credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5343",
+            "course_name": "Contemporary Rhetoric and Social Influence",
+            "course_desc": "The analytical study of speeches, speakers, groups, movements, and rhetorical strategies in contemporary society. Includes emphasis on the following topics: rhetoric and culture, rhetorical movements, and rhetorical genres. May be repeated with a different topic.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5344",
+            "course_name": "American Speeches",
+            "course_desc": "This course is a survey of American public address.  The class will study significant and representative speeches from different periods of American history. This class will examine what the study of American public address can teach us about history, communication, and social influence.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5345",
+            "course_name": "Political Communication",
+            "course_desc": "Study of political communication in contemporary times. Course will cover the rhetoric of candidates and politicians, the structure of political campaigns, and campaign practices.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5347",
+            "course_name": "Small Group Communication",
+            "course_desc": "An examination of theories and research evidence about communication in the small group.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5350",
+            "course_name": "Applied Communication Studies",
+            "course_desc": "An application of communication principles and skills. Topics covered may include organizational, interpersonal, nonverbal and group communication, conflict management, communication technology, and persuasion analysis. May not be taken for credit by students pursuing M.A. degree in Communication. May be repeated for additional credit with department approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5355",
+            "course_name": "Media Criticism",
+            "course_desc": "A rhetorical analysis of media from a Contemporary Cultural Studies perspective.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5356",
+            "course_name": "Gender and Communication",
+            "course_desc": "An examination of research and theories about gender communication, relationships, and qualitative research methods. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5360",
+            "course_name": "Introduction to Empirical Research in Communication",
+            "course_desc": "Introduction to Communication Studies as a behavioral science. Students will learn principles of the scientific method; explore quantitative and qualitative methods; investigate variables across the field (persuasion, interpersonal, organizational, non-verbal, intercultural, and instructional); and analyze and apply\nresearch in Communication. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "COMM 5362A",
+            "course_name": "Organizational Communication",
+            "course_desc": "Introduction to communication concepts in the context of organizations. Students will learn how communication influences contemporary organizations through familiarity with contemporary research. Students will be prepared to understand,\ninvestigate, and manage communication processes in organizations. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Exclude from Graduate GPA|Leveling|Topics",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "COMM 5362B",
+            "course_name": "Organizational Rhetoric",
+            "course_desc": "Introduction to the study of organizational rhetoric designed for internal and external audiences. Students will analyze and create messages based in theories of organizational rhetoric. This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Exclude from Graduate GPA|Leveling|Topics",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "COMM 5371",
+            "course_name": "Communication Training and Development",
+            "course_desc": "This course examines the theory and practice of developing and presenting communication training sessions for organizations.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5372",
+            "course_name": "Organizational Communication Analysis and Development",
+            "course_desc": "This course examines communication problems in organizations and describes effective interventions. Provides communication managers and consultants with a broad range of tools and procedures for diagnosing and changing communication.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5374",
+            "course_name": "Organizational Rhetoric",
+            "course_desc": "This course will include an examination of how organizations use symbols to accomplish a variety of functions for internal and external audiences, as well as exploring the concept of organization as rhetorical argument.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5390",
+            "course_name": "Communication Internship",
+            "course_desc": "Students acquire on-the-job experience in a position with an organization, using skills and knowledge acquired through graduate coursework. The course requires written reports and other projects as specified by the supervising instructor. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COMM 5395",
+            "course_name": "Capstone Research Project",
+            "course_desc": "Under the direction of a graduate faculty member, students develop and submit a research or applied project using knowledge and skills acquired through graduate coursework. Required for students not pursuing the thesis path. May be taken only once for degree credit. Prerequisite: Permission of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students initial thesis enrollment. No thesis credit is awarded until student has completed the thesis in Communication Studies 5399B. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COMM 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COMM 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding. Prerequisite: Instructor approval.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COMM 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a students continuing thesis enrollments. The student continues to enroll in this course until the thesis is submitted for binding. Prerequisite: Instructor approval.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "COMM 7315",
+            "course_name": "Directed Research in Communication Studies",
+            "course_desc": "Independent study of a specific communication research area. May be repeated with different emphasis for additional credit.  Prerequisite: Doctoral level standing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 7325A",
+            "course_name": "Instructional Communication",
+            "course_desc": "A review of instructional communication theory and research with an emphasis on the function of communication in instructional settings. Prerequisite: Doctoral level standing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 7325B",
+            "course_name": "Organizational Communication",
+            "course_desc": "A review of organizational communication theory and research with an emphasis on organizational development from a communication perspective. Prerequisite: Doctoral level standing.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "COMM 7325C",
+            "course_name": "Communication Assessment",
+            "course_desc": "An in depth study of communication assessment techniques employed in the field of oral communication. Statistical, experimental, and observational methods of assessing oral communication in interpersonal, group, and classroom settings are included.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

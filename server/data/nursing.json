@@ -1,0 +1,646 @@
+{
+    "name": "Nursing",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/nurs/",
+    "courses": [
+        {
+            "course_code": "NURS 3110",
+            "course_name": "Health Assessment Across the Life Span Practicum",
+            "course_desc": "This course requires demonstrated competency in the performance and documentation of physical assessments of well individuals and nursing care plans using the nursing process, critical thinking, and evidence-based practice. Apply teaching/learning principles in meeting the education needs of patients and demonstrate measures to maintain confidentiality of personal health information.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NURS 3121",
+            "course_name": "Essentials of Nursing Care Practicum",
+            "course_desc": "This course requires the use of nursing process and clinical reasoning principles to provide safe, effective, patient-centered care. Evidence-based practices will be used when performing essential nursing skills and procedures to care for patients experiencing acute and chronic alterations in health status.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NURS 3221",
+            "course_name": "Essentials of Nursing Care",
+            "course_desc": "This foundation course focuses on basic concepts related to essential nursing care of patients across the life span. Integration of knowledge of family systems, evidence-based practice, clinical reasoning, and the nursing process to provide safe, effective, patient-centered care will occur.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 3230",
+            "course_name": "Healthcare Systems",
+            "course_desc": "Access and barriers to healthcare, past and current healthcare policy, and the professional nurse's role in policy and delivery of healthcare, will be emphasized.  Qualitative and quantitative research in relation to healthcare systems, evidence based nursing practice, and ethical topics will be discussed.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 3240",
+            "course_name": "Nursing Care Across the Life Span Practicum",
+            "course_desc": "This course uses clinical experiences to apply the nursing process in providing safe, effective, and quality care to patients and families across the life span. Clinical reasoning and judgment will be used to provide ethical, holistic, and patient-centered nursing care, promote health, prevent disease, and manage illness.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NURS 3241",
+            "course_name": "Acute Nursing Care of Adults Practicum",
+            "course_desc": "This course requires students to use evidence-based and collaborative practice principles in providing safe, effective, and quality care to adult patients experiencing acute, rapidly changing, life-threatening alterations in health status. Clinical reasoning and judgment will be used to provide ethical, holistic, patient-centered nursing care, manage illness, and promote health.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NURS 3250",
+            "course_name": "Health Assessment Across the Life Span",
+            "course_desc": "Conducting health histories and physical assessments of well individuals and developing nursing care plans that include patient age-specific health promotion, illness prevention, and risk factors will be emphasized. Assessments will encompass cultural domains, diversity, belief systems, and the implications for traditional as well as complementary and alternative healthcare.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 3260",
+            "course_name": "Psychiatric Mental Health Nursing Practicum",
+            "course_desc": "This course utilizes clinical experiences to promote application of the nursing process in providing quality care to those experiencing mental health issues across the life span. Competency in using evidence-based practices to promote health, prevent disease, and manage illness will be developed.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NURS 3300",
+            "course_name": "Foundations of Professional Nursing Practice",
+            "course_desc": "This course explores the history of nursing in the context of the evolving healthcare system.  Laws, regulations, and ethical guidelines impacting nursing licensure and professional practice will be examined.  The delivery of patient and family-centered, evidence-based, and safe quality care will be explored. (WI) (MULP).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Multicultural Perspective|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 3302",
+            "course_name": "Research and Ethics",
+            "course_desc": "Introduction to critical appraisal of qualitative and quantitative research, and application of research and evidence-based processes used to improve decision-making and patient care outcomes across health settings. Integration of theory, information systems, clinical judgment, interprofessional  perspectives and analysis of ethical conduct provide a foundation for learning the research process. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 3360",
+            "course_name": "Psychiatric Mental Health Nursing",
+            "course_desc": "This course applies theories, concepts, knowledge, and skills for the comprehensive nursing care of those coping with mental health issues. Building on a liberal education, this course integrates theories of mental illness, psychopathology, and current research findings as they relate to the presentation of symptoms and holistic management of care.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 3430",
+            "course_name": "Pathophysiology and Pharmacology for Nurses",
+            "course_desc": "Introduction and overview of pathology, clinical pharmacology and pharmacotherapeutics, including how major drugs are used therapeutically for age-specific clients. Other topics to be covered include drug laws and regulations, patient and nurse safety.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 3440",
+            "course_name": "Nursing Care Across the Life Span",
+            "course_desc": "This foundational course focuses on the use of clinical reasoning and judgment to provide collaborative care to patients across the life span experiencing chronic and acute alterations in health status. Content is presented based on evidence-based practice and the prevalent health needs of patients. Prerequisite: NURS 3430 with a grade of \"C\" or better.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 3441",
+            "course_name": "Acute Nursing Care of Adults",
+            "course_desc": "This course focuses on the use of evidence-based practice and clinical reasoning and judgment to provide collaborative care to adult patients experiencing acute, rapidly changing, life-threatening alterations in health status.",
+            "course_credits": "\n4 Credit Hours \n4 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 4160",
+            "course_name": "Maternal and Newborn Nursing Practicum",
+            "course_desc": "This course is the clinical companion to NURS 4260. Concepts, knowledge, and skills taught in NURS 4160 will be applied to both simulation lab and clinical settings. Evidence-based, developmentally and culturally appropriate nursing care in a variety of patient-care settings will be emphasized.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NURS 4170",
+            "course_name": "Pediatric Nursing Practicum",
+            "course_desc": "This course is the clinical companion to NURS 4270. Concepts, knowledge, and skills taught in NURS 4270 will be applied in the simulation lab and clinical settings. Evidence-based, developmentally and culturally appropriate nursing care in a variety of patient-care settings will be emphasized.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NURS 4201",
+            "course_name": "Professional Growth and Empowerment",
+            "course_desc": "This course focuses on issues related to professional practice, career planning, personal goal setting, and empowerment of self and others. Factors related to job performance, performance expectations and evaluation, reality orientation, and commitment to lifelong learning will be discussed.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 4204",
+            "course_name": "Policy, Ethics, and Advocacy in Professional Nursing Practice",
+            "course_desc": "This course explores the baccalaureate prepared nurses role informing the public policy process. Nursing jurisprudence, principles of nursing ethics, patient safety advocacy, standards and scope of nursing practice, professional boundaries, nursing peer review, and whistleblower protections are emphasized to prepare students to influence the U.S. Health Care System and society.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 4205",
+            "course_name": "Healthcare Information Technology in Nursing Practice",
+            "course_desc": "This course emphasizes nursing informatics and technology used in healthcare settings to research, support and implement safe quality patient care.  Nursing administrative applications, pre-care and care support, electronic health records, clinical information systems, telehealth, informatics promoting community and consumer health, HIPAA, and technology to enhance collaboration in healthcare are covered.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 4211",
+            "course_name": "Nursing Care in Complex Health Practicum",
+            "course_desc": "This course focuses on providing care to patients with complex health alterations and life situations.  Nursing care to patients in a variety of settings will be provided using the concepts of therapeutic communication and collaborative interventions with a focus on the complexity of the patients or familys needs.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NURS 4260",
+            "course_name": "Maternal and Newborn Nursing",
+            "course_desc": "This course applies the nursing process and evidence-based practice to the care of maternal and newborn patients in a variety of healthcare settings. The course emphasizes the use of the nursing process to provide care to individuals and families that is developmentally and culturally focused.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 4270",
+            "course_name": "Pediatric Nursing",
+            "course_desc": "This course applies the nursing process and evidence-based practice to the care of pediatric patients in acute, outpatient and non-acute care settings. The course emphasizes the use of the nursing process to provide care to individuals and families that is developmentally and culturally appropriate.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 4280",
+            "course_name": "Community and Population Health Nursing Practicum",
+            "course_desc": "Clinical experiences will expose students to a variety of community and public health environments, health programs and policies in order to learn how nursing care is delivered to populations in community settings.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n8 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NURS 4302",
+            "course_name": "Role Transition to Professional Nursing",
+            "course_desc": "This didactic course focuses on role responsibility and accountability for transition into baccalaureate nursing practice.  Emphasis is given to core professional standards and ethical values fundamental to nursing.  Principles of professional communication, critical thinking, and role socialization will be integrated within an organizational context for professional growth.  (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 4303",
+            "course_name": "Safety and Quality in an Interprofessional Environment",
+            "course_desc": "This course emphasizes the professional nurses role in application of evidence based quality improvement and risk reduction strategies that promote safe environments while maximizing resources and opportunities for positive patient outcomes.  Participation in highly effective Interprofessional teams is emphasized with concepts applied to local, national and international health issues.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 4311",
+            "course_name": "Nursing Care in Complex Health",
+            "course_desc": "This course explores traditional and contemporary nursing concepts related to complex health alterations, compensations, and environments across the life span. Therapeutic communication, education, and collaborative interventions with diverse individuals and groups are emphasized including the use of complementary and alternative modalities to meet the needs of patients.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 4341",
+            "course_name": "Leadership and Management of Nursing Care Practicum",
+            "course_desc": "Leadership and management skills in a variety of nursing care situations will be applied. Nursing unit leadership and staff assignments based on assessment of client needs, resources, priorities, and competencies of staff will be covered. Assessment and evaluation of the provision of evidence-based nursing care will be performed.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n12 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "NURS 4351",
+            "course_name": "Leadership and Management of Nursing Care",
+            "course_desc": "Students discuss leadership and management theories related to organizational nursing roles, including competencies required for complex change, performance improvement, and transformational leadership. Organizational contexts, structure, processes, and culture, in leading and directing patient centered care are examined, along with relationships between governance structures, practice environments, and positive patient outcomes. (WI).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 4380",
+            "course_name": "Community and Population Health Nursing",
+            "course_desc": "This course explores concepts of Community-Oriented Nursing Practice with an emphasis on using the nursing process to assess the health of communities and diverse populations. Public Health Nursing Practice and Community-Based Nursing Practice are discussed with an emphasis on health promotion and the prevention of disability and disease.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Dif Tui- Health Professions|Lab Required",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5102",
+            "course_name": "Advanced Health Assessment Practicum",
+            "course_desc": "This course emphasizes advanced health assessment techniques and skills common to patient evaluation and development of differential diagnoses.  Advanced physical assessment skills and identification of common signs and symptoms related to physical examination will be developed. (60 practicum hours) Corequisites: NURS 5202 and NURS 5301 both with grades of \"B\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n4 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5111",
+            "course_name": "Diagnostic Reasoning and Procedures Practicum",
+            "course_desc": "This course examines clinical laboratory diagnostics, imaging tests, and procedures commonly practiced in primary care by advanced practice nurses.  Students will learn diagnostic reasoning and  clinical decision-making skills through virtual and case simulations. Additionally, students will learn procedures in on-campus intensives as part of the clinical requirements of the course. Students complete 45 practicum hours in this course. Corequisite: NURS 5209 and NURS 5210 and NURS 5301 and NURS 5351 all with grades of \"B\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n3 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5112",
+            "course_name": "Advanced Psychiatric Assessment and Clinical Interview",
+            "course_desc": "This course provides a foundation for psychiatric assessment and clinical interview techniques to determine mental health status of clients throughout the lifespan.  Additionally, psychiatric differential diagnosis, standardized screening tools, and documentation of a psychiatric assessment are emphasized.  Prerequisite: NURS 5301 with a grade of \"B\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5135",
+            "course_name": "Foundations of Leadership Practicum",
+            "course_desc": "This course serves as a companion course to NURS 5335. This practicum course provides experiential learning through foundational development in the nursing leader role utilizing leadership theories, frameworks, and best practices based on evidence. Practicum experiences examine leadership styles, organizational designs, and cultures in healthcare. Additionally, self-reflection, relationship-building, and healthcare team dynamics will be examined in the clinical setting. Corequisite: NURS 5335 with a grade of \"B\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5165",
+            "course_name": "Quality Improvement Practicum",
+            "course_desc": "This course serves as a companion course to NURS 5265. This practicum course provides experiential learning through application of evidence-based practice. Using quality improvement science, students will critically appraise research and apply high quality evidence to improve healthcare processes and systems in the clinical setting.  Corequisite: NURS 5265 with a grade of \"B\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5185",
+            "course_name": "Financial Management Practicum",
+            "course_desc": "This course serves as a companion course to NURS 5285. This practicum course provides experiential learning through application of business and financial concepts in healthcare settings. Students will participate in budget and staffing processes in the healthcare facility. Additionally, using strategic and financial management constructs, students will develop a proposed healthcare business plan.   Prerequisite: NURS 5260 and NURS 5262 both with grades of \"B\" or better. Corequisite: NURS 5285 with a grade of \"B\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5190",
+            "course_name": "Transition to Practice:  The Advanced Practice Nurse as Healthcare Provider",
+            "course_desc": "This course is designed for students preparing for the entry level role of a nurse practitioner.  Students will examine a more in-depth view of the nurse practitioner role specific to licensure, malpractice, national certification and exam, and prescriptive authority including controlled substances.  Prescriptive delegation, DEA, and other advanced practice nurse role socialization aspects are explored. Prerequisite: NURS 5111 and NURS 5209 and NURS 5210 and NURS 5250 and NURS 5255 and NURS 5256 and NURS 5257 and NURS 5301 and NURS 5303 and NURS 5345 and NURS 5346 and NURS 5351 and NURS 5354 and NURS 5391 all with grades of \"B\" or better. Corequisite: NURS 5392 and NURS 5393 both with grades of \"B\" or better.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5195",
+            "course_name": "Nursing Leadership Role Practicum",
+            "course_desc": "This course serves as a companion course to NURS 5395. This practicum course provides experiential learning in operational, administrative, and strategic competencies related to the nurse leader role.  This practicum experience promotes synthesis of leadership theories, quality, and risk management in the healthcare environment.  Additionally, resilience, professionalism, and policy development will be examined in the clinical setting.  Prerequisite: NURS 5185 and NURS 5165 and NURS 5135 all with grades of \"B\" or better. Corequisite: NURS 5395 with a grade of \"B\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5205",
+            "course_name": "Healthcare Leadership and Finance for Advanced Nursing Practice",
+            "course_desc": "This course explores leadership concepts and complexity of changing healthcare systems for the advanced nursing role. Healthcare economics, innovation, and resource stewardship are examined. Change management and leadership theories guide students to create a leadership philosophy. Rich leadership perspectives and diversity from various professional fields are examined through reflective practice. Prerequisite: NURS 5301 and NURS 5351 both with grades of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5208",
+            "course_name": "Health Policy, Ethics, and Issues in Advanced Nursing Practice",
+            "course_desc": "This course prepares students as advocates and change agents in health policy development, implementation, and evaluation. Current professional, ethical, and legal issues that influence advanced practice nursing, nursing education and the health care delivery system are presented.  The importance of collaborative engagement in health care policy and economics at the local, national, and global levels is emphasized.  Prerequisite: NURS 5205 and NURS 5301 and NURS 5303 and NURS 5351 all with grades of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5209",
+            "course_name": "Advanced Health Assessment",
+            "course_desc": "This course provides the foundation for advanced health assessment techniques and skills common to family practice across the lifespan.  Emphasis is placed on interviewing skills, a methodical approach to physical examinations to formulate differential diagnosis.  Documentation using informatics and electronic medical records is presented.  Content incorporates physiological, psycho-social, spiritual, cultural, diversity, developmental, and integrative components of health. Corequisite: NURS 5111 and NURS 5210 and NURS 5301 all with grades of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5210",
+            "course_name": "Advanced Health Assessment Practicum",
+            "course_desc": "This course serves as the companion course to NURS 5209.  Emphasis is placed on the development of advanced health assessment techniques and skills common to patient evaluation and development of differential diagnoses for patients across the lifespan. Advanced interview skills, physical assessment skills, and identifying common signs and symptoms related to physical examination will be developed through lab, simulation, and clinical practicum experiences.  Students complete 90 practicum hours with emphasis in advanced health assessment skills. Corequisite: NURS 5301 and NURS 5209 and NURS 5351 and NURS 5111 with grades of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5230",
+            "course_name": "Psychiatric Mental Health Diagnostics and Clinical Management for Pediatric Clients",
+            "course_desc": "This course provides a foundation for evidence-based assessment, diagnosis, and clinical management of pediatric and adolescent clients with acute and chronic psychiatric disorders.  Psychiatric theories, psychotherapies, health promotion and culturally sensitive interventions are examined. Establishing the provider-client therapeutic partnership is also explored.  Prerequisite: NURS 5312 and NURS 5112 and NURS 5301 and NURS 5303 and NURS 5102 all with grades of \"B\" or better. Corequisite: NURS 5233 with a grade of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5233",
+            "course_name": "PMH Diagnostics and Clinical Management for Pediatric Clients Practicum",
+            "course_desc": "This course serves as a companion course to NURS 5230.  This practicum course applies health promotion, assessment, and diagnostic skills in managing care of pediatric and adolescent clients with acute and chronic psychiatric disorders through integration of evidence-based psychiatric theories, psychotherapy, psychopharmacology, and alternative-based interventions.  Working with a preceptor, students will facilitate therapies, create and evaluate treatment plans, and collaborate as part of interprofessional teams to deliver holistic care.   Prerequisite: NURS 5312 and NURS 5112 and NURS 5301 and NURS 5303 and NURS 5102 all with grades of \"B\" or better. Corequisite: NURS 5230 with a grade of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5243",
+            "course_name": "PMH Diagnostics and Clinical Management for Adult and Geriatric Clients Practicum",
+            "course_desc": "This practicum course serves as a companion course to NURS 5340.  The course teaches application of health promotion, assessment, and diagnostic skills in managing care of adult and geriatric clients with acute and chronic psychiatric disorders through integration of psychiatric theories, psychotherapy, psychopharmacology, and alternative-based interventions.  Working with a preceptor, students will facilitate therapies, create and evaluate treatment plans, and collaborate as part of the interprofessional team to deliver holistic care.   Prerequisite: NURS 5312 and NURS 5112 and NURS 5301 and NURS 5303 and NURS 5102 and NURS 5230 and NURS 5233 all with grades of \"B\" or better. Corequisite: NURS 5340 with a grade of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5250",
+            "course_name": "Mental Health Wellness and Illness in Primary Care",
+            "course_desc": "This course examines behavioral and mental health wellness and illness in the context of family practice.  Application of evidence-based knowledge to provide clinical management of patients across the lifespan with common psychiatric-mental health problems is emphasized.  Screening, crisis intervention, and various therapies are presented, as well as referrals and interprofessional approaches to care. Prerequisite: NURS 5301 and NURS 5303 and NURS 5351 all with grades of \"B\" or better. Corequisite: NURS 5111 and NURS 5209 and NURS 5210 all with grades of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5255",
+            "course_name": "Pediatric and Adolescent Primary Care Practicum",
+            "course_desc": "This course serves as a companion course to NURS5354.  Students will apply and refine skills using an evidence-based approach for health promotion, disease prevention, and management of common acute and chronic illnesses for pediatric and adolescent patients using family centered and developmental perspectives.  Students complete 120 practicum hours with emphasis in pediatric primary care.   Prerequisite: NURS 5111 and NURS 5209 and NURS 5210 and NURS 5250 and NURS 5345 and NURS 5346 all with grades of \"B\" or better. Corequisite: NURS 5354 with a grade of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5256",
+            "course_name": "Geriatric Primary Care",
+            "course_desc": "This course examines holistic assessment, prioritizing differential diagnosis, and integrative clinical management of older adult and geriatric patients using family centered perspectives (ages 65+).  Emphasis is placed on health promotion, disease prevention, and management of common acute and chronic illness including polypharmacy and end of life considerations. Prerequisite: NURS 5354 and NURS 5255 both with grades of \"B\" or better. Corequisite: NURS 5257 with a grade of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5257",
+            "course_name": "Geriatric Primary Care Practicum",
+            "course_desc": "This course serves as a companion course to NURS 5256. Students will refine skills using an evidence-based approach for health promotion, disease prevention, and integrative clinical management of common acute and chronic illness for geriatric patients and families. Comprehensive health status assessment, end of life care, and complex chronic health issues are addressed.   Students complete a 90 hour practicum for this course. Prerequisite: NURS 5354 and NURS 5255 both with grades of \"B\" or better. Corequisite: NURS 5256 with a grade of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5260",
+            "course_name": "Organizational Development: Culture, Communication, & Interprofessional Concepts for Nurse Leaders",
+            "course_desc": "This course provides students a foundation in organizational theories and dynamics to support the nursing leaders role in improving system-level outcomes in healthcare organizations.  The role of patient experience, communication strategies, and interprofessional team dynamics within the context of the organization will be explored.  In addition, methods to influence and lead change in healthcare systems will be examined.  Prerequisite: NURS 5335 with a grade of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5261",
+            "course_name": "Informatics and Innovation in Nursing Leadership",
+            "course_desc": "This course provides students with skills in healthcare informatics in the context of the nursing manager or executive.  Utilization of information systems and technology to lead innovative change and quality improvement processes are emphasized.   Prerequisite: NURS 5335 with a grade of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5262",
+            "course_name": "Healthcare Finance and Strategic Management Foundations",
+            "course_desc": "This course provides students with the foundation in financial acumen of business models and healthcare delivery systems. Students will learn mechanics of strategic management that includes use of standard industry tools and techniques to collect and analyze data to develop components of a strategic plan in the context of healthcare. Prerequisite: NURS 5335 and NURS 5260 both with grades of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5263",
+            "course_name": "Fostering Human Performance and Systems Thinking",
+            "course_desc": "This course builds on nursing leadership competencies for effective human resource management within complex, adaptive healthcare environments. Students will learn and integrate into practice concepts associated with human resources management and performance including  nature of work, compensation and benefits, workforce planning, recruitment and hiring. Additionally, training and development, employee appraisal, and union-management relations will be explored. Prerequisite: NURS 5335 and NURS 5260 both with grades of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5264",
+            "course_name": "Health Policy, Law, and Ethics",
+            "course_desc": "This course prepares students as advocates and change agents in health policy development, implementation, and evaluation. Current professional, ethical, and legal issues that impact nurse leaders and influence health care delivery are presented. The importance of collaborative engagement in health care policy at the local, national, and global levels is emphasized. Prerequisite: NURS 5335 and NURS 5260 both with grades of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5265",
+            "course_name": "Evidence-Based Practice, Quality Improvement, and Healthcare Systems",
+            "course_desc": "This course lays a foundation for students to utilize research evidence and its role in supporting evidence-based practice. Content guides students to identify existing problems in clinical practice and healthcare systems through the translation of evidence into practice using quality improvement methods. Critical appraisal of research skills and opportunities to apply high quality evidence to improve healthcare processes and systems will be examined.  Corequisite: NURS 5165 with a grade of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5285",
+            "course_name": "Business and Financial Management in Healthcare",
+            "course_desc": "This course provides students with business, accounting, and financial concepts in the context of healthcare delivery systems.  Emphasis is placed on staffing, budgets, revenue, and cost management for the role of the nurse leader.  Additionally, entrepreneurship and business plans are explored. Prerequisite: NURS 5260 and NURS 5262 both with grades of \"B\" or better. Corequisite: NURS 5185 with a grade of \"B\" or better.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5301",
+            "course_name": "Advanced Pathophysiology",
+            "course_desc": "In preparation for advanced practice, this course will expand understanding of the pathophysiology underlying dysfunctions and interrelatedness of the processes of normal physiology and pathophysiology across the continuum of disease and return to wellness.  Applications will be made utilizing lifespan perspectives of the process.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5303",
+            "course_name": "Advanced Pharmacotherapeutics",
+            "course_desc": "This course provides advanced knowledge in selecting pharmacologic agents and specific drugs, based on acute and chronic health problems in diverse populations.  Knowledge of pharmacologic groups, indications and contraindications, dosing with special needs groups, adverse effects, and collaborative monitoring of pharmacotherapy and alternative therapies will be developed.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5312",
+            "course_name": "Neuroscience, Epigenetics, and Psychopharmacology",
+            "course_desc": "Building on previous knowledge of advanced pathophysiology and pharmacology, this course presents advanced concepts of neuroscience, epigenetics, and psychopharmacology that contribute to mental health and psychiatric disorders across the lifespan. Clinical management of psychotropic medication in the treatment of psychiatric disorders and mental illness are discussed and emphasis is placed on biologic actions, neurobiology, safe prescribing, and treatment response of psychiatric medication management. Pertinent laboratory diagnostics and neuroimaging related to psychiatric health and illness are also analyzed.  Prerequisite: NURS 5301 and NURS 5303 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5335",
+            "course_name": "Foundations of Leadership and Executive Nursing Practice",
+            "course_desc": "This course emphasizes organizational and systems leadership by synthesizing principles of leadership, management, and change theory.  Various leadership styles, organizational designs in healthcare, and leadership sustainability are explored.    Corequisite: NURS 5135 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5340",
+            "course_name": "PMH Diagnostics and Clinical Management for Adult and Geriatric Clients",
+            "course_desc": "This course provides a foundation for evidence-based assessment, diagnosis, and clinical management of adult and geriatric clients with acute and chronic psychiatric disorders.  Psychiatric theories, psychotherapies, health promotion and culturally sensitive interventions are examined, and emphasis is placed on the provider-client therapeutic partnership. Prerequisite: NURS 5312 and NURS 5112 and NURS 5301 and NURS 5303 and NURS 5102 and NURS 5230 and NURS 5233 all with grades of \"B\" or better. Corequisite: NURS 5243 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5345",
+            "course_name": "Young and Middle Adult Primary Care",
+            "course_desc": "This course focuses on holistic assessment, formulating differential diagnoses, and integrative clinical management of young and middle adult primary care patients (ages 18-65).  Course content includes health promotion and maintenance, including sexual, perinatal, and reproductive considerations of the child-bearing family.  Management of common acute and chronic illness in this age group in the context of family centered perspectives and rural considerations are also emphasized.   Prerequisite: NURS 5209 and NURS 5210 and NURS 5301 and NURS 5111 and NURS 5351 all with grades of \"B\" or better. Corequisite: NURS 5346 and NURS 5303 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5346",
+            "course_name": "Young and Middle Adult  Primary Care Practicum",
+            "course_desc": "This course serves as a companion course to NURS5345.  Students will apply theory to practice skills using an evidence-based approach for health promotion, sexual, perinatal, and reproductive care for the child-bearing family.  This course provides experience to refine diagnostic reasoning skills for management of common acute and chronic illness in young and middle adult aged patients using a family centered approach.  Students complete 180 practicum hours with emphasis in young and middle adult primary care.   Prerequisite: NURS 5209 and NURS 5210 and  NURS 5301 and NURS 5111 and NURS 5351 all with grades of \"B\" or better. Corequisite: NURS 5345 and NURS 5303 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n12 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5351",
+            "course_name": "Theoretical Foundations and Role Development of Advanced Integrative Nursing",
+            "course_desc": "This course explores historical processes and role development in advanced nursing practice.  Theories and frameworks that guide and inform advanced nursing practice and scholarly inquiry are examined.  Integration of theories from nursing, integrative care, and related disciplines provide a foundation for the graduate student to transition into the advance practice role and form a basis for evidence-based practice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5354",
+            "course_name": "Pediatric and Adolescent Primary Care",
+            "course_desc": "This course emphasizes holistic assessment, formulating differential diagnosis, and integrative clinical management of pediatric and adolescent patients (ages 0-21).  Content includes primary care approach health promotion, disease prevention, and managing common acute and chronic illnesses of increasing complexity using family-centered and developmental perspectives. Perspectives of underserved and rural populations in a variety of clinical settings will be explored.   Prerequisite: NURS 5345 and NURS 5346 and NURS 5250 all with grades of \"B\" or better. Corequisite: NURS 5255 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5360",
+            "course_name": "Leadership Science: Foundational Thinking Skills, Governance, & Community & Provider Relationships",
+            "course_desc": "This course will emphasize leadership skills in communication, leadership styles and organizational theory. Communication will focus on conflict resolution, presentation skills, and relationship building. Delivery systems, leadership styles, and demand for nursing will be examined. Complexity science, systems theory, and diversity required for organizing health care will be explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5361",
+            "course_name": "Leadership Science: Performance and Quality Improvement",
+            "course_desc": "This course will articulate performance improvement activities using evidence-based metrics to align patient outcomes with organizational goals. Methods for using quality metrics and action plans will be emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5362",
+            "course_name": "Leadership Science: Patient Safety, Risk Management, Legal and Regulatory Requirements",
+            "course_desc": "This course will examine areas of risk and liability. Students will develop systems that identify early warning indicators of problems and will explore just in time reporting. The concept of sentinel events and root cause analysis will be explored. Accreditation standards, legal regulations, and compliance requirements will be integrated.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5363",
+            "course_name": "Leadership Science: Evidence-Based Practice for Nurse Leaders",
+            "course_desc": "The students will explore evidence-based practice (EBP) for nurse leaders. This EBP course will equip nurses with the skills needed to effectively engage in EBP, to serve as EBP champions and mentors, and to lead projects within healthcare facilities.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5364",
+            "course_name": "Leadership Science: Health Care Finance and Workforce Planning",
+            "course_desc": "This course will emphasize workforce planning for nursing and the application of general principles of accounting. Twenty hours will be allocated to the development of a department operational and capital budget in collaboration with a nurse director or executive. Negotiation and monitoring of contracts and contract compliance will be explored.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5365",
+            "course_name": "Leadership Art: Ethics, Diversity, and Relationship Building",
+            "course_desc": "This course will explore theories of culture and will include legal regulations that govern diversity. The relationship between medical ethics and corporate compliance will be explored. Methods for creating a trusting environment will be evaluated and the need for relationships with providers and academia will be illustrated.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5366",
+            "course_name": "Leadership Art: Health Policy and Advocacy",
+            "course_desc": "This course will focus on the need for leaders to belong to professional organizations to affect policy and advocacy. Participation in legislative activities will be promoted at the state and national levels. The impact of nurse leaders serving on boards that govern health care activities and organizations will be emphasized.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5367",
+            "course_name": "Leader Within: Professional Accountability, Succession Planning and Reflective Practice I",
+            "course_desc": "This course provides a mentored experience for the synthesis of critical thinking and reflections from didactic work with the practice of nursing leadership. Observational and independent learning activities will result in a Part I  of the final capstone project reflecting culmination of program objectives.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5368",
+            "course_name": "Leader Within: Professional Accountability, Succession Planning and Reflective Practice II",
+            "course_desc": "This course is designed to be the culminating mentored experience for the synthesis of critical thinking and reflections from didactic work with the practice of nursing leadership. Students will evaluate and present their final capstone project, reflecting summation of program objectives.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n1 Lab Contact Hour\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5370",
+            "course_name": "Psychiatric Mental Health Integrative Clinical Management Across the Lifespan",
+            "course_desc": "This course builds on previous courses to further develop competency in the PMHNP role in comprehensive, integrative clinical management for clients with complex psychiatric disorders across the lifespan, while utilizing current evidence-based practice guidelines.  Self-directed management, crisis intervention and stabilization, and interprofessional collaboration of care in a variety of settings are emphasized.  Additionally, innovative care modalities such as telehealth are explored to reach rural and underserved clients, special populations, and diverse communities.   Prerequisite: NURS 5312 and NURS 5112 and NURS 5301 and NURS 5102 and NURS 5230 and NURS 5233 and NURS 5340 and NURS 5243 all with grades of \"B\" or better. Corequisite: NURS 5373 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5371",
+            "course_name": "Clinical Prevention and Population Health",
+            "course_desc": "Students will examine an overview of global and national population health including social determinants of health, health disparities, cultural diversity, and clinical prevention with an emphasis in evidence-based practice.  Resources will be discussed in relation to the availability, barriers, and access in the community and rural areas. Prerequisite: NURS 5301 and NURS 5303 and NURS 5351 all with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5373",
+            "course_name": "Psychiatric Mental Health Integrative Clinical Management Across the Lifespan Practicum",
+            "course_desc": "This course serves as a companion course to NURS 5370. This culminating lifespan practicum course provides experiential learning through further development of competency in the PMHNP role in comprehensive, integrative clinical management for special populations and clients with complex psychiatric disorders, utilizing current evidence-based practice guidelines.  Practicum experiences emphasize crisis intervention and stabilization, guided self-directed management, and collaboration in an interprofessional environment in a variety of psychiatric settings. Additionally, innovative care modalities such as telehealth are explored to reach rural and underserved clients and diverse communities. Prerequisite: NURS 5312 and NURS  5112 and NURS 5301 and NURS 5303 and NURS 5102 and NURS 5230 and NURS 5233 and NURS 5340 and NURS 5243 all with grades of \"B\" or better. Corequisite: NURS 5370 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n15 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5391",
+            "course_name": "Translational Science for Evidence Based Practice and Innovation Capstone",
+            "course_desc": "Students will explore evidence-based practice (EBP) for advanced nursing practice professionals. This course will equip graduate nursing students with the skills needed to effectively critique and engage in EBP, to serve as EBP champions and mentors, and to lead projects and innovation within healthcare facilities. Emphasis is placed on completion of a quality improvement or scholarly project, under the direction of a faculty member, which synthesizes advanced practice knowledge and skills to address substantive advanced nursing practice issues.   Prerequisite: NURS 5255 and NURS 5354 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5392",
+            "course_name": "Integrative Family Primary Care",
+            "course_desc": "This course emphasizes health promotion and complex, integrative clinical management of patients and families with co-morbidities utilizing both traditional and complementary or alternative methods based on evidence and research.  Integration of complex primary healthcare considerations and clinic-based emergency interventions are examined.   Prerequisite: NURS 5256 and NURS 5257 and NURS 5391 all with grades of \"B\" or better. Corequisite: NURS 5190 and NURS 5393 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5393",
+            "course_name": "Integrative Family Primary Care Practicum",
+            "course_desc": "This course serves as the companion course to NURS5392.  Students will master skills in utilization of holistic assessment, integrative clinical decision making, and designing interventions and treatment plans in a variety of clinical settings as they prepare for entry level into advanced practice nursing.  Emphasis is placed on management of co-morbidities and complex patient management for patients across the lifespan integrating both traditional and complementary or alternative methods as part of the treatment plan. Students complete 180 practicum hours in this course. Prerequisite: NURS 5256 and NURS 5257 and NURS 5391 all with grades of \"B\" or better. Corequisite: NURS 5190 and NURS 5392 both with grades of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n12 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "NURS 5395",
+            "course_name": "Nursing Leadership and Administration Role Development",
+            "course_desc": "This course provides students the opportunity to synthesize leadership, organizational, and financial skills as they complete preparation for transition to the nurse leader role. Leadership perspectives and diversity from nursing and other professional fields are examined through reflective practice. Additionally, policy advocacy and development, and disaster management are examined.    Prerequisite: NURS 5335 and NURS 5135 and NURS 5265 and NURS 5165 and NURS 5391 and NURS 5285 and NURS 5185 all with grades of \"B\" or better. Corequisite: NURS 5195 with a grade of \"B\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}

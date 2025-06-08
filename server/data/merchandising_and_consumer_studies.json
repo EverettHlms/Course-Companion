@@ -1,0 +1,182 @@
+{
+    "name": "Merchandising and Consumer Studies",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/mcs/",
+    "courses": [
+        {
+            "course_code": "MCS 5199B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment.  Focus is on data collection, analysis, and writing of thesis.  No thesis credit is awarded until student has completed MCS 5399B.",
+            "course_credits": "\n1 Credit Hour \n1 Lecture Contact Hour \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MCS 5299B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment.  Focus is on data collection, analysis, and writing of thesis.  No thesis credit is awarded until student has completed MCS 5399B.",
+            "course_credits": "\n2 Credit Hours \n2 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MCS 5301",
+            "course_name": "Research Methods in Merchandising and Consumer Studies",
+            "course_desc": "This course covers the evaluation of research concepts, methods, and strategies in family and consumer sciences.  Topics include the nature of scientific research, sampling, measurement, data collection, data analysis, and evaluation of research reports.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5302A",
+            "course_name": "Merchandising in the Experience Economy",
+            "course_desc": "Students will use an interdisciplinary approach and applicable theories to understand consumer demand and the impact on product and service development and transformation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5302B",
+            "course_name": "Merchandising Strategies in Domestic and International Markets",
+            "course_desc": "This course will emphasize strategic planning as a result of analysis of current trends in domestic and global markets.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5302C",
+            "course_name": "Buying, Planning and Allocation",
+            "course_desc": "This course will examine strategies in buying, planning and allocation in the retail setting.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5303",
+            "course_name": "Sustainable Textiles",
+            "course_desc": "This course is an in-depth study of the relationship of fibers, fabrics, finishes and textile products end-uses with a particular focus on their impact on sustainability.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5330",
+            "course_name": "Merchandising and Consumer Theory and Research",
+            "course_desc": "Students will learn how to critically evaluate theoretical concepts in merchandising theory, seminal merchandising literature, research, and methodology.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5331",
+            "course_name": "Strategic Merchandise Planning",
+            "course_desc": "Students will synthesize past and present trends to forecast demand for value-added merchandise that satisfies the needs of individuals, families, and communities.  Students will strategically analyze and evaluate consumer feedback in the planning process for profitable merchandising enterprises.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5332",
+            "course_name": "Innovation in the Global Market",
+            "course_desc": "This course addresses how to create value and growth through innovation in new and existing global markets with a focus on identification of theories and models to understand the innovation and consumer adoption process.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5333",
+            "course_name": "Global Sourcing and Distribution",
+            "course_desc": "The critical evaluation and integration of opportunities and challenges encountered in the manufacturing, distribution, and final acquisition of textile and apparel products in the global environment will be examined in this course. Restricted to Merchandising and Consumer Studies majors only or consent of instructor.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5336",
+            "course_name": "Culture, Society, and Dress",
+            "course_desc": "This course will examine social science theories and concepts as they relate to dress, appearance, and the body.  Fashion trends and consumer adoption patterns will also be explored using social science theories to analyze consumer behavior and predict future market directions. (MULT).",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5341",
+            "course_name": "Ethics in Merchandising and Consumption",
+            "course_desc": "Students in this course will identify ethical issues that result from consumer-business interaction.  Ethical decision-making will be discussed as it impacts consumer well-being, long-term business success and the conventions of acceptable business practice.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5342",
+            "course_name": "Sustainable Consumer Economy",
+            "course_desc": "This course is an in-depth study of the role of consumption in the development of sustainable systems including the family, natural resources and economics.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5346",
+            "course_name": "Foundations of Merchandising and Consumer Studies",
+            "course_desc": "This course will cover the foundations of merchandising and consumer studies.  Topics will include consumer decision-making and market behavior, the fashion supply and production systems, textile materials and sourcing, merchandise pricing and effective product management throughout the product life cycle, and fashion promotion.  This course does not earn graduate degree credit.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from Graduate GPA|Leveling",
+            "course_grademode": "Grade Mode: Leveling/Assistantships"
+        },
+        {
+            "course_code": "MCS 5390",
+            "course_name": "Merchandising and Consumer Studies Practicum",
+            "course_desc": "This course will provide an opportunity for students to obtain professional knowledge and skills in a site that is associated with merchandising and consumer studies.  This is a field-based experience.  This course is graded on a CR/NC basis. Prerequisite: Instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n10 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MCS 5391",
+            "course_name": "Seminar in Merchandising and Consumer Studies",
+            "course_desc": "The course is an in-depth study of two or more topics or emerging issues of particular relevance to merchandising and consumer studies professionals.  This course may be repeated once with a different emphasis.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5398",
+            "course_name": "Directed Study in Merchandising and Consumer Studies",
+            "course_desc": "Students will complete individual work with specific guidance from graduate faculty.  The work may include participation in research, professional practice, and/or critical review of the scientific literature on topics such as sustainability, consumer education or business ethics.  This course may be repeated once for credit when topics vary.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "MCS 5399A",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's initial thesis enrollment.  Focus is on identification of thesis topic, review of literature, and research design.  No thesis credit is awarded until student has completed the thesis in MCS 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MCS 5399B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment.  Focus is on data collection, analysis, and writing of thesis.  No thesis credit is awarded until student has completed MCS 5399B.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MCS 5599B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment.  Focus is on data collection, analysis, and writing of thesis.  No thesis credit is awarded until student has completed MCS 5399B.",
+            "course_credits": "\n5 Credit Hours \n5 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "MCS 5999B",
+            "course_name": "Thesis",
+            "course_desc": "This course represents a student's continuing thesis enrollment.  Focus is on data collection, analysis, and writing of thesis.  No thesis credit is awarded until student has completed MCS 5399B.",
+            "course_credits": "\n9 Credit Hours \n9 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        }
+    ]
+}

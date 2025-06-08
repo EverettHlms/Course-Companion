@@ -1,0 +1,214 @@
+{
+    "name": "Interior Design",
+    "course_catalog_url": "https://mycatalog.txstate.edu/courses/id/",
+    "courses": [
+        {
+            "course_code": "ID 1310",
+            "course_name": "Introduction to Interior Design",
+            "course_desc": "This introductory lecture course investigates interior design from social, ecological, cultural, and spatial perspectives related to human habitation.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 1320",
+            "course_name": "Design Graphics I",
+            "course_desc": "This course provides specialized training in manual and digital graphic communication required in the interior design profession. It includes architectural drafting, illustrative sketching, design diagramming and schematics, and basics of orthographic and perspective drawing with emphasis in both technical and aesthetic expression.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 2000",
+            "course_name": "Interior Design Proficiency Review",
+            "course_desc": "During this course, students will study independently to prepare for a performance-based or portfolio review in which they will demonstrate the ability to apply essential interior design skills and knowledge. Interior Design majors must pass Proficiency Review to gain access to further interior design coursework. Prerequisite: ARTF 1302 and ID 1310 and ID 1320 all with grades of \"C\" or better. Corequisite: ARTC 2305 and ID 2322 both with grades of \"C\" or better.",
+            "course_credits": "\n0 Credit Hours \n0 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Credit/No Credit"
+        },
+        {
+            "course_code": "ID 2321",
+            "course_name": "History of Interiors",
+            "course_desc": "Survey of historical styles of furnishings, architecture, and interiors from the Egyptian period to the Industrial Revolution.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 2322",
+            "course_name": "Basic Interior Design",
+            "course_desc": "This course is an introductory studio for Interior Design majors, analyzing the elements and principles of design as applied to interior environments. Applications of these fundamental components, including finishes, materials, and styles, will be demonstrated by class projects. Prerequisite: ARTF 1302 and ID 1310 and ID 1320 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 2323",
+            "course_name": "Design Development",
+            "course_desc": "This course is an introduction to the process of design development and planning of interior space with an emphasis on graphic visualization as a creative process and design tool.  Prerequisite: ID 2000 with a grade of \"CR\" and ID 2322 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 2324",
+            "course_name": "People, Environment, and Behavior",
+            "course_desc": "This studio course focuses on the physical and psychological needs of inhabitants of interior space.  Students are exposed to theories of environmental perception, human factors, and universal design principles to be applied to design solutions. User needs are demonstrated through the application of space planning throughout the design process.   Prerequisite: ID 2321 and ID 2323 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 2325",
+            "course_name": "Materials and Sources",
+            "course_desc": "This course is an in-depth study of materials and finishes specified for residential and commercial interiors.  Material properties, fabrication, installation methods, applications, sustainability, maintenance requirements and sourcing are addressed. Prerequisite: ID 2000 with a grade of \"CR\" and ID 2322 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 2326",
+            "course_name": "Technology for Interior Design",
+            "course_desc": "This course focuses on residential building construction documentation with a focus on interior design software. Students will apply building construction industry standards to create a residential building construction package through interior design software. Prerequisite: ID 2000 with a grade of \"CR\" and ID 2322 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 3320",
+            "course_name": "Design Graphics II & Portfolio",
+            "course_desc": "In this course, students are exposed to various means and methods for using digital media throughout the interior design process. Instruction on presentation graphics, branding and digital publication strategies of a student design portfolio are also addressed. Prerequisite: ID 2322 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n5 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 3321",
+            "course_name": "Contemporary Interiors and Architecture",
+            "course_desc": "A survey of contemporary styles of furnishings, architecture, and interiors from the 19th century to the present. Prerequisite: ID 2321 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 3322",
+            "course_name": "Studio I: Residential Interior Design",
+            "course_desc": "This studio course introduces students to various dimensions, purposes, and characters relative to the small and large residential spaces.  Prerequisite: ID 2324 and ID 3320 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 3323",
+            "course_name": "Studio II: Commercial Interior Design",
+            "course_desc": "This course focuses on the analysis, planning, design and furnishing of small to moderate commercial and other non-residential spaces.  Topics include design programming, the design development process, simple contract document preparation and visual and verbal presentation methods. Prerequisite: ID 2325 and ID 3322 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 3324",
+            "course_name": "Professional Practices",
+            "course_desc": "This course focuses on the business principles, ethics, and procedures for the interior designer.   Prerequisite: ID 2323 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 3325",
+            "course_name": "Interior Lighting Design",
+            "course_desc": "This course focuses on the study of natural and manufactured light sources relative to the interior environment. Emphasis is placed on light science and technology and the effects on health, behavior, color and form, and includes issues of aesthetics, energy conservation, codes, evaluation, and specifications. Prerequisite: ID 2323 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 3326",
+            "course_name": "Comprehensive Interior Design",
+            "course_desc": "This course is an advanced study of materials, systems, codes and other factors relating to public health, safety, and welfare in interior environments.  Through lecture and application of resources, materials and design technologies, the course addresses specifying, scheduling, budgeting, and resource conservation. Prerequisite: ID 2324 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 3327",
+            "course_name": "Building Construction in Interior Architecture",
+            "course_desc": "This course explores the understanding of interior construction and documentation for interior architecture projects.  Expression of design intent as construction documents is reinforced in structured classroom experiences, guest lecturers, and on-site visits. Understanding of base building construction and systems will be demonstrated through completion of the set of drawings.  Prerequisite: ID 2326 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n5 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 4120",
+            "course_name": "Portfolio Design",
+            "course_desc": "Portfolio preparation and production for seeking employment with design firms. Includes instruction on graphic and publication design, business structures and portfolio strategies. For graduating interior design majors. Prerequisites: ID 4323 with a grade of \"C\" or better.",
+            "course_credits": "\n1 Credit Hour \n0 Lecture Contact Hours \n2 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 4301",
+            "course_name": "Internship in Interior Design",
+            "course_desc": "Internship experience in the Interior Design profession. (Capstone Course) (WI)  Prerequisites: ID 3323 and ID 3324 and ID 3326 all with grades of \"C\" or better and instructor approval.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 4302A",
+            "course_name": "Historic Preservation",
+            "course_desc": "Introduction to the field of historic preservation, including history, theory, planning, advocacy, law, conservation, and adaptive use, emphasizing the Secretary of the Interiors Standards for Rehabilitation. Students combine design and technical knowledge to approach historical design problems in creative, sensitive, and economical ways. Prerequisite: ID 3321 and ID 3322 both with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 4302C",
+            "course_name": "Lighting Research and Applications",
+            "course_desc": "An in-depth study of light and color and its impact on peoples behavior in interior environments.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 4302F",
+            "course_name": "Color Theory and Design Applications",
+            "course_desc": "An introduction to color theory and principles with a fundamental understanding of the psychological and physiological effects color has on human perception.  Characteristics of major hues which influence design and behavior and how to use, design, and apply color in the creative process will be studied.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 4302H",
+            "course_name": "Study America Sustainable Chicago",
+            "course_desc": "This course focuses on individual students exploration of interior design through global, sustainable, wellness and diversity lens.  This course provides students with the opportunity to attend the interior design conference NEOCON in Chicago, and to select an issue or problem identifies during the conference to develop a design solution. Prerequisite: ID 2000 with a grade of \"D\" or better.",
+            "course_credits": "\n3 Credit Hours \n3 Lecture Contact Hours \n0 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Topics",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 4323",
+            "course_name": "Studio III: Research and Advanced Commercial Interior Design",
+            "course_desc": "This course expands student understanding and application of design research methods including evidence-based design in the commercial interior environment. Topics include advanced design research methods, programming and large-scale space planning, finish selection/specifying, furnishings design and detailing, and presentation strategies through creative problem solving and contract document preparation. Prerequisite: FCS 3303 and ID 3321 and ID 3323 and ID 3325 and ID 3326 and ID 3327 all with grades of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Multicultural Content",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 4324",
+            "course_name": "Studio IV: Contemporary Design Issues",
+            "course_desc": "This course requires students to conduct specialized research in interior design to include design issues such as barrier free environments, medical facilities, historic preservation/adaptive re-use, international interiors, energy issues, sustainable design and design for special needs. Prerequisite: ID 4323 with a grade of \"C\" or better.",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "",
+            "course_grademode": "Grade Mode: Standard Letter"
+        },
+        {
+            "course_code": "ID 4391",
+            "course_name": "Independent Study in Interior Design",
+            "course_desc": "Independent reading and/or research on a specific topic related to student's primary area of interest. Work may consist of research, reviews, and integration of existing literature, or other appropriate independent work. May be repeated once for credit with approval of instructor. (WI).",
+            "course_credits": "\n3 Credit Hours \n0 Lecture Contact Hours \n6 Lab Contact Hours\n",
+            "course_attributes": "Course Attribute(s): Exclude from 3-peat Processing|Writing Intensive",
+            "course_grademode": "Grade Mode: Standard Letter"
+        }
+    ]
+}
